@@ -1,0 +1,383 @@
+{
+  "id": "Vladimir",
+  "championId": "8",
+  "name": "猩红收割者",
+  "title": "弗拉基米尔",
+  "region": "诺克萨斯",
+  "blurb": "弗拉基米尔是一个渴望凡人鲜血的魔鬼，早在诺克萨斯帝国建立之初，他就开始干涉帝国内政。他熟练掌握的血巫术，不仅能超越自然规律延长其寿命，还能让他随心所欲地控制他人的身体和思想。他用这个能力在诺克萨斯贵族奢华的沙龙聚会上聚拢了一群狂热的教众，也让他在社会底层的后巷里吸干了敌人的鲜血。",
+  "tags": [
+    "法师",
+    "战士"
+  ],
+  "partype": "猩红冲刺",
+  "info": {
+    "attack": 2,
+    "defense": 6,
+    "magic": 8,
+    "difficulty": 7
+  },
+  "stats": {
+    "hp": 600,
+    "hpPerLevel": 110,
+    "mp": 2,
+    "mpPerLevel": 0,
+    "movespeed": 330,
+    "armor": 24,
+    "armorPerLevel": 4.5,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 450,
+    "attackdamage": 55,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 2,
+    "hpregen": 7,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "8001",
+      "name": "弗拉基米尔伯爵",
+      "chromas": false
+    },
+    {
+      "id": "8002",
+      "name": "弗拉基米尔侯爵",
+      "chromas": false
+    },
+    {
+      "id": "8003",
+      "name": "诺斯费拉图  弗拉基米尔",
+      "chromas": false
+    },
+    {
+      "id": "8004",
+      "name": "霹雳游侠 弗拉基米尔",
+      "chromas": false
+    },
+    {
+      "id": "8005",
+      "name": "血石领主 弗拉基米尔",
+      "chromas": false
+    },
+    {
+      "id": "8006",
+      "name": "摄魂男爵 弗拉基米尔",
+      "chromas": false
+    },
+    {
+      "id": "8007",
+      "name": "学生会长 弗拉基米尔",
+      "chromas": false
+    },
+    {
+      "id": "8008",
+      "name": "黑潮 弗拉基米尔",
+      "chromas": true
+    },
+    {
+      "id": "8009",
+      "name": "黑潮 弗拉基米尔 彻骨寒霜号",
+      "chromas": false
+    },
+    {
+      "id": "8010",
+      "name": "黑潮 弗拉基米尔 惊骇幽灵号",
+      "chromas": false
+    },
+    {
+      "id": "8011",
+      "name": "黑潮 弗拉基米尔 夺命暗礁号",
+      "chromas": false
+    },
+    {
+      "id": "8012",
+      "name": "黑潮 弗拉基米尔 幽绿死神号",
+      "chromas": false
+    },
+    {
+      "id": "8013",
+      "name": "黑潮 弗拉基米尔 迷魂珊瑚号",
+      "chromas": false
+    },
+    {
+      "id": "8014",
+      "name": "黑夜使者 弗拉基米尔",
+      "chromas": true
+    },
+    {
+      "id": "8015",
+      "name": "黑夜使者 弗拉基米尔 绝顶之巅",
+      "chromas": false
+    },
+    {
+      "id": "8016",
+      "name": "黑夜使者 弗拉基米尔 超凡之势",
+      "chromas": false
+    },
+    {
+      "id": "8017",
+      "name": "黑夜使者 弗拉基米尔 最强之尊",
+      "chromas": false
+    },
+    {
+      "id": "8018",
+      "name": "黑夜使者 弗拉基米尔 登临之锐",
+      "chromas": false
+    },
+    {
+      "id": "8019",
+      "name": "黑夜使者 弗拉基米尔 宁夜",
+      "chromas": false
+    },
+    {
+      "id": "8020",
+      "name": "黑夜使者 弗拉基米尔 傲视之威",
+      "chromas": false
+    },
+    {
+      "id": "8021",
+      "name": "波江星神 弗拉基米尔",
+      "chromas": true
+    },
+    {
+      "id": "8022",
+      "name": "波江星神 弗拉基米尔 战神星魂",
+      "chromas": false
+    },
+    {
+      "id": "8023",
+      "name": "波江星神 弗拉基米尔 爱神星魂",
+      "chromas": false
+    },
+    {
+      "id": "8024",
+      "name": "波江星神 弗拉基米尔 夜神星魂",
+      "chromas": false
+    },
+    {
+      "id": "8025",
+      "name": "波江星神 弗拉基米尔 猎神星魂",
+      "chromas": false
+    },
+    {
+      "id": "8026",
+      "name": "波江星神 弗拉基米尔 主神星魂",
+      "chromas": false
+    },
+    {
+      "id": "8027",
+      "name": "波江星神 弗拉基米尔 天神星魂",
+      "chromas": false
+    },
+    {
+      "id": "8028",
+      "name": "波江星神 弗拉基米尔 美神星魂",
+      "chromas": false
+    },
+    {
+      "id": "8029",
+      "name": "波江星神 弗拉基米尔 冥神星魂",
+      "chromas": false
+    },
+    {
+      "id": "8030",
+      "name": "咖啡甜心 弗拉基米尔",
+      "chromas": true
+    },
+    {
+      "id": "8031",
+      "name": "咖啡甜心 弗拉基米尔 草莓戚风",
+      "chromas": false
+    },
+    {
+      "id": "8032",
+      "name": "咖啡甜心 弗拉基米尔 海盐泡芙",
+      "chromas": false
+    },
+    {
+      "id": "8033",
+      "name": "咖啡甜心 弗拉基米尔 抹茶巧克力",
+      "chromas": false
+    },
+    {
+      "id": "8034",
+      "name": "咖啡甜心 弗拉基米尔 酒醉樱桃",
+      "chromas": false
+    },
+    {
+      "id": "8035",
+      "name": "咖啡甜心 弗拉基米尔 吉子芝士",
+      "chromas": false
+    },
+    {
+      "id": "8036",
+      "name": "咖啡甜心 弗拉基米尔 提子班戟",
+      "chromas": false
+    },
+    {
+      "id": "8037",
+      "name": "咖啡甜心 弗拉基米尔 核桃巴菲",
+      "chromas": false
+    },
+    {
+      "id": "8038",
+      "name": "咖啡甜心 弗拉基米尔 焦糖布丁",
+      "chromas": false
+    },
+    {
+      "id": "8039",
+      "name": "绝息圣堂 弗拉基米尔",
+      "chromas": true
+    },
+    {
+      "id": "8040",
+      "name": "绝息圣堂 弗拉基米尔 残阳圆舞曲",
+      "chromas": false
+    },
+    {
+      "id": "8041",
+      "name": "绝息圣堂 弗拉基米尔 昼梦狂想曲",
+      "chromas": false
+    },
+    {
+      "id": "8042",
+      "name": "绝息圣堂 弗拉基米尔 灵息变奏曲",
+      "chromas": false
+    },
+    {
+      "id": "8043",
+      "name": "绝息圣堂 弗拉基米尔 苏生回旋曲",
+      "chromas": false
+    },
+    {
+      "id": "8044",
+      "name": "绝息圣堂 弗拉基米尔 日冕摇篮曲",
+      "chromas": false
+    },
+    {
+      "id": "8045",
+      "name": "绝息圣堂 弗拉基米尔 永生前奏曲",
+      "chromas": false
+    },
+    {
+      "id": "8046",
+      "name": "绝息圣堂 弗拉基米尔 黑昼交响曲",
+      "chromas": false
+    },
+    {
+      "id": "8047",
+      "name": "绝息圣堂 弗拉基米尔 白夜奏鸣曲",
+      "chromas": false
+    },
+    {
+      "id": "8048",
+      "name": "黑色玫瑰假面舞会 弗拉基米尔",
+      "chromas": false
+    },
+    {
+      "id": "8049",
+      "name": "灵能特工 弗拉基米尔",
+      "chromas": true
+    },
+    {
+      "id": "8050",
+      "name": "灵能特工 弗拉基米尔 代号：龙焰",
+      "chromas": false
+    },
+    {
+      "id": "8051",
+      "name": "灵能特工 弗拉基米尔 代号：猫眼",
+      "chromas": false
+    },
+    {
+      "id": "8052",
+      "name": "灵能特工 弗拉基米尔 代号：天狼",
+      "chromas": false
+    },
+    {
+      "id": "8053",
+      "name": "灵能特工 弗拉基米尔 代号：蝮蛇",
+      "chromas": false
+    },
+    {
+      "id": "8054",
+      "name": "灵能特工 弗拉基米尔 代号：银翼",
+      "chromas": false
+    },
+    {
+      "id": "8055",
+      "name": "灵能特工 弗拉基米尔 代号：毒牙",
+      "chromas": false
+    },
+    {
+      "id": "8056",
+      "name": "灵能特工 弗拉基米尔 代号：蜘蛛",
+      "chromas": false
+    },
+    {
+      "id": "8057",
+      "name": "灵能特工 弗拉基米尔 代号：幽灵",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "血色契约",
+    "description": "每30生命值加成给予弗拉基米尔1法术强度，每1法术强度给予弗拉基米尔1.6生命值（不会自我循环叠加）。",
+    "image": "VladimirP.png"
+  },
+  "spells": [
+    {
+      "name": "鲜血转换",
+      "description": "弗拉基米尔从目标敌人身上偷取生命值。当弗拉基米尔的资源槽攒满后，鲜血转换将暂时获得增益，提升伤害和治疗效果。",
+      "tooltip": "弗拉基米尔汲取目标的生命力，造成{{ basedamagetooltip }}魔法伤害并回复{{ basehealtooltip }}生命值。在使用2次这个技能后，弗拉基米尔会获得{{ movementspeedonq2 }}%移动速度，持续0.5秒，并强化这个技能的下一次使用，持续{{ e8 }}秒。这个技能的强化版会造成{{ empowereddamagetooltip }}魔法伤害并回复额外的{{ empoweredhealtooltip }}加上{{ empoweredhealpercenttooltip }}已损失生命值。",
+      "cooldown": "9/7.9/6.8/5.7/4.6",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "600",
+      "maxrank": 5,
+      "image": "VladimirQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "血红之池",
+      "description": "弗拉基米尔潜入血泊之中，变得不可被选取，持续2秒。血泊上的敌人被减速，同时弗拉基米尔会从他们身上吸取生命。",
+      "tooltip": "弗拉基米尔化成一滩持续2秒的血池，获得{{ hasteboost*100 }}%持续衰减的移动速度，持续{{ hasteduration }}秒，并进入无法被选取和幽灵状态，同时使血池中的敌人减速{{ movespeedmod*-100 }}%。弗拉基米尔在期间会持续造成{{ totaldamage }}魔法伤害，并且每命中一个敌人就会为弗拉基米尔回复{{ totalheal }}生命值。",
+      "cooldown": "28/25/22/19/16",
+      "cost": "0",
+      "costType": "%当前生命值",
+      "range": "350",
+      "maxrank": 5,
+      "image": "VladimirSanguinePool.png",
+      "key": "W"
+    },
+    {
+      "name": "血之潮汐",
+      "description": "弗拉基米尔消耗他的生命值来持续灌注一个蓄血库，蓄血库在释放时会对他身边的敌人造成伤害，但会被敌方单位所阻挡。",
+      "tooltip": "开始蓄力：弗拉基米尔积攒一个蓄血库，至多消耗{{ chargehealthtooltip }}生命值。在攒满后，弗拉基米尔会被减速20%。释放：弗拉基米尔对附近的敌人释放一股血弹激流，基于蓄力时间造成{{ mindamagetooltip }}至{{ maxdamagetooltip }}魔法伤害。如果这个技能蓄力了至少1秒，那么它还会对目标造成持续0.5秒的{{ slowpercent }}%减速。",
+      "cooldown": "13/11/9/7/5",
+      "cost": "0",
+      "costType": "%最大生命值({{ chargehealthtooltip }})",
+      "range": "600",
+      "maxrank": 5,
+      "image": "VladimirE.png",
+      "key": "E"
+    },
+    {
+      "name": "血之瘟疫",
+      "description": "弗拉基米尔令一片区域感染上剧毒瘟疫，增加受感染敌人所受的伤害。在几秒后，血之瘟疫会对被感染的敌人造成魔法伤害，并根据命中的敌方英雄数来治疗弗拉基米尔。",
+      "tooltip": "弗拉基米尔生成一个剧毒瘟疫，使他的目标们所受伤害(所有来源)提高{{ e2 }}%，持续{{ e4 }}秒。在它消散后，弗拉基米尔对所有被感染的目标造成{{ damage }}魔法伤害。如果弗拉基米尔命中了一名敌方英雄，那么就会治疗自身{{ damage }}生命值，此后每命中一名敌方英雄会治疗自身额外的{{ secondaryhealingtooltip }}生命值。",
+      "cooldown": "120",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "625",
+      "maxrank": 3,
+      "image": "VladimirHemoplague.png",
+      "key": "R"
+    }
+  ]
+}

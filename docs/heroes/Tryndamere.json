@@ -1,0 +1,328 @@
+{
+  "id": "Tryndamere",
+  "championId": "23",
+  "name": "蛮族之王",
+  "title": "泰达米尔",
+  "region": "弗雷尔卓德",
+  "blurb": "桀骜不羁和无尽的愤怒，驱使着泰达米尔在弗雷尔卓德一路所向披靡。为了对即将到来的黑暗时代做好准备，他曾公开挑战北方最伟大的战士。这位愤怒的野蛮人，一直奔走在为自己被灭绝的氏族复仇的路上。但最近他开始与阿瓦洛萨部族的战母艾希联手，并在她的部落中重新安定下来。拥有非人力量与毅力的泰达米尔，是众人皆知的传奇，为自己与新盟友带来了无数次奇迹般的胜利。",
+  "tags": [
+    "战士",
+    "刺客"
+  ],
+  "partype": "怒气",
+  "info": {
+    "attack": 10,
+    "defense": 5,
+    "magic": 2,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 696,
+    "hpPerLevel": 108,
+    "mp": 100,
+    "mpPerLevel": 0,
+    "movespeed": 345,
+    "armor": 33,
+    "armorPerLevel": 4.8,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 66,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.67,
+    "attackspeedPerLevel": 3.4,
+    "hpregen": 8.5,
+    "hpregenPerLevel": 0.9,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "23001",
+      "name": "勇敢的心 泰达米尔",
+      "chromas": false
+    },
+    {
+      "id": "23002",
+      "name": "国王 泰达米尔",
+      "chromas": false
+    },
+    {
+      "id": "23003",
+      "name": "诸神的黄昏 泰达米尔",
+      "chromas": false
+    },
+    {
+      "id": "23004",
+      "name": "恶魔之刃 泰达米尔",
+      "chromas": false
+    },
+    {
+      "id": "23005",
+      "name": "奥斯曼大帝 泰达米尔",
+      "chromas": false
+    },
+    {
+      "id": "23006",
+      "name": "关羽 云长",
+      "chromas": false
+    },
+    {
+      "id": "23007",
+      "name": "梦魇 泰达米尔",
+      "chromas": false
+    },
+    {
+      "id": "23008",
+      "name": "野兽猎人 泰达米尔",
+      "chromas": false
+    },
+    {
+      "id": "23009",
+      "name": "生化领主 泰达米尔",
+      "chromas": false
+    },
+    {
+      "id": "23010",
+      "name": "腥红之月 泰达米尔",
+      "chromas": true
+    },
+    {
+      "id": "23011",
+      "name": "腥红之月 泰达米尔 苍澜",
+      "chromas": false
+    },
+    {
+      "id": "23012",
+      "name": "腥红之月 泰达米尔 修罗",
+      "chromas": false
+    },
+    {
+      "id": "23013",
+      "name": "腥红之月 泰达米尔 青木",
+      "chromas": false
+    },
+    {
+      "id": "23014",
+      "name": "腥红之月 泰达米尔 鎏金",
+      "chromas": false
+    },
+    {
+      "id": "23015",
+      "name": "腥红之月 泰达米尔 夜鸦",
+      "chromas": false
+    },
+    {
+      "id": "23016",
+      "name": "腥红之月 泰达米尔 鹤雪",
+      "chromas": false
+    },
+    {
+      "id": "23017",
+      "name": "腥红之月 泰达米尔 霞赤",
+      "chromas": false
+    },
+    {
+      "id": "23018",
+      "name": "黑夜使者 泰达米尔",
+      "chromas": true
+    },
+    {
+      "id": "23019",
+      "name": "黑夜使者 泰达米尔 血夜",
+      "chromas": false
+    },
+    {
+      "id": "23020",
+      "name": "黑夜使者 泰达米尔 炎夜",
+      "chromas": false
+    },
+    {
+      "id": "23021",
+      "name": "黑夜使者 泰达米尔 寒夜",
+      "chromas": false
+    },
+    {
+      "id": "23022",
+      "name": "黑夜使者 泰达米尔 宁夜",
+      "chromas": false
+    },
+    {
+      "id": "23023",
+      "name": "黑夜使者 泰达米尔 梦夜",
+      "chromas": false
+    },
+    {
+      "id": "23024",
+      "name": "黑夜使者 泰达米尔 邪夜",
+      "chromas": false
+    },
+    {
+      "id": "23025",
+      "name": "黑夜使者 泰达米尔 寂夜",
+      "chromas": false
+    },
+    {
+      "id": "23026",
+      "name": "黑夜使者 泰达米尔 陨夜",
+      "chromas": false
+    },
+    {
+      "id": "23027",
+      "name": "胜利之王 泰达米尔",
+      "chromas": true
+    },
+    {
+      "id": "23028",
+      "name": "胜利之王 泰达米尔 英勇黄铜",
+      "chromas": false
+    },
+    {
+      "id": "23029",
+      "name": "胜利之王 泰达米尔 不屈白银",
+      "chromas": false
+    },
+    {
+      "id": "23030",
+      "name": "胜利之王 泰达米尔 荣耀黄金",
+      "chromas": false
+    },
+    {
+      "id": "23031",
+      "name": "胜利之王 泰达米尔 华贵铂金",
+      "chromas": false
+    },
+    {
+      "id": "23032",
+      "name": "胜利之王 泰达米尔 流光翡翠",
+      "chromas": false
+    },
+    {
+      "id": "23033",
+      "name": "胜利之王 泰达米尔 璀璨钻石",
+      "chromas": false
+    },
+    {
+      "id": "23034",
+      "name": "胜利之王 泰达米尔 超凡大师",
+      "chromas": false
+    },
+    {
+      "id": "23035",
+      "name": "胜利之王 泰达米尔 傲世宗师",
+      "chromas": false
+    },
+    {
+      "id": "23036",
+      "name": "胜利之王 泰达米尔 最强王者",
+      "chromas": false
+    },
+    {
+      "id": "23037",
+      "name": "暗裔英雄 泰达米尔",
+      "chromas": true
+    },
+    {
+      "id": "23038",
+      "name": "暗裔英雄 泰达米尔 帝国幻想",
+      "chromas": false
+    },
+    {
+      "id": "23039",
+      "name": "暗裔英雄 泰达米尔 王城幻想",
+      "chromas": false
+    },
+    {
+      "id": "23040",
+      "name": "暗裔英雄 泰达米尔 森林幻想",
+      "chromas": false
+    },
+    {
+      "id": "23041",
+      "name": "暗裔英雄 泰达米尔 虚无幻想",
+      "chromas": false
+    },
+    {
+      "id": "23042",
+      "name": "暗裔英雄 泰达米尔 海港幻想",
+      "chromas": false
+    },
+    {
+      "id": "23043",
+      "name": "暗裔英雄 泰达米尔 灵岛幻想",
+      "chromas": false
+    },
+    {
+      "id": "23044",
+      "name": "暗裔英雄 泰达米尔 极地幻想",
+      "chromas": false
+    },
+    {
+      "id": "23045",
+      "name": "暗裔英雄 泰达米尔 星界幻想",
+      "chromas": false
+    },
+    {
+      "id": "23046",
+      "name": "黑夜使者 泰达米尔 至强",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "战斗狂怒",
+    "description": "泰达米尔每次攻击、暴击或击杀都能获得怒气。怒气被动地增加他的暴击几率，且可以通过释放嗜血杀戮来消耗。",
+    "image": "Tryndamere_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "嗜血杀戮",
+      "description": "泰达米尔对战斗极度饥渴，他受伤程度越高，攻击力越强。他能通过释放【Q嗜血杀戮】消耗怒气并治疗自己。",
+      "tooltip": "被动：泰达米尔嗜血成性，获得至多{{ maximumbonusad }}攻击力，基于他的已损失生命值。主动：泰达米尔消耗他的怒气，回复{{ baseheal }}外加{{ healperfury }}x怒气的生命值(最大值：{{ maximumheal }})。",
+      "cooldown": "12",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "400",
+      "maxrank": 5,
+      "image": "TryndamereQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "蔑视",
+      "description": "泰达米尔嘲笑敌人，减少身边敌方英雄的攻击力。背对泰达米尔的敌人还会被减速。",
+      "tooltip": "泰达米尔抛出羞辱之语，使英雄们降低{{ adreduction*-1 }}攻击力，持续{{ reductionduration }}秒，并且对逃离泰达米尔的敌人造成{{ slowpotency*-100 }}%减速，持续{{ slowduration }}秒。",
+      "cooldown": "14",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "850",
+      "maxrank": 5,
+      "image": "TryndamereW.png",
+      "key": "W"
+    },
+    {
+      "name": "旋风斩",
+      "description": "泰达米尔挥舞大剑冲向目标，对冲锋路线上所有敌人造成伤害。",
+      "tooltip": "泰达米尔旋转并穿过他的敌人，造成{{ totaldamage }}物理伤害并且每命中一个敌人就会生成{{ nonchampfurygain }}怒气，在命中敌方英雄时提升至{{ champfurygain }}怒气。这个技能的冷却时间会在泰达米尔暴击时缩短{{ nonchampcdrefund }}秒，并在对英雄暴击时缩短{{ champcdrefund }}秒。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "650",
+      "maxrank": 5,
+      "image": "TryndamereE.png",
+      "key": "E"
+    },
+    {
+      "name": "无尽怒火",
+      "description": "泰达米尔是如此渴望战斗，以至于承受再多的伤害也不会死亡。",
+      "tooltip": "泰达米尔变得对死亡完全免疫，持续{{ tryndrduration }}秒，拒绝将生命值降至{{ tryndrminhealth }}以下，并瞬间获得{{ tryndrfurygain }}怒气。",
+      "cooldown": "120/100/80",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "400",
+      "maxrank": 3,
+      "image": "UndyingRage.png",
+      "key": "R"
+    }
+  ]
+}

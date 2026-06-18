@@ -1,0 +1,363 @@
+{
+  "id": "Garen",
+  "championId": "86",
+  "name": "德玛西亚之力",
+  "title": "盖伦",
+  "region": "德玛西亚",
+  "blurb": "作为一名自豪而高贵的勇士，盖伦将自己当做无畏先锋中的普通一员参与战斗。他既受到同袍手足的爱戴，也受到敌人对手的尊敬——尤其作为尊贵的冕卫家族的子嗣，他被委以重任，守卫德玛西亚的疆土和理想。他身披抵御魔法的重甲，手持阔剑，时刻准备着用正义的钢铁风暴在战场上正面迎战一切操纵魔法的狂人。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "无",
+  "info": {
+    "attack": 7,
+    "defense": 7,
+    "magic": 1,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 690,
+    "hpPerLevel": 98,
+    "mp": 0,
+    "mpPerLevel": 0,
+    "movespeed": 340,
+    "armor": 38,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 1.55,
+    "attackrange": 175,
+    "attackdamage": 69,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 3.65,
+    "hpregen": 8,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "86001",
+      "name": "战神阿瑞斯 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86002",
+      "name": "黄金骑士 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86003",
+      "name": "铁甲雄心 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86004",
+      "name": "死亡骑士 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86005",
+      "name": "孤高游侠 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86006",
+      "name": "钢铁军团 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86007",
+      "name": "德玛西亚之力 盖伦 浴血先锋",
+      "chromas": false
+    },
+    {
+      "id": "86008",
+      "name": "德玛西亚之力 盖伦 皇家近卫",
+      "chromas": false
+    },
+    {
+      "id": "86009",
+      "name": "德玛西亚之力 盖伦 钢铁守护",
+      "chromas": false
+    },
+    {
+      "id": "86010",
+      "name": "海上霸主 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86011",
+      "name": "张辽 文远",
+      "chromas": true
+    },
+    {
+      "id": "86012",
+      "name": "张辽 文远 炫金将军",
+      "chromas": false
+    },
+    {
+      "id": "86013",
+      "name": "神王 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86014",
+      "name": "德玛西亚警官 盖伦",
+      "chromas": true
+    },
+    {
+      "id": "86015",
+      "name": "德玛西亚警官 盖伦 炽诚怒焰",
+      "chromas": false
+    },
+    {
+      "id": "86016",
+      "name": "德玛西亚警官 盖伦 正义化身",
+      "chromas": false
+    },
+    {
+      "id": "86017",
+      "name": "德玛西亚警官 盖伦 铁血金刚",
+      "chromas": false
+    },
+    {
+      "id": "86018",
+      "name": "德玛西亚警官 盖伦 冷酷寒冰",
+      "chromas": false
+    },
+    {
+      "id": "86019",
+      "name": "德玛西亚警官 盖伦 嫉恶烈风",
+      "chromas": false
+    },
+    {
+      "id": "86020",
+      "name": "德玛西亚警官 盖伦 不懈卫士",
+      "chromas": false
+    },
+    {
+      "id": "86021",
+      "name": "德玛西亚警官 盖伦 五彩斑斓黑",
+      "chromas": false
+    },
+    {
+      "id": "86022",
+      "name": "机神玄武 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86023",
+      "name": "至臻 机神玄武 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86024",
+      "name": "战斗学院 盖伦",
+      "chromas": true
+    },
+    {
+      "id": "86025",
+      "name": "战斗学院 盖伦 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "86026",
+      "name": "战斗学院 盖伦 天马",
+      "chromas": false
+    },
+    {
+      "id": "86027",
+      "name": "战斗学院 盖伦 火蜥蜴",
+      "chromas": false
+    },
+    {
+      "id": "86028",
+      "name": "战斗学院 盖伦 九头蛇",
+      "chromas": false
+    },
+    {
+      "id": "86029",
+      "name": "战斗学院 盖伦 独角兽",
+      "chromas": false
+    },
+    {
+      "id": "86030",
+      "name": "战斗学院 盖伦 狮鹫",
+      "chromas": false
+    },
+    {
+      "id": "86031",
+      "name": "战斗学院 盖伦 森林龙",
+      "chromas": false
+    },
+    {
+      "id": "86032",
+      "name": "战斗学院 盖伦 沙漠狼",
+      "chromas": false
+    },
+    {
+      "id": "86033",
+      "name": "剪纸仙灵 盖伦",
+      "chromas": true
+    },
+    {
+      "id": "86034",
+      "name": "剪纸仙灵 盖伦 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "86035",
+      "name": "剪纸仙灵 盖伦 日进斗金",
+      "chromas": false
+    },
+    {
+      "id": "86036",
+      "name": "剪纸仙灵 盖伦 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "86037",
+      "name": "剪纸仙灵 盖伦 紫气东来",
+      "chromas": false
+    },
+    {
+      "id": "86038",
+      "name": "剪纸仙灵 盖伦 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "86039",
+      "name": "剪纸仙灵 盖伦 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "86040",
+      "name": "剪纸仙灵 盖伦 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "86041",
+      "name": "剪纸仙灵 盖伦 吉祥如意",
+      "chromas": false
+    },
+    {
+      "id": "86042",
+      "name": "剪纸仙灵 盖伦 金玉满堂",
+      "chromas": false
+    },
+    {
+      "id": "86044",
+      "name": "堕落神王 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86045",
+      "name": "剪纸仙灵 盖伦 典范",
+      "chromas": false
+    },
+    {
+      "id": "86046",
+      "name": "暗裔英雄 盖伦",
+      "chromas": false
+    },
+    {
+      "id": "86047",
+      "name": "暗裔英雄 盖伦 帝国幻想",
+      "chromas": true
+    },
+    {
+      "id": "86048",
+      "name": "暗裔英雄 盖伦 森林幻想",
+      "chromas": false
+    },
+    {
+      "id": "86049",
+      "name": "暗裔英雄 盖伦 虚无幻想",
+      "chromas": false
+    },
+    {
+      "id": "86050",
+      "name": "暗裔英雄 盖伦 海港幻想",
+      "chromas": false
+    },
+    {
+      "id": "86051",
+      "name": "暗裔英雄 盖伦 极地幻想",
+      "chromas": false
+    },
+    {
+      "id": "86052",
+      "name": "暗裔英雄 盖伦 灵岛幻想",
+      "chromas": false
+    },
+    {
+      "id": "86053",
+      "name": "暗裔英雄 盖伦 星界幻想",
+      "chromas": false
+    },
+    {
+      "id": "86054",
+      "name": "暗裔英雄 盖伦 山峰幻想",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "坚韧",
+    "description": "如果盖伦近期没有受到伤害或者被敌方技能命中，那么他会每秒回复若干百分比的总生命值。",
+    "image": "Garen_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "致命打击",
+      "description": "盖伦的移动速度获得爆发性提升，同时移除身上的所有减速效果。他的下次攻击将打击敌人的要害部位，造成额外伤害并将目标沉默。",
+      "tooltip": "盖伦移除身上的所有减速效果并获得{{ movementspeedamount*100 }}%移动速度，持续{{ movementspeedduration }}秒。他的下次攻击会使目标沉默{{ silenceduration }}秒并造成{{ totaldamage }}物理伤害。",
+      "cooldown": "8",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "300",
+      "maxrank": 5,
+      "image": "GarenQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "勇气",
+      "description": "盖伦被动地通过击杀敌人来提升护甲和魔法抗性。他也可以激活这个技能来暂时获得一层护盾和韧性，并在接下来的较长持续时间里获得较弱的伤害减免效果。",
+      "tooltip": "被动：盖伦获得{{ resistsfortooltip }}额外护甲和{{ resistsfortooltip }}额外魔法抗性。击杀单位时会永久提供{{ resistgainonkilltooltip }}双抗，至多至最大值{{ resistmax }}。主动：盖伦加固他的勇气{{ drduration }}秒，使即将到来的伤害降低{{ drpercent*100 }}%。他还会获得持续{{ upfrontduration }}秒的{{ totalshield }}护盾值和{{ upfronttenacity*100 }}%韧性。",
+      "cooldown": "22/19.5/17/14.5/12",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "0",
+      "maxrank": 5,
+      "image": "GarenW.png",
+      "key": "W"
+    },
+    {
+      "name": "审判",
+      "description": "盖伦快速地旋转身体挥舞大剑，并对邻近敌人造成物理伤害。",
+      "tooltip": "盖伦快速地旋舞大剑，持续{{ duration }}秒，每旋转一圈造成{{ totaldamage }}物理伤害，共旋转{{ f1 }}圈。相距最近的敌人受到{{ nearestenemybonus*100 }}%提升伤害。被{{ stackstoshred }}圈旋转命中的敌方英雄会损失{{ shredamount*100 }}%护甲，持续{{ shredduration }}秒。再次施放：盖伦提前结束这个技能。",
+      "cooldown": "9/8.25/7.5/6.75/6",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "325",
+      "maxrank": 5,
+      "image": "GarenE.png",
+      "key": "E"
+    },
+    {
+      "name": "德玛西亚正义",
+      "description": "盖伦召唤德玛西亚之力，试图处决一名敌方英雄。",
+      "tooltip": "盖伦召唤德玛西亚之力来击杀他的敌人，造成{{ basedamage }}外加{{ executedamage*100 }}%已损失生命值的真实伤害。",
+      "cooldown": "120/100/80",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "400",
+      "maxrank": 3,
+      "image": "GarenR.png",
+      "key": "R"
+    }
+  ]
+}

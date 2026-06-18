@@ -1,0 +1,328 @@
+{
+  "id": "Jayce",
+  "championId": "126",
+  "name": "未来守护者",
+  "title": "杰斯",
+  "region": "皮尔特沃夫",
+  "blurb": "杰斯·塔利斯是一位杰出的发明家，他与好友维克托一起，在海克斯科技领域取得了开创性的重大发现。整个皮尔特沃夫都对他赞誉有加，他也一直努力让自己配得上“进化者”的称号，但迎合他人的期望却也经常让他身心俱疲。正因如此，杰斯开始意识到，他的发明进一步加深了皮城和祖安之间的裂痕。他高举起海克斯科技变形锤，决意守护城市的未来。",
+  "tags": [
+    "战士",
+    "射手"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 4,
+    "magic": 3,
+    "difficulty": 7
+  },
+  "stats": {
+    "hp": 590,
+    "hpPerLevel": 109,
+    "mp": 375,
+    "mpPerLevel": 45,
+    "movespeed": 335,
+    "armor": 22,
+    "armorPerLevel": 5,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 125,
+    "attackdamage": 59,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 3,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 6,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "126001",
+      "name": "全金属狂潮 杰斯",
+      "chromas": false
+    },
+    {
+      "id": "126002",
+      "name": "蔷薇绅士 杰斯",
+      "chromas": false
+    },
+    {
+      "id": "126003",
+      "name": "天启骑士 杰斯",
+      "chromas": false
+    },
+    {
+      "id": "126004",
+      "name": "杰斯·光明之锤",
+      "chromas": false
+    },
+    {
+      "id": "126005",
+      "name": "战斗学院 杰斯",
+      "chromas": true
+    },
+    {
+      "id": "126006",
+      "name": "战斗学院 杰斯 狮鹫",
+      "chromas": false
+    },
+    {
+      "id": "126007",
+      "name": "战斗学院 杰斯 独角兽",
+      "chromas": false
+    },
+    {
+      "id": "126008",
+      "name": "战斗学院 杰斯 黑龙",
+      "chromas": false
+    },
+    {
+      "id": "126009",
+      "name": "战斗学院 杰斯 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "126010",
+      "name": "战斗学院 杰斯 天马",
+      "chromas": false
+    },
+    {
+      "id": "126011",
+      "name": "战斗学院 杰斯 梦魇",
+      "chromas": false
+    },
+    {
+      "id": "126012",
+      "name": "战斗学院 杰斯 九头蛇",
+      "chromas": false
+    },
+    {
+      "id": "126013",
+      "name": "战斗学院 杰斯 蛇怪",
+      "chromas": false
+    },
+    {
+      "id": "126014",
+      "name": "战斗学院 杰斯 盛典礼服",
+      "chromas": false
+    },
+    {
+      "id": "126015",
+      "name": "抵抗军雷神 杰斯",
+      "chromas": true
+    },
+    {
+      "id": "126016",
+      "name": "抵抗军雷神 杰斯 炼狱勇士",
+      "chromas": false
+    },
+    {
+      "id": "126017",
+      "name": "抵抗军雷神 杰斯 诸神黄昏",
+      "chromas": false
+    },
+    {
+      "id": "126018",
+      "name": "抵抗军雷神 杰斯 丛林之王",
+      "chromas": false
+    },
+    {
+      "id": "126019",
+      "name": "抵抗军雷神 杰斯 粉红魅焰",
+      "chromas": false
+    },
+    {
+      "id": "126020",
+      "name": "抵抗军雷神 杰斯 深海战栗",
+      "chromas": false
+    },
+    {
+      "id": "126021",
+      "name": "抵抗军雷神 杰斯 毁灭律动",
+      "chromas": false
+    },
+    {
+      "id": "126022",
+      "name": "抵抗军雷神 杰斯 炙热裁决",
+      "chromas": false
+    },
+    {
+      "id": "126023",
+      "name": "抵抗军雷神 杰斯 铁血先锋",
+      "chromas": false
+    },
+    {
+      "id": "126024",
+      "name": "双城之战 杰斯",
+      "chromas": false
+    },
+    {
+      "id": "126025",
+      "name": "巅峰之星 杰斯",
+      "chromas": true
+    },
+    {
+      "id": "126026",
+      "name": "巅峰之星 杰斯 顽强拼搏",
+      "chromas": false
+    },
+    {
+      "id": "126027",
+      "name": "巅峰之星 杰斯 挑战极限",
+      "chromas": false
+    },
+    {
+      "id": "126028",
+      "name": "巅峰之星 杰斯 勇者无惧",
+      "chromas": false
+    },
+    {
+      "id": "126029",
+      "name": "巅峰之星 杰斯 奋发进取",
+      "chromas": false
+    },
+    {
+      "id": "126030",
+      "name": "巅峰之星 杰斯 自强不息",
+      "chromas": false
+    },
+    {
+      "id": "126031",
+      "name": "巅峰之星 杰斯 惺惺相惜",
+      "chromas": false
+    },
+    {
+      "id": "126032",
+      "name": "巅峰之星 杰斯 团结协作",
+      "chromas": false
+    },
+    {
+      "id": "126033",
+      "name": "巅峰之星 杰斯 永不言败",
+      "chromas": false
+    },
+    {
+      "id": "126034",
+      "name": "T1 杰斯",
+      "chromas": true
+    },
+    {
+      "id": "126035",
+      "name": "双城之战2 幸存者 杰斯",
+      "chromas": false
+    },
+    {
+      "id": "126036",
+      "name": "至臻 T1 杰斯",
+      "chromas": false
+    },
+    {
+      "id": "126037",
+      "name": "T1 杰斯 精锐",
+      "chromas": false
+    },
+    {
+      "id": "126038",
+      "name": "踏雪寻梅 杰斯",
+      "chromas": true
+    },
+    {
+      "id": "126039",
+      "name": "踏雪寻梅 杰斯 岁寒特妍",
+      "chromas": false
+    },
+    {
+      "id": "126040",
+      "name": "踏雪寻梅 杰斯 玉立冰洁",
+      "chromas": false
+    },
+    {
+      "id": "126041",
+      "name": "踏雪寻梅 杰斯 明蟾照夜",
+      "chromas": false
+    },
+    {
+      "id": "126042",
+      "name": "踏雪寻梅 杰斯 绛萼著霜",
+      "chromas": false
+    },
+    {
+      "id": "126043",
+      "name": "踏雪寻梅 杰斯 独步早春",
+      "chromas": false
+    },
+    {
+      "id": "126044",
+      "name": "踏雪寻梅 杰斯 狂飙卷沙",
+      "chromas": false
+    },
+    {
+      "id": "126045",
+      "name": "踏雪寻梅 杰斯 琼英缀雪",
+      "chromas": false
+    },
+    {
+      "id": "126046",
+      "name": "踏雪寻梅 杰斯 烟晦晨昏",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "海克斯科技电容",
+    "description": "每当杰斯切换武器时，他会获得短暂持续的移动速度加成。",
+    "image": "Jayce_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "苍穹之跃 / 电能震荡",
+      "description": "锤形态：跳向一个敌人，对敌人造成物理伤害和减速效果。 炮形态：发射一团电球，在命中一名敌人或者到达最大射程后爆炸，对命中的敌人造成物理伤害。",
+      "tooltip": "墨丘利之锤：杰斯跳向一名敌人，对周围的敌人造成{{ spell.jaycetotheskies:damage }}物理伤害和持续{{ spell.jaycetotheskies:slowduration }}秒的{{ spell.jaycetotheskies:slow*-100 }}%减速。",
+      "cooldown": "16/14/12/10/8/6",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 6,
+      "image": "JayceToTheSkies.png",
+      "key": "Q"
+    },
+    {
+      "name": "闪电领域 / 超能电荷",
+      "description": "锤形态：被动：每次攻击回复法力。主动：创造一个闪电领域，在数秒内对附近的敌人造成伤害。炮形态：杰斯的活力暴涨，将攻击速度提升至最大值，此效果在若干次攻击后消失。",
+      "tooltip": "墨丘利之锤 - 被动：杰斯的战锤攻击会提供{{ spell.jaycestaticfield:managain }}法力值。墨丘利之锤 - 主动：杰斯创造一个电能光环，在{{ spell.jaycestaticfield:duration }}秒里持续造成共{{ spell.jaycestaticfield:damage }}魔法伤害。",
+      "cooldown": "10",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "285",
+      "maxrank": 6,
+      "image": "JayceStaticField.png",
+      "key": "W"
+    },
+    {
+      "name": "雷霆一击 / 加速之门",
+      "description": "锤形态：对一个敌人造成魔法伤害，并将目标击退一小段距离。炮形态：展开一个加速之门，所有穿过它的友军英雄都会得到移动速度加成。如果电能震荡穿过这个门发射，那么它的弹道速度和射程都会得到提高，并且伤害会提升。",
+      "tooltip": "战锤形态：杰斯挥舞他的战锤，击退他的目标并造成{{ spell.jaycethunderingblow:flatdamage }}外加{{ spell.jaycethunderingblow:perchpdamage*100 }}%最大生命值的魔法伤害。",
+      "cooldown": "20/18/16/14/12/10",
+      "cost": "55",
+      "costType": " {{ abilityresourcename }}",
+      "range": "240",
+      "maxrank": 6,
+      "image": "JayceThunderingBlow.png",
+      "key": "E"
+    },
+    {
+      "name": "墨丘利之炮 / 墨丘利之锤",
+      "description": "锤形态：将墨丘利之锤变成墨丘利之炮，获得新的技能和远程攻击能力。切换至这个形态后的第一下攻击将会减少目标的护甲和魔法抗性。炮形态：将墨丘利之炮变成墨丘利之锤，获得新的技能和护甲与魔法抗性加成，切换至这个形态后的第一下攻击将会造成额外的魔法伤害。",
+      "tooltip": "墨丘利之锤：杰斯将他的武器变形为墨丘利之炮，获得攻击距离和全新的一套技能。杰斯的下一个攻击移除{{ spell.jaycestancehtg:rangedformshred }}护甲和魔法抗性，持续{{ spell.jaycestancehtg:shredduration }}秒。",
+      "cooldown": "6",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "600",
+      "maxrank": 1,
+      "image": "JayceStanceHtG.png",
+      "key": "R"
+    }
+  ]
+}

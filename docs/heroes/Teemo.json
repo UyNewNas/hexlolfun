@@ -1,0 +1,408 @@
+{
+  "id": "Teemo",
+  "championId": "17",
+  "name": "迅捷斥候",
+  "title": "提莫",
+  "region": "班德尔城",
+  "blurb": "不畏艰难险阻、不惧坎坷危途，提莫怀着无比的热情和欢欣的精神探索着整个世界。作为一个约德尔人，他对自己的道德观坚定不移，也对班德尔斥候的信条倍感自豪，有时候，过分的热忱甚至会让他无法看到自己的行为将会导致什么样的后果。虽然有人认为，“班德尔斥候小队”是否真实存在还有待商榷，但有一件事可以肯定，那就是提莫的信念。",
+  "tags": [
+    "射手",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 5,
+    "defense": 3,
+    "magic": 7,
+    "difficulty": 6
+  },
+  "stats": {
+    "hp": 615,
+    "hpPerLevel": 104,
+    "mp": 334,
+    "mpPerLevel": 25,
+    "movespeed": 330,
+    "armor": 24,
+    "armorPerLevel": 4.95,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 500,
+    "attackdamage": 54,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.69,
+    "attackspeedPerLevel": 3.38,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.65,
+    "mpregen": 9.6,
+    "mpregenPerLevel": 0.45,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "17001",
+      "name": "圣诞开心鬼 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17002",
+      "name": "军情五处 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17003",
+      "name": "密林猎手 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17004",
+      "name": "提莫:'约德尔人的一大步'",
+      "chromas": true
+    },
+    {
+      "id": "17005",
+      "name": "兔宝宝 提莫",
+      "chromas": true
+    },
+    {
+      "id": "17006",
+      "name": "约德尔国队长 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17007",
+      "name": "熊猫 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17008",
+      "name": "欧米伽小队 幽灵特工",
+      "chromas": true
+    },
+    {
+      "id": "17009",
+      "name": "蓝莓味糖果 兔宝宝 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17010",
+      "name": "草莓味糖果 兔宝宝 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17011",
+      "name": "牛奶味糖果 兔宝宝 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17012",
+      "name": "抹茶味糖果 兔宝宝 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17013",
+      "name": "葡萄味糖果 兔宝宝 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17014",
+      "name": "大魔王 提莫",
+      "chromas": true
+    },
+    {
+      "id": "17015",
+      "name": "欧米伽小队 幽灵特工 雪境幽灵",
+      "chromas": false
+    },
+    {
+      "id": "17016",
+      "name": "欧米伽小队 幽灵特工 沙漠幽灵",
+      "chromas": false
+    },
+    {
+      "id": "17017",
+      "name": "欧米伽小队 幽灵特工 死沼幽灵",
+      "chromas": false
+    },
+    {
+      "id": "17018",
+      "name": "小蜜蜂 提莫",
+      "chromas": true
+    },
+    {
+      "id": "17019",
+      "name": "元气满满七星瓢 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17020",
+      "name": "悠哉悠哉小碧绿 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17021",
+      "name": "泪眼汪汪天蓝蓝 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17022",
+      "name": "笑意盈盈紫蜂皇 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17023",
+      "name": "可爱可爱粉红红 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17024",
+      "name": "野心勃勃特工蝇 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17025",
+      "name": "灵魂莲华 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17026",
+      "name": "提莫:'约德尔人的一大步' 无尽永前",
+      "chromas": false
+    },
+    {
+      "id": "17027",
+      "name": "至臻 灵魂莲华 提莫",
+      "chromas": false
+    },
+    {
+      "id": "17028",
+      "name": "大魔王 提莫 贝列的弄臣",
+      "chromas": false
+    },
+    {
+      "id": "17029",
+      "name": "大魔王 提莫 贝列的先锋",
+      "chromas": false
+    },
+    {
+      "id": "17030",
+      "name": "大魔王 提莫 因波斯的勇士",
+      "chromas": false
+    },
+    {
+      "id": "17031",
+      "name": "大魔王 提莫 吉蒙里的近卫",
+      "chromas": false
+    },
+    {
+      "id": "17032",
+      "name": "大魔王 提莫 布松的巨熊",
+      "chromas": false
+    },
+    {
+      "id": "17033",
+      "name": "大魔王 提莫 西迪的使徒",
+      "chromas": false
+    },
+    {
+      "id": "17034",
+      "name": "大魔王 提莫 富卡斯的学徒",
+      "chromas": false
+    },
+    {
+      "id": "17035",
+      "name": "大魔王 提莫 安朵斯的狼卫",
+      "chromas": false
+    },
+    {
+      "id": "17036",
+      "name": "大魔王 提莫 巴巴托斯的狩侍",
+      "chromas": false
+    },
+    {
+      "id": "17037",
+      "name": "招财进宝 提莫",
+      "chromas": true
+    },
+    {
+      "id": "17038",
+      "name": "招财进宝 提莫 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "17039",
+      "name": "招财进宝 提莫 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "17040",
+      "name": "招财进宝 提莫 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "17041",
+      "name": "招财进宝 提莫 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "17042",
+      "name": "招财进宝 提莫 财源滚滚",
+      "chromas": false
+    },
+    {
+      "id": "17043",
+      "name": "招财进宝 提莫 年年有余",
+      "chromas": false
+    },
+    {
+      "id": "17044",
+      "name": "招财进宝 提莫 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "17045",
+      "name": "招财进宝 提莫 吉祥如意",
+      "chromas": false
+    },
+    {
+      "id": "17046",
+      "name": "招财进宝 提莫 玉虎呈祥",
+      "chromas": false
+    },
+    {
+      "id": "17047",
+      "name": "太空律动 “律动队长” 提莫",
+      "chromas": true
+    },
+    {
+      "id": "17048",
+      "name": "“律动队长” 提莫 红霸符也种上！",
+      "chromas": false
+    },
+    {
+      "id": "17049",
+      "name": "“律动队长” 提莫 兵线上也种上！",
+      "chromas": false
+    },
+    {
+      "id": "17050",
+      "name": "“律动队长” 提莫 男爵坑也种上！",
+      "chromas": false
+    },
+    {
+      "id": "17051",
+      "name": "“律动队长” 提莫 草丛里也种上！",
+      "chromas": false
+    },
+    {
+      "id": "17052",
+      "name": "“律动队长” 提莫 小龙坑也种上！",
+      "chromas": false
+    },
+    {
+      "id": "17053",
+      "name": "“律动队长” 提莫 泉水边也种上！",
+      "chromas": false
+    },
+    {
+      "id": "17054",
+      "name": "莲华温泉 提莫",
+      "chromas": true
+    },
+    {
+      "id": "17055",
+      "name": "莲华温泉 提莫 流火",
+      "chromas": false
+    },
+    {
+      "id": "17056",
+      "name": "莲华温泉 提莫 雁来",
+      "chromas": false
+    },
+    {
+      "id": "17057",
+      "name": "莲华温泉 提莫 云开",
+      "chromas": false
+    },
+    {
+      "id": "17058",
+      "name": "莲华温泉 提莫 风起",
+      "chromas": false
+    },
+    {
+      "id": "17059",
+      "name": "莲华温泉 提莫 春晓",
+      "chromas": false
+    },
+    {
+      "id": "17060",
+      "name": "莲华温泉 提莫 星回",
+      "chromas": false
+    },
+    {
+      "id": "17061",
+      "name": "莲华温泉 提莫 朝花",
+      "chromas": false
+    },
+    {
+      "id": "17062",
+      "name": "莲华温泉 提莫 月升",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "游击队军备",
+    "description": "如果提莫在短时间内静止站立且不受任何伤害，就会进入无定期的隐形状态。如果提莫在草丛中，他就能在移动的同时进入并保持隐形状态。离开隐形状态后，提莫会获得“出奇制胜”的增益效果，提升攻击速度，持续3秒。",
+    "image": "TeemoPassive.png"
+  },
+  "spells": [
+    {
+      "name": "致盲吹箭",
+      "description": "用一团强力的毒液来侵蚀一名敌人的视野，对目标单位造成伤害并使目标致盲一段时间。",
+      "tooltip": "提莫发射一根吹箭，对目标造成{{ blindduration }}秒致盲和{{ calculateddamage }}魔法伤害。",
+      "cooldown": "7",
+      "cost": "70/75/80/85/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "680",
+      "maxrank": 5,
+      "image": "TeemoQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "小莫快跑",
+      "description": "提莫动如脱兔，提升移动速度，直到被敌方英雄或防御塔击中为止。提莫可以通过冲刺来获得额外移动速度，且短时间内不会因被击中而使加速效果中止。",
+      "tooltip": "被动：提莫获得{{ passivemovespeedbonus*100 }}%移动速度，前提是在最近{{ passivecooldownondamagetaken }}秒内未受到来自敌方英雄或防御塔的伤害。主动：提莫急速奔跑，获得持续{{ activemovespeedbuffduration }}秒的{{ activemovespeedbonus*100 }}%移动速度，在被攻击时也不会移除。",
+      "cooldown": "14",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "20",
+      "maxrank": 5,
+      "image": "TeemoW.png",
+      "key": "W"
+    },
+    {
+      "name": "毒性射击",
+      "description": "提莫每次攻击附带毒液伤害%i:OnHit% 攻击特效，造成持续性伤害，持续4秒。",
+      "tooltip": "被动：提莫的攻击会施加剧毒%i:OnHit% 攻击特效，造成额外的{{ impactcalculateddamage }}魔法伤害外加在{{ poisonduration }}秒里持续造成共{{ totaldotdamage }}魔法伤害。",
+      "cooldown": "0",
+      "cost": "0",
+      "costType": "被动",
+      "range": "680",
+      "maxrank": 5,
+      "image": "TeemoE.png",
+      "key": "E"
+    },
+    {
+      "name": "种蘑菇",
+      "description": "提莫投掷一个可爆炸的毒性陷阱，需要消耗提莫背包里的一个蘑菇。陷阱会在被敌方踩中时爆炸，释放出一团毒云，对附近的敌人造成减速效果和持续伤害。如果提莫把一个蘑菇扔到另一个蘑菇上，那么这个蘑菇会进行弹跳，获得额外的距离。",
+      "tooltip": "提莫投掷一个蘑菇陷阱，它会在被敌方踩中时爆炸。陷阱造成持续{{ debuffduration }}秒的{{ slowamount }}%减速并在此期间持续造成共{{ totaldamage }}魔法伤害。敌人会被显形相同的时长 。陷阱持续{{ mushroomduration }}分钟并且处于潜行状态。一个蘑菇在被扔到另一个蘑菇上时，会先弹跳然后着陆到它的位置。这个技能有{{ maxammo }}层充能({{ ammorechargetime }}秒充能时间)。",
+      "cooldown": "0.25",
+      "cost": "75/55/35",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600/750/900",
+      "maxrank": 3,
+      "image": "TeemoR.png",
+      "key": "R"
+    }
+  ]
+}

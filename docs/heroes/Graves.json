@@ -1,0 +1,362 @@
+{
+  "id": "Graves",
+  "championId": "104",
+  "name": "法外狂徒",
+  "title": "格雷福斯",
+  "region": "比尔吉沃特",
+  "blurb": "格雷福斯是一位鼎鼎有名的佣兵、赌徒和窃贼，但凡他所及的城邦或帝国，都在通缉悬赏他的人头。虽然他脾气暴躁，却很讲究黑道义气，他的双管散弹枪“命运”就常用于纠正背信弃义之事。几年前他和老搭档崔斯特冰释前嫌，如今二人一同在比尔吉沃特的地下黑道纷争中再次合作，如鱼得水。",
+  "tags": [
+    "射手"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 5,
+    "magic": 3,
+    "difficulty": 3
+  },
+  "stats": {
+    "hp": 625,
+    "hpPerLevel": 106,
+    "mp": 325,
+    "mpPerLevel": 40,
+    "movespeed": 340,
+    "armor": 33,
+    "armorPerLevel": 4.6,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 425,
+    "attackdamage": 66,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.475,
+    "attackspeedPerLevel": 3,
+    "hpregen": 8,
+    "hpregenPerLevel": 0.7,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "104001",
+      "name": "怒之火炮 格雷福斯",
+      "chromas": false
+    },
+    {
+      "id": "104002",
+      "name": "杀出重围 格雷福斯",
+      "chromas": false
+    },
+    {
+      "id": "104003",
+      "name": "黑帮教父 格雷福斯",
+      "chromas": false
+    },
+    {
+      "id": "104004",
+      "name": "防暴士兵 格雷福斯",
+      "chromas": false
+    },
+    {
+      "id": "104005",
+      "name": "泳池派对 格雷福斯",
+      "chromas": true
+    },
+    {
+      "id": "104006",
+      "name": "无情重炮 格雷福斯",
+      "chromas": false
+    },
+    {
+      "id": "104007",
+      "name": "冰雪节 格雷福斯",
+      "chromas": true
+    },
+    {
+      "id": "104008",
+      "name": "泳池派对 格雷福斯 狂傲大白鲨",
+      "chromas": false
+    },
+    {
+      "id": "104009",
+      "name": "泳池派对 格雷福斯 沙滩排球手",
+      "chromas": false
+    },
+    {
+      "id": "104010",
+      "name": "泳池派对 格雷福斯 极道樱花魂",
+      "chromas": false
+    },
+    {
+      "id": "104011",
+      "name": "泳池派对 格雷福斯 暴走冲浪手",
+      "chromas": false
+    },
+    {
+      "id": "104012",
+      "name": "泳池派对 格雷福斯 热血海魂男",
+      "chromas": false
+    },
+    {
+      "id": "104013",
+      "name": "泳池派对 格雷福斯 十星海军上将",
+      "chromas": false
+    },
+    {
+      "id": "104014",
+      "name": "胜利枪神 格雷福斯",
+      "chromas": true
+    },
+    {
+      "id": "104015",
+      "name": "胜利枪神 格雷福斯 黑金霸权",
+      "chromas": false
+    },
+    {
+      "id": "104016",
+      "name": "胜利枪神 格雷福斯 银白裁决",
+      "chromas": false
+    },
+    {
+      "id": "104017",
+      "name": "胜利枪神 格雷福斯 湛蓝雷霆",
+      "chromas": false
+    },
+    {
+      "id": "104018",
+      "name": "禁卫机甲 格雷福斯",
+      "chromas": true
+    },
+    {
+      "id": "104019",
+      "name": "禁卫机甲 格雷福斯 变革之星",
+      "chromas": false
+    },
+    {
+      "id": "104020",
+      "name": "禁卫机甲 格雷福斯 黄沙牛仔",
+      "chromas": false
+    },
+    {
+      "id": "104021",
+      "name": "禁卫机甲 格雷福斯 反抗浪潮",
+      "chromas": false
+    },
+    {
+      "id": "104022",
+      "name": "禁卫机甲 格雷福斯 梦想使者",
+      "chromas": false
+    },
+    {
+      "id": "104023",
+      "name": "禁卫机甲 格雷福斯 熔铁怒焰",
+      "chromas": false
+    },
+    {
+      "id": "104024",
+      "name": "禁卫机甲 格雷福斯 自由羽翼",
+      "chromas": false
+    },
+    {
+      "id": "104025",
+      "name": "战斗教授 格雷福斯",
+      "chromas": true
+    },
+    {
+      "id": "104026",
+      "name": "冰雪节 格雷福斯 炫金",
+      "chromas": false
+    },
+    {
+      "id": "104027",
+      "name": "战斗教授 格雷福斯 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "104028",
+      "name": "战斗教授 格雷福斯 独角兽",
+      "chromas": false
+    },
+    {
+      "id": "104029",
+      "name": "战斗教授 格雷福斯 梦魇",
+      "chromas": false
+    },
+    {
+      "id": "104030",
+      "name": "战斗教授 格雷福斯 狮鹫",
+      "chromas": false
+    },
+    {
+      "id": "104031",
+      "name": "战斗教授 格雷福斯 天马",
+      "chromas": false
+    },
+    {
+      "id": "104032",
+      "name": "战斗教授 格雷福斯 黑龙",
+      "chromas": false
+    },
+    {
+      "id": "104033",
+      "name": "战斗教授 格雷福斯 九头蛇",
+      "chromas": false
+    },
+    {
+      "id": "104034",
+      "name": "战斗教授 格雷福斯 盛典礼服",
+      "chromas": false
+    },
+    {
+      "id": "104035",
+      "name": "光明哨兵 格雷福斯",
+      "chromas": true
+    },
+    {
+      "id": "104036",
+      "name": "光明哨兵 格雷福斯 帝国抗击者",
+      "chromas": false
+    },
+    {
+      "id": "104037",
+      "name": "光明哨兵 格雷福斯 森林抗击者",
+      "chromas": false
+    },
+    {
+      "id": "104038",
+      "name": "光明哨兵 格雷福斯 灵岛抗击者",
+      "chromas": false
+    },
+    {
+      "id": "104039",
+      "name": "光明哨兵 格雷福斯 虚无抗击者",
+      "chromas": false
+    },
+    {
+      "id": "104040",
+      "name": "光明哨兵 格雷福斯 极地抗击者",
+      "chromas": false
+    },
+    {
+      "id": "104041",
+      "name": "光明哨兵 格雷福斯 坚定抗击者",
+      "chromas": false
+    },
+    {
+      "id": "104042",
+      "name": "EDG 格雷福斯",
+      "chromas": true
+    },
+    {
+      "id": "104043",
+      "name": "EDG 格雷福斯 破军",
+      "chromas": false
+    },
+    {
+      "id": "104045",
+      "name": "青花瓷 格雷福斯",
+      "chromas": false
+    },
+    {
+      "id": "104046",
+      "name": "青花瓷 格雷福斯 牡丹",
+      "chromas": true
+    },
+    {
+      "id": "104047",
+      "name": "青花瓷 格雷福斯 含苞",
+      "chromas": false
+    },
+    {
+      "id": "104048",
+      "name": "青花瓷 格雷福斯 月色",
+      "chromas": false
+    },
+    {
+      "id": "104049",
+      "name": "青花瓷 格雷福斯 芭蕉",
+      "chromas": false
+    },
+    {
+      "id": "104050",
+      "name": "青花瓷 格雷福斯 墨色",
+      "chromas": false
+    },
+    {
+      "id": "104051",
+      "name": "青花瓷 格雷福斯 天青",
+      "chromas": false
+    },
+    {
+      "id": "104052",
+      "name": "青花瓷 格雷福斯 釉色",
+      "chromas": false
+    },
+    {
+      "id": "104053",
+      "name": "青花瓷 格雷福斯 金辉玉洁",
+      "chromas": false
+    },
+    {
+      "id": "104054",
+      "name": "青花瓷 格雷福斯 锦鲤",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "新命运",
+    "description": "格雷福斯的散弹枪拥有一些独特性能。他的弹药打光后就必须重新装弹。每次攻击会发射4颗弹丸，弹丸无法穿透单位。会击退被多颗弹丸命中的非英雄单位。",
+    "image": "GravesTrueGrit.png"
+  },
+  "spells": [
+    {
+      "name": "穷途末路",
+      "description": "格雷福斯发射一颗爆破性的榴弹，会在1秒后引爆，或是在碰到地形后立刻爆炸。",
+      "tooltip": "格雷福斯发射一个火药卷，造成{{ totaldamage }}物理伤害。在1秒或与地形碰撞之后，它会爆炸，对沿途和爆炸附近的敌人们再次造成{{ totaldetonationdamage }}物理伤害。",
+      "cooldown": "13/11.25/9.5/7.75/6",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "925",
+      "maxrank": 5,
+      "image": "GravesQLineSpell.png",
+      "key": "Q"
+    },
+    {
+      "name": "烟幕弹",
+      "description": "格雷福斯朝目标区域掷出一颗烟幕弹。如果敌人处在烟幕之中，则其视野会被降低。被烟幕弹的初始冲击所命中的敌人会受到魔法伤害并且移动速度会被短暂降低。",
+      "tooltip": "格雷福斯生成一团黑色烟幕，持续4秒，使其中的敌人减速{{ e2 }}%并无法看到区域之外。初始冲击造成{{ impactdamage }}魔法伤害。",
+      "cooldown": "26/24/22/20/18",
+      "cost": "70/75/80/85/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "950",
+      "maxrank": 5,
+      "image": "GravesSmokeGrenade.png",
+      "key": "W"
+    },
+    {
+      "name": "快速拔枪",
+      "description": "格雷福斯向前冲刺，获得一层持续数秒的护甲和魔法抗性加成。如果格雷福斯朝着一名敌方英雄冲刺，则会获得两层纯爷们效果。格雷福斯的每次未被闪避的普通攻击，都会减少这个技能的冷却时间并刷新该防御属性加成。",
+      "tooltip": "格雷福斯冲刺并装填一颗子弹进他的霰弹枪中。他还会获得一层持续{{ buffduration }}秒的效果(最多{{ maxstacks }}层)或是在朝着敌人突进时获得2层效果。每层效果为他提供{{ armorperstack }}护甲和{{ mrgrant }}魔法抗性。层数会在对非小兵单位造成伤害时刷新。格雷福斯的攻击每有一颗弹丸命中敌人，就会使这个技能缩短{{ cooldownperhit }}秒冷却时间。",
+      "cooldown": "16/15/14/13/12",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "425",
+      "maxrank": 5,
+      "image": "GravesMove.png",
+      "key": "E"
+    },
+    {
+      "name": "终极爆弹",
+      "description": "格雷福斯射出一枚爆破弹，对它所命中的第一个敌人造成大量伤害。在命中一名英雄或者达到它的最大射程之后，爆弹会爆炸，并对锥形范围内的敌人造成伤害。",
+      "tooltip": "格雷福斯射出一枚爆破弹，并因后坐力而向后位移。爆破弹对命中的第一敌人造成{{ damage }}物理伤害。在命中一名敌方英雄，或者达到最大射程之后，终极爆弹将会向外爆裂，造成{{ falloffdamage }}物理伤害。",
+      "cooldown": "100/80/60",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 3,
+      "image": "GravesChargeShot.png",
+      "key": "R"
+    }
+  ]
+}

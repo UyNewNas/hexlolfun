@@ -1,0 +1,193 @@
+{
+  "id": "Aurora",
+  "championId": "893",
+  "name": "双界灵兔",
+  "title": "阿萝拉",
+  "region": "弗雷尔卓德",
+  "blurb": "从诞生那一刻起，阿萝拉就能够在精神和物质领域之间游走；长大后，她决定细细探索精神领域的生物，于是远走他乡，寻觅未知。机缘巧合间，她遇见了一位迷失的半神，他在漫漫岁月中被遗忘，变得痛苦扭曲。此等绝望，阿萝拉无法坐视不管，她要帮这位狂野不羁的朋友找回他原本的身份，于是踏上了一段遍迹弗雷尔卓德的探寻之旅。",
+  "tags": [
+    "法师",
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 3,
+    "defense": 4,
+    "magic": 8,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 607,
+    "hpPerLevel": 110,
+    "mp": 475,
+    "mpPerLevel": 30,
+    "movespeed": 335,
+    "armor": 23,
+    "armorPerLevel": 4.5,
+    "spellblock": 32,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 53,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.668,
+    "attackspeedPerLevel": 2,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "893001",
+      "name": "幻灵战斗兔 阿萝拉",
+      "chromas": true
+    },
+    {
+      "id": "893002",
+      "name": "幻灵战斗兔 阿萝拉 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "893003",
+      "name": "幻灵战斗兔 阿萝拉 灿烂轰击",
+      "chromas": false
+    },
+    {
+      "id": "893004",
+      "name": "幻灵战斗兔 阿萝拉 坚韧阻击",
+      "chromas": false
+    },
+    {
+      "id": "893005",
+      "name": "幻灵战斗兔 阿萝拉 连绵奔袭",
+      "chromas": false
+    },
+    {
+      "id": "893006",
+      "name": "幻灵战斗兔 阿萝拉 钢铁守备",
+      "chromas": false
+    },
+    {
+      "id": "893007",
+      "name": "幻灵战斗兔 阿萝拉 优雅气度",
+      "chromas": false
+    },
+    {
+      "id": "893008",
+      "name": "幻灵战斗兔 阿萝拉 星流电击",
+      "chromas": false
+    },
+    {
+      "id": "893009",
+      "name": "幻灵战斗兔 阿萝拉 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "893010",
+      "name": "幻灵战斗兔 阿萝拉 隐秘夜影",
+      "chromas": false
+    },
+    {
+      "id": "893011",
+      "name": "慧理之贤 阿萝拉",
+      "chromas": true
+    },
+    {
+      "id": "893012",
+      "name": "慧理之贤 阿萝拉 斗志",
+      "chromas": false
+    },
+    {
+      "id": "893013",
+      "name": "慧理之贤 阿萝拉 财富",
+      "chromas": false
+    },
+    {
+      "id": "893014",
+      "name": "慧理之贤 阿萝拉 学识",
+      "chromas": false
+    },
+    {
+      "id": "893015",
+      "name": "慧理之贤 阿萝拉 丰足",
+      "chromas": false
+    },
+    {
+      "id": "893016",
+      "name": "慧理之贤 阿萝拉 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "893017",
+      "name": "慧理之贤 阿萝拉 权威",
+      "chromas": false
+    },
+    {
+      "id": "893018",
+      "name": "慧理之贤 阿萝拉 均衡",
+      "chromas": false
+    },
+    {
+      "id": "893019",
+      "name": "慧理之贤 阿萝拉 哀伤",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "驱灵奇术",
+    "description": "阿萝拉的技能或攻击伤害能从敌人身上抽离出灵物。被抽离灵物跟随阿萝拉并治疗她。",
+    "image": "AuroraPassive.png"
+  },
+  "spells": [
+    {
+      "name": "飞去来咒",
+      "description": "阿萝拉放出一道飞弹，诅咒所有命中的敌人。阿萝拉可以再次施放该技能，来将所有激活的诅咒抽回自己身上。诅咒在返回途中会对命中的敌人造成伤害。",
+      "tooltip": "发射诅咒能量至一个方向，对敌人们造成{{ damage }}魔法伤害和持续{{ markduration }}秒的诅咒。再次施放：终止诅咒，将该敌人的一部分灵物抽回到自己身上，对途经的敌人造成至多{{ q2damagemax }}魔法伤害(基于其已损失生命值)。第一次命中后的伤害被降低至20%。如果持续时间耗尽，那么阿萝拉将会自动再次施放这个技能。",
+      "cooldown": "9/8.5/8/7.5/7",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "900",
+      "maxrank": 5,
+      "image": "AuroraQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "灵纱洞开",
+      "description": "阿萝拉跳向选定方向，并在落地时进入精神领域，在短时间内进入隐形状态并获得移动速度。",
+      "tooltip": "跳向一个方向。落地时，进入精神领域，隐形{{ invisduration }}秒并进入双界行者状态、获得{{ movespeedbonus }}%移动速度。参与击杀一个敌方英雄后，会重置这个技能的冷却时间。",
+      "cooldown": "22/21/20/19/18",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "700",
+      "maxrank": 5,
+      "image": "AuroraW.png",
+      "key": "W"
+    },
+    {
+      "name": "怪奇喷涌",
+      "description": "阿萝拉打开界域之窗，施放出一道灵魂魔法洪流，让双界汇聚，放出一道灵物魔法震波，对敌人造成伤害和减速，然后阿萝拉也会向后跳到安全处。",
+      "tooltip": "打开界域之窗，施放出一道灵魂魔法洪流，对区域内的所有敌人造成{{ damagecalc }}魔法伤害和持续{{ slowduration }}秒的{{ slowpercent*-100 }}%减速（减速效果持续衰减）。施放该技能后，阿萝拉会向后位移一小段距离。",
+      "cooldown": "15/14/13/12/11",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "825",
+      "maxrank": 5,
+      "image": "AuroraE.png",
+      "key": "E"
+    },
+    {
+      "name": "双界合一",
+      "description": "阿萝拉跳向选定方向，释放出一片灵冲击波，对命中的敌人造成伤害和减速。然后，她会创造一个区域来减速其中的敌人们，并且允许阿萝拉从该区域的一侧传送到另一侧。",
+      "tooltip": "跳向一个方向。落地时，阿萝拉将双界合二为一，发出一道灵魂能量激波，对命中的敌人们造成{{ damagecalc }}魔法伤害和持续2秒的{{ slowpercent*-100 }}%减速。交界领域会持续存在{{ areaduration }}秒，为阿萝拉提供持续{{ rbuffduration }}秒的双界行者，让她能够从区域边缘传送至另一侧边缘。任何尝试进入或离开该区域的敌人都会被施加持续{{ stunduration }}秒的{{ exitslowpercent*-100 }}%减速。阿萝拉可以再次施放这个技能来提前结束区域效果。",
+      "cooldown": "140/120/100",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "250",
+      "maxrank": 3,
+      "image": "AuroraR.png",
+      "key": "R"
+    }
+  ]
+}

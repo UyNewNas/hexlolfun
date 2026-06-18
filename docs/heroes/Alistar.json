@@ -1,0 +1,323 @@
+{
+  "id": "Alistar",
+  "championId": "12",
+  "name": "牛头酋长",
+  "title": "阿利斯塔",
+  "region": "符文之地",
+  "blurb": "阿利斯塔是一名威名远扬的巨力勇士，誓要为自己被屠杀的氏族向诺克萨斯帝国复仇。虽然他曾被奴役，被迫成为斗兽场中的角斗士，但他坚不可摧的意志使他免于沦为真正的野兽。现在，挣脱了奴役枷锁的他继续以受苦之人和弱者的名义战斗。他的愤怒，还有犄角、蹄子和拳头，都是他的武器。",
+  "tags": [
+    "坦克",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 6,
+    "defense": 9,
+    "magic": 5,
+    "difficulty": 7
+  },
+  "stats": {
+    "hp": 685,
+    "hpPerLevel": 120,
+    "mp": 350,
+    "mpPerLevel": 40,
+    "movespeed": 330,
+    "armor": 40,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 62,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.125,
+    "hpregen": 8.5,
+    "hpregenPerLevel": 0.85,
+    "mpregen": 8.5,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "12001",
+      "name": "暗黑灵魂 阿利斯塔",
+      "chromas": false
+    },
+    {
+      "id": "12002",
+      "name": "金牛座 阿利斯塔",
+      "chromas": false
+    },
+    {
+      "id": "12003",
+      "name": "斗牛士 阿利斯塔",
+      "chromas": false
+    },
+    {
+      "id": "12004",
+      "name": "荒野镖客 阿利斯塔",
+      "chromas": false
+    },
+    {
+      "id": "12005",
+      "name": "巨角幻兽 阿利斯塔",
+      "chromas": false
+    },
+    {
+      "id": "12006",
+      "name": "地狱火 阿利斯塔",
+      "chromas": false
+    },
+    {
+      "id": "12007",
+      "name": "后场堡垒 阿利斯塔",
+      "chromas": false
+    },
+    {
+      "id": "12008",
+      "name": "黑暗骑士 阿利斯塔",
+      "chromas": false
+    },
+    {
+      "id": "12009",
+      "name": "SKT T1 阿利斯塔",
+      "chromas": false
+    },
+    {
+      "id": "12010",
+      "name": "哞利斯塔",
+      "chromas": true
+    },
+    {
+      "id": "12011",
+      "name": "哞利斯塔 草莓牛奶",
+      "chromas": false
+    },
+    {
+      "id": "12012",
+      "name": "哞利斯塔 青苹果牛奶",
+      "chromas": false
+    },
+    {
+      "id": "12013",
+      "name": "哞利斯塔 香蕉牛奶",
+      "chromas": false
+    },
+    {
+      "id": "12014",
+      "name": "哞利斯塔 蓝莓牛奶",
+      "chromas": false
+    },
+    {
+      "id": "12015",
+      "name": "哞利斯塔 巧克力牛奶",
+      "chromas": false
+    },
+    {
+      "id": "12016",
+      "name": "哞利斯塔 酸奶",
+      "chromas": false
+    },
+    {
+      "id": "12017",
+      "name": "哞利斯塔 花生牛奶",
+      "chromas": false
+    },
+    {
+      "id": "12018",
+      "name": "哞利斯塔 葡萄牛奶",
+      "chromas": false
+    },
+    {
+      "id": "12019",
+      "name": "海克斯科技 阿利斯塔",
+      "chromas": false
+    },
+    {
+      "id": "12020",
+      "name": "征服者 阿利斯塔",
+      "chromas": true
+    },
+    {
+      "id": "12021",
+      "name": "征服者 阿利斯塔 炫金",
+      "chromas": false
+    },
+    {
+      "id": "12022",
+      "name": "黯晶巨牛 阿利斯塔",
+      "chromas": true
+    },
+    {
+      "id": "12023",
+      "name": "黯晶巨牛 阿利斯塔 凝结之焰",
+      "chromas": false
+    },
+    {
+      "id": "12024",
+      "name": "黯晶巨牛 阿利斯塔 凝结之幸",
+      "chromas": false
+    },
+    {
+      "id": "12025",
+      "name": "黯晶巨牛 阿利斯塔 凝结之灵",
+      "chromas": false
+    },
+    {
+      "id": "12026",
+      "name": "黯晶巨牛 阿利斯塔 凝结之影",
+      "chromas": false
+    },
+    {
+      "id": "12027",
+      "name": "黯晶巨牛 阿利斯塔 凝结之魂",
+      "chromas": false
+    },
+    {
+      "id": "12028",
+      "name": "黯晶巨牛 阿利斯塔 凝结之风",
+      "chromas": false
+    },
+    {
+      "id": "12029",
+      "name": "福牛守护者 阿利斯塔",
+      "chromas": true
+    },
+    {
+      "id": "12030",
+      "name": "福牛守护者 阿利斯塔 贺岁",
+      "chromas": false
+    },
+    {
+      "id": "12031",
+      "name": "福牛守护者 阿利斯塔 纳福",
+      "chromas": false
+    },
+    {
+      "id": "12032",
+      "name": "福牛守护者 阿利斯塔 招财",
+      "chromas": false
+    },
+    {
+      "id": "12033",
+      "name": "福牛守护者 阿利斯塔 进宝",
+      "chromas": false
+    },
+    {
+      "id": "12034",
+      "name": "福牛守护者 阿利斯塔 如意",
+      "chromas": false
+    },
+    {
+      "id": "12035",
+      "name": "福牛守护者 阿利斯塔 吉祥",
+      "chromas": false
+    },
+    {
+      "id": "12036",
+      "name": "福牛守护者 阿利斯塔 团圆",
+      "chromas": false
+    },
+    {
+      "id": "12040",
+      "name": "永恒之森 阿利斯塔",
+      "chromas": false
+    },
+    {
+      "id": "12041",
+      "name": "永恒之森 阿利斯塔 焰枫",
+      "chromas": false
+    },
+    {
+      "id": "12042",
+      "name": "永恒之森 阿利斯塔 辉瓣",
+      "chromas": false
+    },
+    {
+      "id": "12043",
+      "name": "永恒之森 阿利斯塔 永茂",
+      "chromas": true
+    },
+    {
+      "id": "12044",
+      "name": "永恒之森 阿利斯塔 桔梗",
+      "chromas": false
+    },
+    {
+      "id": "12045",
+      "name": "永恒之森 阿利斯塔 寒楹",
+      "chromas": false
+    },
+    {
+      "id": "12046",
+      "name": "永恒之森 阿利斯塔 樱落",
+      "chromas": false
+    },
+    {
+      "id": "12047",
+      "name": "永恒之森 阿利斯塔 冰桦",
+      "chromas": false
+    },
+    {
+      "id": "12048",
+      "name": "永恒之森 阿利斯塔 月见",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "凯旋怒吼",
+    "description": "阿利斯塔在对敌方英雄造成晕眩或强制位移时，或附近有敌人阵亡时，会积攒他的怒吼层数。在层数攒满后，他会治疗他自己和所有附近的友方英雄。",
+    "image": "Alistar_E.png"
+  },
+  "spells": [
+    {
+      "name": "大地粉碎",
+      "description": "阿利斯塔锤击地面，对附近的敌人造成魔法伤害并使他们浮空。",
+      "tooltip": "阿利斯塔使大地破裂，击飞敌人{{ knockupduration }}秒并造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "14/13/12/11/10",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "365",
+      "maxrank": 5,
+      "image": "Pulverize.png",
+      "key": "Q"
+    },
+    {
+      "name": "野蛮冲撞",
+      "description": "阿利斯塔冲撞目标，对其造成伤害并击退目标。",
+      "tooltip": "阿利斯塔顶向一名敌人，将其击退并造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "14/13/12/11/10",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "Headbutt.png",
+      "key": "W"
+    },
+    {
+      "name": "践踏",
+      "description": "阿利斯塔践踏附近的敌方单位，无视单位的碰撞体积并在他伤害到一名敌方英雄时获得一层充能。在满层充能时，阿利斯塔的下次对敌方英雄发起的普攻将造成额外魔法伤害和晕眩效果。",
+      "tooltip": "阿利斯塔践踏地面，变为幽灵状态并在{{ duration }}秒里持续对附近的敌人造成{{ totaldamage }}魔法伤害。每段践踏在至少伤害到一名敌方英雄时会为阿利斯塔提供一层效果。在{{ maxstacks }}层效果时，阿利斯塔的下一个对英雄打出的攻击会晕眩目标{{ stunduration }}秒并造成额外的{{ attackbonusdamage }}魔法伤害。",
+      "cooldown": "12/11.5/11/10.5/10",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "350",
+      "maxrank": 5,
+      "image": "AlistarE.png",
+      "key": "E"
+    },
+    {
+      "name": "坚定意志",
+      "description": "阿利斯塔发出野性的咆哮，移除身上所有控制效果，并且持续时间内所受的物理和魔法伤害将减少。",
+      "tooltip": "阿利斯塔立刻净化掉所有限制效果并获得{{ rdamagereduction }}%伤害减免，持续{{ rduration }}秒。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1",
+      "maxrank": 3,
+      "image": "FerociousHowl.png",
+      "key": "R"
+    }
+  ]
+}

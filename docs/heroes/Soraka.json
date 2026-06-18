@@ -1,0 +1,408 @@
+{
+  "id": "Soraka",
+  "championId": "16",
+  "name": "众星之子",
+  "title": "索拉卡",
+  "region": "巨神峰",
+  "blurb": "作为一个来自天界的流浪者，索拉卡放弃了不朽的神格，只为保护凡人免于受到无知与暴力天性的危害。她对遇见的每一个人都施以慈悲与怜悯——即便是那些对她心存恶念的人也不例外。尽管早已经看遍这世上的苦痛与挣扎，索拉卡依然相信符文之地的人们有着更多的潜力等待发现。",
+  "tags": [
+    "辅助",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 5,
+    "magic": 7,
+    "difficulty": 3
+  },
+  "stats": {
+    "hp": 605,
+    "hpPerLevel": 88,
+    "mp": 425,
+    "mpPerLevel": 40,
+    "movespeed": 325,
+    "armor": 32,
+    "armorPerLevel": 5,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 50,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.14,
+    "hpregen": 2.5,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 11.5,
+    "mpregenPerLevel": 0.4,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "16001",
+      "name": "森林女神 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16002",
+      "name": "月光女神阿忒弥斯 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16003",
+      "name": "圣洁化身 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16004",
+      "name": "灵魂收割者 索拉卡",
+      "chromas": true
+    },
+    {
+      "id": "16005",
+      "name": "蕉泥座人 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16006",
+      "name": "源代码 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16007",
+      "name": "星之守护者 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16008",
+      "name": "睡衣守护者 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16009",
+      "name": "冬境仙灵 索拉卡",
+      "chromas": true
+    },
+    {
+      "id": "16010",
+      "name": "焰阳仙灵 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16011",
+      "name": "白雪仙灵 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16012",
+      "name": "夜幕仙灵 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16013",
+      "name": "极光仙灵 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16014",
+      "name": "蔷薇仙灵 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16015",
+      "name": "黎明使者 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16016",
+      "name": "黑夜使者 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16017",
+      "name": "至臻 星之守护者 索拉卡",
+      "chromas": false
+    },
+    {
+      "id": "16018",
+      "name": "咖啡甜心 索拉卡",
+      "chromas": true
+    },
+    {
+      "id": "16019",
+      "name": "咖啡甜心 索拉卡 草莓戚风",
+      "chromas": false
+    },
+    {
+      "id": "16020",
+      "name": "咖啡甜心 索拉卡 吉子芝士",
+      "chromas": false
+    },
+    {
+      "id": "16021",
+      "name": "咖啡甜心 索拉卡 姜汁香茅",
+      "chromas": false
+    },
+    {
+      "id": "16022",
+      "name": "咖啡甜心 索拉卡 海盐泡芙",
+      "chromas": false
+    },
+    {
+      "id": "16023",
+      "name": "咖啡甜心 索拉卡 提子班戟",
+      "chromas": false
+    },
+    {
+      "id": "16024",
+      "name": "咖啡甜心 索拉卡 焦糖布丁",
+      "chromas": false
+    },
+    {
+      "id": "16025",
+      "name": "咖啡甜心 索拉卡 核桃巴菲",
+      "chromas": false
+    },
+    {
+      "id": "16026",
+      "name": "咖啡甜心 索拉卡 薄荷雪拔",
+      "chromas": false
+    },
+    {
+      "id": "16027",
+      "name": "灵魂莲华 索拉卡",
+      "chromas": true
+    },
+    {
+      "id": "16028",
+      "name": "灵魂莲华 索拉卡 流火",
+      "chromas": false
+    },
+    {
+      "id": "16029",
+      "name": "灵魂莲华 索拉卡 风起",
+      "chromas": false
+    },
+    {
+      "id": "16030",
+      "name": "灵魂莲华 索拉卡 鸣蜩",
+      "chromas": false
+    },
+    {
+      "id": "16031",
+      "name": "灵魂莲华 索拉卡 雪落",
+      "chromas": false
+    },
+    {
+      "id": "16032",
+      "name": "灵魂莲华 索拉卡 春晓",
+      "chromas": false
+    },
+    {
+      "id": "16033",
+      "name": "灵魂莲华 索拉卡 星回",
+      "chromas": false
+    },
+    {
+      "id": "16034",
+      "name": "灵魂莲华 索拉卡 朝花",
+      "chromas": false
+    },
+    {
+      "id": "16035",
+      "name": "灵魂莲华 索拉卡 月升",
+      "chromas": false
+    },
+    {
+      "id": "16036",
+      "name": "灵魂莲华 索拉卡 绽夜",
+      "chromas": false
+    },
+    {
+      "id": "16037",
+      "name": "玉剑传说 星仙子",
+      "chromas": true
+    },
+    {
+      "id": "16038",
+      "name": "玉剑传说 星仙子 胭脂",
+      "chromas": false
+    },
+    {
+      "id": "16039",
+      "name": "玉剑传说 星仙子 丁香",
+      "chromas": false
+    },
+    {
+      "id": "16040",
+      "name": "玉剑传说 星仙子 青竹",
+      "chromas": false
+    },
+    {
+      "id": "16041",
+      "name": "玉剑传说 星仙子 珠光",
+      "chromas": false
+    },
+    {
+      "id": "16042",
+      "name": "玉剑传说 星仙子 墨云",
+      "chromas": false
+    },
+    {
+      "id": "16043",
+      "name": "玉剑传说 星仙子 紫檀",
+      "chromas": false
+    },
+    {
+      "id": "16044",
+      "name": "花仙子 索拉卡",
+      "chromas": true
+    },
+    {
+      "id": "16045",
+      "name": "花仙子 索拉卡 红漪",
+      "chromas": false
+    },
+    {
+      "id": "16046",
+      "name": "花仙子 索拉卡 荧光裳",
+      "chromas": false
+    },
+    {
+      "id": "16047",
+      "name": "花仙子 索拉卡 纹白",
+      "chromas": false
+    },
+    {
+      "id": "16048",
+      "name": "花仙子 索拉卡 琉璃翠",
+      "chromas": false
+    },
+    {
+      "id": "16049",
+      "name": "花仙子 索拉卡 樟青",
+      "chromas": false
+    },
+    {
+      "id": "16050",
+      "name": "花仙子 索拉卡 曙凤",
+      "chromas": false
+    },
+    {
+      "id": "16051",
+      "name": "花仙子 索拉卡 玫瑰水晶眼",
+      "chromas": false
+    },
+    {
+      "id": "16052",
+      "name": "花仙子 索拉卡 翠蓝",
+      "chromas": false
+    },
+    {
+      "id": "16053",
+      "name": "绝命花妖 索拉卡",
+      "chromas": true
+    },
+    {
+      "id": "16054",
+      "name": "绝命花妖 索拉卡 绚丽绽放",
+      "chromas": false
+    },
+    {
+      "id": "16055",
+      "name": "绝命花妖 索拉卡 冷艳绽放",
+      "chromas": false
+    },
+    {
+      "id": "16056",
+      "name": "绝命花妖 索拉卡 优雅绽放",
+      "chromas": false
+    },
+    {
+      "id": "16057",
+      "name": "绝命花妖 索拉卡 灿烂绽放",
+      "chromas": false
+    },
+    {
+      "id": "16058",
+      "name": "绝命花妖 索拉卡 梦幻绽放",
+      "chromas": false
+    },
+    {
+      "id": "16059",
+      "name": "绝命花妖 索拉卡 葱茏绽放",
+      "chromas": false
+    },
+    {
+      "id": "16060",
+      "name": "绝命花妖 索拉卡 幽香绽放",
+      "chromas": false
+    },
+    {
+      "id": "16061",
+      "name": "绝命花妖 索拉卡 素净绽放",
+      "chromas": false
+    },
+    {
+      "id": "16062",
+      "name": "灵魂收割者 索拉卡 末日",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "拯救",
+    "description": "索拉卡在朝着附近低血量的友方英雄移动时会提升移动速度。",
+    "image": "Soraka_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "流星坠落",
+      "description": "一颗流星从天而降，落在目标地点，造成魔法伤害，并对区域中心的敌人造成减速效果。如果一名敌人被此技能命中，那么索拉卡就会回复生命值。",
+      "tooltip": "索拉卡召唤下一颗星星，造成{{ totaldamage }}魔法伤害和持续{{ slowduration }}秒的{{ movespeedslow*100 }}%减速效果。命中一个敌方英雄时会为索拉卡提供活力焕发，在{{ hotduration }}秒里持续回复共{{ totalhot }}生命值并提供在此期间持续衰减的{{ movespeedhaste*100 }}%移动速度。",
+      "cooldown": "8/7/6/5/4",
+      "cost": "45/50/55/60/65",
+      "costType": " {{ abilityresourcename }}",
+      "range": "810",
+      "maxrank": 5,
+      "image": "SorakaQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "星之灌注",
+      "description": "索拉卡牺牲自己的一部分生命值来治疗一个友方英雄。",
+      "tooltip": "索拉卡给一名友方英雄回复{{ totalheal }}生命值。如果索拉卡带有活力焕发，那么生命值消耗会降低{{ percenthealthcostrefund*100 }}%，并且目标也会获得活力焕发，持续{{ spell.sorakaq:hotduration }}秒。",
+      "cooldown": "6/5/4/3/2",
+      "cost": "40/45/50/55/60",
+      "costType": "%最大生命值，{{ cost }}法力",
+      "range": "550",
+      "maxrank": 5,
+      "image": "SorakaW.png",
+      "key": "W"
+    },
+    {
+      "name": "星体结界",
+      "description": "在目标区域创造一个结界，沉默结界中的所有敌人。当结界消散时，仍在结界内的敌人会被禁锢。",
+      "tooltip": "索拉卡创造一个星之领域，对英雄造成{{ totaldamage }}魔法伤害。领域会存留{{ rootdelay }}秒，沉默其中的敌人们。当领域消失后，领域中的英雄们会被禁锢{{ rootduration }}秒并受到{{ totaldamage }}魔法伤害。",
+      "cooldown": "20/19/18/17/16",
+      "cost": "70/75/80/85/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "925",
+      "maxrank": 5,
+      "image": "SorakaE.png",
+      "key": "E"
+    },
+    {
+      "name": "祈愿",
+      "description": "索拉卡让友军充满希望，立刻使她和所有友方英雄回复生命值。",
+      "tooltip": "索拉卡召唤神圣的能量，来为所有友方英雄回复{{ healingcalc }}生命值，无论相距多远。对生命值低于40%的友方英雄的回复效果提升至{{ ampedhealing }}。",
+      "cooldown": "150/135/120",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "25000",
+      "maxrank": 3,
+      "image": "SorakaR.png",
+      "key": "R"
+    }
+  ]
+}

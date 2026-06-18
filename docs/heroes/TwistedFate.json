@@ -1,0 +1,363 @@
+{
+  "id": "TwistedFate",
+  "championId": "4",
+  "name": "卡牌大师",
+  "title": "崔斯特",
+  "region": "比尔吉沃特",
+  "blurb": "崔斯特是一名声名狼藉的诈骗惯犯，他让那些富人既羡慕又嫉恨，这世上任何有人烟之地都有过这位纸牌高手施展“魅力”与赌艺的足迹。他鲜少会认真干一件事，总是用一抹轻蔑的微笑和一副漫不经心的样子面对每一天。但无论什么情况，崔斯特的袖子里永远都会藏着一张王牌。",
+  "tags": [
+    "法师",
+    "射手"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 6,
+    "defense": 2,
+    "magic": 6,
+    "difficulty": 9
+  },
+  "stats": {
+    "hp": 604,
+    "hpPerLevel": 108,
+    "mp": 333,
+    "mpPerLevel": 39,
+    "movespeed": 330,
+    "armor": 24,
+    "armorPerLevel": 4.35,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 525,
+    "attackdamage": 52,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "4001",
+      "name": "蓝色忧郁 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4002",
+      "name": "红桃杰克 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4003",
+      "name": "魔幻卡牌 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4004",
+      "name": "探戈灵魂 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4005",
+      "name": "西部牛仔 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4006",
+      "name": "皇家火枪手 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4007",
+      "name": "地底世界 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4008",
+      "name": "逆转裁判 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4009",
+      "name": "逍遥赌侠 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4010",
+      "name": "腥红之月 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4011",
+      "name": "未来战士 崔斯特",
+      "chromas": true
+    },
+    {
+      "id": "4012",
+      "name": "未来战士 崔斯特 无尽永前",
+      "chromas": false
+    },
+    {
+      "id": "4013",
+      "name": "奥德赛 崔斯特",
+      "chromas": true
+    },
+    {
+      "id": "4014",
+      "name": "奥德赛 崔斯特 银河征服者",
+      "chromas": false
+    },
+    {
+      "id": "4015",
+      "name": "奥德赛 崔斯特 宇宙探索者",
+      "chromas": false
+    },
+    {
+      "id": "4016",
+      "name": "奥德赛 崔斯特 巨行星搬运者",
+      "chromas": false
+    },
+    {
+      "id": "4017",
+      "name": "奥德赛 崔斯特 彗星追赶者",
+      "chromas": false
+    },
+    {
+      "id": "4018",
+      "name": "奥德赛 崔斯特 小行星带探险者",
+      "chromas": false
+    },
+    {
+      "id": "4019",
+      "name": "奥德赛 崔斯特 星光守卫者",
+      "chromas": false
+    },
+    {
+      "id": "4020",
+      "name": "奥德赛 崔斯特 虫洞穿行者",
+      "chromas": false
+    },
+    {
+      "id": "4021",
+      "name": "奥德赛 崔斯特 星云环游者",
+      "chromas": false
+    },
+    {
+      "id": "4022",
+      "name": "奥德赛 崔斯特 恒星游历者",
+      "chromas": false
+    },
+    {
+      "id": "4023",
+      "name": "DWG 崔斯特",
+      "chromas": true
+    },
+    {
+      "id": "4024",
+      "name": "DWG 崔斯特 精锐",
+      "chromas": false
+    },
+    {
+      "id": "4025",
+      "name": "地下都市 梦魇 崔斯特",
+      "chromas": true
+    },
+    {
+      "id": "4026",
+      "name": "地下都市 梦魇 崔斯特 红莲",
+      "chromas": false
+    },
+    {
+      "id": "4027",
+      "name": "地下都市 梦魇 崔斯特 青木",
+      "chromas": false
+    },
+    {
+      "id": "4028",
+      "name": "地下都市 梦魇 崔斯特 幻魅",
+      "chromas": false
+    },
+    {
+      "id": "4029",
+      "name": "地下都市 梦魇 崔斯特 蓝霜",
+      "chromas": false
+    },
+    {
+      "id": "4030",
+      "name": "地下都市 梦魇 崔斯特 琥珀",
+      "chromas": false
+    },
+    {
+      "id": "4031",
+      "name": "地下都市 梦魇 崔斯特 黛夜",
+      "chromas": false
+    },
+    {
+      "id": "4032",
+      "name": "地下都市 梦魇 崔斯特 白影",
+      "chromas": false
+    },
+    {
+      "id": "4033",
+      "name": "地下都市 梦魇 崔斯特 黑曜",
+      "chromas": false
+    },
+    {
+      "id": "4034",
+      "name": "地下都市 梦魇 崔斯特 孽影",
+      "chromas": false
+    },
+    {
+      "id": "4036",
+      "name": "太空律动 “万能舞王” 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4037",
+      "name": "“万能舞王” 崔斯特 传送抢个红",
+      "chromas": true
+    },
+    {
+      "id": "4038",
+      "name": "“万能舞王” 崔斯特 传送蹲草丛",
+      "chromas": false
+    },
+    {
+      "id": "4039",
+      "name": "“万能舞王” 崔斯特 传送拆个家",
+      "chromas": false
+    },
+    {
+      "id": "4040",
+      "name": "“万能舞王” 崔斯特 传送抢个车",
+      "chromas": false
+    },
+    {
+      "id": "4041",
+      "name": "“万能舞王” 崔斯特 传送抢个蟹",
+      "chromas": false
+    },
+    {
+      "id": "4042",
+      "name": "“万能舞王” 崔斯特 传送抢先锋",
+      "chromas": false
+    },
+    {
+      "id": "4043",
+      "name": "“万能舞王” 崔斯特 传送抢男爵",
+      "chromas": false
+    },
+    {
+      "id": "4044",
+      "name": "“万能舞王” 崔斯特 传送拆水晶",
+      "chromas": false
+    },
+    {
+      "id": "4045",
+      "name": "胜利之运 崔斯特",
+      "chromas": false
+    },
+    {
+      "id": "4046",
+      "name": "胜利之运 崔斯特 英勇黄铜",
+      "chromas": true
+    },
+    {
+      "id": "4047",
+      "name": "胜利之运 崔斯特 不屈白银",
+      "chromas": false
+    },
+    {
+      "id": "4048",
+      "name": "胜利之运 崔斯特 荣耀黄金",
+      "chromas": false
+    },
+    {
+      "id": "4049",
+      "name": "胜利之运 崔斯特 华贵铂金",
+      "chromas": false
+    },
+    {
+      "id": "4050",
+      "name": "胜利之运 崔斯特 流光翡翠",
+      "chromas": false
+    },
+    {
+      "id": "4051",
+      "name": "胜利之运 崔斯特 璀璨钻石",
+      "chromas": false
+    },
+    {
+      "id": "4052",
+      "name": "胜利之运 崔斯特 超凡大师",
+      "chromas": false
+    },
+    {
+      "id": "4053",
+      "name": "胜利之运 崔斯特 傲世宗师",
+      "chromas": false
+    },
+    {
+      "id": "4054",
+      "name": "胜利之运 崔斯特 最强王者",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "灌铅骰子",
+    "description": "在击杀了一名单位后，崔斯特会投掷他的“幸运”骰，随机获得1到6的额外赏金。",
+    "image": "Cardmaster_SealFate.png"
+  },
+  "spells": [
+    {
+      "name": "万能牌",
+      "description": "崔斯特扔出三张卡牌，卡牌会对沿途的每个敌方单位造成伤害。",
+      "tooltip": "崔斯特掷出三张牌，各造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "6/5.75/5.5/5.25/5",
+      "cost": "60/70/80/90/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "10000",
+      "maxrank": 5,
+      "image": "WildCards.png",
+      "key": "Q"
+    },
+    {
+      "name": "选牌",
+      "description": "崔斯特挑选魔法卡牌，用于下次攻击，并附加额外效果。",
+      "tooltip": "崔斯特开始洗牌，允许他再次施放来从3张牌中锁定一张，并且强化他的下次攻击。蓝牌造成{{ bluedamage }}魔法伤害并回复{{ e6 }}法力。红牌对附近的敌人造成{{ reddamage }}魔法伤害和持续2.5秒的{{ e2 }}%减速。金牌造成{{ golddamage }}魔法伤害和{{ e3 }}秒晕眩。",
+      "cooldown": "6",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "200",
+      "maxrank": 5,
+      "image": "PickACard.png",
+      "key": "W"
+    },
+    {
+      "name": "卡牌骗术",
+      "description": "崔斯特每四次攻击附加一次额外伤害。另外，崔斯特的攻击速度得到被动提升。",
+      "tooltip": "被动：崔斯特获得{{ attackspeedbonus }}%攻击速度并且每第4次攻击造成额外的{{ bonusdamage }}魔法伤害。",
+      "cooldown": "0",
+      "cost": "0",
+      "costType": "被动",
+      "range": "0",
+      "maxrank": 5,
+      "image": "CardmasterStack.png",
+      "key": "E"
+    },
+    {
+      "name": "命运",
+      "description": "崔斯特为他的敌人算卜命运，短时间内显示所有敌方英雄的位置，并可使用传送，让他在引导1.5秒后传送至目标位置。",
+      "tooltip": "崔斯特专注于他的卡牌，提供地图上所有敌方英雄的真实视野，持续{{ e1 }}秒，并允许他再次施放。再次施放：崔斯特传送到{{ e4 }}码以内的任何地方。",
+      "cooldown": "170/140/110",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "5500",
+      "maxrank": 3,
+      "image": "Destiny.png",
+      "key": "R"
+    }
+  ]
+}

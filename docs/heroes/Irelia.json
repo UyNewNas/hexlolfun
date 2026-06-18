@@ -1,0 +1,408 @@
+{
+  "id": "Irelia",
+  "championId": "39",
+  "name": "刀锋舞者",
+  "title": "艾瑞莉娅",
+  "region": "艾欧尼亚",
+  "blurb": "诺克萨斯对艾欧尼亚的占领催生了许多英雄，但没有谁像来自纳沃利的艾瑞莉娅一般令人意外。她将家乡的古老舞艺化为战技，以精心修习的优雅身姿操控着致命的刀阵。在向众人证明了自己的战斗实力后，这位刀锋舞者被推举为反抗军的领袖和首脑，为守卫家园奋斗至今。",
+  "tags": [
+    "战士",
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 7,
+    "defense": 4,
+    "magic": 5,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 630,
+    "hpPerLevel": 115,
+    "mp": 350,
+    "mpPerLevel": 50,
+    "movespeed": 335,
+    "armor": 36,
+    "armorPerLevel": 4.7,
+    "spellblock": 30,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 200,
+    "attackdamage": 65,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.656,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 3.5,
+    "hpregenPerLevel": 0.85,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "39001",
+      "name": "夜刃 艾瑞莉娅",
+      "chromas": false
+    },
+    {
+      "id": "39002",
+      "name": "凌云之翼 艾瑞莉娅",
+      "chromas": false
+    },
+    {
+      "id": "39003",
+      "name": "夜行义贼 艾瑞莉娅",
+      "chromas": false
+    },
+    {
+      "id": "39004",
+      "name": "冰霜之刃 艾瑞莉娅",
+      "chromas": true
+    },
+    {
+      "id": "39005",
+      "name": "莲花之令 艾瑞莉娅",
+      "chromas": false
+    },
+    {
+      "id": "39006",
+      "name": "玉剑传说 舞剑仙",
+      "chromas": true
+    },
+    {
+      "id": "39007",
+      "name": "玉剑传说 舞剑仙 承影",
+      "chromas": false
+    },
+    {
+      "id": "39008",
+      "name": "玉剑传说 舞剑仙 纯钧",
+      "chromas": false
+    },
+    {
+      "id": "39009",
+      "name": "玉剑传说 舞剑仙 龙渊",
+      "chromas": false
+    },
+    {
+      "id": "39010",
+      "name": "玉剑传说 舞剑仙 七星",
+      "chromas": false
+    },
+    {
+      "id": "39011",
+      "name": "玉剑传说 舞剑仙 湛泸",
+      "chromas": false
+    },
+    {
+      "id": "39012",
+      "name": "玉剑传说 舞剑仙 轩辕",
+      "chromas": false
+    },
+    {
+      "id": "39013",
+      "name": "玉剑传说 舞剑仙 赤霄",
+      "chromas": false
+    },
+    {
+      "id": "39014",
+      "name": "冰霜之刃 艾瑞莉娅 炫金",
+      "chromas": false
+    },
+    {
+      "id": "39015",
+      "name": "iG 艾瑞莉娅",
+      "chromas": true
+    },
+    {
+      "id": "39016",
+      "name": "源计划：正义 艾瑞莉娅",
+      "chromas": false
+    },
+    {
+      "id": "39017",
+      "name": "至臻 源计划：正义 艾瑞莉娅",
+      "chromas": false
+    },
+    {
+      "id": "39018",
+      "name": "西部天使 艾瑞莉娅",
+      "chromas": true
+    },
+    {
+      "id": "39019",
+      "name": "西部天使 艾瑞莉娅 贝列之锐",
+      "chromas": false
+    },
+    {
+      "id": "39020",
+      "name": "西部天使 艾瑞莉娅 布耶尔之疗",
+      "chromas": false
+    },
+    {
+      "id": "39021",
+      "name": "西部天使 艾瑞莉娅 路西法之逆",
+      "chromas": false
+    },
+    {
+      "id": "39022",
+      "name": "西部天使 艾瑞莉娅 贝利尔之怠",
+      "chromas": false
+    },
+    {
+      "id": "39023",
+      "name": "西部天使 艾瑞莉娅 巴耶力之生",
+      "chromas": false
+    },
+    {
+      "id": "39024",
+      "name": "西部天使 艾瑞莉娅 欧利昂之威",
+      "chromas": false
+    },
+    {
+      "id": "39025",
+      "name": "西部天使 艾瑞莉娅 瓦沙克之言",
+      "chromas": false
+    },
+    {
+      "id": "39026",
+      "name": "光明哨兵 艾瑞莉娅",
+      "chromas": true
+    },
+    {
+      "id": "39027",
+      "name": "光明哨兵 艾瑞莉娅 帝国抗击者",
+      "chromas": false
+    },
+    {
+      "id": "39028",
+      "name": "光明哨兵 艾瑞莉娅 山峰抗击者",
+      "chromas": false
+    },
+    {
+      "id": "39029",
+      "name": "光明哨兵 艾瑞莉娅 森林抗击者",
+      "chromas": false
+    },
+    {
+      "id": "39030",
+      "name": "光明哨兵 艾瑞莉娅 虚无抗击者",
+      "chromas": false
+    },
+    {
+      "id": "39031",
+      "name": "光明哨兵 艾瑞莉娅 海港抗击者",
+      "chromas": false
+    },
+    {
+      "id": "39032",
+      "name": "光明哨兵 艾瑞莉娅 极地抗击者",
+      "chromas": false
+    },
+    {
+      "id": "39033",
+      "name": "光明哨兵 艾瑞莉娅 灵岛抗击者",
+      "chromas": false
+    },
+    {
+      "id": "39034",
+      "name": "光明哨兵 艾瑞莉娅 丛林抗击者",
+      "chromas": false
+    },
+    {
+      "id": "39035",
+      "name": "光明哨兵 艾瑞莉娅 坚定抗击者",
+      "chromas": false
+    },
+    {
+      "id": "39036",
+      "name": "至臻 源计划：正义 艾瑞莉娅 (2022)",
+      "chromas": false
+    },
+    {
+      "id": "39037",
+      "name": "剪纸仙灵 艾瑞莉娅",
+      "chromas": true
+    },
+    {
+      "id": "39038",
+      "name": "剪纸仙灵 艾瑞莉娅 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "39039",
+      "name": "剪纸仙灵 艾瑞莉娅 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "39040",
+      "name": "剪纸仙灵 艾瑞莉娅 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "39041",
+      "name": "剪纸仙灵 艾瑞莉娅 年年有余",
+      "chromas": false
+    },
+    {
+      "id": "39042",
+      "name": "剪纸仙灵 艾瑞莉娅 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "39043",
+      "name": "剪纸仙灵 艾瑞莉娅 金玉满堂",
+      "chromas": false
+    },
+    {
+      "id": "39044",
+      "name": "玉剑传说 舞剑仙 空翠烟霏",
+      "chromas": false
+    },
+    {
+      "id": "39045",
+      "name": "青花瓷 艾瑞莉娅",
+      "chromas": true
+    },
+    {
+      "id": "39046",
+      "name": "青花瓷 艾瑞莉娅 牡丹",
+      "chromas": false
+    },
+    {
+      "id": "39047",
+      "name": "青花瓷 艾瑞莉娅 芭蕉",
+      "chromas": false
+    },
+    {
+      "id": "39048",
+      "name": "青花瓷 艾瑞莉娅 天青",
+      "chromas": false
+    },
+    {
+      "id": "39049",
+      "name": "青花瓷 艾瑞莉娅 釉色",
+      "chromas": false
+    },
+    {
+      "id": "39050",
+      "name": "青花瓷 艾瑞莉娅 含苞",
+      "chromas": false
+    },
+    {
+      "id": "39051",
+      "name": "青花瓷 艾瑞莉娅 月色",
+      "chromas": false
+    },
+    {
+      "id": "39052",
+      "name": "青花瓷 艾瑞莉娅 墨色",
+      "chromas": false
+    },
+    {
+      "id": "39053",
+      "name": "青花瓷 艾瑞莉娅 金辉玉洁",
+      "chromas": false
+    },
+    {
+      "id": "39054",
+      "name": "青花瓷 艾瑞莉娅 锦鲤",
+      "chromas": false
+    },
+    {
+      "id": "39055",
+      "name": "灵魂莲华 艾瑞莉娅",
+      "chromas": true
+    },
+    {
+      "id": "39056",
+      "name": "灵魂莲华 艾瑞莉娅 流火",
+      "chromas": false
+    },
+    {
+      "id": "39057",
+      "name": "灵魂莲华 艾瑞莉娅 雁来",
+      "chromas": false
+    },
+    {
+      "id": "39058",
+      "name": "灵魂莲华 艾瑞莉娅 风起",
+      "chromas": false
+    },
+    {
+      "id": "39059",
+      "name": "灵魂莲华 艾瑞莉娅 云开",
+      "chromas": false
+    },
+    {
+      "id": "39060",
+      "name": "灵魂莲华 艾瑞莉娅 月升",
+      "chromas": false
+    },
+    {
+      "id": "39061",
+      "name": "灵魂莲华 艾瑞莉娅 春晓",
+      "chromas": false
+    },
+    {
+      "id": "39062",
+      "name": "iG 艾瑞莉娅 极境",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "艾欧尼亚热诚",
+    "description": "当艾瑞莉娅用技能命中敌人时，她会获得可叠加的攻击速度加成。这个效果在满层时还会为艾瑞莉娅提供攻击附伤。",
+    "image": "Irelia_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "利刃冲击",
+      "description": "艾瑞莉娅向前突进以打击她的目标，并治疗自身。如果目标被标记或死于利刃冲击，那么它的冷却时间会刷新。",
+      "tooltip": "艾瑞莉娅冲向一名敌人，造成{{ championdamage }}物理伤害并回复自身 {{ healamount }}生命值。如果敌人阵亡或者重心不稳，那么会刷新冷却时间。对小兵造成{{ miniondamage }}伤害。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "15",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 5,
+      "image": "IreliaQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "距破之舞",
+      "description": "艾瑞莉娅开始蓄力以进行一次打击，蓄力越久则打击造成的伤害越多。在蓄力期间她所受的物理伤害降低。",
+      "tooltip": "开始蓄力：艾瑞莉娅进入防御姿态，至多持续{{ maxduration }}秒，变得无法行动但使所受的物理伤害降低{{ finalphysicaldr }}%、所受的魔法伤害降低{{ finalmagicdr }}%。释放：艾瑞莉娅放出她的刀锋，造成{{ mindamagecalc }}物理伤害，基于蓄力时间至多提升至{{ maxdamagecalc }}。",
+      "cooldown": "20/18/16/14/12",
+      "cost": "70/75/80/85/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "825",
+      "maxrank": 5,
+      "image": "IreliaW.png",
+      "key": "W"
+    },
+    {
+      "name": "比翼双刃",
+      "description": "艾瑞莉娅放出两柄相互聚拢的利刃。利刃之间被击中的敌人会受到伤害、晕眩效果并被标记。",
+      "tooltip": "艾瑞莉娅扔出一把刀锋至地上，并且至多可在{{ buffduration }}秒里再次施放。再次施放：艾瑞莉娅扔出第二把刀锋，随后两把刀锋会朝着彼此飞行，对沿途的敌人造成{{ stunduration }}秒晕眩和{{ totaldamage }}魔法伤害。英雄和大型野怪会进入重心不稳状态，持续{{ markduration }}秒。",
+      "cooldown": "16/14.5/13/11.5/10",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "850",
+      "maxrank": 5,
+      "image": "IreliaE.png",
+      "key": "E"
+    },
+    {
+      "name": "先锋之刃",
+      "description": "艾瑞莉娅发射庞大数量的利刃，它们会在命中一名敌方英雄时向外爆开。被利刃命中的敌人会受到伤害并被标记。然后利刃会形成一道刃墙，在敌人穿过时造成伤害、和减速效果。",
+      "tooltip": "艾瑞莉娅发射出一阵刀锋弹幕，造成{{ missiledamage }}魔法伤害并对英雄和大型野怪施加持续{{ markduration }}秒的重心不稳。刀锋弹幕会在命中第一个英雄后绽放成一个持续{{ zoneduration }}秒的牢笼。牢笼造成{{ zonedamage }}魔法伤害和持续{{ ccduration }}秒的{{ slowamount }}%减速。",
+      "cooldown": "125/105/85",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "950",
+      "maxrank": 3,
+      "image": "IreliaR.png",
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "id": "Fiora",
+  "championId": "114",
+  "name": "无双剑姬",
+  "title": "菲奥娜",
+  "region": "德玛西亚",
+  "blurb": "菲奥娜是全瓦洛兰最可怕的决斗家。与她雷厉风行、狡黠聪慧的性格一起闻名于世的，还有她舞弄蓝钢佩剑时的矫健身姿。菲奥娜出生在德玛西亚王国的劳伦特家族，她从父亲的手中接管了家业，并在一场丑闻风波中拯救了岌岌可危的家族。如今，虽然劳伦特家族的威望已不复从前，但菲奥娜仍在一直不懈地努力着，希望重振家族荣光，让劳伦特这个名字重回德玛西亚名望贵族之列。",
+  "tags": [
+    "战士",
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 10,
+    "defense": 4,
+    "magic": 2,
+    "difficulty": 3
+  },
+  "stats": {
+    "hp": 620,
+    "hpPerLevel": 99,
+    "mp": 300,
+    "mpPerLevel": 60,
+    "movespeed": 345,
+    "armor": 33,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 150,
+    "attackdamage": 66,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.69,
+    "attackspeedPerLevel": 3.2,
+    "hpregen": 8.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "114001",
+      "name": "皇家守卫 菲奥娜",
+      "chromas": false
+    },
+    {
+      "id": "114002",
+      "name": "夜鸦 菲奥娜",
+      "chromas": false
+    },
+    {
+      "id": "114003",
+      "name": "女校长 菲奥娜",
+      "chromas": true
+    },
+    {
+      "id": "114004",
+      "name": "源计划：火 菲奥娜",
+      "chromas": true
+    },
+    {
+      "id": "114005",
+      "name": "泳池派对 菲奥娜",
+      "chromas": true
+    },
+    {
+      "id": "114006",
+      "name": "女校长 菲奥娜 燃烧的教鞭",
+      "chromas": false
+    },
+    {
+      "id": "114007",
+      "name": "女校长 菲奥娜 精准的眼力",
+      "chromas": false
+    },
+    {
+      "id": "114008",
+      "name": "女校长 菲奥娜 经典传承者",
+      "chromas": false
+    },
+    {
+      "id": "114009",
+      "name": "女校长 菲奥娜 差生毁灭者",
+      "chromas": false
+    },
+    {
+      "id": "114010",
+      "name": "女校长 菲奥娜 优雅的风度",
+      "chromas": false
+    },
+    {
+      "id": "114011",
+      "name": "女校长 菲奥娜 高洁的威严",
+      "chromas": false
+    },
+    {
+      "id": "114012",
+      "name": "女校长 菲奥娜 教育的荣光",
+      "chromas": false
+    },
+    {
+      "id": "114013",
+      "name": "女校长 菲奥娜 梦幻的倩影",
+      "chromas": false
+    },
+    {
+      "id": "114014",
+      "name": "泳池派对 菲奥娜 魅惑葡萄冰",
+      "chromas": false
+    },
+    {
+      "id": "114015",
+      "name": "泳池派对 菲奥娜 爽口橙子冰",
+      "chromas": false
+    },
+    {
+      "id": "114016",
+      "name": "泳池派对 菲奥娜 酸甜桃子冰",
+      "chromas": false
+    },
+    {
+      "id": "114017",
+      "name": "泳池派对 菲奥娜 浓郁香蕉冰",
+      "chromas": false
+    },
+    {
+      "id": "114018",
+      "name": "泳池派对 菲奥娜 清凉苹果冰",
+      "chromas": false
+    },
+    {
+      "id": "114019",
+      "name": "泳池派对 菲奥娜 纯正果奶冰",
+      "chromas": false
+    },
+    {
+      "id": "114020",
+      "name": "泳池派对 菲奥娜 夏日彩虹冰",
+      "chromas": false
+    },
+    {
+      "id": "114021",
+      "name": "泳池派对 菲奥娜 鲜嫩西瓜冰",
+      "chromas": false
+    },
+    {
+      "id": "114022",
+      "name": "玉剑传说 无双",
+      "chromas": false
+    },
+    {
+      "id": "114023",
+      "name": "穿心之剑 菲奥娜",
+      "chromas": true
+    },
+    {
+      "id": "114024",
+      "name": "穿心之剑 菲奥娜 惊叹之剑",
+      "chromas": false
+    },
+    {
+      "id": "114025",
+      "name": "穿心之剑 菲奥娜 幸福之剑",
+      "chromas": false
+    },
+    {
+      "id": "114026",
+      "name": "穿心之剑 菲奥娜 迷恋之剑",
+      "chromas": false
+    },
+    {
+      "id": "114027",
+      "name": "穿心之剑 菲奥娜 亲近之剑",
+      "chromas": false
+    },
+    {
+      "id": "114028",
+      "name": "穿心之剑 菲奥娜 希望之剑",
+      "chromas": false
+    },
+    {
+      "id": "114029",
+      "name": "穿心之剑 菲奥娜 结晶之剑",
+      "chromas": false
+    },
+    {
+      "id": "114030",
+      "name": "穿心之剑 菲奥娜 重聚之剑",
+      "chromas": false
+    },
+    {
+      "id": "114031",
+      "name": "iG 菲奥娜",
+      "chromas": true
+    },
+    {
+      "id": "114040",
+      "name": "源计划：火 菲奥娜 惩戒",
+      "chromas": false
+    },
+    {
+      "id": "114041",
+      "name": "未来战士 菲奥娜",
+      "chromas": false
+    },
+    {
+      "id": "114042",
+      "name": "未来战士 菲奥娜 量子纠缠",
+      "chromas": false
+    },
+    {
+      "id": "114043",
+      "name": "未来战士 菲奥娜 暗物质隐匿",
+      "chromas": false
+    },
+    {
+      "id": "114044",
+      "name": "未来战士 菲奥娜 时门突破",
+      "chromas": false
+    },
+    {
+      "id": "114045",
+      "name": "未来战士 菲奥娜 时空跃迁",
+      "chromas": false
+    },
+    {
+      "id": "114046",
+      "name": "未来战士 菲奥娜 曲速跳跃",
+      "chromas": false
+    },
+    {
+      "id": "114047",
+      "name": "未来战士 菲奥娜 物质坍塌",
+      "chromas": false
+    },
+    {
+      "id": "114048",
+      "name": "未来战士 菲奥娜 宇称守恒",
+      "chromas": false
+    },
+    {
+      "id": "114049",
+      "name": "未来战士 菲奥娜 无尽永前",
+      "chromas": true
+    },
+    {
+      "id": "114050",
+      "name": "福牛守护者 菲奥娜",
+      "chromas": false
+    },
+    {
+      "id": "114051",
+      "name": "至臻 福牛守护者 菲奥娜",
+      "chromas": false
+    },
+    {
+      "id": "114052",
+      "name": "福牛守护者 菲奥娜 贺岁",
+      "chromas": false
+    },
+    {
+      "id": "114053",
+      "name": "福牛守护者 菲奥娜 招财",
+      "chromas": false
+    },
+    {
+      "id": "114054",
+      "name": "福牛守护者 菲奥娜 祈福",
+      "chromas": false
+    },
+    {
+      "id": "114055",
+      "name": "福牛守护者 菲奥娜 纳福",
+      "chromas": false
+    },
+    {
+      "id": "114056",
+      "name": "福牛守护者 菲奥娜 如意",
+      "chromas": false
+    },
+    {
+      "id": "114057",
+      "name": "福牛守护者 菲奥娜 团圆",
+      "chromas": false
+    },
+    {
+      "id": "114058",
+      "name": "福牛守护者 菲奥娜 吉祥",
+      "chromas": true
+    },
+    {
+      "id": "114060",
+      "name": "魅惑女巫 菲奥娜",
+      "chromas": false
+    },
+    {
+      "id": "114061",
+      "name": "魅惑女巫 菲奥娜 热情化身",
+      "chromas": false
+    },
+    {
+      "id": "114062",
+      "name": "魅惑女巫 菲奥娜 清新化身",
+      "chromas": false
+    },
+    {
+      "id": "114063",
+      "name": "魅惑女巫 菲奥娜 青春化身",
+      "chromas": false
+    },
+    {
+      "id": "114064",
+      "name": "魅惑女巫 菲奥娜 浪漫化身",
+      "chromas": false
+    },
+    {
+      "id": "114065",
+      "name": "魅惑女巫 菲奥娜 典雅化身",
+      "chromas": false
+    },
+    {
+      "id": "114066",
+      "name": "魅惑女巫 菲奥娜 知性化身",
+      "chromas": false
+    },
+    {
+      "id": "114067",
+      "name": "魅惑女巫 菲奥娜 纯真化身",
+      "chromas": false
+    },
+    {
+      "id": "114068",
+      "name": "魅惑女巫 菲奥娜 高冷化身",
+      "chromas": false
+    },
+    {
+      "id": "114069",
+      "name": "花仙骑士 菲奥娜",
+      "chromas": true
+    },
+    {
+      "id": "114070",
+      "name": "花仙骑士 菲奥娜 红漪",
+      "chromas": false
+    },
+    {
+      "id": "114071",
+      "name": "花仙骑士 菲奥娜 荧光裳",
+      "chromas": false
+    },
+    {
+      "id": "114072",
+      "name": "花仙骑士 菲奥娜 蓝闪",
+      "chromas": false
+    },
+    {
+      "id": "114073",
+      "name": "花仙骑士 菲奥娜 琉璃翠",
+      "chromas": false
+    },
+    {
+      "id": "114074",
+      "name": "花仙骑士 菲奥娜 樟青",
+      "chromas": false
+    },
+    {
+      "id": "114075",
+      "name": "花仙骑士 菲奥娜 玫瑰水晶眼",
+      "chromas": false
+    },
+    {
+      "id": "114076",
+      "name": "花仙骑士 菲奥娜 曙凤",
+      "chromas": false
+    },
+    {
+      "id": "114077",
+      "name": "花仙骑士 菲奥娜 芒绿",
+      "chromas": false
+    },
+    {
+      "id": "114078",
+      "name": "花仙骑士 菲奥娜 迷人幻翼",
+      "chromas": true
+    },
+    {
+      "id": "114079",
+      "name": "巅峰剑仙 菲奥娜 天神下凡",
+      "chromas": false
+    },
+    {
+      "id": "114080",
+      "name": "神龙尊者 无双之龙 菲奥娜",
+      "chromas": false
+    },
+    {
+      "id": "114081",
+      "name": "神龙尊者 无双之龙 菲奥娜 登龙",
+      "chromas": false
+    },
+    {
+      "id": "114082",
+      "name": "神龙尊者 无双之龙 菲奥娜 玄黄",
+      "chromas": false
+    },
+    {
+      "id": "114083",
+      "name": "神龙尊者 无双之龙 菲奥娜 碧漪",
+      "chromas": false
+    },
+    {
+      "id": "114084",
+      "name": "神龙尊者 无双之龙 菲奥娜 集仙",
+      "chromas": false
+    },
+    {
+      "id": "114085",
+      "name": "神龙尊者 无双之龙 菲奥娜 望霞",
+      "chromas": false
+    },
+    {
+      "id": "114086",
+      "name": "神龙尊者 无双之龙 菲奥娜 松峦",
+      "chromas": false
+    },
+    {
+      "id": "114087",
+      "name": "神龙尊者 无双之龙 菲奥娜 揽月",
+      "chromas": false
+    },
+    {
+      "id": "114088",
+      "name": "神龙尊者 无双之龙 菲奥娜 朝云",
+      "chromas": false
+    },
+    {
+      "id": "114089",
+      "name": "女帝 菲奥娜",
+      "chromas": true
+    },
+    {
+      "id": "114090",
+      "name": "女帝 菲奥娜 纹章之刻印·英勇",
+      "chromas": false
+    },
+    {
+      "id": "114091",
+      "name": "女帝 菲奥娜 纹章之刻印·坚毅",
+      "chromas": false
+    },
+    {
+      "id": "114092",
+      "name": "女帝 菲奥娜 纹章之刻印·无我",
+      "chromas": false
+    },
+    {
+      "id": "114093",
+      "name": "女帝 菲奥娜 纹章之刻印·果决",
+      "chromas": false
+    },
+    {
+      "id": "114094",
+      "name": "女帝 菲奥娜 纹章之刻印·飒爽",
+      "chromas": false
+    },
+    {
+      "id": "114095",
+      "name": "女帝 菲奥娜 纹章之刻印·强运",
+      "chromas": false
+    },
+    {
+      "id": "114096",
+      "name": "女帝 菲奥娜 纹章之刻印·敏锐",
+      "chromas": false
+    },
+    {
+      "id": "114097",
+      "name": "女帝 菲奥娜 纹章之刻印·深谋",
+      "chromas": false
+    },
+    {
+      "id": "114098",
+      "name": "胜利女神 菲奥娜",
+      "chromas": true
+    },
+    {
+      "id": "114099",
+      "name": "胜利女神 菲奥娜 英勇黄铜",
+      "chromas": false
+    },
+    {
+      "id": "114100",
+      "name": "胜利女神 菲奥娜 不屈白银",
+      "chromas": false
+    },
+    {
+      "id": "114101",
+      "name": "胜利女神 菲奥娜 荣耀黄金",
+      "chromas": false
+    },
+    {
+      "id": "114102",
+      "name": "胜利女神 菲奥娜 华贵铂金",
+      "chromas": false
+    },
+    {
+      "id": "114103",
+      "name": "胜利女神 菲奥娜 流光翡翠",
+      "chromas": false
+    },
+    {
+      "id": "114104",
+      "name": "胜利女神 菲奥娜 璀璨钻石",
+      "chromas": false
+    },
+    {
+      "id": "114105",
+      "name": "胜利女神 菲奥娜 超凡大师",
+      "chromas": false
+    },
+    {
+      "id": "114106",
+      "name": "胜利女神 菲奥娜 傲世宗师",
+      "chromas": false
+    },
+    {
+      "id": "114107",
+      "name": "胜利女神 菲奥娜 最强王者",
+      "chromas": true
+    },
+    {
+      "id": "114108",
+      "name": "iG 菲奥娜 极境",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "决斗之舞",
+    "description": "菲奥娜已在这名英雄身上发现了一处破绽。如果她命中了这处破绽，她就会回复生命值并获得移动速度。",
+    "image": "Fiora_P.png"
+  },
+  "spells": [
+    {
+      "name": "破空斩",
+      "description": "菲奥娜向一个方向冲刺，并刺击一个附近的敌人，造成物理伤害并施加攻击特效。",
+      "tooltip": "菲奥娜向一个方向进行突刺并刺击相距最近的敌人、守卫或建筑物，造成{{ totaldamage }}物理伤害。这次打击会优先攻击破绽和将被此打击击杀的单位。如果菲奥娜命中了一个敌人，那么这个技能的冷却时间就会缩短{{ cdrefundpercent*100 }}%。",
+      "cooldown": "13/11.25/9.5/7.75/6",
+      "cost": "20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "FioraQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "劳伦特心眼刀",
+      "description": "菲奥娜在短时间内对所有即将到来的伤害和限制效果进行招架，然后朝着一个方向进行刺击。这个刺击会减速命中的第一个敌方英雄，如果菲奥娜用这个技能格挡掉一个禁锢类效果，那么刺击会造成晕眩效果而非减速效果。",
+      "tooltip": "菲奥娜招架即将到来的所有伤害、限制效果和有害效果，持续{{ parryduration }}秒，然后刺击。刺击会对命中的第一个敌方英雄造成{{ stabdamage }}魔法伤害，并减速目标的{{ msslowpercent*-100 }}%移动速度和{{ attackslowpercent*-100 }}%攻击速度，持续{{ ccduration }}秒。如果菲奥娜招架掉一个定身效果，那么被刺击的敌人会被晕眩而非减速。",
+      "cooldown": "24/22/20/18/16",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "750",
+      "maxrank": 5,
+      "image": "FioraW.png",
+      "key": "W"
+    },
+    {
+      "name": "夺命连刺",
+      "description": "菲奥娜的下两次攻击将获得攻击速度加成。第一次攻击会使目标减速，而第二次攻击必定会产生暴击。",
+      "tooltip": "菲奥娜的下两次攻击获得{{ aspercent*100 }}%攻击速度。第一次攻击造成持续{{ slowduration }}秒的{{ slowpercent*-100 }}%减速。第二次攻击必定会产生暴击，造成{{ attacktwopercenttad*100 }}%伤害。",
+      "cooldown": "11/10/9/8/7",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "425",
+      "maxrank": 5,
+      "image": "FioraE.png",
+      "key": "E"
+    },
+    {
+      "name": "无双挑战",
+      "description": "菲奥娜显示出一个敌方英雄身上的所有四处破绽，并在目标附近时获得移动速度加成。如果菲奥娜命中了所有四处破绽，或者目标在死前至少被命中了一处破绽，那么菲奥娜和范围内的友军就会在接下来的几秒里持续获得治疗效果。",
+      "tooltip": "被动：决斗之舞移动速度加成提升至{{ percentms*100 }}%。主动：菲奥娜标出一名英雄身上的全部四处破绽，最多可造成{{ spell.fiorapassive:rdamagetotal }}最大生命值的真实伤害并在目标附近时获得决斗之舞的移动速度加成。如果菲奥娜在{{ markduration }}秒内命中了全部四处破绽，或者在目标死前至少命中一处，那么菲奥娜就会为周围的友方英雄每秒回复{{ healpersecondcalc }}生命值，持续{{ healduration }}秒。",
+      "cooldown": "110/90/70",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "500",
+      "maxrank": 3,
+      "image": "FioraR.png",
+      "key": "R"
+    }
+  ]
+}

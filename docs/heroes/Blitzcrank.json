@@ -1,0 +1,463 @@
+{
+  "id": "Blitzcrank",
+  "championId": "53",
+  "name": "蒸汽机器人",
+  "title": "布里茨",
+  "region": "祖安",
+  "blurb": "布里茨是来自祖安的一个巨大的、几乎坚不可摧的机械体，最初被制造出来的目的是为了处理有毒废料。然而他觉得自己存在的意义太过狭隘，于是就改装了自己的形态，以便更好地效力于地沟区的孱弱人群。布里茨无私地使用自己的力量和钢铁之躯保护其他人，伸出长长的机械援手，或者发出能量脉冲，制服任何带来麻烦的人。",
+  "tags": [
+    "坦克",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 4,
+    "defense": 8,
+    "magic": 5,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 600,
+    "hpPerLevel": 109,
+    "mp": 267,
+    "mpPerLevel": 40,
+    "movespeed": 325,
+    "armor": 37,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 62,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 1.13,
+    "hpregen": 7.5,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 8.5,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "53001",
+      "name": "铁锈斑斑 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53002",
+      "name": "钢铁之门 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53003",
+      "name": "擂台皇帝 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53004",
+      "name": "陆地王者4WD 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53005",
+      "name": "戴一个表 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53006",
+      "name": "苹果机器人 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53007",
+      "name": "防暴机器人 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53008",
+      "name": "蒸汽机器人 布里茨 炎之斗魂",
+      "chromas": false
+    },
+    {
+      "id": "53009",
+      "name": "蒸汽机器人 布里茨 雷之气势",
+      "chromas": false
+    },
+    {
+      "id": "53010",
+      "name": "蒸汽机器人 布里茨 铁之意志",
+      "chromas": false
+    },
+    {
+      "id": "53011",
+      "name": "战场BOSS 布里茨",
+      "chromas": true
+    },
+    {
+      "id": "53012",
+      "name": "战场BOSS 布里茨 “枢纽毁灭！”",
+      "chromas": false
+    },
+    {
+      "id": "53013",
+      "name": "战场BOSS 布里茨 “彩虹小马捕获！”",
+      "chromas": false
+    },
+    {
+      "id": "53014",
+      "name": "战场BOSS 布里茨 “摇杆不灵！”",
+      "chromas": false
+    },
+    {
+      "id": "53015",
+      "name": "战场BOSS 布里茨 “感光器损坏！”",
+      "chromas": false
+    },
+    {
+      "id": "53016",
+      "name": "战场BOSS 布里茨 “瞄准镜失准！”",
+      "chromas": false
+    },
+    {
+      "id": "53017",
+      "name": "战场BOSS 布里茨 “手柄故障！”",
+      "chromas": false
+    },
+    {
+      "id": "53018",
+      "name": "战场BOSS 布里茨 “圣剑易主！”",
+      "chromas": false
+    },
+    {
+      "id": "53019",
+      "name": "战场BOSS 布里茨 “彩虹之星陨落！”",
+      "chromas": false
+    },
+    {
+      "id": "53020",
+      "name": "暮色枪骑 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53021",
+      "name": "银白枪骑 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53022",
+      "name": "大魔法锅 布里茨",
+      "chromas": true
+    },
+    {
+      "id": "53023",
+      "name": "大魔法锅 布里茨 麻辣火锅",
+      "chromas": false
+    },
+    {
+      "id": "53024",
+      "name": "大魔法锅 布里茨 硫磺毒液",
+      "chromas": false
+    },
+    {
+      "id": "53025",
+      "name": "大魔法锅 布里茨 霜寒漩涡",
+      "chromas": false
+    },
+    {
+      "id": "53026",
+      "name": "大魔法锅 布里茨 剧毒之源",
+      "chromas": false
+    },
+    {
+      "id": "53027",
+      "name": "大魔法锅 布里茨 灵魂浓汤",
+      "chromas": false
+    },
+    {
+      "id": "53028",
+      "name": "大魔法锅 布里茨 猩红药剂",
+      "chromas": false
+    },
+    {
+      "id": "53029",
+      "name": "太空律动 “猫猫” 布里和里茨",
+      "chromas": true
+    },
+    {
+      "id": "53030",
+      "name": "“猫猫” 布里和里茨 小灰抓不到与我老黑有啥关系",
+      "chromas": false
+    },
+    {
+      "id": "53031",
+      "name": "“猫猫” 布里和里茨 大黑抓不到与我灰灰有啥关系",
+      "chromas": false
+    },
+    {
+      "id": "53032",
+      "name": "“猫猫” 布里和里茨 暹罗抓不到与我二黑有啥关系",
+      "chromas": false
+    },
+    {
+      "id": "53033",
+      "name": "“猫猫” 布里和里茨 小粉抓不到与我小白有啥关系",
+      "chromas": false
+    },
+    {
+      "id": "53034",
+      "name": "“猫猫” 布里和里茨 小白抓不到与我小黑有啥关系",
+      "chromas": false
+    },
+    {
+      "id": "53035",
+      "name": "“猫猫” 布里和里茨 小紫抓不到与我小绿有啥关系",
+      "chromas": false
+    },
+    {
+      "id": "53036",
+      "name": "胜利机器人 布里茨",
+      "chromas": true
+    },
+    {
+      "id": "53037",
+      "name": "胜利机器人 布里茨 单排/双排 华贵铂金",
+      "chromas": false
+    },
+    {
+      "id": "53038",
+      "name": "胜利机器人 布里茨 单排/双排 璀璨钻石",
+      "chromas": false
+    },
+    {
+      "id": "53039",
+      "name": "胜利机器人 布里茨 单排/双排 超凡大师",
+      "chromas": false
+    },
+    {
+      "id": "53040",
+      "name": "胜利机器人 布里茨 单排/双排 傲世宗师",
+      "chromas": false
+    },
+    {
+      "id": "53041",
+      "name": "胜利机器人 布里茨 单排/双排 最强王者",
+      "chromas": false
+    },
+    {
+      "id": "53042",
+      "name": "胜利机器人 布里茨 灵活排位 华贵铂金",
+      "chromas": false
+    },
+    {
+      "id": "53043",
+      "name": "胜利机器人 布里茨 灵活排位 璀璨钻石",
+      "chromas": false
+    },
+    {
+      "id": "53044",
+      "name": "胜利机器人 布里茨 灵活排位 超凡大师",
+      "chromas": false
+    },
+    {
+      "id": "53045",
+      "name": "胜利机器人 布里茨 灵活排位 傲世宗师",
+      "chromas": false
+    },
+    {
+      "id": "53046",
+      "name": "胜利机器人 布里茨 灵活排位 最强王者",
+      "chromas": false
+    },
+    {
+      "id": "53047",
+      "name": "巅峰之星 布里茨",
+      "chromas": true
+    },
+    {
+      "id": "53048",
+      "name": "巅峰之星 布里茨 顽强拼搏",
+      "chromas": false
+    },
+    {
+      "id": "53049",
+      "name": "巅峰之星 布里茨 奋发进取",
+      "chromas": false
+    },
+    {
+      "id": "53050",
+      "name": "巅峰之星 布里茨 不屈不挠",
+      "chromas": false
+    },
+    {
+      "id": "53051",
+      "name": "巅峰之星 布里茨 科学求实",
+      "chromas": false
+    },
+    {
+      "id": "53052",
+      "name": "巅峰之星 布里茨 自强不息",
+      "chromas": false
+    },
+    {
+      "id": "53053",
+      "name": "巅峰之星 布里茨 追求卓越",
+      "chromas": false
+    },
+    {
+      "id": "53054",
+      "name": "巅峰之星 布里茨 团结协作",
+      "chromas": false
+    },
+    {
+      "id": "53055",
+      "name": "巅峰之星 布里茨 永不言败",
+      "chromas": false
+    },
+    {
+      "id": "53056",
+      "name": "巨神蜂 布里茨",
+      "chromas": true
+    },
+    {
+      "id": "53057",
+      "name": "元气满满小红红 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53058",
+      "name": "冷若冰霜小深蓝 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53059",
+      "name": "春意盎然小青青 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53060",
+      "name": "白白嫩嫩小迷糊 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53061",
+      "name": "野心勃勃小腹黑 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53062",
+      "name": "笑意盈盈小紫紫 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53063",
+      "name": "可爱可爱粉红红 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53064",
+      "name": "五彩缤纷小可爱 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53066",
+      "name": "泡泡飘飘拳 布里茨",
+      "chromas": false
+    },
+    {
+      "id": "53067",
+      "name": "泡泡飘飘拳 布里茨 吃我一记“火冒三丈”！",
+      "chromas": true
+    },
+    {
+      "id": "53068",
+      "name": "泡泡飘飘拳 布里茨 吃我一记“眼冒金星”！",
+      "chromas": false
+    },
+    {
+      "id": "53069",
+      "name": "泡泡飘飘拳 布里茨 吃我一记“斗转星移”！",
+      "chromas": false
+    },
+    {
+      "id": "53070",
+      "name": "泡泡飘飘拳 布里茨 吃我一记“大发雷霆”！",
+      "chromas": false
+    },
+    {
+      "id": "53071",
+      "name": "泡泡飘飘拳 布里茨 吃我一记“万念俱灰”！",
+      "chromas": false
+    },
+    {
+      "id": "53072",
+      "name": "泡泡飘飘拳 布里茨 吃我一记“天昏地暗”！",
+      "chromas": false
+    },
+    {
+      "id": "53073",
+      "name": "泡泡飘飘拳 布里茨 吃我一记“翻江倒海”！",
+      "chromas": false
+    },
+    {
+      "id": "53074",
+      "name": "泡泡飘飘拳 布里茨 吃我一记“眼花缭乱”！",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "法力屏障",
+    "description": "布里茨在血量过低时会获得一层基于它法力值的护盾。",
+    "image": "Blitzcrank_ManaBarrier.png"
+  },
+  "spells": [
+    {
+      "name": "机械飞爪",
+      "description": "布里茨发射它的右手，来抓取碰到的第一个敌人，在对敌人造成伤害的同时，还会将这名敌人拉到它的面前。",
+      "tooltip": "布里茨射出它的右拳，将命中的第一个敌人拉拽向它并造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "20/19/18/17/16",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1079",
+      "maxrank": 5,
+      "image": "RocketGrab.png",
+      "key": "Q"
+    },
+    {
+      "name": "过载运转",
+      "description": "布里茨对自己进行了超级充电，它的攻击速度和移动速度得到了显著提升。它会在效果结束后暂时减速。",
+      "tooltip": "布里茨进行超级充能，获得持续衰减的{{ movespeedmod*100 }}%移动速度和{{ attackspeedmod*100 }}%攻击速度，持续{{ duration }}秒。持续期间过后，布里茨会减速{{ movespeedmodreduction*100 }}%，持续{{ slowduration }}秒。",
+      "cooldown": "15",
+      "cost": "75",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1",
+      "maxrank": 5,
+      "image": "Overdrive.png",
+      "key": "W"
+    },
+    {
+      "name": "能量铁拳",
+      "description": "布里茨为机械手臂充能，下次攻击造成双倍伤害并击飞目标。",
+      "tooltip": "布里茨给它的拳头充能，使它的下次攻击可以击飞{{ ccduration }}秒并造成{{ totaldamage }}物理伤害。",
+      "cooldown": "7/6.5/6/5.5/5",
+      "cost": "25",
+      "costType": " {{ abilityresourcename }}",
+      "range": "300",
+      "maxrank": 5,
+      "image": "PowerFist.png",
+      "key": "E"
+    },
+    {
+      "name": "静电力场",
+      "description": "被布里茨攻击过的敌人会被标记并在1秒后受到闪电伤害。此外，布里茨可以主动激活这个技能来移除附近敌人们的护盾、对他们造成伤害并暂时沉默他们。",
+      "tooltip": "被动：在这个技能可以使用时，闪电会充盈着布里茨的双拳，标记它攻击的敌人。在1秒后，被标记的敌人会被震击，受到{{ passivedamage }}魔法伤害。主动：布里茨进行过度充能，对附近的敌人造成{{ activedamage }}魔法伤害和{{ silenceduration }}秒沉默效果。敌人的护盾也会被摧毁。",
+      "cooldown": "60/40/20",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 3,
+      "image": "StaticField.png",
+      "key": "R"
+    }
+  ]
+}

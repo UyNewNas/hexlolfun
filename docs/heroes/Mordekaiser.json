@@ -1,0 +1,378 @@
+{
+  "id": "Mordekaiser",
+  "championId": "82",
+  "name": "铁铠冥魂",
+  "title": "莫德凯撒",
+  "region": "诺克萨斯",
+  "blurb": "两度被杀，三度重生。莫德凯撒是一位来自远古纪元的残酷军阀，他使用死灵巫术将无数灵魂禁锢在永恒的奴役中。现在几乎无人记得他早期的那些征服战争，也无人知道他有多强大的力量，但也有一些古老的灵魂认得他，而他们一直都在担心有一天他会回来，同时统治生者和死者。",
+  "tags": [
+    "战士",
+    "法师"
+  ],
+  "partype": "护盾",
+  "info": {
+    "attack": 4,
+    "defense": 6,
+    "magic": 7,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 645,
+    "hpPerLevel": 104,
+    "mp": 100,
+    "mpPerLevel": 0,
+    "movespeed": 335,
+    "armor": 37,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 61,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 1,
+    "hpregen": 5,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "82001",
+      "name": "龙骑士 莫德凯撒",
+      "chromas": false
+    },
+    {
+      "id": "82002",
+      "name": "地狱火 莫德凯撒",
+      "chromas": false
+    },
+    {
+      "id": "82003",
+      "name": "五杀摇滚吉他手  莫德凯撒",
+      "chromas": false
+    },
+    {
+      "id": "82004",
+      "name": "死亡领主 莫德凯撒",
+      "chromas": false
+    },
+    {
+      "id": "82005",
+      "name": "梅花国王 莫德凯撒",
+      "chromas": false
+    },
+    {
+      "id": "82006",
+      "name": "暗星 莫德凯撒",
+      "chromas": true
+    },
+    {
+      "id": "82007",
+      "name": "暗星 莫德凯撒 天神星之陨",
+      "chromas": false
+    },
+    {
+      "id": "82008",
+      "name": "暗星 莫德凯撒 万神殿之陷",
+      "chromas": false
+    },
+    {
+      "id": "82009",
+      "name": "暗星 莫德凯撒 智神星之嫉",
+      "chromas": false
+    },
+    {
+      "id": "82010",
+      "name": "暗星 莫德凯撒 战神星之爆",
+      "chromas": false
+    },
+    {
+      "id": "82011",
+      "name": "暗星 莫德凯撒 美神星之灭",
+      "chromas": false
+    },
+    {
+      "id": "82012",
+      "name": "暗星 莫德凯撒 主神星之黯",
+      "chromas": false
+    },
+    {
+      "id": "82013",
+      "name": "源计划：超体 莫德凯撒",
+      "chromas": true
+    },
+    {
+      "id": "82014",
+      "name": "源计划：超体 莫德凯撒 裂变",
+      "chromas": false
+    },
+    {
+      "id": "82015",
+      "name": "源计划：超体 莫德凯撒 震击",
+      "chromas": false
+    },
+    {
+      "id": "82016",
+      "name": "源计划：超体 莫德凯撒 幻灭",
+      "chromas": false
+    },
+    {
+      "id": "82017",
+      "name": "源计划：超体 莫德凯撒 天谴",
+      "chromas": false
+    },
+    {
+      "id": "82018",
+      "name": "源计划：超体 莫德凯撒 暴走",
+      "chromas": false
+    },
+    {
+      "id": "82019",
+      "name": "源计划：超体 莫德凯撒 默化",
+      "chromas": false
+    },
+    {
+      "id": "82020",
+      "name": "源计划：超体 莫德凯撒 雪崩",
+      "chromas": false
+    },
+    {
+      "id": "82021",
+      "name": "源计划：超体 莫德凯撒 泡影",
+      "chromas": false
+    },
+    {
+      "id": "82022",
+      "name": "源计划：超体 莫德凯撒 惩戒",
+      "chromas": false
+    },
+    {
+      "id": "82023",
+      "name": "五杀摇滚 III：遗失的章节 莫德凯撒",
+      "chromas": true
+    },
+    {
+      "id": "82024",
+      "name": "五杀摇滚 III：遗失的章节 莫德凯撒 热血",
+      "chromas": false
+    },
+    {
+      "id": "82025",
+      "name": "五杀摇滚 III：遗失的章节 莫德凯撒 叛逆",
+      "chromas": false
+    },
+    {
+      "id": "82026",
+      "name": "五杀摇滚 III：遗失的章节 莫德凯撒 厚重",
+      "chromas": false
+    },
+    {
+      "id": "82027",
+      "name": "五杀摇滚 III：遗失的章节 莫德凯撒 激昂",
+      "chromas": false
+    },
+    {
+      "id": "82028",
+      "name": "五杀摇滚 III：遗失的章节 莫德凯撒 硬核",
+      "chromas": false
+    },
+    {
+      "id": "82029",
+      "name": "五杀摇滚 III：遗失的章节 莫德凯撒 迷幻",
+      "chromas": false
+    },
+    {
+      "id": "82030",
+      "name": "五杀摇滚 III：遗失的章节 莫德凯撒 前卫",
+      "chromas": false
+    },
+    {
+      "id": "82031",
+      "name": "五杀摇滚 III：遗失的章节 莫德凯撒 黑暗",
+      "chromas": false
+    },
+    {
+      "id": "82032",
+      "name": "西部魔影 地狱列车长 莫德凯撒",
+      "chromas": true
+    },
+    {
+      "id": "82033",
+      "name": "西部魔影 地狱列车长 莫德凯撒 温和",
+      "chromas": false
+    },
+    {
+      "id": "82034",
+      "name": "西部魔影 地狱列车长 莫德凯撒 慷慨",
+      "chromas": false
+    },
+    {
+      "id": "82035",
+      "name": "西部魔影 地狱列车长 莫德凯撒 善良",
+      "chromas": false
+    },
+    {
+      "id": "82036",
+      "name": "西部魔影 地狱列车长 莫德凯撒 节制",
+      "chromas": false
+    },
+    {
+      "id": "82037",
+      "name": "西部魔影 地狱列车长 莫德凯撒 诚实",
+      "chromas": false
+    },
+    {
+      "id": "82038",
+      "name": "西部魔影 地狱列车长 莫德凯撒 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "82039",
+      "name": "西部魔影 地狱列车长 莫德凯撒 谦卑",
+      "chromas": false
+    },
+    {
+      "id": "82040",
+      "name": "西部魔影 地狱列车长 莫德凯撒 纯洁",
+      "chromas": false
+    },
+    {
+      "id": "82041",
+      "name": "西部魔影 地狱列车长 莫德凯撒 虔信",
+      "chromas": false
+    },
+    {
+      "id": "82042",
+      "name": "灰烬骑士 莫德凯撒",
+      "chromas": true
+    },
+    {
+      "id": "82043",
+      "name": "灰烬骑士 莫德凯撒 余烬觉醒",
+      "chromas": false
+    },
+    {
+      "id": "82044",
+      "name": "古神 莫德凯撒",
+      "chromas": true
+    },
+    {
+      "id": "82045",
+      "name": "古神 莫德凯撒 愤怒",
+      "chromas": false
+    },
+    {
+      "id": "82046",
+      "name": "古神 莫德凯撒 傲慢",
+      "chromas": false
+    },
+    {
+      "id": "82047",
+      "name": "古神 莫德凯撒 欺骗",
+      "chromas": false
+    },
+    {
+      "id": "82048",
+      "name": "古神 莫德凯撒 猜忌",
+      "chromas": false
+    },
+    {
+      "id": "82049",
+      "name": "古神 莫德凯撒 饕餮",
+      "chromas": false
+    },
+    {
+      "id": "82050",
+      "name": "古神 莫德凯撒 嫉妒",
+      "chromas": false
+    },
+    {
+      "id": "82051",
+      "name": "古神 莫德凯撒 倦怠",
+      "chromas": false
+    },
+    {
+      "id": "82052",
+      "name": "古神 莫德凯撒 顽固",
+      "chromas": false
+    },
+    {
+      "id": "82053",
+      "name": "古神 莫德凯撒 不畏",
+      "chromas": false
+    },
+    {
+      "id": "82054",
+      "name": "萨恩 · 乌祖尔 莫德凯撒",
+      "chromas": false
+    },
+    {
+      "id": "82055",
+      "name": "至臻 小气大亨 莫德凯撒",
+      "chromas": true
+    },
+    {
+      "id": "82058",
+      "name": "至臻 小气大亨 莫德凯撒 至强",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "黑暗起兮",
+    "description": "莫德凯撒在对英雄或野怪打出3次攻击或技能之后获得一个强力的伤害光环和移动速度。",
+    "image": "MordekaiserPassive.png"
+  },
+  "spells": [
+    {
+      "name": "破灭之锤",
+      "description": "莫德凯撒用他的权杖猛砸地面，来对被击中的每个敌人造成伤害。在只命中单个敌人时，伤害会提升。",
+      "tooltip": "莫德凯撒用夜陨猛砸地面，造成{{ qdamage }}魔法伤害，如果这个技能只命中了一个敌人，则伤害提升至{{ empowereddamagetooltip }}。",
+      "cooldown": "8/7/6/5/4",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "675",
+      "maxrank": 5,
+      "image": "MordekaiserQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "不坏之身",
+      "description": "莫德凯撒将他所造成和承受的伤害储存起来，以创造一个护盾。他可以消耗这个护盾来治疗自身。",
+      "tooltip": "被动：莫德凯撒将他造成的{{ damageconversion*100 }}%伤害和他受到的{{ damagetakenconversion*100 }}%伤害储存起来。主动：莫德凯撒获得相当于已储存伤害值的护盾。他可以再次施放这个技能来回复相当于{{ healingpercent*100 }}%剩余护盾值的生命值。最小护盾值：{{ minhealthtooltip }}最大护盾值：{{ maxhealthtooltip }}",
+      "cooldown": "12/11/10/9/8",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "25000",
+      "maxrank": 5,
+      "image": "MordekaiserW.png",
+      "key": "W"
+    },
+    {
+      "name": "断魂一扼",
+      "description": "莫德凯撒拉拽一个区域内的所有敌人",
+      "tooltip": "主动：将敌人朝他的方向拖拽，造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "18/16/14/12/10",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "700",
+      "maxrank": 5,
+      "image": "MordekaiserE.png",
+      "key": "E"
+    },
+    {
+      "name": "轮回绝境",
+      "description": "莫德凯撒将自身和他的目标拖拽到一个异次元空间，并偷取目标的一部分属性。如果他击杀了目标，那么会将这些属性保持到目标复活。",
+      "tooltip": "莫德凯撒将自身和一个敌方英雄放逐至死者领域{{ spiritrealmduration }}秒，并在期间内偷取该英雄{{ statstealpercentscalar*100 }}%的核心属性。如果莫德凯撒在死者领域击杀了该敌人，那么他会吞噬目标的灵魂，保留他所偷取的属性，直到目标复活为止。",
+      "cooldown": "140/120/100",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "650",
+      "maxrank": 3,
+      "image": "MordekaiserR.png",
+      "key": "R"
+    }
+  ]
+}

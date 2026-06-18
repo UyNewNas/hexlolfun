@@ -1,0 +1,497 @@
+{
+  "id": "Sivir",
+  "championId": "15",
+  "name": "战争女神",
+  "title": "希维尔",
+  "region": "恕瑞玛",
+  "blurb": "希维尔是著名的宝藏猎人和雇佣兵队长，在恕瑞玛沙漠中进行频繁的契约交易。她的兵器是一柄颇具传奇色彩的十字刃，她曾赢得过无数次战斗，虽然她本人报价不菲，但却深得雇主青睐。她有着著名的无畏决心和无尽的野心，并且以自己的事业为傲——只要赏金够高，她就能从凶险的恕瑞玛古墓中寻回深埋于地下的宝藏。不过随着好几股远古的力量搅动着恕瑞玛的根骨，希维尔突然发现自己被裹挟着、拉扯着，卷入了截然不同的命运。",
+  "tags": [
+    "射手"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 9,
+    "defense": 3,
+    "magic": 1,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 600,
+    "hpPerLevel": 104,
+    "mp": 340,
+    "mpPerLevel": 45,
+    "movespeed": 335,
+    "armor": 30,
+    "armorPerLevel": 4,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 500,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 1.6,
+    "hpregen": 3.25,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 6,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "15001",
+      "name": "战场公主 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15002",
+      "name": "亮丽女神 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15003",
+      "name": "女猎手 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15004",
+      "name": "钢铁之心 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15005",
+      "name": "创战纪 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15006",
+      "name": "冰雪风暴 希维尔",
+      "chromas": true
+    },
+    {
+      "id": "15007",
+      "name": "光明骑士 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15008",
+      "name": "胜利女神 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15009",
+      "name": "新创战纪 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15010",
+      "name": "送披萨的小姐姐 希维尔",
+      "chromas": true
+    },
+    {
+      "id": "15011",
+      "name": "送腊肠披萨的小姐姐 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15012",
+      "name": "送海鲜披萨的小姐姐 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15013",
+      "name": "送田园披萨的小姐姐 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15014",
+      "name": "送肉片披萨的小姐姐 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15015",
+      "name": "送双拼披萨的小姐姐 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15016",
+      "name": "腥红之月 希维尔",
+      "chromas": true
+    },
+    {
+      "id": "15017",
+      "name": "冰雪风暴 希维尔 炫金",
+      "chromas": false
+    },
+    {
+      "id": "15018",
+      "name": "不祥之月 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15019",
+      "name": "幻惑之月 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15020",
+      "name": "深寒之月 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15021",
+      "name": "耀目之月 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15022",
+      "name": "悲悯之月 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15023",
+      "name": "狂乱之月 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15024",
+      "name": "死亡之月 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15025",
+      "name": "奥德赛 希维尔",
+      "chromas": true
+    },
+    {
+      "id": "15026",
+      "name": "奥德赛 希维尔 宇宙探索者",
+      "chromas": false
+    },
+    {
+      "id": "15027",
+      "name": "奥德赛 希维尔 银河征服者",
+      "chromas": false
+    },
+    {
+      "id": "15028",
+      "name": "奥德赛 希维尔 巨行星搬运者",
+      "chromas": false
+    },
+    {
+      "id": "15029",
+      "name": "奥德赛 希维尔 虫洞穿行者",
+      "chromas": false
+    },
+    {
+      "id": "15030",
+      "name": "奥德赛 希维尔 小行星带探险者",
+      "chromas": false
+    },
+    {
+      "id": "15031",
+      "name": "奥德赛 希维尔 恒星游历者",
+      "chromas": false
+    },
+    {
+      "id": "15032",
+      "name": "奥德赛 希维尔 星辉收割者",
+      "chromas": false
+    },
+    {
+      "id": "15033",
+      "name": "奥德赛 希维尔 星盘遨游者",
+      "chromas": false
+    },
+    {
+      "id": "15034",
+      "name": "咖啡甜心 希维尔",
+      "chromas": true
+    },
+    {
+      "id": "15035",
+      "name": "咖啡甜心 希维尔 草莓戚风",
+      "chromas": false
+    },
+    {
+      "id": "15036",
+      "name": "咖啡甜心 希维尔 吉子芝士",
+      "chromas": false
+    },
+    {
+      "id": "15037",
+      "name": "咖啡甜心 希维尔 薄荷雪拔",
+      "chromas": false
+    },
+    {
+      "id": "15038",
+      "name": "咖啡甜心 希维尔 酒醉樱桃",
+      "chromas": false
+    },
+    {
+      "id": "15039",
+      "name": "咖啡甜心 希维尔 抹茶巧克力",
+      "chromas": false
+    },
+    {
+      "id": "15040",
+      "name": "咖啡甜心 希维尔 海盐泡芙",
+      "chromas": false
+    },
+    {
+      "id": "15041",
+      "name": "咖啡甜心 希维尔 提子班戟",
+      "chromas": false
+    },
+    {
+      "id": "15042",
+      "name": "咖啡甜心 希维尔 焦糖布丁",
+      "chromas": false
+    },
+    {
+      "id": "15043",
+      "name": "日蚀骑士 希维尔",
+      "chromas": true
+    },
+    {
+      "id": "15044",
+      "name": "日蚀骑士 希维尔 英勇",
+      "chromas": false
+    },
+    {
+      "id": "15045",
+      "name": "日蚀骑士 希维尔 荣誉",
+      "chromas": false
+    },
+    {
+      "id": "15046",
+      "name": "日蚀骑士 希维尔 牺牲",
+      "chromas": false
+    },
+    {
+      "id": "15047",
+      "name": "日蚀骑士 希维尔 无私",
+      "chromas": false
+    },
+    {
+      "id": "15048",
+      "name": "日蚀骑士 希维尔 浪漫",
+      "chromas": false
+    },
+    {
+      "id": "15049",
+      "name": "日蚀骑士 希维尔 无畏",
+      "chromas": false
+    },
+    {
+      "id": "15050",
+      "name": "剪纸仙灵 希维尔",
+      "chromas": true
+    },
+    {
+      "id": "15051",
+      "name": "至臻 剪纸仙灵 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15052",
+      "name": "剪纸仙灵 希维尔 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "15053",
+      "name": "剪纸仙灵 希维尔 财源滚滚",
+      "chromas": false
+    },
+    {
+      "id": "15054",
+      "name": "剪纸仙灵 希维尔 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "15055",
+      "name": "剪纸仙灵 希维尔 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "15056",
+      "name": "剪纸仙灵 希维尔 年年有余",
+      "chromas": false
+    },
+    {
+      "id": "15057",
+      "name": "剪纸仙灵 希维尔 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "15058",
+      "name": "剪纸仙灵 希维尔 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "15059",
+      "name": "剪纸仙灵 希维尔 吉祥如意",
+      "chromas": false
+    },
+    {
+      "id": "15060",
+      "name": "剪纸仙灵 希维尔 金玉满堂",
+      "chromas": false
+    },
+    {
+      "id": "15061",
+      "name": "伏虎之力 希维尔",
+      "chromas": true
+    },
+    {
+      "id": "15062",
+      "name": "伏虎之力 希维尔 旺盛战意",
+      "chromas": false
+    },
+    {
+      "id": "15063",
+      "name": "伏虎之力 希维尔 瑞兽灵光",
+      "chromas": false
+    },
+    {
+      "id": "15064",
+      "name": "伏虎之力 希维尔 原初直觉",
+      "chromas": false
+    },
+    {
+      "id": "15065",
+      "name": "伏虎之力 希维尔 如虎添翼",
+      "chromas": false
+    },
+    {
+      "id": "15066",
+      "name": "伏虎之力 希维尔 虎啸风生",
+      "chromas": false
+    },
+    {
+      "id": "15067",
+      "name": "伏虎之力 希维尔 兽王威仪",
+      "chromas": false
+    },
+    {
+      "id": "15068",
+      "name": "伏虎之力 希维尔 霸气虎步",
+      "chromas": false
+    },
+    {
+      "id": "15069",
+      "name": "伏虎之力 希维尔 独行傲影",
+      "chromas": false
+    },
+    {
+      "id": "15070",
+      "name": "十五周年纪念 希维尔",
+      "chromas": false
+    },
+    {
+      "id": "15071",
+      "name": "剪纸仙灵 希维尔 典范",
+      "chromas": false
+    },
+    {
+      "id": "15072",
+      "name": "源计划：幽灵 希维尔",
+      "chromas": true
+    },
+    {
+      "id": "15073",
+      "name": "源计划：幽灵 希维尔 裂变",
+      "chromas": false
+    },
+    {
+      "id": "15074",
+      "name": "源计划：幽灵 希维尔 震击",
+      "chromas": false
+    },
+    {
+      "id": "15075",
+      "name": "源计划：幽灵 希维尔 地覆",
+      "chromas": false
+    },
+    {
+      "id": "15076",
+      "name": "源计划：幽灵 希维尔 默化",
+      "chromas": false
+    },
+    {
+      "id": "15077",
+      "name": "源计划：幽灵 希维尔 燎原",
+      "chromas": false
+    },
+    {
+      "id": "15078",
+      "name": "源计划：幽灵 希维尔 雪崩",
+      "chromas": false
+    },
+    {
+      "id": "15079",
+      "name": "源计划：幽灵 希维尔 冥火",
+      "chromas": false
+    },
+    {
+      "id": "15080",
+      "name": "源计划：幽灵 希维尔 幻灭",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "敏锐疾行",
+    "description": "希维尔在攻击一名敌方英雄时，会短暂地获得移动速度提升。",
+    "image": "Sivir_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "回旋之刃",
+      "description": "希维尔像挥舞回力标一样挥出她的十字刃，并在往返时造成伤害。",
+      "tooltip": "希维尔像挥舞回力标一样挥出她的十字刃，对命中的所有敌人造成{{ totaldamage }}。命中非英雄单位时，会使对每个后续目标的伤害减少，减到{{ falloffminimum*100 }}%为止。",
+      "cooldown": "10/9.5/9/8.5/8",
+      "cost": "55/60/65/70/75",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1200",
+      "maxrank": 5,
+      "image": "SivirQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "弹射",
+      "description": "希维尔的下几次普通攻击将获得额外攻击速度并弹射到周围的目标上，在弹射时造成削减过的伤害。",
+      "tooltip": "在接下来的{{ buffduration }}秒里，希维尔获得{{ ricochetattackspeed*100 }}%攻击速度并且她的普攻会获得强化，弹射到附近的其它敌人上，每次弹射造成{{ bouncedamage }}物理伤害，至多弹射{{ maxbounces }}次。如果生成弹射的那次攻击造成了暴击，那么该次普攻的所有弹射都会暴击。",
+      "cooldown": "12",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "20",
+      "maxrank": 5,
+      "image": "SivirW.png",
+      "key": "W"
+    },
+    {
+      "name": "法术护盾",
+      "description": "制造一层法术屏障，来格挡一次对着希维尔施放的敌方单体技能。如果希维尔成功格挡了一次技能，那么就会回复生命值并获得爆发性的移动速度加成。",
+      "tooltip": "希维尔制造一层持续{{ spellshieldduration }}秒的法术屏障，来格挡一次即将到来的敌方技能。如果希维尔成功格挡了一次技能，那么就会回复{{ totalheal }}生命值并触发【敏锐疾行】。",
+      "cooldown": "24/22.5/21/19.5/18",
+      "cost": "0",
+      "costType": " {{ abilityresourcename }}",
+      "range": "20",
+      "maxrank": 5,
+      "image": "SivirE.png",
+      "key": "E"
+    },
+    {
+      "name": "狩猎",
+      "description": "希维尔在战斗中引领她的友军，为他们提供持续一段时间的爆发性移动速度加成。此外，希维尔的攻击会缩短她的技能的冷却时间。",
+      "tooltip": "希维尔在战斗中引领附近的友军，为他们提供持续{{ ultduration }}秒的{{ maxms*100 }}%移动速度。在【狩猎】激活期间，希维尔对英雄进行的攻击会使她的基础技能的冷却时间缩短{{ attackcooldownrefund }}秒。参与击杀近期造成过伤害的敌人会刷新【狩猎】的持续时长。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 3,
+      "image": "SivirR.png",
+      "key": "R"
+    }
+  ]
+}

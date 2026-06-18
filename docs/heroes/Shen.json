@@ -1,0 +1,357 @@
+{
+  "id": "Shen",
+  "championId": "98",
+  "name": "暮光之眼",
+  "title": "慎",
+  "region": "艾欧尼亚",
+  "blurb": "在隐秘的艾欧尼亚武装力量均衡教派中，慎是被尊为“暮光之眼”的领袖。他行走于精神领域和物质世界之间无人通晓的隐秘道路，力求超脱自身的情感、偏执以及自我。为了贯彻精神与物质之间的均衡，慎用一把钢刀和一把魂刃对抗任何可能威胁这一追求的人。",
+  "tags": [
+    "坦克"
+  ],
+  "partype": "能量",
+  "info": {
+    "attack": 3,
+    "defense": 9,
+    "magic": 3,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 610,
+    "hpPerLevel": 99,
+    "mp": 400,
+    "mpPerLevel": 0,
+    "movespeed": 340,
+    "armor": 34,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 64,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.751,
+    "attackspeedPerLevel": 3,
+    "hpregen": 8.5,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 50,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "98001",
+      "name": "极寒 慎",
+      "chromas": false
+    },
+    {
+      "id": "98002",
+      "name": "炎爆 慎",
+      "chromas": false
+    },
+    {
+      "id": "98003",
+      "name": "主治医师 慎",
+      "chromas": true
+    },
+    {
+      "id": "98004",
+      "name": "腥红之月 鬼武者 慎",
+      "chromas": false
+    },
+    {
+      "id": "98005",
+      "name": "战国大名 慎",
+      "chromas": true
+    },
+    {
+      "id": "98006",
+      "name": "暗杀星 慎",
+      "chromas": false
+    },
+    {
+      "id": "98007",
+      "name": "战国大名 慎 仁",
+      "chromas": false
+    },
+    {
+      "id": "98008",
+      "name": "战国大名 慎 礼",
+      "chromas": false
+    },
+    {
+      "id": "98009",
+      "name": "战国大名 慎 义",
+      "chromas": false
+    },
+    {
+      "id": "98010",
+      "name": "战国大名 慎 信",
+      "chromas": false
+    },
+    {
+      "id": "98011",
+      "name": "战国大名 慎 忠",
+      "chromas": false
+    },
+    {
+      "id": "98012",
+      "name": "战国大名 慎 智",
+      "chromas": false
+    },
+    {
+      "id": "98013",
+      "name": "战国大名 慎 悌",
+      "chromas": false
+    },
+    {
+      "id": "98014",
+      "name": "战国大名 慎 孝",
+      "chromas": false
+    },
+    {
+      "id": "98015",
+      "name": "未来战士 慎",
+      "chromas": true
+    },
+    {
+      "id": "98016",
+      "name": "奈落之炎 慎",
+      "chromas": true
+    },
+    {
+      "id": "98017",
+      "name": "奈落之炎 慎 荣耀之焰",
+      "chromas": false
+    },
+    {
+      "id": "98018",
+      "name": "奈落之炎 慎 理性之焰",
+      "chromas": false
+    },
+    {
+      "id": "98019",
+      "name": "奈落之炎 慎 骄傲之焰",
+      "chromas": false
+    },
+    {
+      "id": "98020",
+      "name": "奈落之炎 慎 希望之焰",
+      "chromas": false
+    },
+    {
+      "id": "98021",
+      "name": "奈落之炎 慎 慈悲之焰",
+      "chromas": false
+    },
+    {
+      "id": "98022",
+      "name": "灵能特工 慎",
+      "chromas": true
+    },
+    {
+      "id": "98023",
+      "name": "主治医师 慎 全力以赴",
+      "chromas": false
+    },
+    {
+      "id": "98024",
+      "name": "主治医师 慎 百折不挠",
+      "chromas": false
+    },
+    {
+      "id": "98025",
+      "name": "主治医师 慎 自强不息",
+      "chromas": false
+    },
+    {
+      "id": "98026",
+      "name": "主治医师 慎 众志成城",
+      "chromas": false
+    },
+    {
+      "id": "98027",
+      "name": "主治医师 慎 初心不改",
+      "chromas": false
+    },
+    {
+      "id": "98028",
+      "name": "主治医师 慎 同舟共济",
+      "chromas": false
+    },
+    {
+      "id": "98029",
+      "name": "主治医师 慎 同心协力",
+      "chromas": false
+    },
+    {
+      "id": "98030",
+      "name": "主治医师 慎 万众一心",
+      "chromas": false
+    },
+    {
+      "id": "98031",
+      "name": "未来战士 慎 无尽永前",
+      "chromas": false
+    },
+    {
+      "id": "98032",
+      "name": "灵能特工 慎 代号：龙焰",
+      "chromas": false
+    },
+    {
+      "id": "98033",
+      "name": "灵能特工 慎 代号：蜘蛛",
+      "chromas": false
+    },
+    {
+      "id": "98034",
+      "name": "灵能特工 慎 代号：灰熊",
+      "chromas": false
+    },
+    {
+      "id": "98035",
+      "name": "灵能特工 慎 代号：毒牙",
+      "chromas": false
+    },
+    {
+      "id": "98036",
+      "name": "灵能特工 慎 代号：蝮蛇",
+      "chromas": false
+    },
+    {
+      "id": "98037",
+      "name": "灵能特工 慎 代号：真理",
+      "chromas": false
+    },
+    {
+      "id": "98038",
+      "name": "灵能特工 慎 代号：银翼",
+      "chromas": false
+    },
+    {
+      "id": "98039",
+      "name": "灵能特工 慎 代号：猎人",
+      "chromas": false
+    },
+    {
+      "id": "98040",
+      "name": "冲击之刃 慎",
+      "chromas": true
+    },
+    {
+      "id": "98041",
+      "name": "冲击之刃 慎 红猿",
+      "chromas": false
+    },
+    {
+      "id": "98042",
+      "name": "冲击之刃 慎 黄熊",
+      "chromas": false
+    },
+    {
+      "id": "98043",
+      "name": "冲击之刃 慎 绿蛇",
+      "chromas": false
+    },
+    {
+      "id": "98044",
+      "name": "冲击之刃 慎 蓝狼",
+      "chromas": false
+    },
+    {
+      "id": "98045",
+      "name": "冲击之刃 慎 紫鸦",
+      "chromas": false
+    },
+    {
+      "id": "98046",
+      "name": "冲击之刃 慎 粉猫",
+      "chromas": false
+    },
+    {
+      "id": "98047",
+      "name": "冲击之刃 慎 黑蟾",
+      "chromas": false
+    },
+    {
+      "id": "98048",
+      "name": "冲击之刃 慎 青狐",
+      "chromas": false
+    },
+    {
+      "id": "98049",
+      "name": "灰烬守护者 慎",
+      "chromas": true
+    },
+    {
+      "id": "98050",
+      "name": "灰烬守护者 慎 余烬觉醒",
+      "chromas": false
+    },
+    {
+      "id": "98051",
+      "name": "荣誉使者 慎",
+      "chromas": false
+    },
+    {
+      "id": "98053",
+      "name": "灵能特工 慎 至强",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "忍法！气合盾",
+    "description": "在施放一次技能后，慎会获得一层护盾。如果慎的技能对英雄产生作用，那么这个技能的冷却时间就会降低。",
+    "image": "Shen_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "奥义！暮临",
+      "description": "慎召回他的魂刃并用它进行攻击，造成基于目标最大生命值的额外伤害。如果魂刃在召回途中与一个敌方英雄产生了碰撞，那么慎的魂刃攻击会获得极大强化，并且所有被碰撞的敌人在逃离慎的时候都会被减速。",
+      "tooltip": "慎召回他的魂刃。被其命中的敌人们在接下来的{{ e5 }}秒里，在远离慎的时候会被减速{{ e4 }}%。此外，慎的下{{ e3 }}次攻击造成额外的{{ baseflatdamage }}外加{{ basepercenthealth }}最大生命值的魔法伤害。如果慎用魂刃命中了一名英雄，那么伤害提升至{{ baseflatdamage }}外加{{ emppercenthealth }}最大生命值的魔法伤害并且他的那几次攻击获得{{ e9 }}%攻击速度。",
+      "cooldown": "8/7.25/6.5/5.75/5",
+      "cost": "140/130/120/110/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "ShenQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "奥义！魂佑",
+      "description": "当慎或友方英雄在魂刃附近时，魂刃会对原本要命中他们的攻击进行格挡。",
+      "tooltip": "慎在他的魂刃位置生成一个防御结界，持续{{ e1 }}秒。对结界内的友方英雄进行的攻击都会被格挡。 如果结界在开启时并没有英雄在其中，那么它会等待至多{{ e2 }}秒。",
+      "cooldown": "16/14.5/13/11.5/10",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "ShenW.png",
+      "key": "W"
+    },
+    {
+      "name": "奥义！影缚",
+      "description": "慎朝着一个方向冲刺，嘲讽沿途的敌人。",
+      "tooltip": "被动：用奥义！暮临或这个技能造成伤害时，会回复{{ energyrefund }}能量。主动：慎进行冲刺，嘲讽英雄和野怪{{ ccduration }}秒并造成{{ tauntdamage }}物理伤害。",
+      "cooldown": "18/16/14/12/10",
+      "cost": "150",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 5,
+      "image": "ShenE.png",
+      "key": "E"
+    },
+    {
+      "name": "秘奥义！慈悲度魂落",
+      "description": "慎为目标友方英雄提供一层吸收伤害的护盾，然后很快传送到目标身旁。",
+      "tooltip": "慎为地图任一位置的一名友方英雄提供持续{{ shieldduration }}秒的{{ shield }}到{{ maxshield }}护盾值，基于目标的已损失生命值(在60%已损失生命值时达到最大值)。在引导{{ channelduration }}秒后，慎会带着魂刃传送到该友方英雄所在的位置。",
+      "cooldown": "200/180/160",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "35000",
+      "maxrank": 3,
+      "image": "ShenR.png",
+      "key": "R"
+    }
+  ]
+}

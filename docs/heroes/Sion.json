@@ -1,0 +1,343 @@
+{
+  "id": "Sion",
+  "championId": "14",
+  "name": "亡灵战神",
+  "title": "赛恩",
+  "region": "诺克萨斯",
+  "blurb": "赛恩是一个来自先前时代的诺克萨斯战争英雄，曾经徒手掐死过一代德玛西亚国王。但他拒绝了死亡和湮灭，以活尸的状态继续为帝国效命。只要挡住他的去路，都会被他无差别地屠杀，敌我不分，足可证明他已经失去了从前的人性。即便如此，他腐朽的身体还是被钉进了粗糙的装甲，继续以丧心病狂的鲁莽冲上战场，在每一下巨斧的挥砍中艰难地回忆真正的自我。",
+  "tags": [
+    "坦克",
+    "战士"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 5,
+    "defense": 9,
+    "magic": 3,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 655,
+    "hpPerLevel": 87,
+    "mp": 400,
+    "mpPerLevel": 52,
+    "movespeed": 345,
+    "armor": 36,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 68,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.679,
+    "attackspeedPerLevel": 1.3,
+    "hpregen": 9,
+    "hpregenPerLevel": 0.8,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.6,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "14001",
+      "name": "钢铁终结者 赛恩",
+      "chromas": false
+    },
+    {
+      "id": "14002",
+      "name": "武仙座海格力斯 赛恩",
+      "chromas": false
+    },
+    {
+      "id": "14003",
+      "name": "原野伐木工 赛恩",
+      "chromas": false
+    },
+    {
+      "id": "14004",
+      "name": "战争机器 赛恩",
+      "chromas": false
+    },
+    {
+      "id": "14005",
+      "name": "霸天零式 赛恩",
+      "chromas": true
+    },
+    {
+      "id": "14006",
+      "name": "霸天零式 赛恩 赤红战意",
+      "chromas": false
+    },
+    {
+      "id": "14007",
+      "name": "霸天零式 赛恩 终极雪崩",
+      "chromas": false
+    },
+    {
+      "id": "14008",
+      "name": "霸天零式 赛恩 湮灭狂潮",
+      "chromas": false
+    },
+    {
+      "id": "14009",
+      "name": "霸天零式 赛恩 毁灭余晖",
+      "chromas": false
+    },
+    {
+      "id": "14010",
+      "name": "霸天零式 赛恩 白金意志",
+      "chromas": false
+    },
+    {
+      "id": "14011",
+      "name": "霸天零式 赛恩 主宰威能",
+      "chromas": false
+    },
+    {
+      "id": "14012",
+      "name": "霸天零式 赛恩 黑金霸权",
+      "chromas": false
+    },
+    {
+      "id": "14013",
+      "name": "霸天零式 赛恩 炽焰流星",
+      "chromas": false
+    },
+    {
+      "id": "14014",
+      "name": "创世之神 赛恩",
+      "chromas": true
+    },
+    {
+      "id": "14015",
+      "name": "创世之神 赛恩 温情之霞",
+      "chromas": false
+    },
+    {
+      "id": "14016",
+      "name": "创世之神 赛恩 祥瑞之雪",
+      "chromas": false
+    },
+    {
+      "id": "14017",
+      "name": "创世之神 赛恩 祈福之水",
+      "chromas": false
+    },
+    {
+      "id": "14018",
+      "name": "创世之神 赛恩 温暖之焰",
+      "chromas": false
+    },
+    {
+      "id": "14019",
+      "name": "创世之神 赛恩 丰收之风",
+      "chromas": false
+    },
+    {
+      "id": "14020",
+      "name": "创世之神 赛恩 虔诚之心",
+      "chromas": false
+    },
+    {
+      "id": "14021",
+      "name": "创世之神 赛恩 振奋之石",
+      "chromas": false
+    },
+    {
+      "id": "14022",
+      "name": "黯晶战神 赛恩",
+      "chromas": true
+    },
+    {
+      "id": "14023",
+      "name": "黯晶战神 赛恩 凝结之焰",
+      "chromas": false
+    },
+    {
+      "id": "14024",
+      "name": "黯晶战神 赛恩 凝结之涛",
+      "chromas": false
+    },
+    {
+      "id": "14025",
+      "name": "黯晶战神 赛恩 凝结之灵",
+      "chromas": false
+    },
+    {
+      "id": "14026",
+      "name": "黯晶战神 赛恩 凝结之影",
+      "chromas": false
+    },
+    {
+      "id": "14027",
+      "name": "黯晶战神 赛恩 凝结之梦",
+      "chromas": false
+    },
+    {
+      "id": "14028",
+      "name": "黯晶战神 赛恩 凝结之魂",
+      "chromas": false
+    },
+    {
+      "id": "14029",
+      "name": "黯晶战神 赛恩 凝结之风",
+      "chromas": false
+    },
+    {
+      "id": "14030",
+      "name": "西部魔影 合成天使 赛恩",
+      "chromas": true
+    },
+    {
+      "id": "14031",
+      "name": "西部魔影 合成天使 赛恩 温和",
+      "chromas": false
+    },
+    {
+      "id": "14032",
+      "name": "西部魔影 合成天使 赛恩 豪爽",
+      "chromas": false
+    },
+    {
+      "id": "14033",
+      "name": "西部魔影 合成天使 赛恩 善良",
+      "chromas": false
+    },
+    {
+      "id": "14034",
+      "name": "西部魔影 合成天使 赛恩 恭敬",
+      "chromas": false
+    },
+    {
+      "id": "14035",
+      "name": "西部魔影 合成天使 赛恩 克己",
+      "chromas": false
+    },
+    {
+      "id": "14036",
+      "name": "西部魔影 合成天使 赛恩 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "14037",
+      "name": "西部魔影 合成天使 赛恩 纯洁",
+      "chromas": false
+    },
+    {
+      "id": "14038",
+      "name": "西部魔影 合成天使 赛恩 谦卑",
+      "chromas": false
+    },
+    {
+      "id": "14039",
+      "name": "西部魔影 合成天使 赛恩 虔信",
+      "chromas": false
+    },
+    {
+      "id": "14040",
+      "name": "星界圣骑 赛恩",
+      "chromas": true
+    },
+    {
+      "id": "14041",
+      "name": "星界圣骑 赛恩 战神星魂",
+      "chromas": false
+    },
+    {
+      "id": "14042",
+      "name": "星界圣骑 赛恩 猎神星魂",
+      "chromas": false
+    },
+    {
+      "id": "14043",
+      "name": "星界圣骑 赛恩 爱神星魂",
+      "chromas": false
+    },
+    {
+      "id": "14044",
+      "name": "星界圣骑 赛恩 美神星魂",
+      "chromas": false
+    },
+    {
+      "id": "14045",
+      "name": "星界圣骑 赛恩 主神星魂",
+      "chromas": false
+    },
+    {
+      "id": "14046",
+      "name": "星界圣骑 赛恩 冥神星魂",
+      "chromas": false
+    },
+    {
+      "id": "14047",
+      "name": "星界圣骑 赛恩 天神星魂",
+      "chromas": false
+    },
+    {
+      "id": "14048",
+      "name": "星界圣骑 赛恩 梦神星魂",
+      "chromas": false
+    },
+    {
+      "id": "14049",
+      "name": "最高清算 赛恩",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "死亡荣耀",
+    "description": "在被击杀后，赛恩会回光返照一段时间并且生命值会快速衰减。在此期间，他的攻击会变得超快，获得生命偷取，并且每次攻击会额外造成基于目标最大生命值的额外伤害。",
+    "image": "Sion_Passive1.png"
+  },
+  "spells": [
+    {
+      "name": "残虐猛击",
+      "description": "赛恩开始蓄力，并在释放时对他前方的一个区域进行一次强劲的猛击，对区域内的敌人造成伤害。如果他蓄力时间足够久，那么被命中的敌人还会受到击飞和晕眩效果。",
+      "tooltip": "开始蓄力：赛恩开始为一次重型猛击蓄力，最多2秒。释放：赛恩将斧头重重砸下，暂时减速并基于蓄力时间造成{{ mindamagetotal }}到{{ maxdamagetotal }}物理伤害。如果赛恩蓄力了至少1秒，那么敌人还会被击飞，并基于蓄力时间被晕眩{{ basestuntime }}到2.25秒。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "45",
+      "costType": " {{ abilityresourcename }}",
+      "range": "10000",
+      "maxrank": 5,
+      "image": "SionQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "灵魂熔炉",
+      "description": "赛恩为自己套上护盾，并能在3秒后再次激活这个技能来对身边的敌人造成魔法伤害。在赛恩击杀敌人时，他会被动获得最大生命值。",
+      "tooltip": "被动：赛恩每击杀一个单位就会获得{{ hpperkill }}最大生命值，或在参与击杀英雄、击杀大型小兵或大型野怪后获得{{ hpperchampkill }}最大生命值。主动：赛恩获得{{ totalshield }}护盾值，持续6秒。在{{ e7 }}秒后，如果护盾仍然存在，那么赛恩就能再次施放来引爆护盾，造成{{ totaldamage }}外加{{ e4 }}%最大生命值的魔法伤害。",
+      "cooldown": "15/14/13/12/11",
+      "cost": "65/70/75/80/85",
+      "costType": " {{ abilityresourcename }}",
+      "range": "500",
+      "maxrank": 5,
+      "image": "SionW.png",
+      "key": "W"
+    },
+    {
+      "name": "杀手怒吼",
+      "description": "赛恩发射一个短程冲击波，来对命中的第一个敌人造成伤害、减速效果和破甲效果。如果冲击波命中的是小兵或者野怪，那么目标敌方单位还会被击退，对沿途的所有敌方单位造成伤害、减速和护甲击碎效果。",
+      "tooltip": "赛恩发射一道冲击波，造成{{ totaldamage }}魔法伤害和持续{{ slowduration }}秒的{{ slowamount }}%减速，并移除{{ armorshred }}%护甲，持续{{ armorshredduration }}秒。被命中的非英雄单位会被击退。被击退的单位会在击中其他敌人时造成等额伤害和效果。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "35/40/45/50/55",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "SionE.png",
+      "key": "E"
+    },
+    {
+      "name": "蛮横冲撞",
+      "description": "赛恩朝着一个方向冲锋，持续提升移动速度。他可以朝着鼠标悬停处进行微小的转向。当他与一名敌人产生碰撞时，他会基于敌人们与碰撞点之间的距离造成伤害和击飞效果。",
+      "tooltip": "赛恩朝着一个方向不可阻挡地冲锋8秒，可用鼠标指针来调整方向。赛恩会在碰撞到一名敌方英雄或墙体后、或是再次施放此技能后停下。 在冲锋结束时，赛恩基于行进距离造成{{ mindamagetotal }}到{{ maxdamagetotal }}物理伤害。紧靠着赛恩的敌人们会基于赛恩的行进距离被晕眩{{ minstunduration }}到{{ maxstunduration }}秒。更大范围内的敌人们会被减速{{ slowamount }}%，持续3秒。",
+      "cooldown": "140/100/60",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "7500",
+      "maxrank": 3,
+      "image": "SionR.png",
+      "key": "R"
+    }
+  ]
+}

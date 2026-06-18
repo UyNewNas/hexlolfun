@@ -1,0 +1,303 @@
+{
+  "id": "Zac",
+  "championId": "154",
+  "name": "生化魔人",
+  "title": "扎克",
+  "region": "祖安",
+  "blurb": "一滩泄漏的毒液，顺着炼金科技设施的裂缝流进了祖安的地沟区，在深处一个与世隔绝的坑洞里积成了一洼。出身虽然如此低微，但扎克却从一团蒙昧的黏液长成了一个有思想的实体，栖息在城里的管道中，偶尔露面，帮助那些无助的人，或是修缮祖安的各种公共设施。",
+  "tags": [
+    "坦克",
+    "战士"
+  ],
+  "partype": "无",
+  "info": {
+    "attack": 3,
+    "defense": 7,
+    "magic": 7,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 685,
+    "hpPerLevel": 109,
+    "mp": 0,
+    "mpPerLevel": 0,
+    "movespeed": 340,
+    "armor": 33,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.736,
+    "attackspeedPerLevel": 1.6,
+    "hpregen": 5,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "154001",
+      "name": "邪恶魔人 扎克",
+      "chromas": false
+    },
+    {
+      "id": "154002",
+      "name": "泳池派对 扎克",
+      "chromas": false
+    },
+    {
+      "id": "154003",
+      "name": "生化魔人 扎克 桔子果冻魔人",
+      "chromas": false
+    },
+    {
+      "id": "154004",
+      "name": "生化魔人 扎克 草莓软糖魔人",
+      "chromas": false
+    },
+    {
+      "id": "154005",
+      "name": "生化魔人 扎克 木瓜泡泡糖魔人",
+      "chromas": false
+    },
+    {
+      "id": "154006",
+      "name": "SKT T1 扎克",
+      "chromas": false
+    },
+    {
+      "id": "154007",
+      "name": "战地机甲 扎克",
+      "chromas": true
+    },
+    {
+      "id": "154008",
+      "name": "战地机甲 扎克 赤红炼狱",
+      "chromas": false
+    },
+    {
+      "id": "154009",
+      "name": "战地机甲 扎克 肆虐风暴",
+      "chromas": false
+    },
+    {
+      "id": "154010",
+      "name": "战地机甲 扎克 深度毁伤",
+      "chromas": false
+    },
+    {
+      "id": "154011",
+      "name": "战地机甲 扎克 剧毒金属",
+      "chromas": false
+    },
+    {
+      "id": "154012",
+      "name": "战地机甲 扎克 苍白杀戮",
+      "chromas": false
+    },
+    {
+      "id": "154013",
+      "name": "战地机甲 扎克 午夜梦魇",
+      "chromas": false
+    },
+    {
+      "id": "154014",
+      "name": "至高天 扎克",
+      "chromas": true
+    },
+    {
+      "id": "154015",
+      "name": "至高天 扎克 狂焰",
+      "chromas": false
+    },
+    {
+      "id": "154016",
+      "name": "至高天 扎克 寒芒",
+      "chromas": false
+    },
+    {
+      "id": "154017",
+      "name": "至高天 扎克 青炬",
+      "chromas": false
+    },
+    {
+      "id": "154018",
+      "name": "至高天 扎克 炫煌",
+      "chromas": false
+    },
+    {
+      "id": "154019",
+      "name": "至高天 扎克 幻耀",
+      "chromas": false
+    },
+    {
+      "id": "154020",
+      "name": "至高天 扎克 荧煌",
+      "chromas": false
+    },
+    {
+      "id": "154021",
+      "name": "至高天 扎克 灵辉",
+      "chromas": false
+    },
+    {
+      "id": "154022",
+      "name": "至高天 扎克 胧光",
+      "chromas": false
+    },
+    {
+      "id": "154023",
+      "name": "至高天 扎克 霓虹耀斑",
+      "chromas": false
+    },
+    {
+      "id": "154024",
+      "name": "香浓芝士 扎克",
+      "chromas": true
+    },
+    {
+      "id": "154025",
+      "name": "香浓芝士 扎克 西瓜奶盖",
+      "chromas": false
+    },
+    {
+      "id": "154026",
+      "name": "香浓芝士 扎克 巧克力锅",
+      "chromas": false
+    },
+    {
+      "id": "154027",
+      "name": "香浓芝士 扎克 蓝色圣代",
+      "chromas": false
+    },
+    {
+      "id": "154028",
+      "name": "香浓芝士 扎克 鳄梨酱",
+      "chromas": false
+    },
+    {
+      "id": "154029",
+      "name": "香浓芝士 扎克 香蒜酱",
+      "chromas": false
+    },
+    {
+      "id": "154030",
+      "name": "香浓芝士 扎克 黑芝麻糊",
+      "chromas": false
+    },
+    {
+      "id": "154031",
+      "name": "香浓芝士 扎克 森莓果冻",
+      "chromas": false
+    },
+    {
+      "id": "154032",
+      "name": "香浓芝士 扎克 甜品抹酱",
+      "chromas": false
+    },
+    {
+      "id": "154033",
+      "name": "太空律动 “节奏化身” 扎克",
+      "chromas": true
+    },
+    {
+      "id": "154034",
+      "name": "太空律动 “节奏化身” 扎克 假装有心之钢",
+      "chromas": false
+    },
+    {
+      "id": "154035",
+      "name": "太空律动 “节奏化身” 扎克 假装有日炎圣盾",
+      "chromas": false
+    },
+    {
+      "id": "154036",
+      "name": "太空律动 “节奏化身” 扎克 假装有璀璨回响",
+      "chromas": false
+    },
+    {
+      "id": "154037",
+      "name": "太空律动 “节奏化身” 扎克 假装有千变者贾修",
+      "chromas": false
+    },
+    {
+      "id": "154038",
+      "name": "太空律动 “节奏化身” 扎克 假装有振奋盔甲",
+      "chromas": false
+    },
+    {
+      "id": "154039",
+      "name": "太空律动 “节奏化身” 扎克 假装有败魔",
+      "chromas": false
+    },
+    {
+      "id": "154040",
+      "name": "太空律动 “节奏化身” 扎克 假装有兰顿之兆",
+      "chromas": false
+    },
+    {
+      "id": "154041",
+      "name": "太空律动 “节奏化身” 扎克 假装有荆棘之甲",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "细胞分裂",
+    "description": "扎克每用技能命中一次敌人，自己的一小块粘液就会飞溅出去。扎克可以重新吸收这些粘液，来为自己回复生命值。在承受致命伤害时，扎克会分裂成四块细胞组织，并试图重新结合。如果在短时间后，仍然有细胞组织存活，那么他就会重生，重生时的生命值取决于存活的细胞组织数量。细胞组织会继承一部分扎克的最大生命值、护甲和魔法抗性。这个技能的冷却时间为5分钟。",
+    "image": "ZacPassive.png"
+  },
+  "spells": [
+    {
+      "name": "延伸打击",
+      "description": "扎克延伸他的双臂，捕获一个敌人。攻击一个不同的敌人将使他把两个目标投向彼此。",
+      "tooltip": "扎克伸展他的手臂，将其吸附到命中的第一个敌人身上以造成{{ totaldamage }}魔法伤害并暂时将该敌人减速。扎克的下次攻击会提升距离并且造成相同的伤害和减速。如果扎克用这次攻击命中了一个不同的敌人，那么他会将这两个敌人朝着彼此击飞。如果这两个敌人产生碰撞，那么他们及他们附近的敌人都会受到{{ totaldamage }}魔法伤害并被暂时减速。",
+      "cooldown": "14/12.5/11/9.5/8",
+      "cost": "0",
+      "costType": "%当前生命值({{ healthcosttooltip }})",
+      "range": "800",
+      "maxrank": 5,
+      "image": "ZacQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "不稳定物质",
+      "description": "扎克朝着附近的敌人进行喷溅，造成相当于目标一部分最大生命值的魔法伤害。",
+      "tooltip": "扎克的躯体进行喷溅，对附近的敌人造成{{ basedamage }}+{{ displaypercentdamage }}最大生命值的魔法伤害。吸收粘液可使【不稳定物质】的冷却时间缩短1秒。",
+      "cooldown": "5",
+      "cost": "0",
+      "costType": "%当前生命值({{ tooltiphealthcost }})",
+      "range": "350",
+      "maxrank": 5,
+      "image": "ZacW.png",
+      "key": "W"
+    },
+    {
+      "name": "橡筋弹弓",
+      "description": "扎克将手臂附在地上然后收缩，并将自己射向前方。",
+      "tooltip": "开始蓄力：扎克将自身绷紧，在{{ channeltime }}秒里积攒一次冲刺。释放：扎克将自身发射出去，并击飞着陆点位置的敌人们至多{{ maxstun }}秒(基于蓄力时间)并对他们造成{{ damage }}魔法伤害。扎克每命中一名敌方英雄就会生成一团额外的粘液。",
+      "cooldown": "22/19/16/13/10",
+      "cost": "0",
+      "costType": "%当前生命值({{ healthcosttooltip }})",
+      "range": "300",
+      "maxrank": 5,
+      "image": "ZacE.png",
+      "key": "E"
+    },
+    {
+      "name": "动感弹球",
+      "description": "扎克弹跳4次，对命中的敌人造成击飞和减速效果。",
+      "tooltip": "扎克弹跳{{ bounces }}次。弹跳在首次命中敌人时会将其击退并造成{{ damageperbounce }}魔法伤害。后续弹跳会造成{{ damagepersubsequentbounce }}魔法伤害和持续{{ slowduration }}秒的{{ slowamount*100 }}%减速。扎克在此期间持续获得至多{{ endingms*100 }}%移动速度并且可以在弹跳时施放不稳定物质。",
+      "cooldown": "120/105/90",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "300",
+      "maxrank": 3,
+      "image": "ZacR.png",
+      "key": "R"
+    }
+  ]
+}

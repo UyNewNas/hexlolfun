@@ -1,0 +1,433 @@
+{
+  "id": "Seraphine",
+  "championId": "147",
+  "name": "星籁歌姬",
+  "title": "萨勒芬妮",
+  "region": "皮尔特沃夫",
+  "blurb": "萨勒芬妮生在皮城，但父母都是祖安人。她能听到其他人的灵魂——整个世界都在对她唱歌，而她也回以自己的歌声。虽然她小的时候曾被这些声音压得不堪重负，但如今她从这些声音中汲取灵感，将混乱变为协奏。她为这对姊妹城市演唱，提醒这里的人们，他们并不孤单，他们凝聚起来会更强大，在她眼中，他们的潜力是无限的。",
+  "tags": [
+    "辅助",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 0,
+    "defense": 0,
+    "magic": 0,
+    "difficulty": 0
+  },
+  "stats": {
+    "hp": 570,
+    "hpPerLevel": 95,
+    "mp": 360,
+    "mpPerLevel": 40,
+    "movespeed": 330,
+    "armor": 26,
+    "armorPerLevel": 4.2,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 525,
+    "attackdamage": 50,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.669,
+    "attackspeedPerLevel": 2,
+    "hpregen": 6.5,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 11.5,
+    "mpregenPerLevel": 0.95,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "147001",
+      "name": "K/DA ALL OUT 萨勒芬妮 独立音乐人",
+      "chromas": false
+    },
+    {
+      "id": "147002",
+      "name": "K/DA ALL OUT 萨勒芬妮 明日新星",
+      "chromas": false
+    },
+    {
+      "id": "147003",
+      "name": "K/DA ALL OUT 萨勒芬妮 超级巨星",
+      "chromas": false
+    },
+    {
+      "id": "147004",
+      "name": "神凰行者 幽羽玄凰 萨勒芬妮",
+      "chromas": true
+    },
+    {
+      "id": "147005",
+      "name": "神凰行者 幽羽玄凰 萨勒芬妮 凌云",
+      "chromas": false
+    },
+    {
+      "id": "147006",
+      "name": "神凰行者 幽羽玄凰 萨勒芬妮 灵音",
+      "chromas": false
+    },
+    {
+      "id": "147007",
+      "name": "神凰行者 幽羽玄凰 萨勒芬妮 仙翰",
+      "chromas": false
+    },
+    {
+      "id": "147008",
+      "name": "神凰行者 幽羽玄凰 萨勒芬妮 晨晖",
+      "chromas": false
+    },
+    {
+      "id": "147009",
+      "name": "神凰行者 幽羽玄凰 萨勒芬妮 玄霜",
+      "chromas": false
+    },
+    {
+      "id": "147010",
+      "name": "神凰行者 幽羽玄凰 萨勒芬妮 绮翼",
+      "chromas": false
+    },
+    {
+      "id": "147011",
+      "name": "神凰行者 幽羽玄凰 萨勒芬妮 逸羽",
+      "chromas": false
+    },
+    {
+      "id": "147012",
+      "name": "神凰行者 幽羽玄凰 萨勒芬妮 宵影",
+      "chromas": false
+    },
+    {
+      "id": "147013",
+      "name": "神凰行者 幽羽玄凰 萨勒芬妮 玉虎呈祥",
+      "chromas": false
+    },
+    {
+      "id": "147014",
+      "name": "海之歌 萨勒芬妮",
+      "chromas": true
+    },
+    {
+      "id": "147015",
+      "name": "至臻 海之歌 萨勒芬妮",
+      "chromas": false
+    },
+    {
+      "id": "147016",
+      "name": "海之歌 萨勒芬妮 迷人晚霞",
+      "chromas": false
+    },
+    {
+      "id": "147017",
+      "name": "海之歌 萨勒芬妮 浪漫氛围",
+      "chromas": false
+    },
+    {
+      "id": "147018",
+      "name": "海之歌 萨勒芬妮 清凉海风",
+      "chromas": false
+    },
+    {
+      "id": "147019",
+      "name": "海之歌 萨勒芬妮 逐浪流沙",
+      "chromas": false
+    },
+    {
+      "id": "147020",
+      "name": "海之歌 萨勒芬妮 葱郁椰林",
+      "chromas": false
+    },
+    {
+      "id": "147021",
+      "name": "海之歌 萨勒芬妮 沉静海浪",
+      "chromas": false
+    },
+    {
+      "id": "147022",
+      "name": "海之歌 萨勒芬妮 月夜潮汐",
+      "chromas": false
+    },
+    {
+      "id": "147023",
+      "name": "海之歌 萨勒芬妮 冰爽浪花",
+      "chromas": false
+    },
+    {
+      "id": "147024",
+      "name": "花仙子 萨勒芬妮",
+      "chromas": true
+    },
+    {
+      "id": "147025",
+      "name": "花仙子 萨勒芬妮 红漪",
+      "chromas": false
+    },
+    {
+      "id": "147026",
+      "name": "花仙子 萨勒芬妮 荧光裳",
+      "chromas": false
+    },
+    {
+      "id": "147027",
+      "name": "花仙子 萨勒芬妮 玫瑰水晶眼",
+      "chromas": false
+    },
+    {
+      "id": "147028",
+      "name": "花仙子 萨勒芬妮 拟旖",
+      "chromas": false
+    },
+    {
+      "id": "147029",
+      "name": "花仙子 萨勒芬妮 琉璃翠",
+      "chromas": false
+    },
+    {
+      "id": "147030",
+      "name": "花仙子 萨勒芬妮 翠蓝",
+      "chromas": false
+    },
+    {
+      "id": "147031",
+      "name": "花仙子 萨勒芬妮 曙凤",
+      "chromas": false
+    },
+    {
+      "id": "147032",
+      "name": "花仙子 萨勒芬妮 樟青",
+      "chromas": false
+    },
+    {
+      "id": "147033",
+      "name": "花仙子 萨勒芬妮 迷人幻翼",
+      "chromas": false
+    },
+    {
+      "id": "147034",
+      "name": "星之守护者 萨勒芬妮",
+      "chromas": true
+    },
+    {
+      "id": "147035",
+      "name": "星之守护者 萨勒芬妮 热情之光",
+      "chromas": false
+    },
+    {
+      "id": "147036",
+      "name": "星之守护者 萨勒芬妮 智慧之光",
+      "chromas": false
+    },
+    {
+      "id": "147037",
+      "name": "星之守护者 萨勒芬妮 未来之光",
+      "chromas": false
+    },
+    {
+      "id": "147038",
+      "name": "星之守护者 萨勒芬妮 拥抱之光",
+      "chromas": false
+    },
+    {
+      "id": "147039",
+      "name": "星之守护者 萨勒芬妮 勇气之光",
+      "chromas": false
+    },
+    {
+      "id": "147040",
+      "name": "星之守护者 萨勒芬妮 正义之光",
+      "chromas": false
+    },
+    {
+      "id": "147041",
+      "name": "星之守护者 萨勒芬妮 守护之光",
+      "chromas": false
+    },
+    {
+      "id": "147042",
+      "name": "星之守护者 萨勒芬妮 月虹之光",
+      "chromas": false
+    },
+    {
+      "id": "147043",
+      "name": "幻灵白鸽 萨勒芬妮",
+      "chromas": true
+    },
+    {
+      "id": "147044",
+      "name": "幻灵白鸽 萨勒芬妮 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "147045",
+      "name": "幻灵白鸽 萨勒芬妮 坚韧阻击",
+      "chromas": false
+    },
+    {
+      "id": "147046",
+      "name": "幻灵白鸽 萨勒芬妮 优雅气度",
+      "chromas": false
+    },
+    {
+      "id": "147047",
+      "name": "幻灵白鸽 萨勒芬妮 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "147048",
+      "name": "幻灵白鸽 萨勒芬妮 连绵奔袭",
+      "chromas": false
+    },
+    {
+      "id": "147049",
+      "name": "幻灵白鸽 萨勒芬妮 隐秘夜影",
+      "chromas": false
+    },
+    {
+      "id": "147050",
+      "name": "点心宝贝 萨勒芬妮",
+      "chromas": true
+    },
+    {
+      "id": "147051",
+      "name": "点心宝贝 萨勒芬妮 山楂冰糖葫芦",
+      "chromas": false
+    },
+    {
+      "id": "147052",
+      "name": "点心宝贝 萨勒芬妮 香蕉冰糖葫芦",
+      "chromas": false
+    },
+    {
+      "id": "147053",
+      "name": "点心宝贝 萨勒芬妮 猕猴桃冰糖葫芦",
+      "chromas": false
+    },
+    {
+      "id": "147054",
+      "name": "点心宝贝 萨勒芬妮 绿提冰糖葫芦",
+      "chromas": false
+    },
+    {
+      "id": "147055",
+      "name": "点心宝贝 萨勒芬妮 蓝莓冰糖葫芦",
+      "chromas": false
+    },
+    {
+      "id": "147056",
+      "name": "点心宝贝 萨勒芬妮 紫薯冰糖葫芦",
+      "chromas": false
+    },
+    {
+      "id": "147057",
+      "name": "点心宝贝 萨勒芬妮 黑枣冰糖葫芦",
+      "chromas": false
+    },
+    {
+      "id": "147058",
+      "name": "点心宝贝 萨勒芬妮 火龙果冰糖葫芦",
+      "chromas": false
+    },
+    {
+      "id": "147059",
+      "name": "龙马烈焰 萨勒芬妮",
+      "chromas": true
+    },
+    {
+      "id": "147060",
+      "name": "龙马烈焰 萨勒芬妮 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "147061",
+      "name": "龙马烈焰 萨勒芬妮 日进斗金",
+      "chromas": false
+    },
+    {
+      "id": "147062",
+      "name": "龙马烈焰 萨勒芬妮 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "147063",
+      "name": "龙马烈焰 萨勒芬妮 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "147064",
+      "name": "龙马烈焰 萨勒芬妮 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "147065",
+      "name": "龙马烈焰 萨勒芬妮 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "147066",
+      "name": "龙马烈焰 萨勒芬妮 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "147067",
+      "name": "龙马烈焰 萨勒芬妮 马到成功",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "星光漫射",
+    "description": "萨勒芬妮施放的每第三个技能将进行双重施放。此外，施放技能时，附近的友军会为她的下一次普通攻击提供额外魔法伤害和攻击距离。",
+    "image": "Seraphine_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "清籁穿云",
+      "description": "萨勒芬妮在一个区域内造成伤害。",
+      "tooltip": "萨勒芬妮放出一道清澈的音符，造成{{ explosiondamage }}魔法伤害，对英雄和野怪的伤害会基于目标的已损失生命值而提升，最多可对{{ executethreshold*100 }}%生命值以下的目标造成{{ totalempowereddamage }}伤害。",
+      "cooldown": "8/7.5/7/6.5/6",
+      "cost": "60/70/80/90/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "900",
+      "maxrank": 5,
+      "image": "SeraphineQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "聚和心声",
+      "description": "萨勒芬妮为附近的友军提供护盾和急速。如果她身上已有护盾，那么还会治疗附近的友军。",
+      "tooltip": "萨勒芬妮用歌曲激励她附近的友方英雄，为他们提供{{ hastevalueallies }}移动速度，为她自身提供不断衰减的{{ wmsbonustotal }}移动速度，并为自身和友方都提供{{ shieldvalueseraphine }}护盾值，持续{{ shieldduration }}秒。如果萨勒芬妮身上已有护盾，那么她会号召友军加入她，在{{ whealsplitdelay }}秒延迟后，为他们回复{{ wmissinghpheal }}%已损失生命值。",
+      "cooldown": "22",
+      "cost": "70/75/80/85/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "SeraphineW.png",
+      "key": "W"
+    },
+    {
+      "name": "增幅节拍",
+      "description": "萨勒芬妮对一条直线上的敌人们造成伤害和移动受损效果。",
+      "tooltip": "萨勒芬妮释放出一道强力音波，对一条直线上的敌人造成{{ finaldamage }}魔法伤害和持续{{ slowduration }}秒的{{ slowvalue }}%减速效果。对已被减速的敌人们造成禁锢效果，对已被定身的敌人们造成晕眩效果。",
+      "cooldown": "11/10.5/10/9.5/9",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1300",
+      "maxrank": 5,
+      "image": "SeraphineE.png",
+      "key": "E"
+    },
+    {
+      "name": "炫音返场",
+      "description": "萨勒芬妮对命中的敌人们造成伤害和魅惑效果，会在每次命中友方英雄或敌方英雄时刷新距离。",
+      "tooltip": "萨勒芬妮登台演出，投射出一股令人着迷的力量，来造成{{ rchannelduration }}秒魅惑效果和{{ r1totaldamage }}魔法伤害。任何被命中的英雄(包括友方英雄)都会成为表演的一部分，延长这个技能的距离。友方英雄会获得满层的音符。",
+      "cooldown": "160/140/120",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "25000",
+      "maxrank": 3,
+      "image": "SeraphineR.png",
+      "key": "R"
+    }
+  ]
+}

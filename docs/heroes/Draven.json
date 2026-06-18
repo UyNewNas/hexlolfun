@@ -1,0 +1,482 @@
+{
+  "id": "Draven",
+  "championId": "119",
+  "name": "荣耀行刑官",
+  "title": "德莱文",
+  "region": "诺克萨斯",
+  "blurb": "在诺克萨斯，有一种战士被称为“清算人”。他们在竞技场里互相厮杀，以鲜血作为赌注进行力量的考验，不过没有任何人能像德莱文那样受人追捧。曾经参过军的他，发现竞技场的观众们尤为喜爱他的耀武扬威和刻意表演，还有他挥舞飞斧时的无匹技艺。这种出神入化的斧技所带来的赞叹令他上瘾，德莱文发誓要不惜代价打败一切对手，以此确保自己的名字在帝国之中永世传唱。",
+  "tags": [
+    "射手"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 9,
+    "defense": 3,
+    "magic": 1,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 675,
+    "hpPerLevel": 104,
+    "mp": 361,
+    "mpPerLevel": 39,
+    "movespeed": 330,
+    "armor": 29,
+    "armorPerLevel": 4.5,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 62,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.679,
+    "attackspeedPerLevel": 2.7,
+    "hpregen": 3.75,
+    "hpregenPerLevel": 0.7,
+    "mpregen": 8.05,
+    "mpregenPerLevel": 0.65,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "119001",
+      "name": "灵魂收割者 德莱文",
+      "chromas": false
+    },
+    {
+      "id": "119002",
+      "name": "绞肉机刽子手 德莱文",
+      "chromas": false
+    },
+    {
+      "id": "119003",
+      "name": "金牌主播 德莱文",
+      "chromas": true
+    },
+    {
+      "id": "119004",
+      "name": "泳池派对 德莱文",
+      "chromas": false
+    },
+    {
+      "id": "119005",
+      "name": "野兽猎人 德莱文",
+      "chromas": false
+    },
+    {
+      "id": "119006",
+      "name": "德莱德莱德莱文",
+      "chromas": false
+    },
+    {
+      "id": "119007",
+      "name": "金牌主播 德莱文 从不断气闪电嘴",
+      "chromas": false
+    },
+    {
+      "id": "119008",
+      "name": "金牌主播 德莱文 玩梗达人金话筒",
+      "chromas": false
+    },
+    {
+      "id": "119009",
+      "name": "金牌主播 德莱文 瓜皮杀手王牌讲师",
+      "chromas": false
+    },
+    {
+      "id": "119010",
+      "name": "金牌主播 德莱文 理性分析数据帝",
+      "chromas": false
+    },
+    {
+      "id": "119011",
+      "name": "金牌主播 德莱文 神秘力量预言帝",
+      "chromas": false
+    },
+    {
+      "id": "119012",
+      "name": "圣诞老人 德莱文",
+      "chromas": false
+    },
+    {
+      "id": "119013",
+      "name": "机神青龙 德莱文",
+      "chromas": true
+    },
+    {
+      "id": "119014",
+      "name": "机神青龙 德莱文 炼狱",
+      "chromas": false
+    },
+    {
+      "id": "119015",
+      "name": "机神青龙 德莱文 光",
+      "chromas": false
+    },
+    {
+      "id": "119016",
+      "name": "机神青龙 德莱文 剧毒",
+      "chromas": false
+    },
+    {
+      "id": "119017",
+      "name": "机神青龙 德莱文 钢铁",
+      "chromas": false
+    },
+    {
+      "id": "119018",
+      "name": "机神青龙 德莱文 水晶",
+      "chromas": false
+    },
+    {
+      "id": "119019",
+      "name": "机神青龙 德莱文 月蚀",
+      "chromas": false
+    },
+    {
+      "id": "119020",
+      "name": "破败军团 德莱文",
+      "chromas": true
+    },
+    {
+      "id": "119021",
+      "name": "破败军团 德莱文 帝国征伐使",
+      "chromas": false
+    },
+    {
+      "id": "119022",
+      "name": "破败军团 德莱文 山峰征伐使",
+      "chromas": false
+    },
+    {
+      "id": "119023",
+      "name": "破败军团 德莱文 虚空征伐使",
+      "chromas": false
+    },
+    {
+      "id": "119024",
+      "name": "破败军团 德莱文 海港征伐使",
+      "chromas": false
+    },
+    {
+      "id": "119025",
+      "name": "破败军团 德莱文 森林征伐使",
+      "chromas": false
+    },
+    {
+      "id": "119026",
+      "name": "破败军团 德莱文 灵岛征伐使",
+      "chromas": false
+    },
+    {
+      "id": "119027",
+      "name": "破败军团 德莱文 极地征伐使",
+      "chromas": false
+    },
+    {
+      "id": "119028",
+      "name": "破败军团 德莱文 咒缚征伐使",
+      "chromas": false
+    },
+    {
+      "id": "119029",
+      "name": "刃执事 德莱文",
+      "chromas": true
+    },
+    {
+      "id": "119030",
+      "name": "刃执事 德莱文 红莲",
+      "chromas": false
+    },
+    {
+      "id": "119031",
+      "name": "刃执事 德莱文 琥珀",
+      "chromas": false
+    },
+    {
+      "id": "119032",
+      "name": "刃执事 德莱文 幻魅",
+      "chromas": false
+    },
+    {
+      "id": "119033",
+      "name": "刃执事 德莱文 青木",
+      "chromas": false
+    },
+    {
+      "id": "119034",
+      "name": "刃执事 德莱文 蓝霜",
+      "chromas": false
+    },
+    {
+      "id": "119035",
+      "name": "刃执事 德莱文 紫电",
+      "chromas": false
+    },
+    {
+      "id": "119036",
+      "name": "刃执事 德莱文 墨玉",
+      "chromas": false
+    },
+    {
+      "id": "119037",
+      "name": "刃执事 德莱文 黑曜",
+      "chromas": false
+    },
+    {
+      "id": "119038",
+      "name": "刃执事 德莱文 碧空",
+      "chromas": false
+    },
+    {
+      "id": "119039",
+      "name": "魔域梦魇 德莱文",
+      "chromas": true
+    },
+    {
+      "id": "119040",
+      "name": "魔域梦魇 德莱文 红夜梦境",
+      "chromas": false
+    },
+    {
+      "id": "119041",
+      "name": "魔域梦魇 德莱文 糖果梦境",
+      "chromas": false
+    },
+    {
+      "id": "119042",
+      "name": "魔域梦魇 德莱文 荒宅梦境",
+      "chromas": false
+    },
+    {
+      "id": "119043",
+      "name": "魔域梦魇 德莱文 荆棘梦境",
+      "chromas": false
+    },
+    {
+      "id": "119044",
+      "name": "魔域梦魇 德莱文 舞会梦境",
+      "chromas": false
+    },
+    {
+      "id": "119045",
+      "name": "魔域梦魇 德莱文 惊情梦境",
+      "chromas": false
+    },
+    {
+      "id": "119046",
+      "name": "魔域梦魇 德莱文 飞帚梦境",
+      "chromas": false
+    },
+    {
+      "id": "119047",
+      "name": "魔域梦魇 德莱文 歌影梦境",
+      "chromas": false
+    },
+    {
+      "id": "119048",
+      "name": "魂蔷薇 德莱文",
+      "chromas": true
+    },
+    {
+      "id": "119049",
+      "name": "魂蔷薇 德莱文 信念之火",
+      "chromas": false
+    },
+    {
+      "id": "119050",
+      "name": "魂蔷薇 德莱文 迎接之烛",
+      "chromas": false
+    },
+    {
+      "id": "119051",
+      "name": "魂蔷薇 德莱文 告慰之饮",
+      "chromas": false
+    },
+    {
+      "id": "119052",
+      "name": "魂蔷薇 德莱文 祈祷之香",
+      "chromas": false
+    },
+    {
+      "id": "119053",
+      "name": "魂蔷薇 德莱文 送别之礼",
+      "chromas": false
+    },
+    {
+      "id": "119054",
+      "name": "魂蔷薇 德莱文 家人之爱",
+      "chromas": false
+    },
+    {
+      "id": "119055",
+      "name": "魂蔷薇 德莱文 生命之源",
+      "chromas": false
+    },
+    {
+      "id": "119056",
+      "name": "魂蔷薇 德莱文 智慧之物",
+      "chromas": false
+    },
+    {
+      "id": "119057",
+      "name": "魂蔷薇 德莱文 生如夏花",
+      "chromas": false
+    },
+    {
+      "id": "119058",
+      "name": "最高清算 德莱文",
+      "chromas": true
+    },
+    {
+      "id": "119059",
+      "name": "最高清算 德莱文 热血猛攻",
+      "chromas": false
+    },
+    {
+      "id": "119060",
+      "name": "最高清算 德莱文 吸睛亮相",
+      "chromas": false
+    },
+    {
+      "id": "119061",
+      "name": "最高清算 德莱文 紧张周旋",
+      "chromas": false
+    },
+    {
+      "id": "119062",
+      "name": "最高清算 德莱文 惊人破绽",
+      "chromas": false
+    },
+    {
+      "id": "119063",
+      "name": "最高清算 德莱文 屏息伏笔",
+      "chromas": false
+    },
+    {
+      "id": "119064",
+      "name": "最高清算 德莱文 华丽逆转",
+      "chromas": false
+    },
+    {
+      "id": "119065",
+      "name": "最高清算 德莱文 揪心佯败",
+      "chromas": false
+    },
+    {
+      "id": "119066",
+      "name": "最高清算 德莱文 沸腾终结",
+      "chromas": false
+    },
+    {
+      "id": "119067",
+      "name": "最高清算 德莱文 至强",
+      "chromas": false
+    },
+    {
+      "id": "119068",
+      "name": "胜利行刑官 德莱文",
+      "chromas": true
+    },
+    {
+      "id": "119069",
+      "name": "胜利行刑官 德莱文 英勇黄铜",
+      "chromas": false
+    },
+    {
+      "id": "119070",
+      "name": "胜利行刑官 德莱文 不屈白银",
+      "chromas": false
+    },
+    {
+      "id": "119071",
+      "name": "胜利行刑官 德莱文 荣耀黄金",
+      "chromas": false
+    },
+    {
+      "id": "119072",
+      "name": "胜利行刑官 德莱文 华贵铂金",
+      "chromas": false
+    },
+    {
+      "id": "119073",
+      "name": "胜利行刑官 德莱文 流光翡翠",
+      "chromas": false
+    },
+    {
+      "id": "119074",
+      "name": "胜利行刑官 德莱文 璀璨钻石",
+      "chromas": false
+    },
+    {
+      "id": "119075",
+      "name": "胜利行刑官 德莱文 超凡大师",
+      "chromas": false
+    },
+    {
+      "id": "119076",
+      "name": "胜利行刑官 德莱文 傲世宗师",
+      "chromas": false
+    },
+    {
+      "id": "119077",
+      "name": "胜利行刑官 德莱文 最强王者",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "德莱文联盟",
+    "description": "在接住一把旋转飞斧或者击杀了一个小兵、野怪或防御塔后，德莱文会从他的粉丝那里获得崇拜效果。击杀一名敌方英雄会为德莱文提供额外赏金，赏金的多少取决于他拥有多少层崇拜效果。",
+    "image": "Draven_passive.png"
+  },
+  "spells": [
+    {
+      "name": "旋转飞斧",
+      "description": "德莱文的下次攻击会造成额外物理伤害。这个斧头将会从目标身上弹到高空。如果德莱文接住了它，那么会立刻准备好下一发旋转飞斧。德莱文可以同时拥有2发旋转飞斧。",
+      "tooltip": "德莱文准备好一把旋转飞斧，使他的下一次攻击造成额外的{{ totaldamage }}物理伤害然后弹到空中。如果德莱文接住了它，那么他会准备好另一把旋转飞斧。德莱文可以同时持有2把旋转飞斧。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "45",
+      "costType": " {{ abilityresourcename }}",
+      "range": "300",
+      "maxrank": 5,
+      "image": "DravenSpinning.png",
+      "key": "Q"
+    },
+    {
+      "name": "血性冲刺",
+      "description": "德莱文获得移动速度和攻击速度加成。移动速度加成在持续时间过后会急剧下降。在接到一把旋转飞斧后，血性冲刺会立刻冷却完毕。",
+      "tooltip": "德莱文进入幽灵状态，获得在{{ e3 }}秒里持续衰减的{{ e2 }}%移动速度和持续{{ e5 }}秒的{{ e4 }}%攻击速度。当德莱文接住一把旋转飞斧时，这个技能的冷却时间就会刷新。",
+      "cooldown": "12",
+      "cost": "40/35/30/25/20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "DravenFury.png",
+      "key": "W"
+    },
+    {
+      "name": "开道利斧",
+      "description": "德莱文扔出他的斧头，对命中的目标造成物理伤害，并将他们击退至一边。被命中的目标会受到减速效果。",
+      "tooltip": "德莱文抛掷一柄开山斧，造成{{ totaldamage }}物理伤害，击退，以及持续{{ e3 }}秒的{{ e2 }}%减速。",
+      "cooldown": "18/17/16/15/14",
+      "cost": "70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1050",
+      "maxrank": 5,
+      "image": "DravenDoubleShot.png",
+      "key": "E"
+    },
+    {
+      "name": "冷血追命",
+      "description": "德莱文掷出两柄大斧，对命中的每个单位造成物理伤害。在命中一名敌方英雄后，大斧会缓慢地调转方向，并回到德莱文身边。在斧头正在向外飞的时候，德莱文可以激活该技能来让斧头早点飞回来。每命中一个单位，伤害值就会减少。在斧头调转方向时，伤害值会重置。会处决那些生命值低于德莱文崇拜层数的敌人们。",
+      "tooltip": "德莱文猛掷出两把巨斧来造成{{ rcalculateddamage }}物理伤害。在命中一名英雄或再次施放之后，巨斧会掉转方向并返回德莱文处。巨斧每命中一个敌人就会降低{{ rdamagereductionperhit*100 }}%伤害，最低降至{{ rmindamagepercent }}%。如果冷血追命使一名敌方英雄的生命值低于德莱文目前的{{ rpassivestackscoefficient*100 }}%德莱文联盟层数({{ rpassivetruedamage }})，那么德莱文会将该英雄处决。",
+      "cooldown": "100/90/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "20000",
+      "maxrank": 3,
+      "image": "DravenRCast.png",
+      "key": "R"
+    }
+  ]
+}

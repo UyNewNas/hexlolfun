@@ -1,0 +1,237 @@
+{
+  "id": "Belveth",
+  "championId": "200",
+  "name": "虚空女皇",
+  "title": "卑尔维斯",
+  "region": "虚空之地",
+  "blurb": "一座被吞噬的城市，哺育了一位噩梦般的女皇。卑尔维斯就是符文之地的终结……也是她亲手规划的可怖现实的开端。地上世界无数世代的历史、知识和记忆驱使着她不知餍足地吞食所过之处的一切体验和情感。然而，区区一个世界完全不能满足她的胃口。卑尔维斯将眼光投向了虚空曾经的主人……",
+  "tags": [
+    "战士"
+  ],
+  "partype": "",
+  "info": {
+    "attack": 4,
+    "defense": 2,
+    "magic": 7,
+    "difficulty": 10
+  },
+  "stats": {
+    "hp": 610,
+    "hpPerLevel": 105,
+    "mp": 60,
+    "mpPerLevel": 0,
+    "movespeed": 340,
+    "armor": 32,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 150,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.85,
+    "attackspeedPerLevel": 0,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "200001",
+      "name": "战场BOSS 卑尔维斯",
+      "chromas": true
+    },
+    {
+      "id": "200002",
+      "name": "战场BOSS 卑尔维斯 乱舞之翼",
+      "chromas": false
+    },
+    {
+      "id": "200003",
+      "name": "战场BOSS 卑尔维斯 流转之鳍",
+      "chromas": false
+    },
+    {
+      "id": "200004",
+      "name": "战场BOSS 卑尔维斯 不屈之尾",
+      "chromas": false
+    },
+    {
+      "id": "200005",
+      "name": "战场BOSS 卑尔维斯 追风之鳍",
+      "chromas": false
+    },
+    {
+      "id": "200006",
+      "name": "战场BOSS 卑尔维斯 轮舞之翼",
+      "chromas": false
+    },
+    {
+      "id": "200007",
+      "name": "战场BOSS 卑尔维斯 悦乐之羽",
+      "chromas": false
+    },
+    {
+      "id": "200008",
+      "name": "战场BOSS 卑尔维斯 天罚之羽",
+      "chromas": false
+    },
+    {
+      "id": "200009",
+      "name": "战场BOSS 卑尔维斯 拒绝之尾",
+      "chromas": false
+    },
+    {
+      "id": "200010",
+      "name": "星界女神 卑尔维斯",
+      "chromas": true
+    },
+    {
+      "id": "200011",
+      "name": "星界女神 卑尔维斯 战神星魂",
+      "chromas": false
+    },
+    {
+      "id": "200012",
+      "name": "星界女神 卑尔维斯 美神星魂",
+      "chromas": false
+    },
+    {
+      "id": "200013",
+      "name": "星界女神 卑尔维斯 爱神星魂",
+      "chromas": false
+    },
+    {
+      "id": "200014",
+      "name": "星界女神 卑尔维斯 海神星魂",
+      "chromas": false
+    },
+    {
+      "id": "200015",
+      "name": "星界女神 卑尔维斯 猎神星魂",
+      "chromas": false
+    },
+    {
+      "id": "200016",
+      "name": "星界女神 卑尔维斯 天神星魂",
+      "chromas": false
+    },
+    {
+      "id": "200017",
+      "name": "星界女神 卑尔维斯 冥神星魂",
+      "chromas": false
+    },
+    {
+      "id": "200018",
+      "name": "星界女神 卑尔维斯 梦神星魂",
+      "chromas": false
+    },
+    {
+      "id": "200019",
+      "name": "海魔女 卑尔维斯",
+      "chromas": true
+    },
+    {
+      "id": "200020",
+      "name": "海魔女 卑尔维斯 威慑嘶吼",
+      "chromas": false
+    },
+    {
+      "id": "200021",
+      "name": "海魔女 卑尔维斯 无情背袭",
+      "chromas": false
+    },
+    {
+      "id": "200022",
+      "name": "海魔女 卑尔维斯 梦魇狂袭",
+      "chromas": false
+    },
+    {
+      "id": "200023",
+      "name": "海魔女 卑尔维斯 无休冲击",
+      "chromas": false
+    },
+    {
+      "id": "200024",
+      "name": "海魔女 卑尔维斯 闪耀突袭",
+      "chromas": false
+    },
+    {
+      "id": "200025",
+      "name": "海魔女 卑尔维斯 完美阻截",
+      "chromas": false
+    },
+    {
+      "id": "200026",
+      "name": "海魔女 卑尔维斯 白色掠影",
+      "chromas": false
+    },
+    {
+      "id": "200027",
+      "name": "海魔女 卑尔维斯 黑云压城",
+      "chromas": false
+    },
+    {
+      "id": "200028",
+      "name": "海魔女 卑尔维斯 深渊潜袭",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "溶烛化紫 ",
+    "description": "每当卑尔维斯击杀大型小兵和野怪和英雄时，都会获得永久的额外攻速加成。她还会在使用一个技能后获得暂时的攻击速度加成。",
+    "image": "Belveth_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "虚空激流",
+      "description": "卑尔维斯朝选定方向进行突进，对途经的所有敌人造成伤害。",
+      "tooltip": "卑尔维斯进行冲刺，对她途经的敌人们造成{{ basedamage }}物理伤害。每个方向都有为期{{ f1 }}秒的独立冷却时间 ，这些冷却时间随她的攻击速度的提升而缩短。",
+      "cooldown": "1",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "450",
+      "maxrank": 5,
+      "image": "BelvethQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "上觐沉渊",
+      "description": "卑尔维斯甩尾重击，对命中的敌人造成伤害、击飞和减速。",
+      "tooltip": "卑尔维斯甩尾重击，对敌人们造成{{ damage }}魔法伤害、{{ duration }}秒击飞和持续{{ slowduration }}秒的{{ slowpercent*100 }}%减速。如果这个技能击中了一名敌方英雄，则刷新该英雄所在方向的虚空激流的冷却时间。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "715",
+      "maxrank": 5,
+      "image": "BelvethW.png",
+      "key": "W"
+    },
+    {
+      "name": "搠面皇锋",
+      "description": "卑尔维斯将她自身禁锢在原地，引导一阵切割风暴环绕自身，这个风暴会以生命值最低的敌人为目标并为她提供生命偷取和伤害减免。",
+      "tooltip": "卑尔维斯引导并斩击她自身的周围区域，获得{{ drpercent*100 }}%伤害减免、{{ totallifesteal }}生命偷取、并在{{ totalduration }}秒持续攻击{{ f2.0 }}次，攻击次数可通过攻击速度来提升。每次攻击都会打击生命值最低的敌人，基于目标的已损失生命值造成{{ damageperstrike }}至{{ maxdamageperstriketooltip }}物理伤害。使用另一个技能或再次施放这个技能会使这个技能提前结束。",
+      "cooldown": "20/19/18/17/16",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "500",
+      "maxrank": 5,
+      "image": "BelvethE.png",
+      "key": "E"
+    },
+    {
+      "name": "万载豪筵",
+      "description": "卑尔维斯消耗【虚空珊瑚残片】，转化为她的真实形态并提升她的最大生命值、攻击距离、攻击速度和非战斗状态下的移动速度。消耗来自虚空史诗级野怪的【虚空珊瑚残片】将为她提供更久的终极技能持续时长，以及召唤【虚空鱼】的能量。",
+      "tooltip": "被动：对相同目标的每第二次攻击会造成额外的{{ finalonhitdamage }}真实伤害，可无限叠加。参与击杀英雄和史诗级野怪后会留下一片【虚空珊瑚】。主动：消耗【虚空珊瑚】来提供{{ passivestacksondevour }}层【溶烛化紫】并激活卑尔维斯的真实形态，持续{{ steroidduration }}秒。来自虚空史诗级野怪的【虚空珊瑚】会将持续时长提升至{{ voidduration }}秒并使附近阵亡的小兵们变为【虚空鱼】。在施放时，卑尔维斯减速附近的敌人们然后爆炸，造成{{ totalexplosiondamage }} + {{ missinghealthdamage*100 }}%已损失生命值的真实伤害。在她的真实形态下，卑尔维斯获得{{ maxhealthondevour }}最大生命值、非战斗状态的{{ oocms }}移动速度、{{ bonusaarange }}攻击距离、{{ totalasmod*100 }}%总攻击速度、并且虚空激流可以穿过墙体。",
+      "cooldown": "1",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "450",
+      "maxrank": 3,
+      "image": "BelvethR.png",
+      "key": "R"
+    }
+  ]
+}

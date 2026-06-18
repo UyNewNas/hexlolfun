@@ -1,0 +1,153 @@
+{
+  "id": "Mel",
+  "championId": "800",
+  "name": "流光镜影",
+  "title": "梅尔",
+  "region": "诺克萨斯",
+  "blurb": "梅尔·米达尔达是诺克萨斯旧贵族——米达尔达家族目前的第一顺位继承人。台前，她是优雅的贵族小姐；幕后，她是完美的政治家，对她遇到的每个人、每件事了然于胸，加以利用。在与神秘的黑色玫瑰接触之后，梅尔发现了母亲编织的层层谎言。也许是此生第一次，时局的发展超出了她的掌控。带着刚刚觉醒的魔法能力，梅尔乘船返回故乡探寻答案。许多人都想制服她体内的光，但梅尔的灵魂永远都昂扬倔强。",
+  "tags": [
+    "法师",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 4,
+    "magic": 9,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 630,
+    "hpPerLevel": 99,
+    "mp": 480,
+    "mpPerLevel": 28,
+    "movespeed": 330,
+    "armor": 21,
+    "armorPerLevel": 5.2,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 54,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 9,
+    "mpregenPerLevel": 0.9,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "800001",
+      "name": "皮城议员 梅尔",
+      "chromas": true
+    },
+    {
+      "id": "800002",
+      "name": "皮城议员 梅尔 阳炎红水晶",
+      "chromas": false
+    },
+    {
+      "id": "800003",
+      "name": "皮城议员 梅尔 残影青水晶",
+      "chromas": false
+    },
+    {
+      "id": "800004",
+      "name": "皮城议员 梅尔 折镜紫水晶",
+      "chromas": false
+    },
+    {
+      "id": "800005",
+      "name": "皮城议员 梅尔 鎏金黄水晶",
+      "chromas": false
+    },
+    {
+      "id": "800006",
+      "name": "皮城议员 梅尔 灵魂粉水晶",
+      "chromas": false
+    },
+    {
+      "id": "800007",
+      "name": "皮城议员 梅尔 涡流蓝水晶",
+      "chromas": false
+    },
+    {
+      "id": "800008",
+      "name": "皮城议员 梅尔 蚀日黑水晶",
+      "chromas": false
+    },
+    {
+      "id": "800009",
+      "name": "皮城议员 梅尔 灼灼白水晶",
+      "chromas": false
+    },
+    {
+      "id": "800010",
+      "name": "至臻 北极星神 梅尔",
+      "chromas": true
+    },
+    {
+      "id": "800011",
+      "name": "至臻 北极星神 梅尔 全开",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "灼灼之光",
+    "description": "每当梅尔使用技能，她的下一次攻击将额外附带3枚弹体（最多9枚）。当梅尔通过一次技能或攻击造成伤害时，她会施加【夺命残影】——一种可以无限叠加的效果。如果目标身上叠加了足够的夺命残影伤害量，则会在下一次被梅尔命中时被直接处决，同时消耗效果层数。",
+    "image": "Mel_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "耀光齐射",
+      "description": "梅尔发射一连串耀光飞弹，飞弹会在目标位置周围爆炸，对范围内的敌人造成多段伤害。",
+      "tooltip": "梅尔释放一道由{{ explosioncount }}个耀光飞弹组成的弹幕，飞弹会在目标位置周围爆炸。命中的第一次爆炸造成{{ initialexplosiondamage }}魔法伤害并且每次后续爆炸造成{{ totalexplosiondamage }}魔法伤害，至多增加至{{ alldamagehit }}魔法伤害总和。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "70/75/80/85/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "950",
+      "maxrank": 5,
+      "image": "MelQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "灵魂折镜",
+      "description": "梅尔生成一道屏障围绕自身，这道屏障会将敌方弹体反弹给攻击者，使她免受伤害，并为她提供移动速度。",
+      "tooltip": "梅尔生成一道屏障围绕自身，这道屏障会将敌方英雄弹体反弹给攻击者，使她免受伤害，并获得持续{{ duration }}秒的{{ shieldamount }}护盾值和在{{ movespeedduration }}秒里持续衰减的{{ movespeed*100 }}%移动速度。被反弹的弹体会造成{{ damagepercent }}原伤害值的魔法伤害。",
+      "cooldown": "38/35/33/29/26",
+      "cost": "80/60/40/20/0",
+      "costType": " {{ abilityresourcename }}",
+      "range": "250",
+      "maxrank": 5,
+      "image": "MelW.png",
+      "key": "W"
+    },
+    {
+      "name": "阳炎涡旋",
+      "description": "梅尔发射一颗阳炎法球，禁锢中心区域的敌人并减速周围区域的敌人并造成持续伤害。",
+      "tooltip": "梅尔发射一颗阳炎法球，禁锢中心区域的敌人{{ rootduration }}秒并造成{{ damage }}魔法伤害。法球会在其周围逐渐形成一个妨害区域，这个区域会对敌人们造成{{ areaslowamount*100 }}%减速以及每秒{{ areadamagepersecond }}魔法伤害。",
+      "cooldown": "11/10.5/10/9.5/9",
+      "cost": "50/60/70/80/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "MelE.png",
+      "key": "E"
+    },
+    {
+      "name": "鎏金蚀日",
+      "description": "梅尔无视距离，对所有带有【夺命残影】层数的敌人进行打击，造成基于【夺命残影】层数的额外伤害。【鎏金蚀日】的技能等级会提升【夺命残影】的伤害。",
+      "tooltip": "被动：夺命残影伤害提升至{{ passiveflatdamage }}魔法伤害外加每层{{ passivestackdamage }}魔法伤害。主动：梅尔对所有身上带有夺命残影的敌人释放她的能量，造成{{ ultflatdamage }}魔法伤害外加每层夺命残影{{ ultstackdamage }}魔法伤害。仅可在有一名敌方英雄被施加了夺命残影时施放。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "25000",
+      "maxrank": 3,
+      "image": "MelR.png",
+      "key": "R"
+    }
+  ]
+}

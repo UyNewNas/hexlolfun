@@ -1,0 +1,378 @@
+{
+  "id": "Malphite",
+  "championId": "54",
+  "name": "熔岩巨兽",
+  "title": "墨菲特",
+  "region": "以绪塔尔",
+  "blurb": "墨菲特是一个庞大的岩石生物，为了给混乱的世界赐予秩序而不懈奋斗。他诞生之初的身份只是一个石仆，侍奉着一块超乎凡人理解、名为“独石”的石碑。他用万钧元素之力维护独石，最终却还是失败了。在那场大毁灭中，墨菲特成了唯一的幸存者。如今他忍受着符文之地的脆弱凡人以及他们流水一般多变的性情，想尽办法在世间寻找一个新的立足之地，让自己不愧这世上最后一个岩石生物之名。",
+  "tags": [
+    "坦克",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 5,
+    "defense": 9,
+    "magic": 7,
+    "difficulty": 2
+  },
+  "stats": {
+    "hp": 665,
+    "hpPerLevel": 104,
+    "mp": 280,
+    "mpPerLevel": 60,
+    "movespeed": 335,
+    "armor": 40,
+    "armorPerLevel": 4.95,
+    "spellblock": 28,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 62,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.736,
+    "attackspeedPerLevel": 3.4,
+    "hpregen": 7,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 7.3,
+    "mpregenPerLevel": 0.55,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "54001",
+      "name": "三叶草 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54002",
+      "name": "珊瑚礁 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54003",
+      "name": "石破天惊 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54004",
+      "name": "黑曜石守护者 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54005",
+      "name": "冰川巨兽 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54006",
+      "name": "霸天巨兽 墨菲特",
+      "chromas": true
+    },
+    {
+      "id": "54007",
+      "name": "无畏号 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54008",
+      "name": "霸天巨兽·拂晓 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54009",
+      "name": "霸天巨兽·翠绿暴风 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54010",
+      "name": "霸天巨兽·漆黑强袭 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54011",
+      "name": "霸天巨兽·沙暴 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54012",
+      "name": "霸天巨兽·雪崩 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54013",
+      "name": "霸天巨兽·蔚蓝决斗 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54014",
+      "name": "霸天巨兽·灰色幽灵 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54015",
+      "name": "霸天巨兽·神无 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54016",
+      "name": "奥德赛 墨菲特",
+      "chromas": true
+    },
+    {
+      "id": "54017",
+      "name": "奥德赛 墨菲特 星河征服者",
+      "chromas": false
+    },
+    {
+      "id": "54018",
+      "name": "奥德赛 墨菲特 虫洞穿行者",
+      "chromas": false
+    },
+    {
+      "id": "54019",
+      "name": "奥德赛 墨菲特 星云环游者",
+      "chromas": false
+    },
+    {
+      "id": "54020",
+      "name": "奥德赛 墨菲特 恒星游历者",
+      "chromas": false
+    },
+    {
+      "id": "54021",
+      "name": "奥德赛 墨菲特 流星群竞速者",
+      "chromas": false
+    },
+    {
+      "id": "54022",
+      "name": "奥德赛 墨菲特 小行星带探险者",
+      "chromas": false
+    },
+    {
+      "id": "54023",
+      "name": "暗星 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54024",
+      "name": "至臻 暗星 墨菲特",
+      "chromas": false
+    },
+    {
+      "id": "54025",
+      "name": "FPX 墨菲特",
+      "chromas": true
+    },
+    {
+      "id": "54026",
+      "name": "FPX 墨菲特 涅槃",
+      "chromas": false
+    },
+    {
+      "id": "54027",
+      "name": "古神 墨菲特",
+      "chromas": true
+    },
+    {
+      "id": "54028",
+      "name": "古神 墨菲特 愤怒",
+      "chromas": false
+    },
+    {
+      "id": "54029",
+      "name": "古神 墨菲特 欺骗",
+      "chromas": false
+    },
+    {
+      "id": "54030",
+      "name": "古神 墨菲特 嫉妒",
+      "chromas": false
+    },
+    {
+      "id": "54031",
+      "name": "古神 墨菲特 欲望",
+      "chromas": false
+    },
+    {
+      "id": "54032",
+      "name": "古神 墨菲特 虚荣",
+      "chromas": false
+    },
+    {
+      "id": "54033",
+      "name": "古神 墨菲特 贪婪",
+      "chromas": false
+    },
+    {
+      "id": "54034",
+      "name": "古神 墨菲特 饕餮",
+      "chromas": false
+    },
+    {
+      "id": "54035",
+      "name": "古神 墨菲特 倦怠",
+      "chromas": false
+    },
+    {
+      "id": "54036",
+      "name": "古神 墨菲特 狂信",
+      "chromas": false
+    },
+    {
+      "id": "54037",
+      "name": "春晖山神 墨菲特",
+      "chromas": true
+    },
+    {
+      "id": "54038",
+      "name": "春晖山神 墨菲特 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "54039",
+      "name": "春晖山神 墨菲特 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "54040",
+      "name": "春晖山神 墨菲特 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "54041",
+      "name": "春晖山神 墨菲特 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "54042",
+      "name": "春晖山神 墨菲特 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "54043",
+      "name": "春晖山神 墨菲特 年年有余",
+      "chromas": false
+    },
+    {
+      "id": "54044",
+      "name": "春晖山神 墨菲特 吉祥如意",
+      "chromas": false
+    },
+    {
+      "id": "54045",
+      "name": "春晖山神 墨菲特 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "54046",
+      "name": "春晖山神 墨菲特 灿烂辉煌",
+      "chromas": false
+    },
+    {
+      "id": "54047",
+      "name": "无畏意志 墨菲特 必不可挡",
+      "chromas": false
+    },
+    {
+      "id": "54048",
+      "name": "沙碉 墨菲特",
+      "chromas": true
+    },
+    {
+      "id": "54049",
+      "name": "沙碉 墨菲特 红宝之城",
+      "chromas": false
+    },
+    {
+      "id": "54050",
+      "name": "沙碉 墨菲特 黄金之城",
+      "chromas": false
+    },
+    {
+      "id": "54051",
+      "name": "沙碉 墨菲特 蓝玉之城",
+      "chromas": false
+    },
+    {
+      "id": "54052",
+      "name": "沙碉 墨菲特 翡翠之城",
+      "chromas": false
+    },
+    {
+      "id": "54053",
+      "name": "沙碉 墨菲特 陨铁之城",
+      "chromas": false
+    },
+    {
+      "id": "54054",
+      "name": "沙碉 墨菲特 黑岩之城",
+      "chromas": false
+    },
+    {
+      "id": "54055",
+      "name": "沙碉 墨菲特 珍珠之城",
+      "chromas": false
+    },
+    {
+      "id": "54056",
+      "name": "沙碉 墨菲特 珊瑚之城",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "花岗岩护盾",
+    "description": "墨菲特被岩石护盾保护，最多吸收10%最大生命值的伤害，若数秒内墨菲特未受到攻击，护盾将重置。",
+    "image": "Malphite_GraniteShield.png"
+  },
+  "spells": [
+    {
+      "name": "地震碎片",
+      "description": "墨菲特发出一块大地碎片穿过他敌人处的地面，在碰撞时造成伤害并且偷取移动速度3秒。",
+      "tooltip": "墨菲特朝一名敌人发出一块大地碎片，造成{{ qdamagecalc }}魔法伤害，并对目标造成持续{{ slowduration }}秒的{{ e2 }}%减速。墨菲特还会窃取目标的这一部分速度，来获得持续{{ slowduration }}秒的与这个减速效果等额的移动速度。",
+      "cooldown": "8",
+      "cost": "70/75/80/85/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "625",
+      "maxrank": 5,
+      "image": "SeismicShard.png",
+      "key": "Q"
+    },
+    {
+      "name": "雷霆拍击",
+      "description": "墨菲特的攻击蕴含着如此惊人的力道以至于它引发了一次音爆。在接下来的数秒里，他的攻击会在他面前引发余波。",
+      "tooltip": "被动：墨菲特获得{{ bonusarmorpassive*100 }}%护甲(%i:scaleArmor%{{ f1 }})。这个效果会在花岗岩护盾激活时提升至{{ bonusarmorpassive*300 }}% (%i:scaleArmor%{{ f2 }})。主动：墨菲特的下次攻击造成额外的{{ totalbonusdamage }}物理伤害 %i:OnHit% 攻击特效，并会引发一阵余震，以在其方向造成{{ thunderclapsplash }}物理伤害 %i:OnHit% 攻击特效。在接下来的{{ thunderclapbuffduration }}秒内，他的攻击会继续引发余震 %i:OnHit% 攻击特效。",
+      "cooldown": "10/9.5/9/8.5/8",
+      "cost": "30/35/40/45/50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "Obduracy.png",
+      "key": "W"
+    },
+    {
+      "name": "大地震颤",
+      "description": "墨菲特锤击地面，放射出冲击波对目标造成基于他护甲值的魔法伤害，同时暂时降低目标攻击速度。",
+      "tooltip": "墨菲特锤击地面，对周围敌人造成{{ edamagecalc }}魔法伤害并减少他们{{ asreduction }}%攻击速度，持续{{ duration }}秒。",
+      "cooldown": "7",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "Landslide.png",
+      "key": "E"
+    },
+    {
+      "name": "势不可挡",
+      "description": "墨菲特自身高速冲向一个区域，对区域内的敌人们造成伤害和击飞效果。",
+      "tooltip": "墨菲特携着山崩之力冲锋，进行不可阻挡的突进。在突进结束时，墨菲特会击飞{{ knockupduration }}秒并造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "130/115/100",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 3,
+      "image": "UFSlash.png",
+      "key": "R"
+    }
+  ]
+}

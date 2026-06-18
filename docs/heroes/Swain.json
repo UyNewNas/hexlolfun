@@ -1,0 +1,348 @@
+{
+  "id": "Swain",
+  "championId": "50",
+  "name": "诺克萨斯统领",
+  "title": "斯维因",
+  "region": "诺克萨斯",
+  "blurb": "杰里柯·斯维因是诺克萨斯高瞻远瞩的统治者，执掌一个独尊力量的扩张主义国度。虽然他曾在艾欧尼亚战争中被击倒并留下残疾，失去了左臂，但他却成功用无情的决心掌控了整个帝国……也获得了一只新的恶魔之手。现在，斯维因在前线亲自指挥，对抗着只有他才能看到的压境黑暗——只有他才能通过黑影般的渡鸦窥见周围死尸的秘密。在献祭与秘密的漩涡中，最惊天的秘密是，真正的敌人来自内部。",
+  "tags": [
+    "法师",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 6,
+    "magic": 9,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 595,
+    "hpPerLevel": 99,
+    "mp": 400,
+    "mpPerLevel": 29,
+    "movespeed": 330,
+    "armor": 25,
+    "armorPerLevel": 4.7,
+    "spellblock": 31,
+    "spellblockPerLevel": 1.55,
+    "attackrange": 525,
+    "attackdamage": 58,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.11,
+    "hpregen": 3,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 10,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "50001",
+      "name": "北领前线 斯维因",
+      "chromas": false
+    },
+    {
+      "id": "50002",
+      "name": "海贼参谋 斯维因",
+      "chromas": false
+    },
+    {
+      "id": "50003",
+      "name": "绝代智将 斯维因",
+      "chromas": false
+    },
+    {
+      "id": "50004",
+      "name": "驯龙大师 斯维因",
+      "chromas": true
+    },
+    {
+      "id": "50005",
+      "name": "驯龙大师 斯维因 至高言灵",
+      "chromas": false
+    },
+    {
+      "id": "50006",
+      "name": "驯龙大师 斯维因 不世君王",
+      "chromas": false
+    },
+    {
+      "id": "50007",
+      "name": "驯龙大师 斯维因 灰烬之主",
+      "chromas": false
+    },
+    {
+      "id": "50008",
+      "name": "驯龙大师 斯维因 无畏雄心",
+      "chromas": false
+    },
+    {
+      "id": "50009",
+      "name": "驯龙大师 斯维因 苍蓝之手",
+      "chromas": false
+    },
+    {
+      "id": "50010",
+      "name": "驯龙大师 斯维因 黑曜统领",
+      "chromas": false
+    },
+    {
+      "id": "50011",
+      "name": "海克斯科技 斯维因",
+      "chromas": false
+    },
+    {
+      "id": "50012",
+      "name": "水晶玫瑰 斯维因",
+      "chromas": true
+    },
+    {
+      "id": "50013",
+      "name": "水晶玫瑰 斯维因 热烈花蕾",
+      "chromas": false
+    },
+    {
+      "id": "50014",
+      "name": "水晶玫瑰 斯维因 憧憬花蕾",
+      "chromas": false
+    },
+    {
+      "id": "50015",
+      "name": "水晶玫瑰 斯维因 长情花蕾",
+      "chromas": false
+    },
+    {
+      "id": "50016",
+      "name": "水晶玫瑰 斯维因 浪漫花蕾",
+      "chromas": false
+    },
+    {
+      "id": "50017",
+      "name": "水晶玫瑰 斯维因 忠贞花蕾",
+      "chromas": false
+    },
+    {
+      "id": "50018",
+      "name": "水晶玫瑰 斯维因 倾慕花蕾",
+      "chromas": false
+    },
+    {
+      "id": "50019",
+      "name": "水晶玫瑰 斯维因 甜蜜花蕾",
+      "chromas": false
+    },
+    {
+      "id": "50020",
+      "name": "水晶玫瑰 斯维因 纯洁花蕾",
+      "chromas": false
+    },
+    {
+      "id": "50021",
+      "name": "北极星猎人 斯维因",
+      "chromas": true
+    },
+    {
+      "id": "50022",
+      "name": "水晶玫瑰 斯维因 蒂芙尼",
+      "chromas": false
+    },
+    {
+      "id": "50023",
+      "name": "北极星猎人 斯维因 激昂脉冲",
+      "chromas": false
+    },
+    {
+      "id": "50024",
+      "name": "北极星猎人 斯维因 幸运漩涡",
+      "chromas": false
+    },
+    {
+      "id": "50025",
+      "name": "北极星猎人 斯维因 智慧纽带",
+      "chromas": false
+    },
+    {
+      "id": "50026",
+      "name": "北极星猎人 斯维因 祥和面纱",
+      "chromas": false
+    },
+    {
+      "id": "50027",
+      "name": "北极星猎人 斯维因 圣洁光带",
+      "chromas": false
+    },
+    {
+      "id": "50028",
+      "name": "北极星猎人 斯维因 庄严光冕",
+      "chromas": false
+    },
+    {
+      "id": "50029",
+      "name": "北极星猎人 斯维因 希望辉光",
+      "chromas": false
+    },
+    {
+      "id": "50030",
+      "name": "北极星猎人 斯维因 浪漫帘幕",
+      "chromas": false
+    },
+    {
+      "id": "50031",
+      "name": "北极星猎人 斯维因 花冠极光",
+      "chromas": false
+    },
+    {
+      "id": "50032",
+      "name": "狼神英灵 斯维因",
+      "chromas": true
+    },
+    {
+      "id": "50033",
+      "name": "至臻 狼神英灵 斯维因",
+      "chromas": false
+    },
+    {
+      "id": "50034",
+      "name": "狼神英灵 斯维因 腥红追猎",
+      "chromas": false
+    },
+    {
+      "id": "50035",
+      "name": "狼神英灵 斯维因 炫目追猎",
+      "chromas": false
+    },
+    {
+      "id": "50036",
+      "name": "狼神英灵 斯维因 冷静追猎",
+      "chromas": false
+    },
+    {
+      "id": "50037",
+      "name": "狼神英灵 斯维因 无休追猎",
+      "chromas": false
+    },
+    {
+      "id": "50038",
+      "name": "狼神英灵 斯维因 幽森追猎",
+      "chromas": false
+    },
+    {
+      "id": "50039",
+      "name": "狼神英灵 斯维因 远见追猎",
+      "chromas": false
+    },
+    {
+      "id": "50040",
+      "name": "狼神英灵 斯维因 铁血追猎",
+      "chromas": false
+    },
+    {
+      "id": "50041",
+      "name": "狼神英灵 斯维因 魅影追猎",
+      "chromas": false
+    },
+    {
+      "id": "50042",
+      "name": "炸鸡之王 斯维因",
+      "chromas": true
+    },
+    {
+      "id": "50043",
+      "name": "炸鸡之王 斯维因 与番茄酱更配噢！",
+      "chromas": false
+    },
+    {
+      "id": "50044",
+      "name": "炸鸡之王 斯维因 与灯笼椒酱更配噢！",
+      "chromas": false
+    },
+    {
+      "id": "50045",
+      "name": "炸鸡之王 斯维因 与紫苏梅酱更配噢！",
+      "chromas": false
+    },
+    {
+      "id": "50046",
+      "name": "炸鸡之王 斯维因 与薄荷酱更配噢！",
+      "chromas": false
+    },
+    {
+      "id": "50047",
+      "name": "炸鸡之王 斯维因 与甜辣酱更配噢！",
+      "chromas": false
+    },
+    {
+      "id": "50048",
+      "name": "炸鸡之王 斯维因 与蓝鱼子酱更配噢！",
+      "chromas": false
+    },
+    {
+      "id": "50049",
+      "name": "炸鸡之王 斯维因 与蛋黄酱更配噢！",
+      "chromas": false
+    },
+    {
+      "id": "50050",
+      "name": "炸鸡之王 斯维因 与青芥末酱更配噢！",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "狂食鸦群",
+    "description": "斯维因的鸦群会收集魂屑来治疗斯维因并永久提升他的最大生命值。",
+    "image": "Swain_P.png"
+  },
+  "spells": [
+    {
+      "name": "解脱之触",
+      "description": "斯维因释放多道恶魔之力，这种力量可以穿透命中的目标。被一道以上的恶魔之力所命中的敌人，会受到基于恶魔之力数量的更多伤害。",
+      "tooltip": "斯维因释放5道恶魔之力，造成{{ initialdamage }}魔法伤害，第一道之后的每道恶魔之力造成{{ extraboltdamage }}魔法伤害(最大伤害为{{ maxdamage }}魔法伤害)。",
+      "cooldown": "7/6/5/4/3",
+      "cost": "40/45/50/55/60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "750",
+      "maxrank": 5,
+      "image": "SwainQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "帝国视界",
+      "description": "斯维因睁开恶魔之眼来对敌人造成伤害和减速效果。在命中敌方英雄时会使该英雄显形，并为斯维因提供一片魂屑。",
+      "tooltip": "斯维因睁开一只恶魔之眼，来使一个位置显形1.5秒，然后造成{{ totaldamage }}魔法伤害和持续{{ slowduration }}秒的{{ slow*-100 }}%减速。被命中的英雄会为斯维因提供一片魂屑并显形{{ revealduration }}秒。",
+      "cooldown": "22/21/20/19/18",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "5500/6000/6500/7000/7500",
+      "maxrank": 5,
+      "image": "SwainW.png",
+      "key": "W"
+    },
+    {
+      "name": "永不复行",
+      "description": "斯维因释放一道恶魔之手向前击出。手臂随后会返回至斯维因处，并禁锢它命中的敌人。斯维因之后可以选择将所有被禁锢的英雄们拉拽得更靠近他。这个技能在【恶魔升华】期间会有一个更短的冷却时间。",
+      "tooltip": "斯维因发射一道会折返的恶魔能量波，在命中的第一个敌人身上引爆，对一个区域内的敌人造成{{ secondarydamage }}魔法伤害和{{ rootduration }}秒禁锢。用这个技能禁锢一名英雄后，可使斯维因再次施放这个技能来拉拽所有被永不复行禁锢的英雄们，并且每个被他拉拽的英雄将为他提供一个魂屑。",
+      "cooldown": "12/11.5/11/10.5/10",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "850",
+      "maxrank": 5,
+      "image": "SwainE.png",
+      "key": "E"
+    },
+    {
+      "name": "恶魔升华",
+      "description": "斯维因变身为恶魔并从附近的敌方英雄、小兵和中立野怪身上汲取生命值。斯维因能施放【恶魔耀光】来用一道魂焰新星残害并减速附近的敌人们。这个形态可以在斯维因汲取敌方英雄时无限持续。",
+      "tooltip": "斯维因使体内的恶魔解脱，每秒造成{{ damagecalc }}魔法伤害并从附近的敌人们身上汲取{{ healingcalc }}生命值。他的恶魔能量会持续消耗，但可通过汲取敌方英雄来无限期地充能并且会在参与击杀英雄后完全回复。在{{ demonflarecastdelay }}秒后以及之后的每{{ demonflarecooldowntooltip }}秒，斯维因能够在变身状态下施放恶魔耀光来对敌人们造成{{ demonflaredamagetotal }}魔法伤害和在{{ demonflareslowduration }}秒里持续衰减的{{ demonflareslowamount*100 }}%减速。",
+      "cooldown": "120",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 3,
+      "image": "SwainR.png",
+      "key": "R"
+    }
+  ]
+}

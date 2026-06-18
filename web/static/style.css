@@ -1,0 +1,311 @@
+/* ========================================
+   海克斯大乱斗 网页版 - RIOT风格主题
+   ======================================== */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { height: 100%; font-family: "Microsoft YaHei", "Segoe UI", sans-serif; }
+
+:root {
+  --bg-dark: #0a0e13;
+  --bg-darker: #050810;
+  --bg-card: #1a1f2e;
+  --bg-card-hover: #252a3a;
+  --border: #2a3042;
+  --text-primary: #f0e6d2;
+  --text-secondary: #a09b8c;
+  --blue-team: #1e90ff;
+  --blue-team-bright: #4fb3ff;
+  --red-team: #ff4655;
+  --red-team-bright: #ff7a85;
+  --gold: #c8a25a;
+  --prismatic: #d946ef;
+  --silver: #c0c0c0;
+  --gold-tier: #f0b232;
+}
+
+/* ============= 启动页 ============= */
+.bg-launch {
+  background: linear-gradient(135deg, #0a0e13 0%, #1a1f3a 50%, #2a0e3a 100%);
+  display: flex; align-items: center; justify-content: center;
+}
+.launch-screen { text-align: center; }
+.title-glow {
+  font-size: 5rem; color: #c8a25a;
+  text-shadow: 0 0 30px #c8a25a, 0 0 60px #ff4655;
+  letter-spacing: 0.1em;
+}
+.subtitle { color: #a09b8c; font-size: 1.5rem; margin-top: 1rem; letter-spacing: 0.3em; }
+.version { color: #5a5468; font-size: 0.9rem; margin-top: 2rem; }
+.launch-buttons { margin-top: 4rem; }
+.footer-tip { color: #5a5468; margin-top: 4rem; font-size: 0.85rem; }
+
+/* ============= 选人页 ============= */
+.bg-champselect {
+  background: linear-gradient(180deg, #0a0e13 0%, #14182a 100%);
+  min-height: 100vh;
+  display: flex; flex-direction: column;
+}
+.cs-header {
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid var(--border);
+  background: rgba(10, 14, 19, 0.9);
+}
+.cs-header h1 { color: var(--text-primary); font-size: 1.5rem; }
+.cs-search { margin-top: 0.8rem; }
+.cs-search input {
+  width: 100%; max-width: 400px; padding: 0.6rem 1rem;
+  background: var(--bg-card); border: 1px solid var(--border);
+  color: var(--text-primary); border-radius: 4px; font-size: 0.95rem;
+}
+#filter-tags { display: flex; gap: 0.4rem; margin-top: 0.5rem; flex-wrap: wrap; }
+#filter-tags span {
+  padding: 0.25rem 0.7rem; background: var(--bg-card); border-radius: 12px;
+  color: var(--text-secondary); font-size: 0.8rem; cursor: pointer;
+  border: 1px solid var(--border);
+}
+#filter-tags span.active { background: var(--gold); color: #0a0e13; border-color: var(--gold); }
+
+.cs-main { flex: 1; padding: 1.5rem; overflow-y: auto; max-height: calc(100vh - 250px); }
+.cs-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+  gap: 0.8rem;
+}
+.champ-card {
+  background: var(--bg-card); border: 2px solid transparent;
+  border-radius: 6px; overflow: hidden; cursor: pointer;
+  transition: all 0.15s;
+}
+.champ-card:hover { border-color: var(--gold); transform: translateY(-2px); }
+.champ-card.selected { border-color: var(--gold-tier); box-shadow: 0 0 15px var(--gold-tier); }
+.champ-card img { width: 100%; aspect-ratio: 1; object-fit: cover; display: block; }
+.champ-card .name { padding: 0.4rem; font-size: 0.8rem; text-align: center; color: var(--text-primary); }
+.champ-card .tags-mini { font-size: 0.65rem; color: var(--text-secondary); text-align: center; padding-bottom: 0.4rem; }
+
+.cs-footer {
+  padding: 1rem 2rem; background: var(--bg-darker);
+  border-top: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: space-between; gap: 2rem;
+}
+.cs-selected { flex: 1; }
+.cs-selected-label { color: var(--text-secondary); font-size: 0.85rem; }
+.cs-selected-info { display: flex; align-items: center; gap: 1rem; margin-top: 0.5rem; }
+.cs-empty { color: #5a5468; font-style: italic; }
+.cs-difficulty { display: flex; align-items: center; gap: 0.8rem; color: var(--text-secondary); font-size: 0.85rem; }
+.cs-difficulty select {
+  background: var(--bg-card); color: var(--text-primary);
+  border: 1px solid var(--border); padding: 0.4rem 0.6rem; border-radius: 4px;
+}
+
+/* ============= 加载页 ============= */
+.bg-loading {
+  background: #000;
+  min-height: 100vh;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  position: relative; overflow: hidden;
+}
+.loading-screen { position: relative; z-index: 10; text-align: center; width: 90%; max-width: 700px; }
+.loading-art {
+  width: 100%; max-width: 500px; aspect-ratio: 1/1.4; margin: 0 auto 2rem;
+  background-size: cover; background-position: center top;
+  border: 3px solid var(--gold-tier); border-radius: 4px;
+  box-shadow: 0 0 40px rgba(200, 162, 90, 0.5);
+}
+.loading-bar-wrap {
+  width: 100%; height: 8px; background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px; overflow: hidden; position: relative; margin-bottom: 1rem;
+}
+.loading-bar {
+  height: 100%; background: linear-gradient(90deg, var(--blue-team), var(--prismatic), var(--gold-tier));
+  width: 0%; transition: width 0.2s;
+}
+.loading-percent { color: var(--gold-tier); font-size: 0.9rem; margin-bottom: 1rem; }
+.loading-title { color: var(--text-primary); font-size: 1.3rem; margin-bottom: 0.5rem; }
+.loading-tip { color: var(--text-secondary); font-size: 0.8rem; }
+
+/* ============= 游戏主界面 ============= */
+.bg-arena {
+  background:
+    radial-gradient(ellipse at 20% 50%, rgba(30, 144, 255, 0.1) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 50%, rgba(255, 70, 85, 0.1) 0%, transparent 50%),
+    linear-gradient(180deg, #0a0e13 0%, #14182a 50%, #0a0e13 100%);
+  min-height: 100vh;
+  color: var(--text-primary);
+}
+#app { display: flex; flex-direction: column; height: 100vh; }
+
+.topbar {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0.6rem 1.2rem; background: rgba(10, 14, 19, 0.95);
+  border-bottom: 1px solid var(--border); flex-shrink: 0;
+}
+.topbar-left, .topbar-right, .topbar-center { display: flex; align-items: center; gap: 1rem; }
+.time-display { color: var(--gold-tier); font-weight: bold; font-size: 1rem; }
+.round-display { color: var(--text-secondary); }
+#game-status { color: var(--text-primary); font-weight: bold; }
+.btn-mini {
+  background: var(--bg-card); color: var(--text-primary);
+  border: 1px solid var(--border); width: 28px; height: 28px;
+  border-radius: 4px; cursor: pointer;
+}
+
+.main-grid {
+  display: grid; grid-template-columns: 280px 1fr 320px; gap: 0.8rem;
+  padding: 0.8rem; flex: 1; overflow: hidden;
+}
+.left-panel, .right-panel { display: flex; flex-direction: column; gap: 0.8rem; overflow-y: auto; }
+.center-panel { display: flex; flex-direction: column; gap: 0.8rem; overflow: hidden; }
+
+.panel {
+  background: rgba(26, 31, 46, 0.85); border: 1px solid var(--border);
+  border-radius: 6px; padding: 0.8rem; backdrop-filter: blur(4px);
+}
+.panel h3 { color: var(--text-primary); font-size: 0.9rem; margin-bottom: 0.6rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border); }
+
+/* 玩家面板 */
+.player-card { display: flex; gap: 0.8rem; }
+.player-portrait {
+  width: 64px; height: 64px; border-radius: 6px; border: 2px solid var(--gold-tier);
+  object-fit: cover; flex-shrink: 0;
+}
+.player-info { flex: 1; font-size: 0.8rem; }
+.player-name { color: var(--text-primary); font-weight: bold; font-size: 0.95rem; }
+.player-level { color: var(--gold-tier); margin-left: 0.4rem; }
+.player-stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.2rem; margin-top: 0.4rem; color: var(--text-secondary); }
+.player-stats .stat { display: flex; align-items: center; gap: 0.2rem; }
+.hp-bar, .exp-bar {
+  height: 6px; background: rgba(0, 0, 0, 0.4); border-radius: 3px;
+  overflow: hidden; margin-top: 0.3rem;
+}
+.hp-bar-fill { height: 100%; background: linear-gradient(90deg, #4caf50, #8bc34a); transition: width 0.3s; }
+.hp-bar-fill.low { background: linear-gradient(90deg, #f44336, #ff9800); }
+.exp-bar-fill { height: 100%; background: linear-gradient(90deg, #2196f3, #03a9f4); }
+.player-items, .player-hexes { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.4rem; }
+.item-tag { background: rgba(200, 162, 90, 0.2); border: 1px solid var(--gold); color: var(--gold); padding: 0.15rem 0.4rem; border-radius: 3px; font-size: 0.7rem; }
+.hex-tag { background: rgba(217, 70, 239, 0.2); border: 1px solid var(--prismatic); color: var(--prismatic); padding: 0.15rem 0.4rem; border-radius: 3px; font-size: 0.7rem; }
+.kda { color: var(--text-secondary); font-size: 0.8rem; margin-top: 0.3rem; }
+
+/* 队伍面板 */
+.team-list { display: flex; flex-direction: column; gap: 0.4rem; }
+.team-row { display: flex; align-items: center; gap: 0.5rem; padding: 0.3rem; background: rgba(0, 0, 0, 0.2); border-radius: 4px; font-size: 0.8rem; }
+.team-row img { width: 28px; height: 28px; border-radius: 3px; }
+.team-row .tr-name { color: var(--text-primary); flex: 1; }
+.team-row .tr-lv { color: var(--gold-tier); }
+.team-row .tr-hp { color: var(--text-secondary); }
+.team-row .tr-portrait-enemy { border: 1px solid var(--red-team); }
+.team-row .tr-portrait-ally { border: 1px solid var(--blue-team); }
+.team-row.dead { opacity: 0.4; }
+
+/* 地图 */
+.map-container { background: rgba(26, 31, 46, 0.7); border: 1px solid var(--border); border-radius: 6px; padding: 0.8rem; }
+.lane-strip { display: flex; gap: 0.3rem; margin-bottom: 0.5rem; flex-wrap: wrap; }
+.lane-cell {
+  flex: 1; min-width: 80px; padding: 0.4rem 0.3rem;
+  background: rgba(0, 0, 0, 0.3); border: 1px solid var(--border);
+  border-radius: 4px; text-align: center; font-size: 0.7rem;
+  color: var(--text-secondary); position: relative;
+}
+.lane-cell.bush { background: rgba(34, 100, 50, 0.3); border-color: #2a5a35; }
+.lane-cell.tower-blue { background: rgba(30, 144, 255, 0.15); border-color: var(--blue-team); }
+.lane-cell.tower-red { background: rgba(255, 70, 85, 0.15); border-color: var(--red-team); }
+.lane-cell.player-here { box-shadow: 0 0 10px var(--gold-tier); border-color: var(--gold-tier); }
+
+.map { display: flex; gap: 0.3rem; align-items: stretch; }
+.lane-pos {
+  flex: 1; min-width: 80px; min-height: 70px;
+  background: rgba(0, 0, 0, 0.25); border: 1px solid var(--border);
+  border-radius: 4px; padding: 0.3rem; position: relative;
+  display: flex; flex-wrap: wrap; align-content: flex-start; gap: 2px;
+}
+.lane-pos.player { box-shadow: inset 0 0 10px var(--gold-tier); }
+.lane-pos.enemy { box-shadow: inset 0 0 10px var(--red-team); }
+
+.unit-icon {
+  width: 28px; height: 28px; border-radius: 3px; object-fit: cover;
+  border: 1px solid var(--border);
+}
+.unit-icon.player-icon { border: 2px solid var(--gold-tier); }
+.unit-icon.ally-icon { border: 1px solid var(--blue-team); }
+.unit-icon.enemy-icon { border: 1px solid var(--red-team); }
+.unit-icon.minion-b { width: 18px; height: 18px; opacity: 0.8; border-color: var(--blue-team); }
+.unit-icon.minion-r { width: 18px; height: 18px; opacity: 0.8; border-color: var(--red-team); }
+.tower-icon {
+  width: 32px; height: 32px; display: flex; align-items: center; justify-content: center;
+  font-size: 1.2rem; border: 2px solid;
+}
+.tower-icon.blue-tower { border-color: var(--blue-team); color: var(--blue-team-bright); }
+.tower-icon.red-tower { border-color: var(--red-team); color: var(--red-team-bright); }
+
+/* 战报 */
+.log-container { flex: 1; overflow: hidden; display: flex; flex-direction: column; }
+.log-list {
+  flex: 1; overflow-y: auto; padding: 0.5rem;
+  background: rgba(0, 0, 0, 0.3); border-radius: 4px;
+  font-size: 0.8rem; line-height: 1.5;
+}
+.log-entry { padding: 0.2rem 0; border-bottom: 1px solid rgba(255, 255, 255, 0.05); color: var(--text-secondary); }
+.log-entry.kill { color: var(--red-team-bright); }
+.log-entry.hex { color: var(--prismatic); }
+.log-entry.tower { color: var(--gold-tier); }
+
+/* 操作 */
+.action-buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem; }
+.action-buttons button {
+  background: var(--bg-card); color: var(--text-primary);
+  border: 1px solid var(--border); padding: 0.6rem;
+  border-radius: 4px; cursor: pointer; font-size: 0.85rem;
+  transition: all 0.1s;
+}
+.action-buttons button:hover { background: var(--bg-card-hover); border-color: var(--gold); }
+.action-buttons button:disabled { opacity: 0.4; cursor: not-allowed; }
+.action-buttons button.btn-standby { grid-column: span 2; }
+
+/* 商店 */
+.shop-list { display: flex; flex-direction: column; gap: 0.2rem; max-height: 300px; overflow-y: auto; }
+.shop-cat { color: var(--gold-tier); font-size: 0.75rem; margin-top: 0.4rem; padding-bottom: 0.2rem; border-bottom: 1px solid var(--border); }
+.shop-item {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 0.3rem 0.5rem; background: rgba(0, 0, 0, 0.2);
+  border-radius: 3px; cursor: pointer; font-size: 0.8rem;
+  border: 1px solid transparent;
+}
+.shop-item:hover { border-color: var(--gold); background: rgba(200, 162, 90, 0.1); }
+.shop-item.owned { opacity: 0.5; }
+.shop-item .item-price { color: var(--gold); }
+.shop-item .item-name { color: var(--text-primary); }
+.shop-locked { color: var(--text-secondary); text-align: center; padding: 1rem; font-size: 0.85rem; font-style: italic; }
+
+/* 海克斯 */
+.hex-options { display: flex; flex-direction: column; gap: 0.4rem; }
+.hex-option {
+  background: linear-gradient(135deg, rgba(217, 70, 239, 0.1), rgba(240, 178, 50, 0.1));
+  border: 1px solid var(--prismatic);
+  padding: 0.6rem; border-radius: 4px; cursor: pointer;
+  font-size: 0.9rem; color: var(--text-primary);
+  transition: all 0.1s;
+}
+.hex-option:hover { background: linear-gradient(135deg, rgba(217, 70, 239, 0.2), rgba(240, 178, 50, 0.2)); }
+.hex-quality { font-size: 0.7rem; color: var(--gold-tier); margin-bottom: 0.2rem; }
+
+/* 通用 */
+.btn-primary {
+  background: linear-gradient(135deg, var(--gold) 0%, #a07a3a 100%);
+  color: #0a0e13; font-weight: bold; padding: 0.8rem 2rem;
+  border: none; border-radius: 4px; cursor: pointer;
+  text-decoration: none; display: inline-block; font-size: 1rem;
+  letter-spacing: 0.05em;
+  transition: all 0.15s;
+}
+.btn-primary:hover { transform: scale(1.05); box-shadow: 0 0 20px rgba(200, 162, 90, 0.5); }
+.btn-primary:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
+
+/* 弹窗 */
+.modal { position: fixed; inset: 0; background: rgba(0, 0, 0, 0.85); display: flex; align-items: center; justify-content: center; z-index: 1000; }
+.modal.hidden { display: none; }
+.modal-content { background: var(--bg-card); padding: 3rem; border-radius: 8px; text-align: center; border: 2px solid var(--gold-tier); }
+.modal-content h1 { color: var(--gold-tier); font-size: 3rem; margin-bottom: 1rem; }
+.modal-content p { color: var(--text-primary); margin-bottom: 2rem; }
+
+/* 滚动条 */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: rgba(0, 0, 0, 0.2); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--gold); }

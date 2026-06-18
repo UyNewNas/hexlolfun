@@ -1,0 +1,253 @@
+{
+  "id": "Rumble",
+  "championId": "68",
+  "name": "机械公敌",
+  "title": "兰博",
+  "region": "班德尔城",
+  "blurb": "兰博是一个有脾气的约德尔青年发明家。他仅用自己的双手和一堆废铁，就造出了一架巨大的机甲，上面还搭载了电击鱼叉和燃烧火箭弹等超常规武器。虽然其他人可能对他的垃圾场发明嗤之以鼻，但兰博根本不在乎——毕竟，喷出铄金之火的枪口，在他自己手里。",
+  "tags": [
+    "战士",
+    "法师"
+  ],
+  "partype": "热量",
+  "info": {
+    "attack": 3,
+    "defense": 6,
+    "magic": 8,
+    "difficulty": 10
+  },
+  "stats": {
+    "hp": 640,
+    "hpPerLevel": 105,
+    "mp": 150,
+    "mpPerLevel": 0,
+    "movespeed": 345,
+    "armor": 36,
+    "armorPerLevel": 4.7,
+    "spellblock": 28,
+    "spellblockPerLevel": 1.55,
+    "attackrange": 125,
+    "attackdamage": 64,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.644,
+    "attackspeedPerLevel": 1.85,
+    "hpregen": 7,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "68001",
+      "name": "热带丛林 兰博",
+      "chromas": false
+    },
+    {
+      "id": "68002",
+      "name": "独眼海盗 兰博",
+      "chromas": false
+    },
+    {
+      "id": "68003",
+      "name": "银河魔装机神 兰博",
+      "chromas": false
+    },
+    {
+      "id": "68004",
+      "name": "废土男爵 兰博",
+      "chromas": true
+    },
+    {
+      "id": "68005",
+      "name": "废土男爵 兰博 狂飙烈焰",
+      "chromas": false
+    },
+    {
+      "id": "68006",
+      "name": "废土男爵 兰博 漆黑霸主",
+      "chromas": false
+    },
+    {
+      "id": "68007",
+      "name": "废土男爵 兰博 碧蓝幻影",
+      "chromas": false
+    },
+    {
+      "id": "68008",
+      "name": "废土男爵 兰博 白纹凶虎",
+      "chromas": false
+    },
+    {
+      "id": "68009",
+      "name": "废土男爵 兰博 音波爆裂",
+      "chromas": false
+    },
+    {
+      "id": "68010",
+      "name": "废土男爵 兰博 死亡使者",
+      "chromas": false
+    },
+    {
+      "id": "68011",
+      "name": "废土男爵 兰博 荒漠渣客",
+      "chromas": false
+    },
+    {
+      "id": "68012",
+      "name": "废土男爵 兰博 丛林特攻",
+      "chromas": false
+    },
+    {
+      "id": "68013",
+      "name": "太空律动 “串烧大师” 兰博",
+      "chromas": true
+    },
+    {
+      "id": "68014",
+      "name": "“串烧大师” 兰博 免费果汁机-苹果汁",
+      "chromas": false
+    },
+    {
+      "id": "68015",
+      "name": "“串烧大师” 兰博 免费果汁机-桃汁",
+      "chromas": false
+    },
+    {
+      "id": "68016",
+      "name": "“串烧大师” 兰博 免费果汁机-菠萝汁",
+      "chromas": false
+    },
+    {
+      "id": "68017",
+      "name": "“串烧大师” 兰博 免费果汁机-芒果汁",
+      "chromas": false
+    },
+    {
+      "id": "68018",
+      "name": "“串烧大师” 兰博 免费果汁机-猕猴桃汁",
+      "chromas": false
+    },
+    {
+      "id": "68019",
+      "name": "“串烧大师” 兰博 免费果汁机-蓝莓汁",
+      "chromas": false
+    },
+    {
+      "id": "68020",
+      "name": "“串烧大师” 兰博 免费果汁机-樱桃汁",
+      "chromas": false
+    },
+    {
+      "id": "68021",
+      "name": "“串烧大师” 兰博 免费果汁机-酸梅汁",
+      "chromas": false
+    },
+    {
+      "id": "68022",
+      "name": "“串烧大师” 兰博 免费果汁机-葡萄汁",
+      "chromas": false
+    },
+    {
+      "id": "68023",
+      "name": "咖啡甜心 兰博",
+      "chromas": true
+    },
+    {
+      "id": "68024",
+      "name": "咖啡甜心 兰博 草莓戚风",
+      "chromas": false
+    },
+    {
+      "id": "68025",
+      "name": "咖啡甜心 兰博 吉子芝士",
+      "chromas": false
+    },
+    {
+      "id": "68026",
+      "name": "咖啡甜心 兰博 抹茶巧克力",
+      "chromas": false
+    },
+    {
+      "id": "68027",
+      "name": "咖啡甜心 兰博 海盐泡芙",
+      "chromas": false
+    },
+    {
+      "id": "68028",
+      "name": "咖啡甜心 兰博 酒醉樱桃",
+      "chromas": false
+    },
+    {
+      "id": "68029",
+      "name": "咖啡甜心 兰博 提子班戟",
+      "chromas": false
+    },
+    {
+      "id": "68030",
+      "name": "咖啡甜心 兰博 焦糖布丁",
+      "chromas": false
+    },
+    {
+      "id": "68031",
+      "name": "咖啡甜心 兰博 核桃巴菲",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "机械重组",
+    "description": "兰博的技能都能使其获得热量。当兰博的热量达到50%时，他会处于危险温度状态，所有基础技能都会获得额外效果。当热量达到100%时，他会进入过热状态，获得额外的攻击速度并让他的普通攻击造成额外伤害，但也会让他在数秒内无法施放技能。",
+    "image": "Rumble_JunkyardTitan1.png"
+  },
+  "spells": [
+    {
+      "name": "纵火盛宴",
+      "description": "兰博朝敌人放火，每秒对前方锥形范围内的敌人造成伤害，持续3秒。在危险温度时，兰博增加对其造成的伤害。",
+      "tooltip": "兰博点燃他的火焰喷射器，在{{ flamespitterduration }}秒里持续造成共{{ flatdamage }}外加{{ healthdamage*100 }}%最大生命值的魔法伤害，对小兵降低至{{ minionmod*100 }}%。危险温度：提升至{{ empowereddamage }}外加{{ empoweredhealth }}最大生命值的魔法伤害。对野怪的百分比伤害的上限为{{ monstercap }}。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "0",
+      "costType": "热量",
+      "range": "600",
+      "maxrank": 5,
+      "image": "RumbleFlameThrower.png",
+      "key": "Q"
+    },
+    {
+      "name": "破碎护盾",
+      "description": "兰博制造一个护盾，保护自己免受伤害，并短时间内增加移动速度。在危险温度时，兰博增加护盾强度和速度加成。",
+      "tooltip": "兰博开启一道屏障，获得持续{{ shieldduration.1 }}秒的{{ totalshield }}护盾值和持续{{ movespeedduration }}秒的{{ movespeed*100 }}%移动速度。危险温度：屏障转而提供{{ empoweredshield }}护盾值和{{ empoweredms }}移动速度。",
+      "cooldown": "6",
+      "cost": "0",
+      "costType": "热量",
+      "range": "20",
+      "maxrank": 5,
+      "image": "RumbleShield.png",
+      "key": "W"
+    },
+    {
+      "name": "电子鱼叉",
+      "description": "兰博发射一把鱼叉，对敌人造成魔法伤害、减速效果和魔法抗性击碎效果。兰博可同时持有2发鱼叉。在危险温度时，兰博增加其伤害和减速百分比。",
+      "tooltip": "兰博发射一柄电子鱼叉，造成{{ totaldamage }}魔法伤害、持续{{ slowduration }}秒的{{ baseslowamount }}%减速、以及持续{{ shredduration }}秒的{{ percmagicpen*100 }}%魔抗击碎效果。命中一名已被此技能减速的敌人时，会将减速提升至{{ empoweredslowamount }}%并使敌人的魔抗降低{{ enhancedmagicpen*100 }}%。危险温度：鱼叉转而造成{{ empdamage }}魔法伤害并且减速和魔抗击碎效果提升50%。",
+      "cooldown": "0.5",
+      "cost": "0",
+      "costType": " 热量",
+      "range": "850",
+      "maxrank": 5,
+      "image": "RumbleGrenade.png",
+      "key": "E"
+    },
+    {
+      "name": "恒温灼烧",
+      "description": "兰博朝目标区域发射火箭，形成一堵火焰之墙，对范围内的敌人造成伤害并减速。",
+      "tooltip": "兰博发射一列火箭，生成一道持续{{ trailduration }}秒的燃烧小径，造成{{ slowamount }}%减速并每秒造成{{ damagepersecond }}魔法伤害。兰博可以在施放这个技能时，通过点击并拖拽来控制燃烧小径的方向。",
+      "cooldown": "130/105/80",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "1750",
+      "maxrank": 3,
+      "image": "RumbleCarpetBomb.png",
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "id": "MissFortune",
+  "championId": "21",
+  "name": "赏金猎人",
+  "title": "厄运小姐",
+  "region": "比尔吉沃特",
+  "blurb": "以美貌闻名，但却以无情立命的莎拉是一位比尔吉沃特的船长，她在这座彪悍港城的犯罪集团中塑造了不容轻视的形象。在她还是个孩子的时候，曾亲眼目睹海盗之王普朗克谋杀了自己的家人。多年以后，她残忍地报仇雪恨，将普朗克连人带舰一同炸飞。所有低估她的人都会发现，自己面对的是一个极具欺骗性的狡黠对手，一不留神就得处理几颗射进肚子里的子弹。",
+  "tags": [
+    "射手",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 2,
+    "magic": 5,
+    "difficulty": 1
+  },
+  "stats": {
+    "hp": 625,
+    "hpPerLevel": 100,
+    "mp": 300,
+    "mpPerLevel": 40,
+    "movespeed": 325,
+    "armor": 25,
+    "armorPerLevel": 4,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 55,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.656,
+    "attackspeedPerLevel": 3,
+    "hpregen": 3.75,
+    "hpregenPerLevel": 0.65,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "21001",
+      "name": "西部牛仔 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21002",
+      "name": "法国皇室 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21003",
+      "name": "特工狂花 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21004",
+      "name": "圣诞糖果棒 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21005",
+      "name": "荒野女警 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21006",
+      "name": "黑帮狂花 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21007",
+      "name": "电玩女神 厄运小姐",
+      "chromas": true
+    },
+    {
+      "id": "21008",
+      "name": "女船长 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21009",
+      "name": "泳池派对 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21010",
+      "name": "蓝蔷薇女神",
+      "chromas": false
+    },
+    {
+      "id": "21011",
+      "name": "紫罗兰女神",
+      "chromas": false
+    },
+    {
+      "id": "21012",
+      "name": "橙玫瑰女神",
+      "chromas": false
+    },
+    {
+      "id": "21013",
+      "name": "绿牡丹女神",
+      "chromas": false
+    },
+    {
+      "id": "21014",
+      "name": "红丁香女神",
+      "chromas": false
+    },
+    {
+      "id": "21015",
+      "name": "星之守护者 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21016",
+      "name": "武装战姬 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21017",
+      "name": "睡衣守护者 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21018",
+      "name": "魅惑女巫 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21019",
+      "name": "电玩女神 厄运小姐 K.O.",
+      "chromas": false
+    },
+    {
+      "id": "21020",
+      "name": "至臻 魅惑女巫 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21021",
+      "name": "破败军团 厄运小姐",
+      "chromas": true
+    },
+    {
+      "id": "21022",
+      "name": "破败军团 厄运小姐 帝国征伐使",
+      "chromas": false
+    },
+    {
+      "id": "21023",
+      "name": "破败军团 厄运小姐 海港征伐使",
+      "chromas": false
+    },
+    {
+      "id": "21024",
+      "name": "破败军团 厄运小姐 王城征伐使",
+      "chromas": false
+    },
+    {
+      "id": "21025",
+      "name": "破败军团 厄运小姐 都市征伐使",
+      "chromas": false
+    },
+    {
+      "id": "21026",
+      "name": "破败军团 厄运小姐 灵岛征伐使",
+      "chromas": false
+    },
+    {
+      "id": "21027",
+      "name": "破败军团 厄运小姐 森林征伐使",
+      "chromas": false
+    },
+    {
+      "id": "21028",
+      "name": "破败军团 厄运小姐 极地征伐使",
+      "chromas": false
+    },
+    {
+      "id": "21029",
+      "name": "破败军团 厄运小姐 星界征伐使",
+      "chromas": false
+    },
+    {
+      "id": "21030",
+      "name": "破败军团 厄运小姐 咒缚征伐使",
+      "chromas": false
+    },
+    {
+      "id": "21031",
+      "name": "幻灵战斗队长 厄运小姐",
+      "chromas": true
+    },
+    {
+      "id": "21032",
+      "name": "幻灵战斗兔司令 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21033",
+      "name": "至臻 魅惑女巫 厄运小姐 (2022)",
+      "chromas": false
+    },
+    {
+      "id": "21034",
+      "name": "幻灵战斗队长 厄运小姐 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "21035",
+      "name": "幻灵战斗队长 厄运小姐 活力奔袭",
+      "chromas": false
+    },
+    {
+      "id": "21036",
+      "name": "幻灵战斗队长 厄运小姐 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "21037",
+      "name": "幻灵战斗队长 厄运小姐 灿烂轰击",
+      "chromas": false
+    },
+    {
+      "id": "21038",
+      "name": "幻灵战斗队长 厄运小姐 钢铁守备",
+      "chromas": false
+    },
+    {
+      "id": "21039",
+      "name": "幻灵战斗队长 厄运小姐 隐秘夜影",
+      "chromas": false
+    },
+    {
+      "id": "21040",
+      "name": "绝息圣堂 厄运小姐",
+      "chromas": true
+    },
+    {
+      "id": "21041",
+      "name": "至臻 绝息圣堂 厄运小姐",
+      "chromas": false
+    },
+    {
+      "id": "21042",
+      "name": "绝息圣堂 厄运小姐 残阳圆舞曲",
+      "chromas": false
+    },
+    {
+      "id": "21043",
+      "name": "绝息圣堂 厄运小姐 昼梦狂想曲",
+      "chromas": false
+    },
+    {
+      "id": "21044",
+      "name": "绝息圣堂 厄运小姐 朝霞幻想曲",
+      "chromas": false
+    },
+    {
+      "id": "21045",
+      "name": "绝息圣堂 厄运小姐 日冕摇篮曲",
+      "chromas": false
+    },
+    {
+      "id": "21046",
+      "name": "绝息圣堂 厄运小姐 灵息变奏曲",
+      "chromas": false
+    },
+    {
+      "id": "21047",
+      "name": "绝息圣堂 厄运小姐 苏生回旋曲",
+      "chromas": false
+    },
+    {
+      "id": "21048",
+      "name": "绝息圣堂 厄运小姐 永生前奏曲",
+      "chromas": false
+    },
+    {
+      "id": "21049",
+      "name": "绝息圣堂 厄运小姐 白夜奏鸣曲",
+      "chromas": false
+    },
+    {
+      "id": "21050",
+      "name": "青花瓷 厄运小姐",
+      "chromas": true
+    },
+    {
+      "id": "21051",
+      "name": "青花瓷 厄运小姐 牡丹",
+      "chromas": false
+    },
+    {
+      "id": "21052",
+      "name": "青花瓷 厄运小姐 含苞",
+      "chromas": false
+    },
+    {
+      "id": "21053",
+      "name": "青花瓷 厄运小姐 釉色",
+      "chromas": false
+    },
+    {
+      "id": "21054",
+      "name": "青花瓷 厄运小姐 墨色",
+      "chromas": false
+    },
+    {
+      "id": "21055",
+      "name": "青花瓷 厄运小姐 初妆",
+      "chromas": false
+    },
+    {
+      "id": "21056",
+      "name": "青花瓷 厄运小姐 天青",
+      "chromas": false
+    },
+    {
+      "id": "21057",
+      "name": "青花瓷 厄运小姐 月色",
+      "chromas": false
+    },
+    {
+      "id": "21058",
+      "name": "青花瓷 厄运小姐 金辉玉洁",
+      "chromas": false
+    },
+    {
+      "id": "21059",
+      "name": "青花瓷 厄运小姐 锦鲤",
+      "chromas": false
+    },
+    {
+      "id": "21060",
+      "name": "女帝 厄运小姐",
+      "chromas": true
+    },
+    {
+      "id": "21061",
+      "name": "女帝 厄运小姐 纹章之刻印·英勇",
+      "chromas": false
+    },
+    {
+      "id": "21062",
+      "name": "女帝 厄运小姐 纹章之刻印·坚毅",
+      "chromas": false
+    },
+    {
+      "id": "21063",
+      "name": "女帝 厄运小姐 纹章之刻印·强运",
+      "chromas": false
+    },
+    {
+      "id": "21064",
+      "name": "女帝 厄运小姐 纹章之刻印·无我",
+      "chromas": false
+    },
+    {
+      "id": "21065",
+      "name": "女帝 厄运小姐 纹章之刻印·飒爽",
+      "chromas": false
+    },
+    {
+      "id": "21066",
+      "name": "女帝 厄运小姐 纹章之刻印·果决",
+      "chromas": false
+    },
+    {
+      "id": "21067",
+      "name": "女帝 厄运小姐 纹章之刻印·敏锐",
+      "chromas": false
+    },
+    {
+      "id": "21068",
+      "name": "女帝 厄运小姐 纹章之刻印·深谋",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "厄运的眷顾",
+    "description": "在对一个新目标进行普攻时，厄运小姐会造成额外物理伤害。",
+    "image": "MissFortune_W.png"
+  },
+  "spells": [
+    {
+      "name": "一箭双雕",
+      "description": "厄运小姐向敌人发射子弹，伤害他们以及他们后面的目标。两次攻击都可以施加【厄运的眷顾】。",
+      "tooltip": "厄运小姐发射一次弹跳射击，对一个敌人及其身后的另一个敌人造成{{ totaldamagetooltip }}物理伤害。第二段射击可以暴击以造成{{ totaldamagecrit }}物理伤害。如果第一段射击击杀了目标，则第二段射击必定暴击。",
+      "cooldown": "7/6/5/4/3",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "MissFortuneRicochetShot.png",
+      "key": "Q"
+    },
+    {
+      "name": "大步流星",
+      "description": "厄运小姐在不被攻击时会被动获得移动速度加成。可以主动施放这个技能来获得短时间的攻击速度加成。在【大步流星】尚未冷却完毕时，【厄运的眷顾】可减少【大步流星】的剩余持续时间。",
+      "tooltip": "被动：如果{{ passivebasemsooc }}秒内没有受到伤害，厄运小姐就会获得{{ passivebasems }}移动速度。再过{{ passivemaxmsextraooc }}秒后，这个加成会提升至{{ passivemaxms }}。主动：获得被动效果的全额移动速度加成并提供{{ activeas*100 }}%攻击速度，持续{{ activeduration }} 秒。厄运的眷顾会使这个技能的冷却时间缩短{{ lovetaprefund }}秒。",
+      "cooldown": "12",
+      "cost": "45",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 5,
+      "image": "MissFortuneViciousStrikes.png",
+      "key": "W"
+    },
+    {
+      "name": "枪林弹雨",
+      "description": "厄运小姐发射一阵弹雨来获得目标区域的视野，对敌人造成几波伤害，并减缓他们的移动速度。",
+      "tooltip": "厄运小姐发射一阵弹雨，来显形一个区域，造成{{ totalslowamount }}减速和每秒{{ totaldamagepersecond }}魔法伤害，持续{{ baseduration }}秒(总共{{ totaldamage }}魔法伤害)。",
+      "cooldown": "18/17/16/15/14",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "MissFortuneScattershot.png",
+      "key": "E"
+    },
+    {
+      "name": "弹幕时间",
+      "description": "厄运小姐向她面前的锥形范围内引导一阵子弹风暴，对敌人造成大量伤害。这个技能的每波子弹都可以暴击。",
+      "tooltip": "厄运小姐向前方锥形地带引导一阵弹幕，{{ basechannelduration }}秒内持续发射共{{ basewaves }}波子弹，每波弹幕造成{{ physicaldamageperwave }}物理伤害(总共{{ totalphysicaldamage }}物理伤害)。每一波均可触发暴击，造成%i:scaleCrit%{{ critdamageperwave }}物理伤害。",
+      "cooldown": "120/110/100",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "25000",
+      "maxrank": 3,
+      "image": "MissFortuneBulletTime.png",
+      "key": "R"
+    }
+  ]
+}

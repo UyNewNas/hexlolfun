@@ -1,0 +1,408 @@
+{
+  "id": "Nasus",
+  "championId": "75",
+  "name": "沙漠死神",
+  "title": "内瑟斯",
+  "region": "恕瑞玛",
+  "blurb": "内瑟斯是一位庄严威武的犬首人身飞升者，在古代恕瑞玛帝国时期，是被沙漠子民敬仰为半神的英雄人物。作为知识的守护者和无双的战术家，他用高绝的智慧引导着古代恕瑞玛帝国在数百年间走向了繁荣伟大。帝国陨落以后，他开始了自我放逐，成为了人们口中缥缈的传说。现在，恕瑞玛古城已经再一次崛起，他也随之回归，并决心绝不让它再度陨落。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 7,
+    "defense": 5,
+    "magic": 6,
+    "difficulty": 6
+  },
+  "stats": {
+    "hp": 650,
+    "hpPerLevel": 104,
+    "mp": 326,
+    "mpPerLevel": 62,
+    "movespeed": 350,
+    "armor": 34,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 67,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.638,
+    "attackspeedPerLevel": 3.48,
+    "hpregen": 9,
+    "hpregenPerLevel": 0.9,
+    "mpregen": 7.45,
+    "mpregenPerLevel": 0.5,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "75001",
+      "name": "星空之门 内瑟斯",
+      "chromas": false
+    },
+    {
+      "id": "75002",
+      "name": "法老王朝 内瑟斯",
+      "chromas": false
+    },
+    {
+      "id": "75003",
+      "name": "死亡骑士 内瑟斯",
+      "chromas": true
+    },
+    {
+      "id": "75004",
+      "name": "警用试作体K-9 内瑟斯",
+      "chromas": false
+    },
+    {
+      "id": "75005",
+      "name": "炼狱魔犬 内瑟斯",
+      "chromas": false
+    },
+    {
+      "id": "75006",
+      "name": "单身贵族 内瑟斯",
+      "chromas": false
+    },
+    {
+      "id": "75007",
+      "name": "死亡骑士 内瑟斯 鲜血使者",
+      "chromas": false
+    },
+    {
+      "id": "75008",
+      "name": "死亡骑士 内瑟斯 疫病使者",
+      "chromas": false
+    },
+    {
+      "id": "75009",
+      "name": "死亡骑士 内瑟斯 霜寒使者",
+      "chromas": false
+    },
+    {
+      "id": "75010",
+      "name": "创世之神 内瑟斯",
+      "chromas": false
+    },
+    {
+      "id": "75011",
+      "name": "北辰之威 内瑟斯",
+      "chromas": true
+    },
+    {
+      "id": "75012",
+      "name": "北辰之威 内瑟斯 天枢",
+      "chromas": false
+    },
+    {
+      "id": "75013",
+      "name": "北辰之威 内瑟斯 天璇",
+      "chromas": false
+    },
+    {
+      "id": "75014",
+      "name": "北辰之威 内瑟斯 天玑",
+      "chromas": false
+    },
+    {
+      "id": "75015",
+      "name": "北辰之威 内瑟斯 天权",
+      "chromas": false
+    },
+    {
+      "id": "75016",
+      "name": "战地机甲 内瑟斯",
+      "chromas": true
+    },
+    {
+      "id": "75017",
+      "name": "战地机甲 内瑟斯 赤红炼狱",
+      "chromas": false
+    },
+    {
+      "id": "75018",
+      "name": "战地机甲 内瑟斯 颤栗黄昏",
+      "chromas": false
+    },
+    {
+      "id": "75019",
+      "name": "战地机甲 内瑟斯 深度毁伤",
+      "chromas": false
+    },
+    {
+      "id": "75020",
+      "name": "战地机甲 内瑟斯 静默声波",
+      "chromas": false
+    },
+    {
+      "id": "75021",
+      "name": "战地机甲 内瑟斯 诡秘信号",
+      "chromas": false
+    },
+    {
+      "id": "75022",
+      "name": "战地机甲 内瑟斯 肆虐风暴",
+      "chromas": false
+    },
+    {
+      "id": "75023",
+      "name": "战地机甲 内瑟斯 苍白杀戮",
+      "chromas": false
+    },
+    {
+      "id": "75024",
+      "name": "战地机甲 内瑟斯 午夜梦魇",
+      "chromas": false
+    },
+    {
+      "id": "75025",
+      "name": "太空律动 “狗头” 内瑟斯",
+      "chromas": true
+    },
+    {
+      "id": "75026",
+      "name": "“狗头” 内瑟斯 内有恶犬“橘宝”号",
+      "chromas": false
+    },
+    {
+      "id": "75027",
+      "name": "“狗头” 内瑟斯 内有恶犬“大黄”号",
+      "chromas": false
+    },
+    {
+      "id": "75028",
+      "name": "“狗头” 内瑟斯 内有恶犬“萌萌”号",
+      "chromas": false
+    },
+    {
+      "id": "75029",
+      "name": "“狗头” 内瑟斯 内有恶犬“大海”号",
+      "chromas": false
+    },
+    {
+      "id": "75030",
+      "name": "“狗头” 内瑟斯 内有恶犬“紫龙王”号",
+      "chromas": false
+    },
+    {
+      "id": "75031",
+      "name": "“狗头” 内瑟斯 内有恶犬“花菜”号",
+      "chromas": false
+    },
+    {
+      "id": "75032",
+      "name": "“狗头” 内瑟斯 内有恶犬“黑金刚”号",
+      "chromas": false
+    },
+    {
+      "id": "75033",
+      "name": "“狗头” 内瑟斯 内有恶犬“小能手”号",
+      "chromas": false
+    },
+    {
+      "id": "75034",
+      "name": "“狗头” 内瑟斯 内有恶犬“歌神”号",
+      "chromas": false
+    },
+    {
+      "id": "75035",
+      "name": "海珀利安小队 S02-阿努比斯 内瑟斯",
+      "chromas": true
+    },
+    {
+      "id": "75036",
+      "name": "海珀利安小队 S02-阿努比斯 内瑟斯 赤红突袭",
+      "chromas": false
+    },
+    {
+      "id": "75037",
+      "name": "海珀利安小队 S02-阿努比斯 内瑟斯 神佑先驱",
+      "chromas": false
+    },
+    {
+      "id": "75038",
+      "name": "海珀利安小队 S02-阿努比斯 内瑟斯 冰封预言",
+      "chromas": false
+    },
+    {
+      "id": "75039",
+      "name": "海珀利安小队 S02-阿努比斯 内瑟斯 神圣玫瑰",
+      "chromas": false
+    },
+    {
+      "id": "75040",
+      "name": "海珀利安小队 S02-阿努比斯 内瑟斯 公正天神",
+      "chromas": false
+    },
+    {
+      "id": "75041",
+      "name": "海珀利安小队 S02-阿努比斯 内瑟斯 紫色长剑",
+      "chromas": false
+    },
+    {
+      "id": "75042",
+      "name": "海珀利安小队 S02-阿努比斯 内瑟斯 不朽巨蛇",
+      "chromas": false
+    },
+    {
+      "id": "75043",
+      "name": "海珀利安小队 S02-阿努比斯 内瑟斯 磐石权杖",
+      "chromas": false
+    },
+    {
+      "id": "75044",
+      "name": "海珀利安小队 S02-阿努比斯 内瑟斯 暗夜王牌",
+      "chromas": false
+    },
+    {
+      "id": "75045",
+      "name": "黑夜使者 内瑟斯",
+      "chromas": true
+    },
+    {
+      "id": "75046",
+      "name": "黑夜使者 内瑟斯 血夜",
+      "chromas": false
+    },
+    {
+      "id": "75047",
+      "name": "黑夜使者 内瑟斯 森夜",
+      "chromas": false
+    },
+    {
+      "id": "75048",
+      "name": "黑夜使者 内瑟斯 邪夜",
+      "chromas": false
+    },
+    {
+      "id": "75049",
+      "name": "黑夜使者 内瑟斯 夕夜",
+      "chromas": false
+    },
+    {
+      "id": "75050",
+      "name": "黑夜使者 内瑟斯 寒夜",
+      "chromas": false
+    },
+    {
+      "id": "75051",
+      "name": "黑夜使者 内瑟斯 幻夜",
+      "chromas": false
+    },
+    {
+      "id": "75052",
+      "name": "黑夜使者 内瑟斯 宁夜",
+      "chromas": false
+    },
+    {
+      "id": "75053",
+      "name": "黑夜使者 内瑟斯 虹夜",
+      "chromas": false
+    },
+    {
+      "id": "75054",
+      "name": "织命 内瑟斯",
+      "chromas": true
+    },
+    {
+      "id": "75055",
+      "name": "织命 内瑟斯 英勇之命图",
+      "chromas": false
+    },
+    {
+      "id": "75056",
+      "name": "织命 内瑟斯 财富之命图",
+      "chromas": false
+    },
+    {
+      "id": "75057",
+      "name": "织命 内瑟斯 无私之命图",
+      "chromas": false
+    },
+    {
+      "id": "75058",
+      "name": "织命 内瑟斯 坚韧之命图",
+      "chromas": false
+    },
+    {
+      "id": "75059",
+      "name": "织命 内瑟斯 优雅之命图",
+      "chromas": false
+    },
+    {
+      "id": "75060",
+      "name": "织命 内瑟斯 浪漫之命图",
+      "chromas": false
+    },
+    {
+      "id": "75061",
+      "name": "织命 内瑟斯 纯真之命图",
+      "chromas": false
+    },
+    {
+      "id": "75062",
+      "name": "织命 内瑟斯 刚毅之命图",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "吞噬灵魂",
+    "description": "内瑟斯吸取敌人的生命能量，从而获得生命偷取加成。",
+    "image": "Nasus_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "汲魂痛击",
+      "description": "内瑟斯对敌人施放汲魂痛击造成伤害，如果敌人死于汲魂痛击，则永久增加下次汲魂痛击的伤害。",
+      "tooltip": "内瑟斯的下次攻击造成{{ totaldamage }}物理伤害。用这个攻击击杀一名敌人后，会使其伤害永久提升{{ basicstacks }}，击杀英雄、大型小兵和大型野怪的伤害提升为{{ bigstacks }}。",
+      "cooldown": "7.5/6.5/5.5/4.5/3.5",
+      "cost": "20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "255",
+      "maxrank": 5,
+      "image": "NasusQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "枯萎",
+      "description": "内瑟斯使一名敌方英雄衰老，持续减少其移动速度和攻击速度。",
+      "tooltip": "内瑟斯使一名英雄衰老，使其减速{{ slowbase }}%，并在{{ duration }}秒内持续提升至{{ maxslowtooltiponly }}%。目标的攻击速度也会降低，相当于该减速幅度的{{ attackspeedslowmult*100 }}%。",
+      "cooldown": "15/14/13/12/11",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "700",
+      "maxrank": 5,
+      "image": "NasusW.png",
+      "key": "W"
+    },
+    {
+      "name": "灵魂烈焰",
+      "description": "内瑟斯在目标区域施放灵魂烈焰，伤害并削弱敌人。",
+      "tooltip": "内瑟斯引发一团灵魂烈焰，造成{{ initialdamage }}魔法伤害。区域内的敌人们会失去{{ e2 }}%护甲并在{{ e3 }}秒里持续受到共{{ totaldotdamage }}魔法伤害。",
+      "cooldown": "12",
+      "cost": "60/70/80/90/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "NasusE.png",
+      "key": "E"
+    },
+    {
+      "name": "死神降临",
+      "description": "内瑟斯释放一个具有强大魔力的沙漠风暴来侵袭身边的敌人。当风暴肆虐期间，他会获得额外生命值、额外攻击距离，伤害附近的敌人，汲魂痛击会拥有较短冷却时间，并获得额外的护甲和魔法抗性。",
+      "tooltip": "沙漠风暴赐予内瑟斯力量，使他在15秒的持续时间内获得{{ bonushealth }}最大生命值，以及{{ initialresistgain }}护甲与魔法抗性。在风暴肆虐时，他每秒对周围目标造成{{ damagecalc }}最大生命值的魔法伤害，并且汲魂痛击的冷却时间缩短{{ qcdr*100 }}%。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 3,
+      "image": "NasusR.png",
+      "key": "R"
+    }
+  ]
+}

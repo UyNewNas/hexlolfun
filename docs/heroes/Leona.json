@@ -1,0 +1,413 @@
+{
+  "id": "Leona",
+  "championId": "89",
+  "name": "曙光女神",
+  "title": "蕾欧娜",
+  "region": "巨神峰",
+  "blurb": "蕾欧娜是一名被灌注了烈阳之火的烈阳教派圣殿武士，用天顶之刃和破晓之盾守护着巨神峰。她的皮肤闪烁着星火，她体内天界星灵的力量透过她的双眼炯炯燃烧。蕾欧娜身披金色铠甲，背负着沉重的上古知识，为一些人带来启示，也为另一些人带去死亡。",
+  "tags": [
+    "坦克",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 4,
+    "defense": 8,
+    "magic": 3,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 646,
+    "hpPerLevel": 101,
+    "mp": 302,
+    "mpPerLevel": 40,
+    "movespeed": 335,
+    "armor": 43,
+    "armorPerLevel": 4.8,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.9,
+    "hpregen": 8.5,
+    "hpregenPerLevel": 0.85,
+    "mpregen": 6,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "89001",
+      "name": "瓦尔基里 蕾欧娜",
+      "chromas": false
+    },
+    {
+      "id": "89002",
+      "name": "神圣守卫 蕾欧娜",
+      "chromas": false
+    },
+    {
+      "id": "89003",
+      "name": "钢铁烈阳 蕾欧娜",
+      "chromas": false
+    },
+    {
+      "id": "89004",
+      "name": "泳池派对 蕾欧娜",
+      "chromas": true
+    },
+    {
+      "id": "89005",
+      "name": "泳池派对 蕾欧娜 浪漫霞辉",
+      "chromas": false
+    },
+    {
+      "id": "89006",
+      "name": "泳池派对 蕾欧娜 碧海映阳",
+      "chromas": false
+    },
+    {
+      "id": "89007",
+      "name": "泳池派对 蕾欧娜 灿烂晨曦",
+      "chromas": false
+    },
+    {
+      "id": "89008",
+      "name": "源计划：山 蕾欧娜",
+      "chromas": false
+    },
+    {
+      "id": "89009",
+      "name": "烧烤女神 蕾欧娜",
+      "chromas": false
+    },
+    {
+      "id": "89010",
+      "name": "日蚀骑士 蕾欧娜",
+      "chromas": false
+    },
+    {
+      "id": "89011",
+      "name": "月蚀骑士 蕾欧娜",
+      "chromas": false
+    },
+    {
+      "id": "89012",
+      "name": "机神朱雀 蕾欧娜",
+      "chromas": true
+    },
+    {
+      "id": "89013",
+      "name": "机神朱雀 蕾欧娜 光",
+      "chromas": false
+    },
+    {
+      "id": "89014",
+      "name": "机神朱雀 蕾欧娜 钢铁",
+      "chromas": false
+    },
+    {
+      "id": "89015",
+      "name": "机神朱雀 蕾欧娜 云霄",
+      "chromas": false
+    },
+    {
+      "id": "89016",
+      "name": "机神朱雀 蕾欧娜 炼狱",
+      "chromas": false
+    },
+    {
+      "id": "89017",
+      "name": "机神朱雀 蕾欧娜 雷霆",
+      "chromas": false
+    },
+    {
+      "id": "89018",
+      "name": "机神朱雀 蕾欧娜 海洋",
+      "chromas": false
+    },
+    {
+      "id": "89019",
+      "name": "机神朱雀 蕾欧娜 水晶",
+      "chromas": false
+    },
+    {
+      "id": "89020",
+      "name": "机神朱雀 蕾欧娜 影",
+      "chromas": false
+    },
+    {
+      "id": "89021",
+      "name": "战斗学院 蕾欧娜",
+      "chromas": true
+    },
+    {
+      "id": "89022",
+      "name": "DWG 蕾欧娜",
+      "chromas": true
+    },
+    {
+      "id": "89023",
+      "name": "至臻 战斗学院 蕾欧娜",
+      "chromas": false
+    },
+    {
+      "id": "89024",
+      "name": "战斗学院 蕾欧娜 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "89025",
+      "name": "战斗学院 蕾欧娜 火蜥蜴",
+      "chromas": false
+    },
+    {
+      "id": "89026",
+      "name": "战斗学院 蕾欧娜 天马",
+      "chromas": false
+    },
+    {
+      "id": "89027",
+      "name": "战斗学院 蕾欧娜 九头蛇",
+      "chromas": false
+    },
+    {
+      "id": "89028",
+      "name": "战斗学院 蕾欧娜 森林龙",
+      "chromas": false
+    },
+    {
+      "id": "89029",
+      "name": "战斗学院 蕾欧娜 独角兽",
+      "chromas": false
+    },
+    {
+      "id": "89030",
+      "name": "战斗学院 蕾欧娜 黑龙",
+      "chromas": false
+    },
+    {
+      "id": "89031",
+      "name": "战斗学院 蕾欧娜 狮鹫",
+      "chromas": false
+    },
+    {
+      "id": "89032",
+      "name": "DWG 蕾欧娜 精锐",
+      "chromas": false
+    },
+    {
+      "id": "89033",
+      "name": "烈阳执事 蕾欧娜",
+      "chromas": true
+    },
+    {
+      "id": "89034",
+      "name": "西部魔影 大小姐 蕾欧娜",
+      "chromas": true
+    },
+    {
+      "id": "89035",
+      "name": "烈阳执事 蕾欧娜 红莲",
+      "chromas": false
+    },
+    {
+      "id": "89036",
+      "name": "烈阳执事 蕾欧娜 琥珀",
+      "chromas": false
+    },
+    {
+      "id": "89037",
+      "name": "烈阳执事 蕾欧娜 幻魅",
+      "chromas": false
+    },
+    {
+      "id": "89038",
+      "name": "烈阳执事 蕾欧娜 蓝霜",
+      "chromas": false
+    },
+    {
+      "id": "89039",
+      "name": "烈阳执事 蕾欧娜 墨玉",
+      "chromas": false
+    },
+    {
+      "id": "89040",
+      "name": "烈阳执事 蕾欧娜 青木",
+      "chromas": false
+    },
+    {
+      "id": "89041",
+      "name": "烈阳执事 蕾欧娜 紫电",
+      "chromas": false
+    },
+    {
+      "id": "89042",
+      "name": "烈阳执事 蕾欧娜 黑曜",
+      "chromas": false
+    },
+    {
+      "id": "89043",
+      "name": "烈阳执事 蕾欧娜 碧空",
+      "chromas": false
+    },
+    {
+      "id": "89044",
+      "name": "西部魔影 大小姐 蕾欧娜 温和",
+      "chromas": false
+    },
+    {
+      "id": "89045",
+      "name": "西部魔影 大小姐 蕾欧娜 诚实",
+      "chromas": false
+    },
+    {
+      "id": "89046",
+      "name": "西部魔影 大小姐 蕾欧娜 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "89047",
+      "name": "西部魔影 大小姐 蕾欧娜 慷慨",
+      "chromas": false
+    },
+    {
+      "id": "89048",
+      "name": "西部魔影 大小姐 蕾欧娜 虔信",
+      "chromas": false
+    },
+    {
+      "id": "89049",
+      "name": "西部魔影 大小姐 蕾欧娜 节制",
+      "chromas": false
+    },
+    {
+      "id": "89050",
+      "name": "水晶圣骑 蕾欧娜",
+      "chromas": true
+    },
+    {
+      "id": "89051",
+      "name": "水晶圣骑 蕾欧娜 感化之光",
+      "chromas": false
+    },
+    {
+      "id": "89052",
+      "name": "幻灵狮心 蕾欧娜",
+      "chromas": true
+    },
+    {
+      "id": "89053",
+      "name": "至臻 幻灵狮心 蕾欧娜",
+      "chromas": false
+    },
+    {
+      "id": "89054",
+      "name": "幻灵狮心 蕾欧娜 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "89055",
+      "name": "幻灵狮心 蕾欧娜 坚韧阻击",
+      "chromas": false
+    },
+    {
+      "id": "89056",
+      "name": "幻灵狮心 蕾欧娜 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "89057",
+      "name": "幻灵狮心 蕾欧娜 灿烂轰击",
+      "chromas": false
+    },
+    {
+      "id": "89058",
+      "name": "幻灵狮心 蕾欧娜 华丽冲阵",
+      "chromas": false
+    },
+    {
+      "id": "89059",
+      "name": "幻灵狮心 蕾欧娜 连绵奔袭",
+      "chromas": false
+    },
+    {
+      "id": "89060",
+      "name": "幻灵狮心 蕾欧娜 星流电击",
+      "chromas": false
+    },
+    {
+      "id": "89061",
+      "name": "幻灵狮心 蕾欧娜 魅影闪击",
+      "chromas": false
+    },
+    {
+      "id": "89062",
+      "name": "幻灵狮心 蕾欧娜 隐秘夜影",
+      "chromas": false
+    },
+    {
+      "id": "89063",
+      "name": "幻灵狮心 蕾欧娜 突破极限",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "日光",
+    "description": "技能会在敌人身上施加【日光】效果，持续1.5秒。在此期间，蕾欧娜友军对这些目标造成伤害时，会触发【日光】，使目标受到额外的魔法伤害。",
+    "image": "LeonaSunlight.png"
+  },
+  "spells": [
+    {
+      "name": "破晓之盾",
+      "description": "蕾欧娜用盾进行下次普通攻击，造成额外魔法伤害并晕眩目标。",
+      "tooltip": "蕾欧娜的下次攻击会晕眩目标{{ e1 }}秒，并造成额外的{{ totaldamagetooltip }}魔法伤害。",
+      "cooldown": "5",
+      "cost": "30/35/40/45/50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "100",
+      "maxrank": 5,
+      "image": "LeonaShieldOfDaybreak.png",
+      "key": "Q"
+    },
+    {
+      "name": "日蚀",
+      "description": "蕾欧娜举起盾牌，提供伤害减免、护甲和魔法抗性。当持续时间首次结束时，如果附近有敌人，那么她会对其造成魔法伤害并延长效果的持续时间。",
+      "tooltip": "蕾欧娜举起她的盾牌，使即将到来的伤害降低{{ flatdamagereduction }}并获得{{ bonusarmortooltip }}护甲和{{ bonusmrtooltip }}魔法抗性，持续{{ e3 }}秒。之后，她的盾牌会爆炸，对附近的敌人造成{{ totaldamagetooltip }}魔法伤害。如果她命中了至少一名敌人，那么她会将护甲和魔法抗性加成延续额外的{{ e3 }}秒。",
+      "cooldown": "14/13/12/11/10",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "450",
+      "maxrank": 5,
+      "image": "LeonaSolarBarrier.png",
+      "key": "W"
+    },
+    {
+      "name": "天顶之刃",
+      "description": "蕾欧娜投掷一束日光，对直线上的所有敌人造成魔法伤害。当效果消失时，蕾欧娜会冲向最后一个被击中的敌人并使其无法移动。",
+      "tooltip": "蕾欧娜用光明之剑进行猛刺，造成{{ totaldamagetooltip }}魔法伤害。最后一个被命中的敌方英雄将会被禁锢{{ e2 }}秒，并且蕾欧娜将会冲向该英雄。",
+      "cooldown": "12/10.5/9/7.5/6",
+      "cost": "40/45/50/55/60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "875",
+      "maxrank": 5,
+      "image": "LeonaZenithBlade.png",
+      "key": "E"
+    },
+    {
+      "name": "日炎耀斑",
+      "description": "蕾欧娜召唤一道太阳光束，对区域内的敌人造成伤害。区域中心的敌人会被晕眩，并且外围的敌人会被减速。",
+      "tooltip": "蕾欧娜召唤一道太阳光束，造成{{ explosioncalculateddamage }}魔法伤害并使敌人减速{{ slowpercent }}%，持续{{ ccduration }}秒。处于区域正中的敌人会受到晕眩效果而非减速效果。",
+      "cooldown": "90/75/60",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1200",
+      "maxrank": 3,
+      "image": "LeonaSolarFlare.png",
+      "key": "R"
+    }
+  ]
+}

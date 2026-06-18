@@ -1,0 +1,338 @@
+{
+  "id": "Rengar",
+  "championId": "107",
+  "name": "傲之追猎者",
+  "title": "雷恩加尔",
+  "region": "以绪塔尔",
+  "blurb": "瓦斯塔亚人雷恩加尔是一名声名远扬、凶悍无比的猎手，一生都在追寻猎杀危险生物时的快感。他走遍整个世界，只为寻找那些最可怕的野兽——尤其是卡兹克。那头来自虚空的怪物曾弄瞎了他的一只眼睛。雷恩加尔追寻猎物，不为捕食也不为荣耀，只是为了纯粹的猎杀所带来的暴力之美。",
+  "tags": [
+    "刺客",
+    "战士"
+  ],
+  "partype": "残暴",
+  "info": {
+    "attack": 7,
+    "defense": 4,
+    "magic": 2,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 590,
+    "hpPerLevel": 104,
+    "mp": 4,
+    "mpPerLevel": 0,
+    "movespeed": 345,
+    "armor": 34,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 68,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.667,
+    "attackspeedPerLevel": 3,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "107001",
+      "name": "铁血猎人 雷恩加尔",
+      "chromas": true
+    },
+    {
+      "id": "107002",
+      "name": "暗黑武士 雷恩加尔",
+      "chromas": false
+    },
+    {
+      "id": "107003",
+      "name": "SSW 雷恩加尔",
+      "chromas": false
+    },
+    {
+      "id": "107004",
+      "name": "铁血猎人 雷恩加尔 暗爪",
+      "chromas": false
+    },
+    {
+      "id": "107005",
+      "name": "铁血猎人 雷恩加尔 血痕",
+      "chromas": false
+    },
+    {
+      "id": "107006",
+      "name": "铁血猎人 雷恩加尔 匿踪杀手",
+      "chromas": false
+    },
+    {
+      "id": "107007",
+      "name": "铁血猎人 雷恩加尔 异瞳",
+      "chromas": false
+    },
+    {
+      "id": "107008",
+      "name": "霸天战士 雷恩加尔",
+      "chromas": true
+    },
+    {
+      "id": "107009",
+      "name": "霸天战士雷恩加尔 血色幻影",
+      "chromas": false
+    },
+    {
+      "id": "107010",
+      "name": "霸天战士 雷恩加尔 报丧使者",
+      "chromas": false
+    },
+    {
+      "id": "107011",
+      "name": "霸天战士 雷恩加尔 星啸天火",
+      "chromas": false
+    },
+    {
+      "id": "107012",
+      "name": "霸天战士 雷恩加尔 源初暴走",
+      "chromas": false
+    },
+    {
+      "id": "107013",
+      "name": "霸天战士 雷恩加尔 蓝色霹雳",
+      "chromas": false
+    },
+    {
+      "id": "107014",
+      "name": "霸天战士 雷恩加尔 命运之刃",
+      "chromas": false
+    },
+    {
+      "id": "107015",
+      "name": "雷喵喵尔",
+      "chromas": true
+    },
+    {
+      "id": "107016",
+      "name": "乐喵喵尔",
+      "chromas": false
+    },
+    {
+      "id": "107017",
+      "name": "呆喵喵尔",
+      "chromas": false
+    },
+    {
+      "id": "107018",
+      "name": "闷喵喵尔",
+      "chromas": false
+    },
+    {
+      "id": "107019",
+      "name": "萌喵喵尔",
+      "chromas": false
+    },
+    {
+      "id": "107020",
+      "name": "皮喵喵尔",
+      "chromas": false
+    },
+    {
+      "id": "107021",
+      "name": "美喵喵尔",
+      "chromas": false
+    },
+    {
+      "id": "107022",
+      "name": "酷喵喵尔",
+      "chromas": false
+    },
+    {
+      "id": "107023",
+      "name": "沙之守护 雷恩加尔",
+      "chromas": true
+    },
+    {
+      "id": "107024",
+      "name": "沙之守护 雷恩加尔 冥界守护神",
+      "chromas": false
+    },
+    {
+      "id": "107025",
+      "name": "沙之守护 雷恩加尔 智慧守护神",
+      "chromas": false
+    },
+    {
+      "id": "107026",
+      "name": "沙之守护 雷恩加尔 凯旋守护神",
+      "chromas": false
+    },
+    {
+      "id": "107027",
+      "name": "沙之守护 雷恩加尔 绿洲守护神",
+      "chromas": false
+    },
+    {
+      "id": "107028",
+      "name": "沙之守护 雷恩加尔 夜月守护神",
+      "chromas": false
+    },
+    {
+      "id": "107029",
+      "name": "沙之守护 雷恩加尔 爱情守护神",
+      "chromas": false
+    },
+    {
+      "id": "107030",
+      "name": "光明哨兵 雷恩加尔",
+      "chromas": true
+    },
+    {
+      "id": "107031",
+      "name": "光明哨兵 雷恩加尔 帝国抗击者",
+      "chromas": false
+    },
+    {
+      "id": "107032",
+      "name": "光明哨兵 雷恩加尔 山峰抗击者",
+      "chromas": false
+    },
+    {
+      "id": "107033",
+      "name": "光明哨兵 雷恩加尔 灵岛抗击者",
+      "chromas": false
+    },
+    {
+      "id": "107034",
+      "name": "光明哨兵 雷恩加尔 虚无抗击者",
+      "chromas": false
+    },
+    {
+      "id": "107035",
+      "name": "光明哨兵 雷恩加尔 海港抗击者",
+      "chromas": false
+    },
+    {
+      "id": "107036",
+      "name": "光明哨兵 雷恩加尔 极地抗击者",
+      "chromas": false
+    },
+    {
+      "id": "107037",
+      "name": "光明哨兵 雷恩加尔 森林抗击者",
+      "chromas": false
+    },
+    {
+      "id": "107038",
+      "name": "光明哨兵 雷恩加尔 寒霜抗击者",
+      "chromas": false
+    },
+    {
+      "id": "107039",
+      "name": "光明哨兵 雷恩加尔 坚定抗击者",
+      "chromas": false
+    },
+    {
+      "id": "107040",
+      "name": "妖怪艺术家 雷恩加尔",
+      "chromas": true
+    },
+    {
+      "id": "107041",
+      "name": "妖怪艺术家 雷恩加尔 朱槿",
+      "chromas": false
+    },
+    {
+      "id": "107042",
+      "name": "妖怪艺术家 雷恩加尔 碧荷",
+      "chromas": false
+    },
+    {
+      "id": "107043",
+      "name": "妖怪艺术家 雷恩加尔 霞光",
+      "chromas": false
+    },
+    {
+      "id": "107044",
+      "name": "妖怪艺术家 雷恩加尔 丁香",
+      "chromas": false
+    },
+    {
+      "id": "107045",
+      "name": "妖怪艺术家 雷恩加尔 月白",
+      "chromas": false
+    },
+    {
+      "id": "107046",
+      "name": "妖怪艺术家 雷恩加尔 青矾",
+      "chromas": false
+    },
+    {
+      "id": "107047",
+      "name": "妖怪艺术家 雷恩加尔 青黛",
+      "chromas": false
+    },
+    {
+      "id": "107048",
+      "name": "妖怪艺术家 雷恩加尔 群青",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "无形掠食者",
+    "description": "在草丛时，雷恩加尔的普通攻击会让他跳跃至目标敌人身边。雷恩加尔在每次施放技能时会生成残暴值。在满残暴值时，他的下一个技能会得到强化。击杀敌方英雄会在雷恩加尔的骨齿项链上新增战利品奖励，从而提供额外攻击力。",
+    "image": "Rengar_P.png"
+  },
+  "spells": [
+    {
+      "name": "残忍无情",
+      "description": "雷恩加尔的下次攻击会蛮横地戳刺他的目标来造成额外伤害。残暴效果：造成更多伤害，并且他会获得攻击速度加成。",
+      "tooltip": "雷恩加尔的下两次攻击获得{{ asbonus }}%攻击速度。第一次攻击造成{{ qtotaldamage }}物理伤害。满层残暴值：第一次攻击造成{{ empoweredqtotaldamage }}物理伤害并为雷恩加尔提供持续{{ asduration }}秒的{{ empoweredqas }}攻击速度。",
+      "cooldown": "0.25",
+      "cost": "0",
+      "costType": "产生1点残暴值",
+      "range": "450",
+      "maxrank": 5,
+      "image": "RengarQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "战争咆哮",
+      "description": "雷恩加尔发出一声战争咆哮，对敌人造成伤害并基于近期受到的伤害回复生命值。残暴效果：额外移除控制效果。",
+      "tooltip": "雷恩加尔进行咆哮，对附近的敌人们造成{{ totaldamage }}魔法伤害并回复生命值，相当于他在前{{ healingwindow }}秒受到的{{ damagepercentagehealed }}%伤害。满层残暴值：造成{{ totaldamageempowered }}魔法伤害并且还会净化雷恩加尔身上的控制效果。",
+      "cooldown": "0.25",
+      "cost": "0",
+      "costType": "产生1点残暴值",
+      "range": "450",
+      "maxrank": 5,
+      "image": "RengarW.png",
+      "key": "W"
+    },
+    {
+      "name": "套索打击",
+      "description": "雷恩加尔扔出一个套索，套索在命中第一个敌人后，会暂时降低这名敌人的移动速度。残暴效果：对目标造成禁锢效果。",
+      "tooltip": "雷恩加尔扔出一个套索，对命中的第一个敌人造成{{ totaldamage }}物理伤害，以及持续{{ ccduration }}秒的显形和{{ slowamount }}%减速。满层残暴值：造成{{ totalempowereddamage }}物理伤害和{{ ccduration }}秒禁锢。",
+      "cooldown": "0.25",
+      "cost": "0",
+      "costType": "产生1点残暴值",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "RengarE.png",
+      "key": "E"
+    },
+    {
+      "name": "狩猎律动",
+      "description": "雷恩加尔激活他的掠食者本能，伪装自身并感知附近极大范围内的距他最近的敌方英雄。在狩猎律动期间，他会获得移动速度加成，他的下次攻击将使他即使不在草丛内也可以进行跳跃，并且会减少目标的护甲。",
+      "tooltip": "被动：雷恩加尔在伪装状态下也能进行跃击。主动：雷恩加尔获得{{ stealthms }}%移动速度和相距最近的敌方英雄周围一个小区域内的真实视野，持续{{ stealthduration }}秒。在{{ fadetime }}秒后，雷恩加尔变为伪装状态并且不需要在草丛中就能进行跃击。跃击该相距最近的敌方英雄时会造成{{ bonusdamage }}物理伤害，击碎{{ armorshred }}护甲达{{ armorshredduration }}秒，并结束这个技能。",
+      "cooldown": "100/90/80",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "2500/3000/3500",
+      "maxrank": 3,
+      "image": "RengarR.png",
+      "key": "R"
+    }
+  ]
+}

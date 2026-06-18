@@ -1,0 +1,457 @@
+{
+  "id": "Shaco",
+  "championId": "35",
+  "name": "恶魔小丑",
+  "title": "萨科",
+  "region": "符文之地",
+  "blurb": "很久以前有人为一个孤独的小王子制作了一个玩物，一只附有魔法的提线人偶，它就是如今那个以杀人和破坏取乐的萨科。由于黑魔法的腐化，再加上痛失爱主，曾经友善的人偶如今只能在折磨灵魂制造苦痛的时候才能感到愉悦。小孩子的玩具和简单的戏法在他手中都有了致命的效果。而且，他觉得自己的血腥“游戏”滑稽至极——如果有谁在死寂的夜里听到了阴森的窃笑，或许那就是恶魔小丑看中了他们，作为自己新的玩物。",
+  "tags": [
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 4,
+    "magic": 6,
+    "difficulty": 9
+  },
+  "stats": {
+    "hp": 630,
+    "hpPerLevel": 99,
+    "mp": 297,
+    "mpPerLevel": 40,
+    "movespeed": 345,
+    "armor": 30,
+    "armorPerLevel": 4,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 63,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.694,
+    "attackspeedPerLevel": 3,
+    "hpregen": 8.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 6,
+    "mpregenPerLevel": 0.35,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "35001",
+      "name": "恐怖之源 萨科",
+      "chromas": false
+    },
+    {
+      "id": "35002",
+      "name": "贵族血统 萨科",
+      "chromas": false
+    },
+    {
+      "id": "35003",
+      "name": "胡桃夹子 萨科",
+      "chromas": false
+    },
+    {
+      "id": "35004",
+      "name": "小丑工作坊 萨科",
+      "chromas": false
+    },
+    {
+      "id": "35005",
+      "name": "飞越疯人院 萨科",
+      "chromas": false
+    },
+    {
+      "id": "35006",
+      "name": "武动巅峰 萨科",
+      "chromas": false
+    },
+    {
+      "id": "35007",
+      "name": "万能小丑 萨科",
+      "chromas": false
+    },
+    {
+      "id": "35008",
+      "name": "暗星 萨科",
+      "chromas": true
+    },
+    {
+      "id": "35009",
+      "name": "暗星 萨科 战神星之爆",
+      "chromas": false
+    },
+    {
+      "id": "35010",
+      "name": "暗星 萨科 爱神星之怨",
+      "chromas": false
+    },
+    {
+      "id": "35011",
+      "name": "暗星 萨科 主神星之黯",
+      "chromas": false
+    },
+    {
+      "id": "35012",
+      "name": "暗星 萨科 美神星之灭",
+      "chromas": false
+    },
+    {
+      "id": "35013",
+      "name": "暗星 萨科 天神星之陨",
+      "chromas": false
+    },
+    {
+      "id": "35014",
+      "name": "暗星 萨科 冥神星之击",
+      "chromas": false
+    },
+    {
+      "id": "35015",
+      "name": "奥术师 萨科",
+      "chromas": true
+    },
+    {
+      "id": "35016",
+      "name": "奥术师 萨科 心灵幻觉",
+      "chromas": false
+    },
+    {
+      "id": "35017",
+      "name": "奥术师 萨科 虚假幻觉",
+      "chromas": false
+    },
+    {
+      "id": "35018",
+      "name": "奥术师 萨科 灼热幻觉",
+      "chromas": false
+    },
+    {
+      "id": "35019",
+      "name": "奥术师 萨科 幽影幻觉",
+      "chromas": false
+    },
+    {
+      "id": "35020",
+      "name": "奥术师 萨科 酸蚀幻觉",
+      "chromas": false
+    },
+    {
+      "id": "35021",
+      "name": "奥术师 萨科 隔绝幻觉",
+      "chromas": false
+    },
+    {
+      "id": "35022",
+      "name": "奥术师 萨科 魅影幻觉",
+      "chromas": false
+    },
+    {
+      "id": "35023",
+      "name": "地下都市 梦魇 萨科",
+      "chromas": true
+    },
+    {
+      "id": "35024",
+      "name": "地下都市 梦魇 萨科 红莲",
+      "chromas": false
+    },
+    {
+      "id": "35025",
+      "name": "地下都市 梦魇 萨科 琥珀",
+      "chromas": false
+    },
+    {
+      "id": "35026",
+      "name": "地下都市 梦魇 萨科 青木",
+      "chromas": false
+    },
+    {
+      "id": "35027",
+      "name": "地下都市 梦魇 萨科 黛夜",
+      "chromas": false
+    },
+    {
+      "id": "35028",
+      "name": "地下都市 梦魇 萨科 幻魅",
+      "chromas": false
+    },
+    {
+      "id": "35029",
+      "name": "地下都市 梦魇 萨科 蓝霜",
+      "chromas": false
+    },
+    {
+      "id": "35030",
+      "name": "地下都市 梦魇 萨科 黑曜",
+      "chromas": false
+    },
+    {
+      "id": "35031",
+      "name": "地下都市 梦魇 萨科 白影",
+      "chromas": false
+    },
+    {
+      "id": "35032",
+      "name": "地下都市 梦魇 萨科 孽影",
+      "chromas": false
+    },
+    {
+      "id": "35033",
+      "name": "北极星使者 萨科",
+      "chromas": true
+    },
+    {
+      "id": "35034",
+      "name": "北极星使者 萨科 激昂脉冲",
+      "chromas": false
+    },
+    {
+      "id": "35035",
+      "name": "北极星使者 萨科 希望辉光",
+      "chromas": false
+    },
+    {
+      "id": "35036",
+      "name": "北极星使者 萨科 幸运漩涡",
+      "chromas": false
+    },
+    {
+      "id": "35037",
+      "name": "北极星使者 萨科 祥和面纱",
+      "chromas": false
+    },
+    {
+      "id": "35038",
+      "name": "北极星使者 萨科 浪漫帘幕",
+      "chromas": false
+    },
+    {
+      "id": "35039",
+      "name": "北极星使者 萨科 神秘幻彩",
+      "chromas": false
+    },
+    {
+      "id": "35040",
+      "name": "北极星使者 萨科 庄严光冕",
+      "chromas": false
+    },
+    {
+      "id": "35041",
+      "name": "北极星使者 萨科 圣洁光带",
+      "chromas": false
+    },
+    {
+      "id": "35042",
+      "name": "北极星使者 萨科 花冠极光",
+      "chromas": false
+    },
+    {
+      "id": "35043",
+      "name": "斗魂觉醒 萨科",
+      "chromas": true
+    },
+    {
+      "id": "35044",
+      "name": "至臻 斗魂觉醒 萨科",
+      "chromas": false
+    },
+    {
+      "id": "35045",
+      "name": "斗魂觉醒 萨科 烈之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "35046",
+      "name": "斗魂觉醒 萨科 韧之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "35047",
+      "name": "斗魂觉醒 萨科 幻之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "35048",
+      "name": "斗魂觉醒 萨科 飒之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "35049",
+      "name": "斗魂觉醒 萨科 锐之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "35050",
+      "name": "斗魂觉醒 萨科 狡之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "35051",
+      "name": "斗魂觉醒 萨科 魅之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "35052",
+      "name": "斗魂觉醒 萨科 幽之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "35053",
+      "name": "斗魂觉醒 萨科 无限斗志",
+      "chromas": false
+    },
+    {
+      "id": "35054",
+      "name": "魔域梦魇 萨科",
+      "chromas": true
+    },
+    {
+      "id": "35055",
+      "name": "魔域梦魇 萨科 红夜梦境",
+      "chromas": false
+    },
+    {
+      "id": "35056",
+      "name": "魔域梦魇 萨科 糖果梦境",
+      "chromas": false
+    },
+    {
+      "id": "35057",
+      "name": "魔域梦魇 萨科 荆棘梦境",
+      "chromas": false
+    },
+    {
+      "id": "35058",
+      "name": "魔域梦魇 萨科 舞会梦境",
+      "chromas": false
+    },
+    {
+      "id": "35059",
+      "name": "魔域梦魇 萨科 荒宅梦境",
+      "chromas": false
+    },
+    {
+      "id": "35060",
+      "name": "魔域梦魇 萨科 歌影梦境",
+      "chromas": false
+    },
+    {
+      "id": "35061",
+      "name": "魔域梦魇 萨科 惊情梦境",
+      "chromas": false
+    },
+    {
+      "id": "35062",
+      "name": "魔域梦魇 萨科 飞帚梦境",
+      "chromas": false
+    },
+    {
+      "id": "35063",
+      "name": "魔域梦魇 萨科 古堡梦境",
+      "chromas": false
+    },
+    {
+      "id": "35064",
+      "name": "盒子猫 萨科",
+      "chromas": true
+    },
+    {
+      "id": "35065",
+      "name": "盒子猫 萨科 红衣绿喵喵",
+      "chromas": false
+    },
+    {
+      "id": "35066",
+      "name": "盒子猫 萨科 绿衣紫喵喵",
+      "chromas": false
+    },
+    {
+      "id": "35067",
+      "name": "盒子猫 萨科 粉衣青喵喵",
+      "chromas": false
+    },
+    {
+      "id": "35068",
+      "name": "盒子猫 萨科 黄衣蓝喵喵",
+      "chromas": false
+    },
+    {
+      "id": "35069",
+      "name": "盒子猫 萨科 白衣淡紫喵",
+      "chromas": false
+    },
+    {
+      "id": "35070",
+      "name": "盒子猫 萨科 黑衣淡蓝喵",
+      "chromas": false
+    },
+    {
+      "id": "35071",
+      "name": "至臻 万魔殿 萨科",
+      "chromas": true
+    },
+    {
+      "id": "35072",
+      "name": "至臻 万魔殿 萨科 至强",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "背刺",
+    "description": "在目标的背后时，萨科的普攻和【E双面毒刃】会造成额外伤害。",
+    "image": "Jester_CarefulStrikes.png"
+  },
+  "spells": [
+    {
+      "name": "欺诈魔术",
+      "description": "萨科进入隐形状态并传送到目标位置。他在隐形状态下的第一次普攻将获得增强，造成额外伤害并在目标背后攻击时必定会暴击。",
+      "tooltip": "萨科传送并变为隐形，持续{{ stealthduration }}秒。使用惊吓魔盒或幻像不会打破隐形。萨科在隐形时的下次攻击造成额外的{{ totaldamage }}物理伤害。如果从背后进行打击，那么这个攻击会暴击，造成{{ qcritdamagemod }}伤害。",
+      "cooldown": "13/12.5/12/11.5/11",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "Deceive.png",
+      "key": "Q"
+    },
+    {
+      "name": "惊吓魔盒",
+      "description": "萨科丢出一个隐形且会动的惊吓魔盒。在触发时，盒子会恐惧附近的敌人，然后对其进行攻击。",
+      "tooltip": "萨科生成一个会在{{ e5 }}秒后潜行的陷阱，持续{{ trapduration }}秒。它会在有敌人靠近或显形时触发，恐惧附近的敌方英雄们{{ fearduration }}秒，或小兵和野怪{{ minionfearduration }}秒。一旦激活，陷阱就会在5秒里持续攻击所有附近的敌人们，造成{{ aoedamage }}魔法伤害，如果只攻击一个敌人则为{{ stdamage }}伤害。惊吓魔盒的攻击对野怪造成额外的{{ monsterbonusdamage }}伤害。",
+      "cooldown": "15",
+      "cost": "70/65/60/55/50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "500",
+      "maxrank": 5,
+      "image": "JackInTheBox.png",
+      "key": "W"
+    },
+    {
+      "name": "双面毒刃",
+      "description": "萨科的毒刃在命中时会被动地使目标中毒，减少目标的移动速度。他可以将毒刃扔向目标，造成伤害和中毒效果。扔出的毒刃会对生命值低于30%的目标造成额外伤害。",
+      "tooltip": "被动：当这个技能未进入冷却阶段时，萨科的攻击会对目标造成持续{{ slowdurationpassive }}秒的{{ slowamount*-100 }}%减速。主动：萨科扔出一把毒刃，造成{{ totaldamage }}魔法伤害和持续{{ slowdurationactive }}秒的{{ slowamount*-100 }}%减速。如果目标低于{{ executehealththreshold*100 }}%生命值，毒刃会转而造成{{ totalexecutedamage }}伤害。",
+      "cooldown": "8",
+      "cost": "75",
+      "costType": " {{ abilityresourcename }}",
+      "range": "625",
+      "maxrank": 5,
+      "image": "TwoShivPoison.png",
+      "key": "E"
+    },
+    {
+      "name": "幻像",
+      "description": "萨科在身边制造一个自己的幻像，幻像能够攻击周围的敌人（对防御塔造成较少伤害）。在死亡时爆炸，它会爆炸，生成三个小型惊吓魔盒并对附近的敌人造成伤害。",
+      "tooltip": "萨科暂时消失，然后重新出现并制造一个持续{{ clonelifetime }}秒的幻像，幻像会在死亡时爆炸，对附近的敌人造成{{ explosiontotaldamage }}魔法伤害并生成三个立即触发的小型惊吓魔盒。幻像造成萨科{{ cloneaadamagepercent*100 }}%的伤害并承受{{ cloneincomingdamagepercent*100 }}%额外伤害。小型惊吓魔盒造成{{ aoedamage }}魔法伤害，如果只攻击一个敌人则为{{ stdamage }}魔法伤害，并让敌人恐惧{{ boxfearduration }}秒。",
+      "cooldown": "100/90/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "200",
+      "maxrank": 3,
+      "image": "HallucinateFull.png",
+      "key": "R"
+    }
+  ]
+}

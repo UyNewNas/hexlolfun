@@ -1,0 +1,348 @@
+{
+  "id": "Poppy",
+  "championId": "78",
+  "name": "圣锤之毅",
+  "title": "波比",
+  "region": "德玛西亚",
+  "blurb": "符文之地从来都不缺勇敢的英雄，但很少有谁能像波比一样坚毅。她一直带着奥伦的传奇圣锤，哪怕锤柄立起来有两个她那么高。这位意志坚决的约德尔人在无数个岁月中一直都在秘密地寻找“德玛西亚的英雄”，也就是传说中这把战锤的最合适的主人。在找到他之前，波比肩负起战斗的使命，用旋风般的攻击打退王国的敌人。",
+  "tags": [
+    "坦克",
+    "战士"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 6,
+    "defense": 7,
+    "magic": 2,
+    "difficulty": 6
+  },
+  "stats": {
+    "hp": 610,
+    "hpPerLevel": 110,
+    "mp": 280,
+    "mpPerLevel": 40,
+    "movespeed": 345,
+    "armor": 35,
+    "armorPerLevel": 5,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 8,
+    "hpregenPerLevel": 0.8,
+    "mpregen": 7,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "78001",
+      "name": "诺克萨斯 波比",
+      "chromas": false
+    },
+    {
+      "id": "78002",
+      "name": "波比的巧克力工坊",
+      "chromas": false
+    },
+    {
+      "id": "78003",
+      "name": "宗师级锻造训练师",
+      "chromas": false
+    },
+    {
+      "id": "78004",
+      "name": "圣诞玩偶 波比",
+      "chromas": false
+    },
+    {
+      "id": "78005",
+      "name": "军神战甲 波比",
+      "chromas": true
+    },
+    {
+      "id": "78006",
+      "name": "血色之锤 波比",
+      "chromas": false
+    },
+    {
+      "id": "78007",
+      "name": "星之守护者 波比",
+      "chromas": false
+    },
+    {
+      "id": "78008",
+      "name": "军神战甲 波比 爱神之怜",
+      "chromas": false
+    },
+    {
+      "id": "78009",
+      "name": "军神战甲 波比 炎神之烈",
+      "chromas": false
+    },
+    {
+      "id": "78010",
+      "name": "军神战甲 波比 森神之佑",
+      "chromas": false
+    },
+    {
+      "id": "78011",
+      "name": "军神战甲 波比 海神之威",
+      "chromas": false
+    },
+    {
+      "id": "78012",
+      "name": "军神战甲 波比 天神之赐",
+      "chromas": false
+    },
+    {
+      "id": "78013",
+      "name": "军神战甲 波比 死神之睐",
+      "chromas": false
+    },
+    {
+      "id": "78014",
+      "name": "冰雪驯鹿 波比",
+      "chromas": false
+    },
+    {
+      "id": "78015",
+      "name": "海克斯科技 波比",
+      "chromas": false
+    },
+    {
+      "id": "78016",
+      "name": "宇航员 波比",
+      "chromas": true
+    },
+    {
+      "id": "78017",
+      "name": "宇航员 波比 平坦宇宙",
+      "chromas": false
+    },
+    {
+      "id": "78018",
+      "name": "宇航员 波比 太阳风帆",
+      "chromas": false
+    },
+    {
+      "id": "78019",
+      "name": "宇航员 波比 宇宙速度",
+      "chromas": false
+    },
+    {
+      "id": "78020",
+      "name": "宇航员 波比 月球漫步",
+      "chromas": false
+    },
+    {
+      "id": "78021",
+      "name": "宇航员 波比 伽马射线",
+      "chromas": false
+    },
+    {
+      "id": "78022",
+      "name": "宇航员 波比 万有引力",
+      "chromas": false
+    },
+    {
+      "id": "78023",
+      "name": "宇航员 波比 无尽永前",
+      "chromas": false
+    },
+    {
+      "id": "78024",
+      "name": "魅惑女巫 波比",
+      "chromas": true
+    },
+    {
+      "id": "78025",
+      "name": "魅惑女巫 波比 热情化身",
+      "chromas": false
+    },
+    {
+      "id": "78026",
+      "name": "魅惑女巫 波比 清新化身",
+      "chromas": false
+    },
+    {
+      "id": "78027",
+      "name": "魅惑女巫 波比 典雅化身",
+      "chromas": false
+    },
+    {
+      "id": "78028",
+      "name": "魅惑女巫 波比 浪漫化身",
+      "chromas": false
+    },
+    {
+      "id": "78029",
+      "name": "魅惑女巫 波比 青春化身",
+      "chromas": false
+    },
+    {
+      "id": "78030",
+      "name": "魅惑女巫 波比 知性化身",
+      "chromas": false
+    },
+    {
+      "id": "78031",
+      "name": "魅惑女巫 波比 纯真化身",
+      "chromas": false
+    },
+    {
+      "id": "78032",
+      "name": "魅惑女巫 波比 高冷化身",
+      "chromas": false
+    },
+    {
+      "id": "78033",
+      "name": "咖啡甜心 波比",
+      "chromas": true
+    },
+    {
+      "id": "78034",
+      "name": "咖啡甜心 波比 草莓戚风",
+      "chromas": false
+    },
+    {
+      "id": "78035",
+      "name": "咖啡甜心 波比 姜汁香茅",
+      "chromas": false
+    },
+    {
+      "id": "78036",
+      "name": "咖啡甜心 波比 蓝莓朱古力",
+      "chromas": false
+    },
+    {
+      "id": "78037",
+      "name": "咖啡甜心 波比 酒醉樱桃",
+      "chromas": false
+    },
+    {
+      "id": "78038",
+      "name": "咖啡甜心 波比 提子班戟",
+      "chromas": false
+    },
+    {
+      "id": "78039",
+      "name": "咖啡甜心 波比 吉子芝士",
+      "chromas": false
+    },
+    {
+      "id": "78040",
+      "name": "咖啡甜心 波比 焦糖布丁",
+      "chromas": false
+    },
+    {
+      "id": "78041",
+      "name": "咖啡甜心 波比 冰花蛋球",
+      "chromas": false
+    },
+    {
+      "id": "78042",
+      "name": "龙马烈焰 波比",
+      "chromas": true
+    },
+    {
+      "id": "78043",
+      "name": "龙马烈焰 波比 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "78044",
+      "name": "龙马烈焰 波比 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "78045",
+      "name": "龙马烈焰 波比 紫气东来",
+      "chromas": false
+    },
+    {
+      "id": "78046",
+      "name": "龙马烈焰 波比 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "78047",
+      "name": "龙马烈焰 波比 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "78048",
+      "name": "龙马烈焰 波比 日进斗金",
+      "chromas": false
+    },
+    {
+      "id": "78049",
+      "name": "龙马烈焰 波比 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "78050",
+      "name": "龙马烈焰 波比 马到成功",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "钢铁大使",
+    "description": "波比扔出她的圆盾，圆盾会在命中目标后弹起。波比可以捡起圆盾来获得一个短暂的护盾效果。",
+    "image": "Poppy_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "圣锤猛击",
+      "description": "波比挥舞她的铁锤，造成伤害并创造一个区域，这个区域会减速敌人并在一段时间后爆炸。",
+      "tooltip": "波比猛砸地面，造成{{ basedamage }}外加{{ healthdamagepercent }}%最大生命值的物理伤害并使该地面变得不稳定。 不稳定区域会使敌人减速{{ slow_ }}%并在{{ delaybetweentwohits }}秒后喷发，再次造成{{ basedamage }}外加{{ healthdamagepercent }}%最大生命值的物理伤害。",
+      "cooldown": "8/7/6/5/4",
+      "cost": "35/40/45/50/55",
+      "costType": " {{ abilityresourcename }}",
+      "range": "430",
+      "maxrank": 5,
+      "image": "PoppyQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "坚定风采",
+      "description": "波比被动获得护甲和魔法抗性。这个加成会在她生命值较低时得到提升。波比可以主动施放此技能来获得移动速度加成并中断附近敌人的突进。如果中断了一次突进，那么该敌人还会被减速和缚地。",
+      "tooltip": "被动：波比获得{{ bonusarmor }}护甲和{{ bonusmr }}魔法抗性。在波比低于{{ passiveempoweredhealthpercent*100 }}%生命值时，这个加成会翻倍。主动：波比获得{{ haste }}%移动速度并投射出一个环绕自身的领域，持续{{ duration }}秒，该领域可中断敌人的冲刺。被领域中断的敌人们会受到持续{{ groundingduration }}秒的缚地和{{ slowamount*-100 }}%减速，以及{{ interruptdamage }}魔法伤害。",
+      "cooldown": "20/18/16/14/12",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "PoppyW.png",
+      "key": "W"
+    },
+    {
+      "name": "英勇冲锋",
+      "description": "波比冲向目标并把目标推后。如果目标被推到墙上，就会受到晕眩效果。",
+      "tooltip": "波比擒抱一名敌人，造成{{ tackledamage }}物理伤害并将该敌人带向前方。如果波比将目标擒抱到地形上，那么该敌人会被晕眩{{ stunduration }}秒并受到额外的{{ tackledamage }}物理伤害。",
+      "cooldown": "14/13/12/11/10",
+      "cost": "70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "475",
+      "maxrank": 5,
+      "image": "PoppyE.png",
+      "key": "E"
+    },
+    {
+      "name": "持卫的裁决",
+      "description": "波比引导一次能够把敌人击飞到远方的锤击。",
+      "tooltip": "开始施放：波比开始为她的战锤蓄力，至多{{ channelmaxduration }}秒，自身减速{{ selfslow }}%。释放：波比猛砸地面，生成一道冲击波，来对命中的第一个敌方英雄及其身边的敌人们造成{{ damage }}物理伤害，将他们朝着他们的水晶枢纽处击退，并使他们在飞行时处在不可被选取状态。冲击波距离和击退距离受益于蓄力时长。未蓄力的挥锤造成{{ halfdamage }}物理伤害和持续{{ knockupdurationsnap }}秒的击飞。",
+      "cooldown": "140/120/100",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "500",
+      "maxrank": 3,
+      "image": "PoppyR.png",
+      "key": "R"
+    }
+  ]
+}

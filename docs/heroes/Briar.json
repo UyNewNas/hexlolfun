@@ -1,0 +1,238 @@
+{
+  "id": "Briar",
+  "championId": "233",
+  "name": "狂厄蔷薇",
+  "title": "贝蕾亚",
+  "region": "诺克萨斯",
+  "blurb": "身为黑色玫瑰实验失败的产物，贝蕾亚不受控制的嗜血欲必须使用一种特殊的囚枷进行压制，进而让她保持清醒的头脑。经过多年的监禁，这具活体武器突破了拘束，闯到了外面的世界。如今的她不受任何人的掌控，只遵循自己对知识与鲜血的渴望。如果遇到合适的机会，她将细细品味放纵的感觉，只不过嗜血的狂意一旦释放就很难压制。",
+  "tags": [
+    "战士",
+    "刺客"
+  ],
+  "partype": "怒气",
+  "info": {
+    "attack": 9,
+    "defense": 5,
+    "magic": 3,
+    "difficulty": 3
+  },
+  "stats": {
+    "hp": 625,
+    "hpPerLevel": 95,
+    "mp": 0,
+    "mpPerLevel": 0,
+    "movespeed": 340,
+    "armor": 30,
+    "armorPerLevel": 4.5,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.644,
+    "attackspeedPerLevel": 2,
+    "hpregen": 0,
+    "hpregenPerLevel": 0,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "233001",
+      "name": "妖怪艺术家 贝蕾亚",
+      "chromas": true
+    },
+    {
+      "id": "233002",
+      "name": "妖怪艺术家 贝蕾亚 朱槿",
+      "chromas": false
+    },
+    {
+      "id": "233003",
+      "name": "妖怪艺术家 贝蕾亚 碧荷",
+      "chromas": false
+    },
+    {
+      "id": "233004",
+      "name": "妖怪艺术家 贝蕾亚 霞光",
+      "chromas": false
+    },
+    {
+      "id": "233005",
+      "name": "妖怪艺术家 贝蕾亚 紫萱",
+      "chromas": false
+    },
+    {
+      "id": "233006",
+      "name": "妖怪艺术家 贝蕾亚 青矾",
+      "chromas": false
+    },
+    {
+      "id": "233007",
+      "name": "妖怪艺术家 贝蕾亚 群青",
+      "chromas": false
+    },
+    {
+      "id": "233008",
+      "name": "妖怪艺术家 贝蕾亚 青黛",
+      "chromas": false
+    },
+    {
+      "id": "233009",
+      "name": "妖怪艺术家 贝蕾亚 月白",
+      "chromas": false
+    },
+    {
+      "id": "233010",
+      "name": "幻灵海魔人 贝蕾亚",
+      "chromas": true
+    },
+    {
+      "id": "233011",
+      "name": "幻灵海魔人 贝蕾亚 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "233012",
+      "name": "幻灵海魔人 贝蕾亚 灿烂轰击",
+      "chromas": false
+    },
+    {
+      "id": "233013",
+      "name": "幻灵海魔人 贝蕾亚 两栖突击",
+      "chromas": false
+    },
+    {
+      "id": "233014",
+      "name": "幻灵海魔人 贝蕾亚 活力奔袭",
+      "chromas": false
+    },
+    {
+      "id": "233015",
+      "name": "幻灵海魔人 贝蕾亚 优雅气度",
+      "chromas": false
+    },
+    {
+      "id": "233016",
+      "name": "幻灵海魔人 贝蕾亚 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "233017",
+      "name": "幻灵海魔人 贝蕾亚 钢铁守备",
+      "chromas": false
+    },
+    {
+      "id": "233018",
+      "name": "幻灵海魔人 贝蕾亚 魅影闪击",
+      "chromas": false
+    },
+    {
+      "id": "233019",
+      "name": "幻灵海魔人 贝蕾亚 深渊潜袭",
+      "chromas": false
+    },
+    {
+      "id": "233020",
+      "name": "战斗学院 贝蕾亚",
+      "chromas": true
+    },
+    {
+      "id": "233021",
+      "name": "战斗学院 贝蕾亚 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "233022",
+      "name": "战斗学院 贝蕾亚 雄狮",
+      "chromas": false
+    },
+    {
+      "id": "233023",
+      "name": "战斗学院 贝蕾亚 森林龙",
+      "chromas": false
+    },
+    {
+      "id": "233024",
+      "name": "战斗学院 贝蕾亚 天马",
+      "chromas": false
+    },
+    {
+      "id": "233025",
+      "name": "战斗学院 贝蕾亚 九头蛇",
+      "chromas": false
+    },
+    {
+      "id": "233026",
+      "name": "战斗学院 贝蕾亚 独角兽",
+      "chromas": false
+    },
+    {
+      "id": "233027",
+      "name": "战斗学院 贝蕾亚 黑龙",
+      "chromas": false
+    },
+    {
+      "id": "233028",
+      "name": "战斗学院 贝蕾亚 狮鹫",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "猩红诅咒",
+    "description": "贝蕾亚的攻击与技能会造成可叠加的流血效果，同时基于这个效果的伤害治疗自身。她永远处于饥饿状态，会根据自己的已损失生命值获得更高的治疗，但缺乏自带的生命回复。",
+    "image": "BriarP.png"
+  },
+  "spells": [
+    {
+      "name": "冲头",
+      "description": "贝蕾亚跃向一个单位并用她的（痛苦之）脚镣命中敌人们，将他们晕眩并削减他们的护甲。",
+      "tooltip": "贝蕾亚跃向一个单位，将其晕眩{{ stunduration }}秒，造成{{ totaldamage }}物理伤害和持续{{ shredduration }}秒的{{ shredpercent*100 }}%护甲削减与魔抗削减。如果贝蕾亚在血莽期间对一个小兵或野怪施放这个技能，那么她会停止将英雄作为优先目标。",
+      "cooldown": "13/12/11/10/9",
+      "cost": "0",
+      "costType": "%当前生命值",
+      "range": "475",
+      "maxrank": 5,
+      "image": "BriarQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "血莽 / 噬击",
+      "description": "贝蕾亚向前跳跃并击碎她的囚枷，进入一种【血莽】状态来使她无休止地追击相距最近的那个敌人（优先以英雄为目标）。在【血莽】状态下，她的攻击速度和移动速度获得提升，并且她的攻击会在她目标四周的一个区域内造成伤害。贝蕾亚可以在【血莽】状态下再次激活这个技能，来让她的下一次攻击噬咬她的目标，造成基于目标已损失生命值的额外伤害，并且基于她造成的伤害来为她提供治疗效果。",
+      "tooltip": "贝蕾亚跳跃并进入一种血莽状态，自我嘲讽至相距最近的那个敌人，持续{{ berserkduration }}秒，优先以英雄为目标。在血莽状态下，她获得{{ berserkas*100 }}%攻击速度和{{ berserkms*100 }}%移动速度，并且她的攻击会对目标四周的敌人们造成{{ totalaoedamage }}物理伤害。贝蕾亚可以再次施放这个技能来强化她的下一次攻击。这次攻击造成{{ totalattackbonusdamage }} + {{ totalattackpercentmissinghealth }}%已损失生命值的物理伤害并为贝蕾亚提供{{ attackmaxhpheal }}+{{ attackhealpercent*100 }}%已造成伤害值的治疗效果。",
+      "cooldown": "14/13/12/11/10",
+      "cost": "0",
+      "costType": "%当前生命值",
+      "range": "350",
+      "maxrank": 5,
+      "image": "BriarW.png",
+      "key": "W"
+    },
+    {
+      "name": "惊吼",
+      "description": "贝蕾亚重新集中她的意志，移除【血莽】并将能量引导为一次强力吼叫，对敌人造成伤害和减速。在蓄力时，她获得伤害减免并回复一部分最大生命值。一次完全蓄力的吼叫会将敌人们击退，对那些与墙体碰撞的敌人造成额外伤害和晕眩。",
+      "tooltip": "开始蓄力：贝蕾亚移除血莽并聚集能量，获得{{ drpercent }}%伤害减免并在1秒里持续获得共{{ percentmaxhpheal }}治疗效果。释放：贝蕾亚释放一次吼叫，基于蓄力时间造成至多{{ damage }}魔法伤害，以及持续{{ slowduration }}秒的{{ slowpercent*100 }}%减速。在完全蓄力后，吼叫会击退敌人们，对那些与墙体碰撞的敌人造成{{ wallhitdamage }}魔法伤害和{{ wallstunduration }}秒晕眩。",
+      "cooldown": "16",
+      "cost": "0",
+      "costType": "%当前生命值",
+      "range": "400",
+      "maxrank": 5,
+      "image": "BriarE.png",
+      "key": "E"
+    },
+    {
+      "name": "毙除",
+      "description": "贝蕾亚踢出她的囚枷中的血石，让被它命中的第一个英雄成为她的猎物。她随后会径直走向该目标，在抵达目标处时恐惧周围的其它敌人们，并进入一个彻底血狂的状态。她将追击她的猎物直至阵亡才罢休，获得【血莽】的助益以及额外的护甲、魔抗、生命偷取和移动速度。",
+      "tooltip": "贝蕾亚踢出她的囚枷中的血石并飞到被它命中的第一个英雄的位置，将这个英雄标记为她的猎物。在着陆时，她对附近的一切造成{{ damage }}魔法伤害并使那些并非她猎物的敌人们逃跑{{ fearduration }}秒。她随后会进入一个强化版血莽状态并将追击她的猎物直至阵亡才罢休。在此期间，她获得{{ totalresists }}护甲 和魔法抗性、{{ lifestealpercent*100 }}%生命偷取和额外的{{ extramovespeedpercent*100 }}%移动速度。",
+      "cooldown": "120/100/80",
+      "cost": "0",
+      "costType": "%当前生命值",
+      "range": "12000",
+      "maxrank": 3,
+      "image": "BriarR.png",
+      "key": "R"
+    }
+  ]
+}

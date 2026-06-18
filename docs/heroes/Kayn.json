@@ -1,0 +1,248 @@
+{
+  "id": "Kayn",
+  "championId": "141",
+  "name": "影流之镰",
+  "title": "凯隐",
+  "region": "艾欧尼亚",
+  "blurb": "悉达·凯隐是修行暗影魔法的天纵之才，他战斗的意义，是为了实现自己真正的命运——为了有朝一日能够率领影流教派，开创艾欧尼亚霸业的新世代。他挥舞着活体暗裔武器拉亚斯特，毫不在意它对自己身体与思想的腐化侵蚀。这样做只会有两种结局：要么，凯隐让这把武器屈服于自己的意志；要么，这把恶毒的刀刃将他彻底吞噬，为符文之地的毁灭奏响序曲。",
+  "tags": [
+    "战士",
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 10,
+    "defense": 6,
+    "magic": 1,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 655,
+    "hpPerLevel": 103,
+    "mp": 410,
+    "mpPerLevel": 50,
+    "movespeed": 340,
+    "armor": 38,
+    "armorPerLevel": 4.5,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 68,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.669,
+    "attackspeedPerLevel": 2.7,
+    "hpregen": 8,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 11.5,
+    "mpregenPerLevel": 0.95,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "141001",
+      "name": "摄魂猎手 凯隐",
+      "chromas": false
+    },
+    {
+      "id": "141002",
+      "name": "奥德赛 凯隐",
+      "chromas": true
+    },
+    {
+      "id": "141003",
+      "name": "奥德赛 凯隐 银河征服者",
+      "chromas": false
+    },
+    {
+      "id": "141004",
+      "name": "奥德赛 凯隐 星云环游者",
+      "chromas": false
+    },
+    {
+      "id": "141005",
+      "name": "奥德赛 凯隐 虫洞穿行者",
+      "chromas": false
+    },
+    {
+      "id": "141006",
+      "name": "奥德赛 凯隐 宇宙探索者",
+      "chromas": false
+    },
+    {
+      "id": "141007",
+      "name": "奥德赛 凯隐 星辉收割者",
+      "chromas": false
+    },
+    {
+      "id": "141008",
+      "name": "黑夜使者 凯隐",
+      "chromas": true
+    },
+    {
+      "id": "141009",
+      "name": "至臻 黑夜使者 凯隐",
+      "chromas": false
+    },
+    {
+      "id": "141010",
+      "name": "黑夜使者 凯隐 血夜",
+      "chromas": false
+    },
+    {
+      "id": "141011",
+      "name": "黑夜使者 凯隐 炎夜",
+      "chromas": false
+    },
+    {
+      "id": "141012",
+      "name": "黑夜使者 凯隐 幻夜",
+      "chromas": false
+    },
+    {
+      "id": "141013",
+      "name": "黑夜使者 凯隐 寒夜",
+      "chromas": false
+    },
+    {
+      "id": "141014",
+      "name": "黑夜使者 凯隐 陨夜",
+      "chromas": false
+    },
+    {
+      "id": "141015",
+      "name": "净雪之月 凯隐",
+      "chromas": true
+    },
+    {
+      "id": "141016",
+      "name": "净雪之月 凯隐 赤心",
+      "chromas": false
+    },
+    {
+      "id": "141017",
+      "name": "净雪之月 凯隐 化墨",
+      "chromas": false
+    },
+    {
+      "id": "141018",
+      "name": "净雪之月 凯隐 琼枝",
+      "chromas": false
+    },
+    {
+      "id": "141019",
+      "name": "净雪之月 凯隐 烟云",
+      "chromas": false
+    },
+    {
+      "id": "141020",
+      "name": "心之钢 凯隐",
+      "chromas": true
+    },
+    {
+      "id": "141021",
+      "name": "心之钢 凯隐 锐意曲风",
+      "chromas": false
+    },
+    {
+      "id": "141022",
+      "name": "心之钢 凯隐 天纵才华",
+      "chromas": false
+    },
+    {
+      "id": "141023",
+      "name": "心之钢 凯隐 本真风范",
+      "chromas": false
+    },
+    {
+      "id": "141024",
+      "name": "心之钢 凯隐 金声玉振",
+      "chromas": false
+    },
+    {
+      "id": "141025",
+      "name": "心之钢 凯隐 摇滚明星",
+      "chromas": false
+    },
+    {
+      "id": "141026",
+      "name": "战斗学院 凯隐",
+      "chromas": true
+    },
+    {
+      "id": "141027",
+      "name": "战斗学院 凯隐 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "141028",
+      "name": "战斗学院 凯隐 雄狮",
+      "chromas": false
+    },
+    {
+      "id": "141029",
+      "name": "战斗学院 凯隐 天马",
+      "chromas": false
+    },
+    {
+      "id": "141030",
+      "name": "战斗学院 凯隐 森林龙",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "暗裔魔镰",
+    "description": "凯隐使用的是一把上古神兵，并且一直都在与附在武器上的暗裔灵体拉亚斯特为了身体的控制权而战斗着。要么暗裔杀手将获胜，要么凯隐将统御拉亚斯特并变为影流刺客。暗裔杀手：治疗自身，数额相当于一部分对敌方英雄造成的技能伤害值。影流刺客：在与敌方英雄作战的最初几秒里，造成额外伤害。",
+    "image": "Kayn_Passive_Primary.png"
+  },
+  "spells": [
+    {
+      "name": "巨镰横扫",
+      "description": "凯隐向前冲刺并打击附近的敌人。冲刺和打击都会造成伤害。",
+      "tooltip": "凯隐冲刺然后旋转他的镰刀，对他途经的敌人们造成{{ totaldamage }}物理伤害，然后对附近的敌人们再次造成等额伤害。暗裔杀手：转而造成{{ darkinflatdamage }}外加{{ darkinpercentdamage }}最大生命值的物理伤害。",
+      "cooldown": "7/6.5/6/5.5/5",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "350",
+      "maxrank": 5,
+      "image": "KaynQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "利刃纵贯",
+      "description": "凯隐伤害并减速一条直线上的敌人。",
+      "tooltip": "凯隐向上挥出他的镰刀，造成{{ totaldamage }}物理伤害和在{{ e5 }}秒里持续衰减的{{ e3 }}%减速。影流刺客：凯隐可在使用这个技能时移动并提升这个技能的距离。暗裔杀手：还会击飞命中的敌人{{ e2 }}秒。",
+      "cooldown": "13/12/11/10/9",
+      "cost": "40/45/50/55/60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "700",
+      "maxrank": 5,
+      "image": "KaynW.png",
+      "key": "W"
+    },
+    {
+      "name": "掠影步",
+      "description": "凯隐可以穿越地形。",
+      "tooltip": "凯隐获得{{ e1 }}%移动速度，变为【幽灵】状态，并能在地形中移动，持续{{ e2 }}秒。当他第一次进入地形时，他会治疗自身{{ totalhealing }}生命值。被定身或是在地形外连续停留{{ e3 }}秒，就会提前结束这个技能。影流刺客：获得{{ e5 }}%移动速度，免疫减速并使冷却时间缩短至{{ assassincdreduction }}秒。",
+      "cooldown": "21/19/17/15/13",
+      "cost": "90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "KaynE.png",
+      "key": "E"
+    },
+    {
+      "name": "裂舍影",
+      "description": "凯隐隐藏在敌方身体内，在他破膛而出时造成巨量伤害。",
+      "tooltip": "被动：被凯隐造成过伤害的英雄们会被标记3.15秒。凯隐侵入一名被标记的敌方英雄，变为不可被选取状态。在{{ infestduration }}秒后或再次施放后，凯隐会破体而出，对该敌方英雄造成{{ damage }}物理伤害。影流刺客：提升这个技能的距离，凯隐离开时的移动距离，并在离开时刷新暗裔魔镰的冷却时间。暗裔杀手：转而造成{{ slayerdamage }}最大生命值的物理伤害并回复{{ healvalue }}生命值({{ slayerhealpercent*100 }}%伤害数额)。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "550",
+      "maxrank": 3,
+      "image": "KaynR.png",
+      "key": "R"
+    }
+  ]
+}

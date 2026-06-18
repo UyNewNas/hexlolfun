@@ -1,0 +1,317 @@
+{
+  "id": "Zoe",
+  "championId": "142",
+  "name": "暮光星灵",
+  "title": "佐伊",
+  "region": "巨神峰",
+  "blurb": "调皮捣蛋、异想天开而且变化莫测，佐伊就是这一切的现实化身。作为巨神族的宇宙信使，她的出现就是惊天巨变的先兆。她甚至无需任何行为，只是单纯地出现在某个地方，就足以扭曲周围的奥术数学法则，从而扰乱现实的物理定律。有的时候还会带来浩劫与灾难，虽然她本身并无半点恶意。或许这就是为什么她对待自己的职责总是那么地漫不经心，给了她充足的时间用来玩游戏、捉弄凡人，或者自娱自乐。与佐伊的邂逅可能会给人带来欢乐与激励，但她的现身往往没这么简单，甚至常常意味着极大的危险。",
+  "tags": [
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 1,
+    "defense": 7,
+    "magic": 8,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 630,
+    "hpPerLevel": 106,
+    "mp": 425,
+    "mpPerLevel": 25,
+    "movespeed": 340,
+    "armor": 21,
+    "armorPerLevel": 4.7,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 58,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 7.5,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.65,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "142001",
+      "name": "赛博潮流 佐伊",
+      "chromas": false
+    },
+    {
+      "id": "142002",
+      "name": "泳池派对 佐伊",
+      "chromas": true
+    },
+    {
+      "id": "142003",
+      "name": "泳池派对 佐伊 派对精灵",
+      "chromas": false
+    },
+    {
+      "id": "142004",
+      "name": "泳池派对 佐伊 烂漫假期",
+      "chromas": false
+    },
+    {
+      "id": "142005",
+      "name": "泳池派对 佐伊 蔚蓝水晶",
+      "chromas": false
+    },
+    {
+      "id": "142006",
+      "name": "泳池派对 佐伊 萌动甜心",
+      "chromas": false
+    },
+    {
+      "id": "142007",
+      "name": "泳池派对 佐伊 缤纷萝莉",
+      "chromas": false
+    },
+    {
+      "id": "142008",
+      "name": "泳池派对 佐伊 纯白物语",
+      "chromas": false
+    },
+    {
+      "id": "142009",
+      "name": "星之守护者 佐伊",
+      "chromas": true
+    },
+    {
+      "id": "142010",
+      "name": "星之守护者 佐伊 凋零魔女",
+      "chromas": false
+    },
+    {
+      "id": "142011",
+      "name": "星之守护者 佐伊 幻梦魔女",
+      "chromas": false
+    },
+    {
+      "id": "142012",
+      "name": "星之守护者 佐伊 腐朽魔女",
+      "chromas": false
+    },
+    {
+      "id": "142013",
+      "name": "星之守护者 佐伊 枯萎魔女",
+      "chromas": false
+    },
+    {
+      "id": "142014",
+      "name": "星之守护者 佐伊 深寒魔女",
+      "chromas": false
+    },
+    {
+      "id": "142015",
+      "name": "星之守护者 佐伊 灼热魔女",
+      "chromas": false
+    },
+    {
+      "id": "142016",
+      "name": "星之守护者 佐伊 迷魂魔女",
+      "chromas": false
+    },
+    {
+      "id": "142017",
+      "name": "星之守护者 佐伊 原初魔女",
+      "chromas": false
+    },
+    {
+      "id": "142018",
+      "name": "奥术师 佐伊",
+      "chromas": false
+    },
+    {
+      "id": "142019",
+      "name": "至臻 奥术师 佐伊",
+      "chromas": false
+    },
+    {
+      "id": "142020",
+      "name": "EDG 佐伊",
+      "chromas": true
+    },
+    {
+      "id": "142021",
+      "name": "EDG 佐伊 破军",
+      "chromas": false
+    },
+    {
+      "id": "142022",
+      "name": "北极星守望者 佐伊",
+      "chromas": true
+    },
+    {
+      "id": "142023",
+      "name": "北极星守望者 佐伊 激昂脉冲",
+      "chromas": false
+    },
+    {
+      "id": "142024",
+      "name": "北极星守望者 佐伊 幸运漩涡",
+      "chromas": false
+    },
+    {
+      "id": "142025",
+      "name": "北极星守望者 佐伊 聪颖光弧",
+      "chromas": false
+    },
+    {
+      "id": "142026",
+      "name": "北极星守望者 佐伊 幸福光晕",
+      "chromas": false
+    },
+    {
+      "id": "142027",
+      "name": "北极星守望者 佐伊 祥和面纱",
+      "chromas": false
+    },
+    {
+      "id": "142028",
+      "name": "北极星守望者 佐伊 浪漫帘幕",
+      "chromas": false
+    },
+    {
+      "id": "142029",
+      "name": "北极星守望者 佐伊 智慧纽带",
+      "chromas": false
+    },
+    {
+      "id": "142030",
+      "name": "北极星守望者 佐伊 七彩光斑",
+      "chromas": false
+    },
+    {
+      "id": "142031",
+      "name": "北极星守望者 佐伊 花冠极光",
+      "chromas": false
+    },
+    {
+      "id": "142032",
+      "name": "巅峰星灵 佐伊 飞星破梦",
+      "chromas": false
+    },
+    {
+      "id": "142033",
+      "name": "暗星 佐伊",
+      "chromas": true
+    },
+    {
+      "id": "142034",
+      "name": "暗星 佐伊 战神星之爆",
+      "chromas": false
+    },
+    {
+      "id": "142035",
+      "name": "暗星 佐伊 爱神星之怨",
+      "chromas": false
+    },
+    {
+      "id": "142036",
+      "name": "暗星 佐伊 智神星之嫉",
+      "chromas": false
+    },
+    {
+      "id": "142037",
+      "name": "暗星 佐伊 美神星之灭",
+      "chromas": false
+    },
+    {
+      "id": "142038",
+      "name": "暗星 佐伊 天神星之陨",
+      "chromas": false
+    },
+    {
+      "id": "142039",
+      "name": "暗星 佐伊 主神星之黯",
+      "chromas": false
+    },
+    {
+      "id": "142040",
+      "name": "暗星 佐伊 夜神星之休",
+      "chromas": false
+    },
+    {
+      "id": "142041",
+      "name": "暗星 佐伊 猎神星之败",
+      "chromas": false
+    },
+    {
+      "id": "142042",
+      "name": "暗星 佐伊 类星体",
+      "chromas": false
+    },
+    {
+      "id": "142043",
+      "name": "至臻 永恒星灵 佐伊",
+      "chromas": true
+    },
+    {
+      "id": "142044",
+      "name": "至臻 永恒星灵 佐伊 全开",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "烟火四射！",
+    "description": "佐伊在施放一次技能后的下次普攻会造成额外魔法伤害。",
+    "image": "Zoe_P.png"
+  },
+  "spells": [
+    {
+      "name": "飞星乱入！",
+      "description": "佐伊发射一个可在飞行途中由她重新导向的飞弹。飞弹在直线上飞行的路程越远，造成的伤害就会越高。",
+      "tooltip": "佐伊发射一颗飞星，基于它的飞行距离来对命中的第一个敌人造成不断提升的伤害 -- {{ totaldamagetooltip }}到{{ maxdamagetooltip }}魔法伤害。佐伊可以再次施放这个技能来将这个飞弹重新导向到佐伊附近的一个新位置。",
+      "cooldown": "8.5/8/7.5/7/6.5",
+      "cost": "40/45/50/55/60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "ZoeQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "窃法巧手",
+      "description": "佐伊可以拾取敌方在施放召唤师技能和主动型装备时产生的法术碎片，从而让她自己能够施放一次性的相应技能或效果。在她施放一次召唤师技能的同时，她会获得3颗飞弹来射向距她最近的目标。",
+      "tooltip": "被动：敌人在使用【召唤师技能】或【主动型装备】时会掉落一个技能碎片。特定小兵也会在被佐伊或一名附近的友方英雄击杀后掉落一个技能碎片。佐伊可以拾取这些碎片来使用一次相应技能。被动：当佐伊施放这个技能或任一召唤师技能时，她会获得{{ movementspeed*100 }}%移动速度，持续{{ msduration }}秒，并对她近期刚攻击过的目标投出3个飞弹。每颗飞弹造成{{ missiledamagetooltip }}魔法伤害。主动：施放一次来自佐伊已拾取的技能碎片的技能。",
+      "cooldown": "0.25",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "3000/4500/6000/3000/3000",
+      "maxrank": 5,
+      "image": "ZoeW.png",
+      "key": "W"
+    },
+    {
+      "name": "催眠气泡",
+      "description": "困倦使目标进入困倦状态，然后陷入昏睡。在昏睡状态下，目标的魔抗会被降低。打醒目标的第一个伤害来源会造成双倍伤害，但有封顶值。",
+      "tooltip": "佐伊踢出一个气泡，可造成{{ totaldamagetooltip }}魔法伤害，并会在未命中任何单位时如陷阱一般停留。在飞越墙体后，气泡的距离会得到延长。如果气泡或陷阱命中了一个敌方英雄，那么她会刷新此技能{{ cooldownrefresh*100 }}%冷却时间。在一段延迟后，被气泡命中的目标会陷入昏睡状态并降低{{ percentpen*100 }}%魔法抗性，持续2秒。攻击和技能在命中目标时都会将其惊醒并造成双倍伤害，最多造成{{ breakdamagetooltip }}真实伤害。",
+      "cooldown": "18/17/16/15/14",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "ZoeE.png",
+      "key": "E"
+    },
+    {
+      "name": "折返跃迁",
+      "description": "闪烁到附近的一个位置1秒。然后闪烁回去。",
+      "tooltip": "佐伊传送到附近的一个位置1秒。然后，佐伊会传送回原来的位置。在此期间，佐伊可以攻击和使用技能，但无法移动。",
+      "cooldown": "11/8/5",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "575",
+      "maxrank": 3,
+      "image": "ZoeR.png",
+      "key": "R"
+    }
+  ]
+}

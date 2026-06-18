@@ -1,0 +1,273 @@
+{
+  "id": "Elise",
+  "championId": "60",
+  "name": "蜘蛛女皇",
+  "title": "伊莉丝",
+  "region": "暗影岛",
+  "blurb": "诺克萨斯帝国最古老城市的地下深处，有一处不见天日的禁地，这是夺命的掠食者伊莉丝的宫殿。当她还是一个凡人的时候，她是曾经显赫一时的家族女主人，但是自从被一个卑鄙的半神咬伤之后，她就化身成了美丽的不死异类，一个形似蜘蛛的生物，用蛛网诱捕毫无防备的猎物。为了永葆青春，伊莉丝现在喜欢捕食那些无戒心、无信仰的人，而这世上也鲜少有人能够抗拒她的诱惑。",
+  "tags": [
+    "刺客",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 6,
+    "defense": 5,
+    "magic": 7,
+    "difficulty": 9
+  },
+  "stats": {
+    "hp": 620,
+    "hpPerLevel": 109,
+    "mp": 324,
+    "mpPerLevel": 50,
+    "movespeed": 330,
+    "armor": 30,
+    "armorPerLevel": 4.5,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 55,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 1.75,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 6,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "60001",
+      "name": "死亡绽放 伊莉丝",
+      "chromas": false
+    },
+    {
+      "id": "60002",
+      "name": "胜利女神 伊莉丝",
+      "chromas": false
+    },
+    {
+      "id": "60003",
+      "name": "腥红之月 伊莉丝",
+      "chromas": false
+    },
+    {
+      "id": "60004",
+      "name": "SKT T1 伊莉丝",
+      "chromas": false
+    },
+    {
+      "id": "60005",
+      "name": "银河魔装机神 伊莉丝",
+      "chromas": false
+    },
+    {
+      "id": "60006",
+      "name": "魅惑女巫 伊莉丝",
+      "chromas": true
+    },
+    {
+      "id": "60007",
+      "name": "魅惑女巫 伊莉丝 明艳化身",
+      "chromas": false
+    },
+    {
+      "id": "60008",
+      "name": "魅惑女巫 伊莉丝 热情化身",
+      "chromas": false
+    },
+    {
+      "id": "60009",
+      "name": "魅惑女巫 伊莉丝 知性化身",
+      "chromas": false
+    },
+    {
+      "id": "60010",
+      "name": "魅惑女巫 伊莉丝 高雅化身",
+      "chromas": false
+    },
+    {
+      "id": "60011",
+      "name": "魅惑女巫 伊莉丝 浪漫化身",
+      "chromas": false
+    },
+    {
+      "id": "60012",
+      "name": "魅惑女巫 伊莉丝 纯真化身",
+      "chromas": false
+    },
+    {
+      "id": "60013",
+      "name": "魅惑女巫 伊莉丝 野性化身",
+      "chromas": false
+    },
+    {
+      "id": "60014",
+      "name": "魅惑女巫 伊莉丝 雍容化身",
+      "chromas": false
+    },
+    {
+      "id": "60015",
+      "name": "幽梦玫瑰 伊莉丝",
+      "chromas": true
+    },
+    {
+      "id": "60016",
+      "name": "幽梦玫瑰 伊莉丝 热烈花蕾",
+      "chromas": false
+    },
+    {
+      "id": "60017",
+      "name": "幽梦玫瑰 伊莉丝 倾心花蕾",
+      "chromas": false
+    },
+    {
+      "id": "60018",
+      "name": "幽梦玫瑰 伊莉丝 痴心花蕾",
+      "chromas": false
+    },
+    {
+      "id": "60019",
+      "name": "幽梦玫瑰 伊莉丝 真挚花蕾",
+      "chromas": false
+    },
+    {
+      "id": "60020",
+      "name": "幽梦玫瑰 伊莉丝 憧憬花蕾",
+      "chromas": false
+    },
+    {
+      "id": "60021",
+      "name": "幽梦玫瑰 伊莉丝 浪漫花蕾",
+      "chromas": false
+    },
+    {
+      "id": "60022",
+      "name": "幽梦玫瑰 伊莉丝 纯洁花蕾",
+      "chromas": false
+    },
+    {
+      "id": "60023",
+      "name": "幽梦玫瑰 伊莉丝 甜蜜花蕾",
+      "chromas": false
+    },
+    {
+      "id": "60024",
+      "name": "魔女 伊莉丝",
+      "chromas": true
+    },
+    {
+      "id": "60025",
+      "name": "魔女 伊莉丝 愤怒",
+      "chromas": false
+    },
+    {
+      "id": "60026",
+      "name": "魔女 伊莉丝 虚伪",
+      "chromas": false
+    },
+    {
+      "id": "60027",
+      "name": "魔女 伊莉丝 诡诈",
+      "chromas": false
+    },
+    {
+      "id": "60028",
+      "name": "魔女 伊莉丝 欲望",
+      "chromas": false
+    },
+    {
+      "id": "60029",
+      "name": "魔女 伊莉丝 虚荣",
+      "chromas": false
+    },
+    {
+      "id": "60030",
+      "name": "魔女 伊莉丝 贪婪",
+      "chromas": false
+    },
+    {
+      "id": "60031",
+      "name": "魔女 伊莉丝 饕餮",
+      "chromas": false
+    },
+    {
+      "id": "60032",
+      "name": "魔女 伊莉丝 倦怠",
+      "chromas": false
+    },
+    {
+      "id": "60033",
+      "name": "魔女 伊莉丝 不畏",
+      "chromas": false
+    },
+    {
+      "id": "60034",
+      "name": "黑色玫瑰假面舞会 伊莉丝",
+      "chromas": false
+    },
+    {
+      "id": "60035",
+      "name": "幽梦玫瑰 伊莉丝 至强",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "蜘蛛女皇",
+    "description": "人类形态：每当伊莉丝的技能命中一名敌人时，就会有一只小蜘蛛准备就绪。蜘蛛形态：普攻造成额外魔法伤害并回复自身生命值。",
+    "image": "ElisePassive.png"
+  },
+  "spells": [
+    {
+      "name": "神经毒素 / 剧毒之蜇",
+      "description": "人类形态：根据目标的当前生命值来造成伤害。蜘蛛形态：戳刺目标，并根据目标已损失的生命值来造成伤害。",
+      "tooltip": "人类形态：伊莉丝注入神经毒素，造成{{ basedamage }}外加 {{ humanpercenthealth }}当前生命值的魔法伤害。",
+      "cooldown": "6",
+      "cost": "80/85/90/95/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "615",
+      "maxrank": 5,
+      "image": "EliseHumanQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "自爆蜘蛛 / 掠行狂暴",
+      "description": "人类形态：召唤一个注满毒液的小蜘蛛，并在靠近目标时爆炸。蜘蛛形态：伊莉丝和她的小蜘蛛们获得攻击速度加成。",
+      "tooltip": "人类形态：伊莉丝召唤一个爆炸蜘蛛朝着一个位置移动，并在它接近一名敌人或3秒后爆炸。这个蜘蛛造成{{ spell.elisehumanw:totaldamage }}魔法伤害。",
+      "cooldown": "12",
+      "cost": "60/70/80/90/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "950",
+      "maxrank": 5,
+      "image": "EliseHumanW.png",
+      "key": "W"
+    },
+    {
+      "name": "结茧 / 盘丝",
+      "description": "人类形态：将命中的第一个敌人晕眩，如敌方未处于潜行状态则将其暴露在己方视野中。蜘蛛形态：伊莉丝和她的小蜘蛛们拉升至半空中，随后降落到目标敌人身上。在降落到目标敌方处时，伊莉丝的来自蜘蛛形态的额外伤害和治疗效果都会提升。",
+      "tooltip": "人类形态：伊莉丝发射一颗蜘蛛茧，晕眩并使命中的第一个敌人显形{{ totalstunduration }}秒。",
+      "cooldown": "12/11.5/11/10.5/10",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1075",
+      "maxrank": 5,
+      "image": "EliseHumanE.png",
+      "key": "E"
+    },
+    {
+      "name": "蜘蛛形态",
+      "description": "变成一只凶恶的蜘蛛，减少攻击距离，但获得移动速度加成、一套全新技能并且会有一群小蜘蛛来攻击她的敌人。",
+      "tooltip": "人类形态：伊莉丝变形为一只令人生畏的蜘蛛，变成近战，获得一套蜘蛛形态技能的使用权并且还可以召唤出所有休眠中的小蜘蛛。",
+      "cooldown": "3",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "20",
+      "maxrank": 4,
+      "image": "EliseR.png",
+      "key": "R"
+    }
+  ]
+}

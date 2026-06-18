@@ -1,0 +1,463 @@
+{
+  "id": "Vayne",
+  "championId": "67",
+  "name": "暗夜猎手",
+  "title": "薇恩",
+  "region": "德玛西亚",
+  "blurb": "来自德玛西亚的肖娜·薇恩是一位无情的怪物猎手，终其一生，都在寻找杀害她全家的恶魔。她的手臂上装着十字弩，心中燃烧着熊熊的复仇怒火，总是从暗影中射出圣银弩箭的风暴。只有在杀死那些为黑暗魔法所控制的人和生物时，薇恩才能感受到真正的愉悦。",
+  "tags": [
+    "射手",
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 10,
+    "defense": 1,
+    "magic": 1,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 550,
+    "hpPerLevel": 103,
+    "mp": 232,
+    "mpPerLevel": 35,
+    "movespeed": 330,
+    "armor": 23,
+    "armorPerLevel": 4.6,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 3.3,
+    "hpregen": 3.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 7,
+    "mpregenPerLevel": 0.4,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "67001",
+      "name": "摩登骇客 薇恩",
+      "chromas": false
+    },
+    {
+      "id": "67002",
+      "name": "猎天使魔女 薇恩",
+      "chromas": false
+    },
+    {
+      "id": "67003",
+      "name": "屠龙勇士 薇恩",
+      "chromas": true
+    },
+    {
+      "id": "67004",
+      "name": "觅心猎手 薇恩",
+      "chromas": false
+    },
+    {
+      "id": "67005",
+      "name": "SKT T1 薇恩",
+      "chromas": false
+    },
+    {
+      "id": "67006",
+      "name": "苍穹之光 薇恩",
+      "chromas": false
+    },
+    {
+      "id": "67007",
+      "name": "屠龙勇士 薇恩 毒龙之息",
+      "chromas": false
+    },
+    {
+      "id": "67008",
+      "name": "屠龙勇士 薇恩 炎龙之息",
+      "chromas": false
+    },
+    {
+      "id": "67009",
+      "name": "屠龙勇士 薇恩 冰龙之息",
+      "chromas": false
+    },
+    {
+      "id": "67010",
+      "name": "摄魂使者 薇恩",
+      "chromas": true
+    },
+    {
+      "id": "67011",
+      "name": "源计划：净化 薇恩",
+      "chromas": false
+    },
+    {
+      "id": "67012",
+      "name": "烈焰美人 薇恩",
+      "chromas": true
+    },
+    {
+      "id": "67013",
+      "name": "至臻 烈焰美人 薇恩",
+      "chromas": false
+    },
+    {
+      "id": "67014",
+      "name": "灵魂莲华 薇恩",
+      "chromas": true
+    },
+    {
+      "id": "67015",
+      "name": "FPX 薇恩",
+      "chromas": true
+    },
+    {
+      "id": "67016",
+      "name": "FPX 薇恩 涅槃",
+      "chromas": false
+    },
+    {
+      "id": "67017",
+      "name": "灵魂莲华 薇恩 流火",
+      "chromas": false
+    },
+    {
+      "id": "67018",
+      "name": "灵魂莲华 薇恩 鸣蜩",
+      "chromas": false
+    },
+    {
+      "id": "67019",
+      "name": "灵魂莲华 薇恩 云开",
+      "chromas": false
+    },
+    {
+      "id": "67020",
+      "name": "灵魂莲华 薇恩 星回",
+      "chromas": false
+    },
+    {
+      "id": "67021",
+      "name": "灵魂莲华 薇恩 春晓",
+      "chromas": false
+    },
+    {
+      "id": "67022",
+      "name": "灵魂莲华 薇恩 月升",
+      "chromas": false
+    },
+    {
+      "id": "67023",
+      "name": "灵魂莲华 薇恩 朝花",
+      "chromas": false
+    },
+    {
+      "id": "67024",
+      "name": "灵魂莲华 薇恩 霜见",
+      "chromas": false
+    },
+    {
+      "id": "67025",
+      "name": "光明哨兵 薇恩",
+      "chromas": true
+    },
+    {
+      "id": "67026",
+      "name": "光明哨兵 薇恩 帝国抗击者",
+      "chromas": false
+    },
+    {
+      "id": "67027",
+      "name": "光明哨兵 薇恩 森林抗击者",
+      "chromas": false
+    },
+    {
+      "id": "67028",
+      "name": "光明哨兵 薇恩 灵岛抗击者",
+      "chromas": false
+    },
+    {
+      "id": "67029",
+      "name": "光明哨兵 薇恩 都市抗击者",
+      "chromas": false
+    },
+    {
+      "id": "67030",
+      "name": "光明哨兵 薇恩 海港抗击者",
+      "chromas": false
+    },
+    {
+      "id": "67031",
+      "name": "光明哨兵 薇恩 坚定抗击者",
+      "chromas": false
+    },
+    {
+      "id": "67032",
+      "name": "幻灵战斗蝠 薇恩",
+      "chromas": true
+    },
+    {
+      "id": "67033",
+      "name": "至臻 烈焰美人 薇恩 (2022)",
+      "chromas": false
+    },
+    {
+      "id": "67034",
+      "name": "烈焰美人 薇恩 玉虎呈祥",
+      "chromas": false
+    },
+    {
+      "id": "67035",
+      "name": "幻灵战斗蝠 薇恩 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "67036",
+      "name": "幻灵战斗蝠 薇恩 炫目突击",
+      "chromas": false
+    },
+    {
+      "id": "67037",
+      "name": "幻灵战斗蝠 薇恩 坚韧阻击",
+      "chromas": false
+    },
+    {
+      "id": "67038",
+      "name": "幻灵战斗蝠 薇恩 连绵奔袭",
+      "chromas": false
+    },
+    {
+      "id": "67039",
+      "name": "幻灵战斗蝠 薇恩 冷酷侧袭",
+      "chromas": false
+    },
+    {
+      "id": "67040",
+      "name": "幻灵战斗蝠 薇恩 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "67041",
+      "name": "幻灵战斗蝠 薇恩 沙蝎伏击",
+      "chromas": false
+    },
+    {
+      "id": "67042",
+      "name": "幻灵战斗蝠 薇恩 钢铁守备",
+      "chromas": false
+    },
+    {
+      "id": "67043",
+      "name": "幻灵战斗蝠 薇恩 隐秘夜影",
+      "chromas": false
+    },
+    {
+      "id": "67044",
+      "name": "黎明使者 薇恩",
+      "chromas": true
+    },
+    {
+      "id": "67045",
+      "name": "黎明使者 薇恩 阳辉",
+      "chromas": false
+    },
+    {
+      "id": "67046",
+      "name": "黎明使者 薇恩 圣辉",
+      "chromas": false
+    },
+    {
+      "id": "67047",
+      "name": "黎明使者 薇恩 霞辉",
+      "chromas": false
+    },
+    {
+      "id": "67048",
+      "name": "黎明使者 薇恩 碧辉",
+      "chromas": false
+    },
+    {
+      "id": "67049",
+      "name": "黎明使者 薇恩 宁辉",
+      "chromas": false
+    },
+    {
+      "id": "67050",
+      "name": "黎明使者 薇恩 曙辉",
+      "chromas": false
+    },
+    {
+      "id": "67051",
+      "name": "黎明使者 薇恩 苍辉",
+      "chromas": false
+    },
+    {
+      "id": "67052",
+      "name": "黎明使者 薇恩 虹辉",
+      "chromas": false
+    },
+    {
+      "id": "67053",
+      "name": "无畏竞巅峰 薇恩",
+      "chromas": false
+    },
+    {
+      "id": "67054",
+      "name": "无畏圣弩 薇恩 绝境狂杀",
+      "chromas": false
+    },
+    {
+      "id": "67055",
+      "name": "神龙尊者 夜之龙 薇恩",
+      "chromas": true
+    },
+    {
+      "id": "67056",
+      "name": "神龙尊者 夜之龙 薇恩 登龙",
+      "chromas": false
+    },
+    {
+      "id": "67057",
+      "name": "神龙尊者 夜之龙 薇恩 玄黄",
+      "chromas": false
+    },
+    {
+      "id": "67058",
+      "name": "神龙尊者 夜之龙 薇恩 柏露",
+      "chromas": false
+    },
+    {
+      "id": "67059",
+      "name": "神龙尊者 夜之龙 薇恩 集仙",
+      "chromas": false
+    },
+    {
+      "id": "67060",
+      "name": "神龙尊者 夜之龙 薇恩 摘星",
+      "chromas": false
+    },
+    {
+      "id": "67061",
+      "name": "神龙尊者 夜之龙 薇恩 碧漪",
+      "chromas": false
+    },
+    {
+      "id": "67062",
+      "name": "神龙尊者 夜之龙 薇恩 松峦",
+      "chromas": false
+    },
+    {
+      "id": "67063",
+      "name": "神龙尊者 夜之龙 薇恩 朝云",
+      "chromas": false
+    },
+    {
+      "id": "67064",
+      "name": "殿堂传奇 薇恩",
+      "chromas": true
+    },
+    {
+      "id": "67065",
+      "name": "殿堂传奇 薇恩 至强",
+      "chromas": false
+    },
+    {
+      "id": "67066",
+      "name": "殿堂传奇 薇恩 登神",
+      "chromas": false
+    },
+    {
+      "id": "67067",
+      "name": "恶魔诅咒 薇恩",
+      "chromas": true
+    },
+    {
+      "id": "67068",
+      "name": "恶魔诅咒 薇恩 暴怒附体",
+      "chromas": false
+    },
+    {
+      "id": "67069",
+      "name": "恶魔诅咒 薇恩 骄狂附体",
+      "chromas": false
+    },
+    {
+      "id": "67070",
+      "name": "恶魔诅咒 薇恩 绝望附体",
+      "chromas": false
+    },
+    {
+      "id": "67071",
+      "name": "恶魔诅咒 薇恩 诡诈附体",
+      "chromas": false
+    },
+    {
+      "id": "67072",
+      "name": "恶魔诅咒 薇恩 诱惑附体",
+      "chromas": false
+    },
+    {
+      "id": "67073",
+      "name": "恶魔诅咒 薇恩 毁灭附体",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "暗夜猎手",
+    "description": "薇恩毫不留情的猎杀世间邪恶，向附近敌方英雄移动时会获得移动速度。",
+    "image": "Vayne_NightHunter.png"
+  },
+  "spells": [
+    {
+      "name": "闪避突袭",
+      "description": "薇恩进行翻滚，并小心地填充她的下一发射击。她的下次攻击造成额外伤害。",
+      "tooltip": "薇恩翻滚一小段距离，并且她的下次普通攻击造成额外的{{ adratiobonus }}物理伤害。这个技能会在造成伤害时触发技能特效。",
+      "cooldown": "6/5/4/3/2",
+      "cost": "30",
+      "costType": " {{ abilityresourcename }}",
+      "range": "300",
+      "maxrank": 5,
+      "image": "VayneTumble.png",
+      "key": "Q"
+    },
+    {
+      "name": "圣银弩箭",
+      "description": "薇恩用稀有金属制作弩箭，让邪恶敌人中毒。对同一目标的第3次攻击或技能施放会对其造成额外真实伤害，数值相当于目标最大生命值的一定百分比。",
+      "tooltip": "被动：对一名敌人的每第三次连续的攻击或技能造成额外的{{ totaldamage }}最大生命值的真实伤害。",
+      "cooldown": "0",
+      "cost": "0",
+      "costType": "被动",
+      "range": "750",
+      "maxrank": 5,
+      "image": "VayneSilveredBolts.png",
+      "key": "W"
+    },
+    {
+      "name": "恶魔审判",
+      "description": "薇恩从背部展开一张重弩，并且朝她的目标发射一根巨型弩箭，将目标击退并造成伤害。如果目标与地形产生碰撞，那么目标会被贯穿，对其造成额外伤害和晕眩效果。",
+      "tooltip": "薇恩发射一根弩箭来击退一个目标并造成{{ totaldamage }}物理伤害。如果目标与地形产生碰撞，那么会受到{{ empowereddamagett }}额外物理伤害，并且会被晕眩{{ stunduration }}秒。",
+      "cooldown": "20/18/16/14/12",
+      "cost": "90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "550",
+      "maxrank": 5,
+      "image": "VayneCondemn.png",
+      "key": "E"
+    },
+    {
+      "name": "终极时刻",
+      "description": "薇恩准备进行史诗般的对决，她的攻击力得到提高，能在闪避突袭期间进入隐形状态，闪避突袭的冷却时间缩短，并且暗夜猎手（被动）提供更多移动速度。",
+      "tooltip": "薇恩获得{{ bonusattackdamage }}攻击力，持续{{ baseduration }}秒，并且如果一个被薇恩所伤害的敌方英雄在{{ damagedmarkerduration }}秒内死亡，那么持续时间会延长{{ durationtoadd }}秒。此外，在这段持续时间里：暗夜猎手会转而提供{{ movementspeed }}移动速度。闪避突袭的冷却时间缩短{{ tumblecdreduction }}%，并提供持续{{ tumblestealthduration }}秒的隐形。",
+      "cooldown": "100/85/70",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1",
+      "maxrank": 3,
+      "image": "VayneInquisition.png",
+      "key": "R"
+    }
+  ]
+}

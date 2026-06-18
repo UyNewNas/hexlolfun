@@ -1,0 +1,483 @@
+{
+  "id": "Katarina",
+  "championId": "55",
+  "name": "不祥之刃",
+  "title": "卡特琳娜",
+  "region": "诺克萨斯",
+  "blurb": "果断坚决、心狠手辣，卡特琳娜是诺克萨斯的顶尖刺客。作为传奇将军杜·克卡奥的长女，她凭借出其不意的迅猛刺杀很快声名鹊起。强烈的野心曾经驱使她挑战重兵把守的暗杀目标，甚至不惜冒险让友军暴露在危险中。不过无论是怎样的任务，卡特琳娜都会毫不迟疑地在锯刃匕首的风暴中履行自己的使命。",
+  "tags": [
+    "刺客",
+    "法师"
+  ],
+  "partype": "无",
+  "info": {
+    "attack": 4,
+    "defense": 3,
+    "magic": 9,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 672,
+    "hpPerLevel": 108,
+    "mp": 0,
+    "mpPerLevel": 0,
+    "movespeed": 335,
+    "armor": 32,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 58,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 2.74,
+    "hpregen": 7.5,
+    "hpregenPerLevel": 0.7,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "55001",
+      "name": "赏金猎人 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55002",
+      "name": "红牌！退场！ 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55003",
+      "name": "海贼魅影 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55004",
+      "name": "暗夜猫女 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55005",
+      "name": "前线指挥官 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55006",
+      "name": "沙漠风暴 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55007",
+      "name": "夺命美人 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55008",
+      "name": "闭月之颜 貂蝉",
+      "chromas": true
+    },
+    {
+      "id": "55009",
+      "name": "源计划：雄心 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55010",
+      "name": "死亡誓约 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55011",
+      "name": "闭月之颜 貂蝉 炫金莲华",
+      "chromas": false
+    },
+    {
+      "id": "55012",
+      "name": "战斗学院 卡特琳娜",
+      "chromas": true
+    },
+    {
+      "id": "55013",
+      "name": "战斗学院 卡特琳娜 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "55014",
+      "name": "战斗学院 卡特琳娜 盛典礼服",
+      "chromas": false
+    },
+    {
+      "id": "55015",
+      "name": "战斗学院 卡特琳娜 天马",
+      "chromas": false
+    },
+    {
+      "id": "55016",
+      "name": "战斗学院 卡特琳娜 梦魇",
+      "chromas": false
+    },
+    {
+      "id": "55017",
+      "name": "战斗学院 卡特琳娜 黑龙",
+      "chromas": false
+    },
+    {
+      "id": "55018",
+      "name": "战斗学院 卡特琳娜 火蜥蜴",
+      "chromas": false
+    },
+    {
+      "id": "55019",
+      "name": "战斗学院 卡特琳娜 狮鹫",
+      "chromas": false
+    },
+    {
+      "id": "55020",
+      "name": "战斗学院 卡特琳娜 九头蛇",
+      "chromas": false
+    },
+    {
+      "id": "55021",
+      "name": "腥红之月 卡特琳娜",
+      "chromas": true
+    },
+    {
+      "id": "55022",
+      "name": "腥红之月 卡特琳娜 霞赤",
+      "chromas": false
+    },
+    {
+      "id": "55023",
+      "name": "腥红之月 卡特琳娜 苍澜",
+      "chromas": false
+    },
+    {
+      "id": "55024",
+      "name": "腥红之月 卡特琳娜 夜鸦",
+      "chromas": false
+    },
+    {
+      "id": "55025",
+      "name": "腥红之月 卡特琳娜 青木",
+      "chromas": false
+    },
+    {
+      "id": "55026",
+      "name": "腥红之月 卡特琳娜 落樱",
+      "chromas": false
+    },
+    {
+      "id": "55027",
+      "name": "腥红之月 卡特琳娜 鎏金",
+      "chromas": false
+    },
+    {
+      "id": "55028",
+      "name": "腥红之月 卡特琳娜 鹤雪",
+      "chromas": false
+    },
+    {
+      "id": "55029",
+      "name": "女帝 卡特琳娜",
+      "chromas": true
+    },
+    {
+      "id": "55030",
+      "name": "女帝 卡特琳娜 纹章之刻印·英勇",
+      "chromas": false
+    },
+    {
+      "id": "55031",
+      "name": "女帝 卡特琳娜 纹章之刻印·果决",
+      "chromas": false
+    },
+    {
+      "id": "55032",
+      "name": "女帝 卡特琳娜 纹章之刻印·无我",
+      "chromas": false
+    },
+    {
+      "id": "55033",
+      "name": "女帝 卡特琳娜 纹章之刻印·飒爽",
+      "chromas": false
+    },
+    {
+      "id": "55034",
+      "name": "女帝 卡特琳娜 纹章之刻印·敏锐",
+      "chromas": false
+    },
+    {
+      "id": "55035",
+      "name": "女帝 卡特琳娜 纹章之刻印·深谋",
+      "chromas": false
+    },
+    {
+      "id": "55036",
+      "name": "女帝 卡特琳娜 纹章·神圣加冕礼",
+      "chromas": false
+    },
+    {
+      "id": "55037",
+      "name": "西部魔影 执行人 卡特琳娜",
+      "chromas": true
+    },
+    {
+      "id": "55038",
+      "name": "西部魔影 执行人 卡特琳娜 温和",
+      "chromas": false
+    },
+    {
+      "id": "55039",
+      "name": "西部魔影 执行人 卡特琳娜 慷慨",
+      "chromas": false
+    },
+    {
+      "id": "55040",
+      "name": "西部魔影 执行人 卡特琳娜 善良",
+      "chromas": false
+    },
+    {
+      "id": "55041",
+      "name": "西部魔影 执行人 卡特琳娜 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "55042",
+      "name": "西部魔影 执行人 卡特琳娜 节制",
+      "chromas": false
+    },
+    {
+      "id": "55043",
+      "name": "西部魔影 执行人 卡特琳娜 诚实",
+      "chromas": false
+    },
+    {
+      "id": "55044",
+      "name": "西部魔影 执行人 卡特琳娜 纯洁",
+      "chromas": false
+    },
+    {
+      "id": "55045",
+      "name": "西部魔影 执行人 卡特琳娜 谦卑",
+      "chromas": false
+    },
+    {
+      "id": "55046",
+      "name": "西部魔影 执行人 卡特琳娜 虔信",
+      "chromas": false
+    },
+    {
+      "id": "55047",
+      "name": "花仙使者 卡特琳娜",
+      "chromas": true
+    },
+    {
+      "id": "55048",
+      "name": "至臻 花仙使者 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55049",
+      "name": "花仙使者 卡特琳娜 凤仙",
+      "chromas": false
+    },
+    {
+      "id": "55050",
+      "name": "花仙使者 卡特琳娜 玉带",
+      "chromas": false
+    },
+    {
+      "id": "55051",
+      "name": "花仙使者 卡特琳娜 霜降",
+      "chromas": false
+    },
+    {
+      "id": "55052",
+      "name": "花仙使者 卡特琳娜 榆绿",
+      "chromas": false
+    },
+    {
+      "id": "55053",
+      "name": "花仙使者 卡特琳娜 茜草",
+      "chromas": false
+    },
+    {
+      "id": "55054",
+      "name": "花仙使者 卡特琳娜 黑星",
+      "chromas": false
+    },
+    {
+      "id": "55055",
+      "name": "花仙使者 卡特琳娜 桃六点",
+      "chromas": false
+    },
+    {
+      "id": "55056",
+      "name": "花仙使者 卡特琳娜 构月",
+      "chromas": false
+    },
+    {
+      "id": "55057",
+      "name": "花仙使者 卡特琳娜 迷人幻翼",
+      "chromas": false
+    },
+    {
+      "id": "55059",
+      "name": "狼神英灵 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55060",
+      "name": "至臻 黑色玫瑰假面舞会 卡特琳娜",
+      "chromas": true
+    },
+    {
+      "id": "55061",
+      "name": "狼神英灵 卡特琳娜 腥红追猎",
+      "chromas": true
+    },
+    {
+      "id": "55062",
+      "name": "狼神英灵 卡特琳娜 无休追猎",
+      "chromas": false
+    },
+    {
+      "id": "55063",
+      "name": "狼神英灵 卡特琳娜 梦幻追猎",
+      "chromas": false
+    },
+    {
+      "id": "55064",
+      "name": "狼神英灵 卡特琳娜 冷静追猎",
+      "chromas": false
+    },
+    {
+      "id": "55065",
+      "name": "狼神英灵 卡特琳娜 午夜追猎",
+      "chromas": false
+    },
+    {
+      "id": "55066",
+      "name": "狼神英灵 卡特琳娜 幽森追猎",
+      "chromas": false
+    },
+    {
+      "id": "55067",
+      "name": "狼神英灵 卡特琳娜 铁血追猎",
+      "chromas": false
+    },
+    {
+      "id": "55068",
+      "name": "狼神英灵 卡特琳娜 魅影追猎",
+      "chromas": false
+    },
+    {
+      "id": "55069",
+      "name": "至臻 黑色玫瑰假面舞会 卡特琳娜 谜之影",
+      "chromas": false
+    },
+    {
+      "id": "55070",
+      "name": "踏雪寻梅 卡特琳娜",
+      "chromas": false
+    },
+    {
+      "id": "55071",
+      "name": "踏雪寻梅 卡特琳娜 岁寒特妍",
+      "chromas": true
+    },
+    {
+      "id": "55072",
+      "name": "踏雪寻梅 卡特琳娜 狂飙卷沙",
+      "chromas": false
+    },
+    {
+      "id": "55073",
+      "name": "踏雪寻梅 卡特琳娜 绛萼著霜",
+      "chromas": false
+    },
+    {
+      "id": "55074",
+      "name": "踏雪寻梅 卡特琳娜 玉立冰洁",
+      "chromas": false
+    },
+    {
+      "id": "55075",
+      "name": "踏雪寻梅 卡特琳娜 阴霾昼闭",
+      "chromas": false
+    },
+    {
+      "id": "55076",
+      "name": "踏雪寻梅 卡特琳娜 琼英缀雪",
+      "chromas": false
+    },
+    {
+      "id": "55077",
+      "name": "踏雪寻梅 卡特琳娜 竹映梅香",
+      "chromas": false
+    },
+    {
+      "id": "55078",
+      "name": "踏雪寻梅 卡特琳娜 独步早春",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "贪婪",
+    "description": "每当一名在过去3秒被卡特琳娜所伤害的敌方英雄阵亡时，卡特琳娜的技能的冷却时间就会显著减少。如果卡特琳娜拾起一把匕首，她会用它来斩击附近的所有敌人以造成魔法伤害。",
+    "image": "Katarina_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "弹射之刃",
+      "description": "卡特琳娜朝敌人扔出一把匕首，匕首会弹射到附近敌人身上，然后落到地面上。",
+      "tooltip": "卡特琳娜投掷一把匕首，造成{{ totaldamage }}魔法伤害给目标及附近的{{ maxbounces }}个敌人。匕首随后会弹落到主要目标身后的地面上。",
+      "cooldown": "11/10/9/8/7",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "625",
+      "maxrank": 5,
+      "image": "KatarinaQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "伺机待发",
+      "description": "卡特琳娜获得爆发性的移动速度加成，同时投掷一把匕首到她正上方的空中。",
+      "tooltip": "卡特琳娜扔出一把匕首至空中并获得在{{ e2 }}秒里持续衰减的{{ e4 }}%移动速度。",
+      "cooldown": "15/14/13/12/11",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "25000",
+      "maxrank": 5,
+      "image": "KatarinaW.png",
+      "key": "W"
+    },
+    {
+      "name": "瞬步",
+      "description": "卡特琳娜立刻闪烁到目标处，如果目标是敌人，则她会对目标造成伤害，否则会对距她最近的敌人造成伤害。",
+      "tooltip": "卡特琳娜在眨眼间闪烁到目标友军、敌人、或匕首处。如果目标是敌人，那么卡特琳娜会造成{{ totaldamage }}魔法伤害——如果是其它情况，那么她会对范围内距她最近的敌人造成伤害。拾取一把匕首将使这个技能的冷却时间缩短{{ daggercooldownreduction }}秒({{ tooltipdaggerreduction }})。卡特琳娜可以闪烁到目标附近的任一位置。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "725",
+      "maxrank": 5,
+      "image": "KatarinaEWrapper.png",
+      "key": "E"
+    },
+    {
+      "name": "死亡莲华",
+      "description": "卡特琳娜化身为一道剑刃飓风，以无与伦比的速度对周围最多三个敌方英雄造成巨量魔法伤害。",
+      "tooltip": "卡特琳娜化身为一道剑刃飓风，快速用一连串匕首攻击相距最近的3名敌方英雄。每把匕首造成{{ damagecalc }}魔法伤害和{{ addamagecalc }}物理伤害，并施加持续{{ grievousduration }}秒的{{ grievousamount*100 }}%重伤效果。在{{ duration }}秒里持续对每个敌方英雄造成的总伤害：{{ totaldamagecalc }}魔法伤害和{{ totaladdamagecalc }}物理伤害。",
+      "cooldown": "75/60/45",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "550",
+      "maxrank": 3,
+      "image": "KatarinaR.png",
+      "key": "R"
+    }
+  ]
+}

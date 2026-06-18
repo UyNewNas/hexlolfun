@@ -1,0 +1,278 @@
+{
+  "id": "Volibear",
+  "championId": "106",
+  "name": "不灭狂雷",
+  "title": "沃利贝尔",
+  "region": "弗雷尔卓德",
+  "blurb": "对于那些敬畏旧神的人，沃利贝尔是风暴的实体化身。他充满怪力、野性和倔强的坚毅，早在凡人行走于弗雷尔卓德的冻土苔原之前，他就已经存在。这片土地由他和他的半神同胞们共同创造，是他要拼死保护的东西。人类的文明以及随之而来的软弱让他积怨已久，如今他为了旧习古道而战——要让这片土地回归野性，让鲜血畅流无阻。他渴望迎战任何反对者，亮出他的尖牙、利爪和雷霆般的压制力。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 7,
+    "defense": 7,
+    "magic": 4,
+    "difficulty": 3
+  },
+  "stats": {
+    "hp": 650,
+    "hpPerLevel": 104,
+    "mp": 350,
+    "mpPerLevel": 70,
+    "movespeed": 340,
+    "armor": 35,
+    "armorPerLevel": 5.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 150,
+    "attackdamage": 65,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2,
+    "hpregen": 9,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 6.25,
+    "mpregenPerLevel": 0.5,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "106001",
+      "name": "雷霆领主 沃利贝尔",
+      "chromas": false
+    },
+    {
+      "id": "106002",
+      "name": "北地风暴 沃利贝尔",
+      "chromas": false
+    },
+    {
+      "id": "106003",
+      "name": "符文战熊 沃利贝尔",
+      "chromas": false
+    },
+    {
+      "id": "106004",
+      "name": "警长 沃利贝尔",
+      "chromas": false
+    },
+    {
+      "id": "106005",
+      "name": "怒熊 沃利贝尔",
+      "chromas": false
+    },
+    {
+      "id": "106006",
+      "name": "坚韧不屈 沃利贝尔",
+      "chromas": false
+    },
+    {
+      "id": "106007",
+      "name": "神龙尊者 均衡之龙 沃利贝尔",
+      "chromas": true
+    },
+    {
+      "id": "106009",
+      "name": "至臻 神龙尊者 均衡之龙 沃利贝尔",
+      "chromas": false
+    },
+    {
+      "id": "106010",
+      "name": "神龙尊者 均衡之龙 沃利贝尔 登龙",
+      "chromas": false
+    },
+    {
+      "id": "106011",
+      "name": "神龙尊者 均衡之龙 沃利贝尔 玄黄",
+      "chromas": false
+    },
+    {
+      "id": "106012",
+      "name": "神龙尊者 均衡之龙 沃利贝尔 望霞",
+      "chromas": false
+    },
+    {
+      "id": "106013",
+      "name": "神龙尊者 均衡之龙 沃利贝尔 松峦",
+      "chromas": false
+    },
+    {
+      "id": "106014",
+      "name": "神龙尊者 均衡之龙 沃利贝尔 傲雪",
+      "chromas": false
+    },
+    {
+      "id": "106015",
+      "name": "神龙尊者 均衡之龙 沃利贝尔 集仙",
+      "chromas": false
+    },
+    {
+      "id": "106016",
+      "name": "神龙尊者 均衡之龙 沃利贝尔 揽月",
+      "chromas": false
+    },
+    {
+      "id": "106017",
+      "name": "神龙尊者 均衡之龙 沃利贝尔 碧漪",
+      "chromas": false
+    },
+    {
+      "id": "106018",
+      "name": "神龙尊者 均衡之龙 沃利贝尔 烬爪",
+      "chromas": false
+    },
+    {
+      "id": "106019",
+      "name": "墨影之灵 沃利贝尔",
+      "chromas": false
+    },
+    {
+      "id": "106020",
+      "name": "墨影之灵 沃利贝尔 炽墨挥影",
+      "chromas": true
+    },
+    {
+      "id": "106021",
+      "name": "墨影之灵 沃利贝尔 樱墨映影",
+      "chromas": false
+    },
+    {
+      "id": "106022",
+      "name": "墨影之灵 沃利贝尔 晶墨绽影",
+      "chromas": false
+    },
+    {
+      "id": "106023",
+      "name": "墨影之灵 沃利贝尔 云墨漾影",
+      "chromas": false
+    },
+    {
+      "id": "106024",
+      "name": "墨影之灵 沃利贝尔 森墨拂影",
+      "chromas": false
+    },
+    {
+      "id": "106025",
+      "name": "墨影之灵 沃利贝尔 松墨彰影",
+      "chromas": false
+    },
+    {
+      "id": "106026",
+      "name": "墨影之灵 沃利贝尔 雪墨封影",
+      "chromas": false
+    },
+    {
+      "id": "106027",
+      "name": "墨影之灵 沃利贝尔 玄墨蕴影",
+      "chromas": false
+    },
+    {
+      "id": "106028",
+      "name": "墨影之灵 沃利贝尔 灵墨刻影",
+      "chromas": false
+    },
+    {
+      "id": "106029",
+      "name": "莲华温泉 沃利贝尔",
+      "chromas": false
+    },
+    {
+      "id": "106030",
+      "name": "莲华温泉 沃利贝尔 流火",
+      "chromas": true
+    },
+    {
+      "id": "106031",
+      "name": "莲华温泉 沃利贝尔 雁来",
+      "chromas": false
+    },
+    {
+      "id": "106032",
+      "name": "莲华温泉 沃利贝尔 云开",
+      "chromas": false
+    },
+    {
+      "id": "106033",
+      "name": "莲华温泉 沃利贝尔 风起",
+      "chromas": false
+    },
+    {
+      "id": "106034",
+      "name": "莲华温泉 沃利贝尔 兰秋",
+      "chromas": false
+    },
+    {
+      "id": "106035",
+      "name": "莲华温泉 沃利贝尔 朝花",
+      "chromas": false
+    },
+    {
+      "id": "106036",
+      "name": "莲华温泉 沃利贝尔 月升",
+      "chromas": false
+    },
+    {
+      "id": "106037",
+      "name": "莲华温泉 沃利贝尔 春晓",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "狂雷渐起",
+    "description": "沃利贝尔的攻击和技能会提供攻击速度，并且最终使他的攻击对附近的敌人们造成额外魔法伤害。",
+    "image": "Volibear_Icon_P.png"
+  },
+  "spells": [
+    {
+      "name": "擂首一击",
+      "description": "沃利贝尔在朝着敌人时会获得移动速度，并且会对他攻击的第一个敌人造成晕眩和伤害。",
+      "tooltip": "沃利贝尔获得{{ minspeedcalc }}移动速度，在朝着敌方英雄时翻倍至{{ maxspeedcalc }}，持续{{ duration }}秒。在激活时，沃利贝尔的下次攻击会造成{{ calculateddamage }}物理伤害并使目标晕眩{{ stunduration }}秒。如果在沃利贝尔对一个目标造成晕眩效果前被敌人定身的话，那么他会因发怒而提前结束这个技能但刷新它的冷却时间。",
+      "cooldown": "14/13/12/11/10",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "300",
+      "maxrank": 5,
+      "image": "VolibearQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "暴怒撕咬",
+      "description": "沃利贝尔伤害一名敌人，施加攻击特效并将其标记。对相同目标再次施放这个技能，会造成额外伤害并治疗沃利贝尔。",
+      "tooltip": "沃利贝尔猛拍一名敌人，造成{{ totaldamage }}物理伤害，并标记目标{{ markduration }}秒。如果这个技能施放在一个被标记的目标身上，那么这个技能的伤害会提升至{{ empowereddamage }}，并且沃利贝尔会回复{{ baseheal }}生命值+他{{ percentmissinghealthhealingratio }}的已损失生命值。",
+      "cooldown": "5",
+      "cost": "20/25/30/35/40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "325",
+      "maxrank": 5,
+      "image": "VolibearW.png",
+      "key": "W"
+    },
+    {
+      "name": "霹天雳地",
+      "description": "沃利贝尔在目标区域召唤一道闪电箭，对其中的敌人造成魔法伤害和减速效果，并且如果沃利贝尔在闪电落点区域内，他还会获得一层护盾。",
+      "tooltip": "沃利贝尔在目标区域召唤一道闪电箭，造成{{ totaldamagetooltip }}加上{{ percentdamage*100 }}%最大生命值的魔法伤害并使敌人减速{{ slowamount*100 }}%，持续{{ slowduration }}秒。如果沃利贝尔在闪电落点区域内，他还会获得一层{{ shieldapratiotooltip }}加上{{ shieldamount*100 }}%最大生命值的护盾，持续{{ shieldduration }}秒。",
+      "cooldown": "16",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1200",
+      "maxrank": 5,
+      "image": "VolibearE.png",
+      "key": "E"
+    },
+    {
+      "name": "天声震落",
+      "description": "沃利贝尔跃向一个目标区域，对他身下的敌人们造成伤害和减速效果，同时获得额外生命值。在他着陆时，附近的敌方防御塔也会暂时失效。",
+      "tooltip": "沃利贝尔变换形态并跃向一个目标区域，获得{{ healthamount }}生命值和{{ bonusattackrange }}攻击距离，持续{{ transformduration }}秒。在着陆时，附近的敌方防御塔会失效{{ towerdisableduration }}秒，并受到{{ towerdamagetooltip }}物理伤害。附近的敌人会被减速{{ slowamount*100 }}%，减速效果会在1秒里持续衰减。被沃利贝尔直接压住的敌人们会受到{{ sweetspotdamagetooltip }}物理伤害。",
+      "cooldown": "160/135/110",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "550",
+      "maxrank": 3,
+      "image": "VolibearR.png",
+      "key": "R"
+    }
+  ]
+}

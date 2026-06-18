@@ -1,0 +1,248 @@
+{
+  "id": "Rell",
+  "championId": "526",
+  "name": "镕铁少女",
+  "title": "芮尔",
+  "region": "诺克萨斯",
+  "blurb": "芮尔是黑色玫瑰用凶残的试验一手制造出来的产物，她是狂妄的活体武器，决心要颠覆诺克萨斯。她的童年悲惨且惊悚，那些不可言说的处理过程将她的魔法塑造成完美的武器，让她可以任意控制金属。直到最后她展开了一场暴力的逃离，从数量众多的看管者中杀出一条血路。如今，被认定为逃犯的芮尔对诺克萨斯士兵进行无差别攻击，同时寻找着曾经“学院”里的幸存者，保护柔弱者，对曾经的那些教员送去无情的死亡。",
+  "tags": [
+    "坦克",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 0,
+    "defense": 0,
+    "magic": 0,
+    "difficulty": 0
+  },
+  "stats": {
+    "hp": 620,
+    "hpPerLevel": 104,
+    "mp": 320,
+    "mpPerLevel": 40,
+    "movespeed": 315,
+    "armor": 30,
+    "armorPerLevel": 4,
+    "spellblock": 28,
+    "spellblockPerLevel": 1.8,
+    "attackrange": 175,
+    "attackdamage": 55,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2,
+    "hpregen": 7.5,
+    "hpregenPerLevel": 0.85,
+    "mpregen": 7,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "526001",
+      "name": "女帝 芮尔",
+      "chromas": true
+    },
+    {
+      "id": "526002",
+      "name": "女帝 芮尔 纹章之刻印·英勇",
+      "chromas": false
+    },
+    {
+      "id": "526003",
+      "name": "女帝 芮尔 纹章之刻印·果决",
+      "chromas": false
+    },
+    {
+      "id": "526004",
+      "name": "女帝 芮尔 纹章之刻印·博学",
+      "chromas": false
+    },
+    {
+      "id": "526005",
+      "name": "女帝 芮尔 纹章之刻印·威风",
+      "chromas": false
+    },
+    {
+      "id": "526006",
+      "name": "女帝 芮尔 纹章之刻印·坚毅",
+      "chromas": false
+    },
+    {
+      "id": "526007",
+      "name": "女帝 芮尔 纹章之刻印·飒爽",
+      "chromas": false
+    },
+    {
+      "id": "526008",
+      "name": "女帝 芮尔 纹章·神圣加冕礼",
+      "chromas": false
+    },
+    {
+      "id": "526009",
+      "name": "女帝 芮尔 纹章之刻印·深谋",
+      "chromas": false
+    },
+    {
+      "id": "526010",
+      "name": "星之守护者 芮尔",
+      "chromas": true
+    },
+    {
+      "id": "526011",
+      "name": "星之守护者 芮尔 热情之光",
+      "chromas": false
+    },
+    {
+      "id": "526012",
+      "name": "星之守护者 芮尔 爱之光",
+      "chromas": false
+    },
+    {
+      "id": "526013",
+      "name": "星之守护者 芮尔 智慧之光",
+      "chromas": false
+    },
+    {
+      "id": "526014",
+      "name": "星之守护者 芮尔 勇气之光",
+      "chromas": false
+    },
+    {
+      "id": "526015",
+      "name": "星之守护者 芮尔 未来之光",
+      "chromas": false
+    },
+    {
+      "id": "526016",
+      "name": "星之守护者 芮尔 拥抱之光",
+      "chromas": false
+    },
+    {
+      "id": "526017",
+      "name": "星之守护者 芮尔 正义之光",
+      "chromas": false
+    },
+    {
+      "id": "526018",
+      "name": "星之守护者 芮尔 守护之光",
+      "chromas": false
+    },
+    {
+      "id": "526019",
+      "name": "星之守护者 芮尔 希望之光",
+      "chromas": false
+    },
+    {
+      "id": "526020",
+      "name": "西部魔影 芮尔",
+      "chromas": true
+    },
+    {
+      "id": "526021",
+      "name": "西部魔影 芮尔 温和",
+      "chromas": false
+    },
+    {
+      "id": "526022",
+      "name": "西部魔影 芮尔 善良",
+      "chromas": false
+    },
+    {
+      "id": "526023",
+      "name": "西部魔影 芮尔 诚实",
+      "chromas": false
+    },
+    {
+      "id": "526024",
+      "name": "西部魔影 芮尔 恭敬",
+      "chromas": false
+    },
+    {
+      "id": "526025",
+      "name": "西部魔影 芮尔 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "526026",
+      "name": "西部魔影 芮尔 节制",
+      "chromas": false
+    },
+    {
+      "id": "526027",
+      "name": "西部魔影 芮尔 纯洁",
+      "chromas": false
+    },
+    {
+      "id": "526028",
+      "name": "西部魔影 芮尔 豪爽",
+      "chromas": false
+    },
+    {
+      "id": "526029",
+      "name": "西部魔影 芮尔 正午幻日",
+      "chromas": false
+    },
+    {
+      "id": "526030",
+      "name": "最高清算 芮尔",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "溃敌沉力",
+    "description": "芮尔的攻击和技能在命中时会造成额外魔法伤害并窃取护甲和魔法抗性。",
+    "image": "RellP.png"
+  },
+  "spells": [
+    {
+      "name": "裂阵",
+      "description": "芮尔对一条直线上的单位们造成魔法伤害，打破他们的护盾并造成晕眩效果。",
+      "tooltip": "芮尔戳刺她的骑枪，使目标们晕眩{{ stunduration }}秒、摧毁所有护盾，并造成{{ damage }}魔法伤害。",
+      "cooldown": "11/10.5/10/9.5/9",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 5,
+      "image": "RellQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "驭铁术：轰落",
+      "description": "骑乘状态：芮尔化马为甲，以披甲状态向下轰落，击飞敌人们并获得高额护盾值。在披甲状态下，她获得护甲、魔法抗性、攻击速度和攻击距离，但移动速度缓慢。披甲状态：芮尔化甲为马，提供爆发性的移动速度并且她的下一次攻击会对敌人造成击飞效果。",
+      "tooltip": "被动 - 铁骑疾行：芮尔在骑乘状态时获得{{ spell.rellw_dismount:mountedmovespeed }}移动速度。主动 - 驭铁术：轰落：芮尔化马为甲，击飞敌人并造成{{ spell.rellw_dismount:dismountdamage }}魔法伤害。芮尔获得{{ spell.rellw_dismount:shield }}护盾值，持续到她再次上马为止。芮尔随后进入披甲形态，获得{{ spell.rellw_dismount:resistanceincrease*100 }}%提升护甲和魔法抗性、{{ spell.rellw_dismount:dismountedasboost*100 }}%攻击速度和{{ spell.rellw_dismount:dismountedrangeboost }}攻击距离。在披甲形态中，她可以使用驭铁术：驾临。",
+      "cooldown": "10",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "450",
+      "maxrank": 5,
+      "image": "RellW_Dismount.png",
+      "key": "W"
+    },
+    {
+      "name": "全速冲锋",
+      "description": "被动：芮尔获得非战斗状态下的移动速度。主动：芮尔和一名友军获得不断升温的移动速度，这个加成会在朝着敌人们和彼此移动时提升至双倍。她的下次攻击会爆炸，造成魔法伤害。",
+      "tooltip": "芮尔和一名友军进行冲锋，获得{{ minms*100 }}%移动速度，这个加成会在面向敌方英雄或彼此时提升至{{ maxms*100 }}%，持续{{ duration }}秒。芮尔的下一次攻击或裂阵会引爆一个区域，造成{{ maxhealthdamagecalc }}最大生命值魔法伤害。",
+      "cooldown": "14/13/12/11/10",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1200",
+      "maxrank": 5,
+      "image": "RellE.png",
+      "key": "E"
+    },
+    {
+      "name": "极涌",
+      "description": "芮尔喷发出有磁性的怒火，粗暴地将附近敌方英雄向她拉拽。随后芮尔会持续将附近敌人向她拖曳一小段时间，并持续造成魔法伤害。",
+      "tooltip": "芮尔喷发出有磁性的怒火，粗暴地将附近敌方英雄向她拉拽。随后芮尔会持续将附近敌人向她拖曳并在接来的{{ duration }}秒里持续造成共{{ totaldamage }}魔法伤害。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "200",
+      "maxrank": 3,
+      "image": "RellR.png",
+      "key": "R"
+    }
+  ]
+}

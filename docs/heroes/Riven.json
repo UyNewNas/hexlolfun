@@ -1,0 +1,458 @@
+{
+  "id": "Riven",
+  "championId": "92",
+  "name": "放逐之刃",
+  "title": "锐雯",
+  "region": "诺克萨斯",
+  "blurb": "曾担任诺克萨斯军队剑士长的锐雯，正在那片她一度想要征服的土地上流浪。她在军中以无匹的信念和蛮悍的行事风格不断获得晋升，并得到一把传奇的符文之刃和属于自己的战团作为奖赏——然而在征战艾欧尼亚的前线上，锐雯对祖国的信仰遭到了考验。最终，信仰粉碎的锐雯，切断了与帝国的一切关联，在分崩离析的世界中找寻自己的归宿。即便谣言纷传，说诺克萨斯已经重铸……",
+  "tags": [
+    "战士",
+    "刺客"
+  ],
+  "partype": "无",
+  "info": {
+    "attack": 8,
+    "defense": 5,
+    "magic": 1,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 630,
+    "hpPerLevel": 100,
+    "mp": 0,
+    "mpPerLevel": 0,
+    "movespeed": 340,
+    "armor": 33,
+    "armorPerLevel": 4.4,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 64,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 3.5,
+    "hpregen": 8.5,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "92001",
+      "name": "刺客信条 锐雯",
+      "chromas": false
+    },
+    {
+      "id": "92002",
+      "name": "血色精锐 锐雯",
+      "chromas": false
+    },
+    {
+      "id": "92003",
+      "name": "兔女郎 锐雯",
+      "chromas": true
+    },
+    {
+      "id": "92004",
+      "name": "冠军之刃 锐雯",
+      "chromas": false
+    },
+    {
+      "id": "92005",
+      "name": "替父从军 花木兰",
+      "chromas": true
+    },
+    {
+      "id": "92006",
+      "name": "电玩勇者 锐雯",
+      "chromas": true
+    },
+    {
+      "id": "92007",
+      "name": "冠军之刃 锐雯 2016",
+      "chromas": true
+    },
+    {
+      "id": "92008",
+      "name": "流光之刃 锐雯",
+      "chromas": false
+    },
+    {
+      "id": "92009",
+      "name": "雾雨之刃 锐雯",
+      "chromas": false
+    },
+    {
+      "id": "92010",
+      "name": "森岚之刃 锐雯",
+      "chromas": false
+    },
+    {
+      "id": "92011",
+      "name": "幻星之刃 锐雯",
+      "chromas": false
+    },
+    {
+      "id": "92012",
+      "name": "夜空之刃 锐雯",
+      "chromas": false
+    },
+    {
+      "id": "92013",
+      "name": "红莲之刃 锐雯",
+      "chromas": false
+    },
+    {
+      "id": "92014",
+      "name": "魅影之刃 锐雯",
+      "chromas": false
+    },
+    {
+      "id": "92015",
+      "name": "梦蝶之刃 锐雯",
+      "chromas": false
+    },
+    {
+      "id": "92016",
+      "name": "黎明使者 锐雯",
+      "chromas": true
+    },
+    {
+      "id": "92017",
+      "name": "替父从军 花木兰 炫金龙刃",
+      "chromas": false
+    },
+    {
+      "id": "92018",
+      "name": "未来战士 锐雯",
+      "chromas": true
+    },
+    {
+      "id": "92019",
+      "name": "冠军之刃 锐雯 2016 凯旋圣装",
+      "chromas": false
+    },
+    {
+      "id": "92020",
+      "name": "玉剑传说 武剑仙",
+      "chromas": false
+    },
+    {
+      "id": "92021",
+      "name": "电玩勇者 锐雯 K.O.",
+      "chromas": false
+    },
+    {
+      "id": "92022",
+      "name": "至臻 玉剑传说 武剑仙",
+      "chromas": false
+    },
+    {
+      "id": "92023",
+      "name": "灵魂莲华 锐雯",
+      "chromas": true
+    },
+    {
+      "id": "92024",
+      "name": "黎明使者 锐雯 圣辉",
+      "chromas": false
+    },
+    {
+      "id": "92025",
+      "name": "未来战士 锐雯 无尽永前",
+      "chromas": false
+    },
+    {
+      "id": "92026",
+      "name": "灵魂莲华 锐雯 雪落",
+      "chromas": false
+    },
+    {
+      "id": "92027",
+      "name": "灵魂莲华 锐雯 流火",
+      "chromas": false
+    },
+    {
+      "id": "92028",
+      "name": "灵魂莲华 锐雯 雁来",
+      "chromas": false
+    },
+    {
+      "id": "92029",
+      "name": "灵魂莲华 锐雯 云开",
+      "chromas": false
+    },
+    {
+      "id": "92030",
+      "name": "灵魂莲华 锐雯 月升",
+      "chromas": false
+    },
+    {
+      "id": "92031",
+      "name": "灵魂莲华 锐雯 春晓",
+      "chromas": false
+    },
+    {
+      "id": "92032",
+      "name": "灵魂莲华 锐雯 星回",
+      "chromas": false
+    },
+    {
+      "id": "92033",
+      "name": "灵魂莲华 锐雯 霜见",
+      "chromas": false
+    },
+    {
+      "id": "92034",
+      "name": "光明哨兵 锐雯",
+      "chromas": true
+    },
+    {
+      "id": "92035",
+      "name": "光明哨兵 锐雯 帝国抗击者",
+      "chromas": false
+    },
+    {
+      "id": "92036",
+      "name": "光明哨兵 锐雯 山峰抗击者",
+      "chromas": false
+    },
+    {
+      "id": "92037",
+      "name": "光明哨兵 锐雯 森林抗击者",
+      "chromas": false
+    },
+    {
+      "id": "92038",
+      "name": "光明哨兵 锐雯 虚无抗击者",
+      "chromas": false
+    },
+    {
+      "id": "92039",
+      "name": "光明哨兵 锐雯 海港抗击者",
+      "chromas": false
+    },
+    {
+      "id": "92040",
+      "name": "光明哨兵 锐雯 灵岛抗击者",
+      "chromas": false
+    },
+    {
+      "id": "92041",
+      "name": "光明哨兵 锐雯 丛林抗击者",
+      "chromas": false
+    },
+    {
+      "id": "92042",
+      "name": "光明哨兵 锐雯 极地抗击者",
+      "chromas": false
+    },
+    {
+      "id": "92043",
+      "name": "光明哨兵 锐雯 坚定抗击者",
+      "chromas": false
+    },
+    {
+      "id": "92044",
+      "name": "幻灵战斗兔 锐雯",
+      "chromas": true
+    },
+    {
+      "id": "92045",
+      "name": "至臻 玉剑传说 武剑仙 (2022)",
+      "chromas": false
+    },
+    {
+      "id": "92046",
+      "name": "幻灵战斗兔 锐雯 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "92047",
+      "name": "幻灵战斗兔 锐雯 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "92048",
+      "name": "幻灵战斗兔 锐雯 炫目突击",
+      "chromas": false
+    },
+    {
+      "id": "92049",
+      "name": "幻灵战斗兔 锐雯 坚韧阻击",
+      "chromas": false
+    },
+    {
+      "id": "92050",
+      "name": "幻灵战斗兔 锐雯 华丽冲阵",
+      "chromas": false
+    },
+    {
+      "id": "92051",
+      "name": "幻灵战斗兔 锐雯 冷酷侧袭",
+      "chromas": false
+    },
+    {
+      "id": "92052",
+      "name": "幻灵战斗兔 锐雯 钢铁守备",
+      "chromas": false
+    },
+    {
+      "id": "92053",
+      "name": "幻灵战斗兔 锐雯 魅影闪击",
+      "chromas": false
+    },
+    {
+      "id": "92054",
+      "name": "幻灵战斗兔 锐雯 隐秘夜影",
+      "chromas": false
+    },
+    {
+      "id": "92055",
+      "name": "绝息圣堂 锐雯",
+      "chromas": true
+    },
+    {
+      "id": "92056",
+      "name": "黎明使者 锐雯 黑夜使者",
+      "chromas": false
+    },
+    {
+      "id": "92057",
+      "name": "绝息圣堂 锐雯 残阳圆舞曲",
+      "chromas": false
+    },
+    {
+      "id": "92058",
+      "name": "绝息圣堂 锐雯 日冕摇篮曲",
+      "chromas": false
+    },
+    {
+      "id": "92059",
+      "name": "绝息圣堂 锐雯 灵息变奏曲",
+      "chromas": false
+    },
+    {
+      "id": "92060",
+      "name": "绝息圣堂 锐雯 苏生回旋曲",
+      "chromas": false
+    },
+    {
+      "id": "92061",
+      "name": "绝息圣堂 锐雯 黑昼交响曲",
+      "chromas": false
+    },
+    {
+      "id": "92062",
+      "name": "绝息圣堂 锐雯 纯净赋格曲",
+      "chromas": false
+    },
+    {
+      "id": "92063",
+      "name": "伏虎之力 锐雯",
+      "chromas": true
+    },
+    {
+      "id": "92064",
+      "name": "伏虎之力 锐雯 旺盛战意",
+      "chromas": false
+    },
+    {
+      "id": "92065",
+      "name": "伏虎之力 锐雯 兽王威仪",
+      "chromas": false
+    },
+    {
+      "id": "92066",
+      "name": "伏虎之力 锐雯 虎啸风生",
+      "chromas": false
+    },
+    {
+      "id": "92067",
+      "name": "伏虎之力 锐雯 瑞兽灵光",
+      "chromas": false
+    },
+    {
+      "id": "92068",
+      "name": "伏虎之力 锐雯 如虎添翼",
+      "chromas": false
+    },
+    {
+      "id": "92069",
+      "name": "伏虎之力 锐雯 霸气虎步",
+      "chromas": false
+    },
+    {
+      "id": "92070",
+      "name": "伏虎之力 锐雯 原初直觉",
+      "chromas": false
+    },
+    {
+      "id": "92071",
+      "name": "伏虎之力 锐雯 独行傲影",
+      "chromas": false
+    },
+    {
+      "id": "92072",
+      "name": "幻灵战斗兔 锐雯 至强",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "符文之刃",
+    "description": "锐雯的技能会为她的剑刃充能，并且她的普通攻击会消耗充能来造成额外伤害。",
+    "image": "RivenRunicBlades.png"
+  },
+  "spells": [
+    {
+      "name": "折翼之舞",
+      "description": "锐雯斩出一套猛烈的剑式。在短时间内，这个技能最多可以重新激活3次，并且第三次会将周围的所有敌人击飞。",
+      "tooltip": "锐雯向前冲刺，造成{{ firstslashdamage }}物理伤害。她可以再次施放这个技能两次。第一次再次施放和初始效果相同，但第二次会有不同的效果：再次施放: 锐雯向前跃起并猛劈，对附近的敌人们造成{{ firstslashdamage }}物理伤害和0.75秒击飞。",
+      "cooldown": "13",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "275",
+      "maxrank": 5,
+      "image": "RivenTriCleave.png",
+      "key": "Q"
+    },
+    {
+      "name": "震魂怒吼",
+      "description": "锐雯爆发斗气，对附近敌人造成伤害和晕眩效果。",
+      "tooltip": "锐雯的剑爆发出一股符文能量，造成{{ totaldamage }}物理伤害和{{ stunduration }}秒晕眩。",
+      "cooldown": "11/10/9/8/7",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "260",
+      "maxrank": 5,
+      "image": "RivenMartyr.png",
+      "key": "W"
+    },
+    {
+      "name": "勇往直前",
+      "description": "锐雯向前冲锋一小段距离，并格挡即将到来的伤害。",
+      "tooltip": "锐雯快速冲刺并获得持续1.5秒的{{ totalshield }}护盾值。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "250",
+      "maxrank": 5,
+      "image": "RivenFeint.png",
+      "key": "E"
+    },
+    {
+      "name": "放逐之锋",
+      "description": "锐雯将能量灌入她那残破不堪的武器中，使攻击力和攻击范围都得到提高。在这段时间里，她还能使用一次疾风斩（一次强大的远程打击）。",
+      "tooltip": "锐雯的武器激荡着灵体能量，为她提供{{ bonusad }}攻击力，并且伤害型技能和攻击获得距离提升，持续{{ duration }}秒。在此期间，她可以进行再次施放。再次施放：锐雯发射一道疾风斩来造成{{ mindamage }}到{{ maxdamage }}物理伤害，基于目标们的已损失生命值。",
+      "cooldown": "120/90/60",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "200",
+      "maxrank": 3,
+      "image": "RivenFengShuiEngine.png",
+      "key": "R"
+    }
+  ]
+}

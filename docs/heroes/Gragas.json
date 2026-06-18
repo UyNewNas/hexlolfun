@@ -1,0 +1,333 @@
+{
+  "id": "Gragas",
+  "championId": "79",
+  "name": "酒桶",
+  "title": "古拉加斯",
+  "region": "弗雷尔卓德",
+  "blurb": "古拉加斯，豪爽和豪横各占一半。他是位壮硕、粗鲁的酿造师，永远都在想方设法让每个人饮到酣畅淋漓。没人知道他从什么地方来，只知道他会在弗雷尔卓德纯净无暇的荒原上寻找神秘配料，完善他最新的调制配方。古拉加斯性子急、脾气倔，也是出了名的爱闹事，有他参与的斗殴事件大多以彻夜豪饮和桌椅散架收场。只要古拉加斯出现，随之而来的一定是狂欢和破坏——而且是严格按照这个顺序。",
+  "tags": [
+    "战士",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 4,
+    "defense": 7,
+    "magic": 6,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 640,
+    "hpPerLevel": 115,
+    "mp": 400,
+    "mpPerLevel": 47,
+    "movespeed": 330,
+    "armor": 38,
+    "armorPerLevel": 5,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 64,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.675,
+    "attackspeedPerLevel": 2.05,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 6,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "79001",
+      "name": "深潜蛙人 古拉加斯",
+      "chromas": false
+    },
+    {
+      "id": "79002",
+      "name": "乡村农夫 古拉加斯",
+      "chromas": false
+    },
+    {
+      "id": "79003",
+      "name": "圣诞老人 古拉加斯",
+      "chromas": false
+    },
+    {
+      "id": "79004",
+      "name": "品酒大师 古拉加斯",
+      "chromas": false
+    },
+    {
+      "id": "79005",
+      "name": "飞车暴走族 古拉加斯",
+      "chromas": false
+    },
+    {
+      "id": "79006",
+      "name": "美酒节特使 古拉加斯",
+      "chromas": false
+    },
+    {
+      "id": "79007",
+      "name": "狂热球迷 古拉加斯",
+      "chromas": false
+    },
+    {
+      "id": "79008",
+      "name": "Fnatic 古拉加斯",
+      "chromas": false
+    },
+    {
+      "id": "79009",
+      "name": "古拉加斯·碎桶者",
+      "chromas": false
+    },
+    {
+      "id": "79010",
+      "name": "冰原核弹 古拉加斯",
+      "chromas": false
+    },
+    {
+      "id": "79011",
+      "name": "光明骑士 古拉加斯",
+      "chromas": true
+    },
+    {
+      "id": "79012",
+      "name": "光明骑士 古拉加斯 自信守望者",
+      "chromas": false
+    },
+    {
+      "id": "79013",
+      "name": "光明骑士 古拉加斯 理智守望者",
+      "chromas": false
+    },
+    {
+      "id": "79014",
+      "name": "光明骑士 古拉加斯 浪漫守望者",
+      "chromas": false
+    },
+    {
+      "id": "79015",
+      "name": "光明骑士 古拉加斯 热血守望者",
+      "chromas": false
+    },
+    {
+      "id": "79016",
+      "name": "光明骑士 古拉加斯 理想守望者",
+      "chromas": false
+    },
+    {
+      "id": "79017",
+      "name": "光明骑士 古拉加斯 梦境守望者",
+      "chromas": false
+    },
+    {
+      "id": "79018",
+      "name": "光明骑士 古拉加斯 永恒守望者",
+      "chromas": false
+    },
+    {
+      "id": "79019",
+      "name": "光明骑士 古拉加斯 自然守望者",
+      "chromas": false
+    },
+    {
+      "id": "79020",
+      "name": "太空律动 “电音酒桶” 古拉加斯",
+      "chromas": true
+    },
+    {
+      "id": "79021",
+      "name": "“电音酒桶” 古拉加斯 草莓摇摇乐",
+      "chromas": false
+    },
+    {
+      "id": "79022",
+      "name": "“电音酒桶” 古拉加斯 芒果摇摇乐",
+      "chromas": false
+    },
+    {
+      "id": "79023",
+      "name": "“电音酒桶” 古拉加斯 猕猴桃摇摇乐",
+      "chromas": false
+    },
+    {
+      "id": "79024",
+      "name": "“电音酒桶” 古拉加斯 蜜桃摇摇乐",
+      "chromas": false
+    },
+    {
+      "id": "79025",
+      "name": "“电音酒桶” 古拉加斯 葡萄摇摇乐",
+      "chromas": false
+    },
+    {
+      "id": "79026",
+      "name": "“电音酒桶” 古拉加斯 椰果摇摇乐",
+      "chromas": false
+    },
+    {
+      "id": "79027",
+      "name": "“电音酒桶” 古拉加斯 酸梅摇摇乐",
+      "chromas": false
+    },
+    {
+      "id": "79028",
+      "name": "“电音酒桶” 古拉加斯 彩虹摇摇乐",
+      "chromas": false
+    },
+    {
+      "id": "79029",
+      "name": "西部魔影 古拉加斯",
+      "chromas": true
+    },
+    {
+      "id": "79030",
+      "name": "西部魔影 古拉加斯 温和",
+      "chromas": false
+    },
+    {
+      "id": "79031",
+      "name": "西部魔影 古拉加斯 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "79032",
+      "name": "西部魔影 古拉加斯 豪爽",
+      "chromas": false
+    },
+    {
+      "id": "79033",
+      "name": "西部魔影 古拉加斯 善良",
+      "chromas": false
+    },
+    {
+      "id": "79034",
+      "name": "西部魔影 古拉加斯 恭敬",
+      "chromas": false
+    },
+    {
+      "id": "79035",
+      "name": "西部魔影 古拉加斯 节制",
+      "chromas": false
+    },
+    {
+      "id": "79036",
+      "name": "西部魔影 古拉加斯 诚实",
+      "chromas": false
+    },
+    {
+      "id": "79037",
+      "name": "西部魔影 古拉加斯 谦卑",
+      "chromas": false
+    },
+    {
+      "id": "79038",
+      "name": "西部魔影 古拉加斯 正午幻日",
+      "chromas": false
+    },
+    {
+      "id": "79039",
+      "name": "超级音乐粉丝 古拉加斯",
+      "chromas": true
+    },
+    {
+      "id": "79040",
+      "name": "超级音乐粉丝 古拉加斯 赤诚之心",
+      "chromas": false
+    },
+    {
+      "id": "79041",
+      "name": "超级音乐粉丝 古拉加斯 金石为开",
+      "chromas": false
+    },
+    {
+      "id": "79042",
+      "name": "超级音乐粉丝 古拉加斯 心如止水",
+      "chromas": false
+    },
+    {
+      "id": "79043",
+      "name": "超级音乐粉丝 古拉加斯 活力满满",
+      "chromas": false
+    },
+    {
+      "id": "79044",
+      "name": "超级音乐粉丝 古拉加斯 朝气蓬勃",
+      "chromas": false
+    },
+    {
+      "id": "79045",
+      "name": "超级音乐粉丝 古拉加斯 心花怒放",
+      "chromas": false
+    },
+    {
+      "id": "79046",
+      "name": "超级音乐粉丝 古拉加斯 牢不可破",
+      "chromas": false
+    },
+    {
+      "id": "79047",
+      "name": "超级音乐粉丝 古拉加斯 纯真初心",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "欢乐时光",
+    "description": "古拉加斯可周期性地使用一个技能来治疗自身。",
+    "image": "GragasPassiveHeal.png"
+  },
+  "spells": [
+    {
+      "name": "滚动酒桶",
+      "description": "古拉加斯将酒桶滚到目标地点，酒桶可以被主动引爆或在到达目标地点4秒后自行爆炸。爆炸的威力会随时间持续提升。被酒桶炸到的敌人，移动速度会被降低。",
+      "tooltip": "古拉加斯滚动出一个酒桶，该酒桶会在{{ e4 }}秒后爆炸， 造成{{ mindamage }}魔法伤害到{{ maxdamage }}魔法伤害和持续{{ e3 }}秒的{{ e2 }}到{{ effect2amount*1.5 }}%减速。伤害和减速会基于该酒桶在爆炸前的时长来提升。古拉加斯可以再次施放这个技能来提前引爆该酒桶。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "850",
+      "maxrank": 5,
+      "image": "GragasQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "醉酒狂暴",
+      "description": "古拉加斯品尝他的最新佳酿，持续1秒。在喝完之后，他会变得喧闹且好斗，下次普通攻击会对附近的所有目标造成更多伤害，并且自身所受的伤害会降低。",
+      "tooltip": "古拉加斯品尝他的最新佳酿，使即将到来的伤害降低{{ damagereduction }}，持续{{ defenseduration }}秒，此外，他的下次攻击获得强化，对目标及目标身边的敌人们造成额外的{{ totaldamage }}外加{{ maxhppercentdamage }}%最大生命值的魔法伤害。",
+      "cooldown": "5",
+      "cost": "30",
+      "costType": " {{ abilityresourcename }}",
+      "range": "20",
+      "maxrank": 5,
+      "image": "GragasW.png",
+      "key": "W"
+    },
+    {
+      "name": "肉弹冲击",
+      "description": "古拉加斯向目标区域冲锋，在撞上第一个敌人后，对附近的所有敌方单位造成伤害和晕眩效果。",
+      "tooltip": "古拉加斯向前冲锋，撞击命中的第一名敌人，使附近的敌人击飞{{ stunduration }}秒并对其造成{{ totaldamage }}魔法伤害。当古拉加斯撞到一个敌人时，这个技能的冷却时间会缩短{{ cooldownrefund*100 }}%。",
+      "cooldown": "14/13.5/13/12.5/12",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 5,
+      "image": "GragasE.png",
+      "key": "E"
+    },
+    {
+      "name": "爆破酒桶",
+      "description": "古拉加斯向目标区域投掷他的酒桶，对爆炸范围内的所有敌人造成伤害和击退效果。",
+      "tooltip": "古拉加斯猛抛他的酒桶，造成{{ damagedone }}魔法伤害并将敌人们从爆炸中心击退。",
+      "cooldown": "100/85/70",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 3,
+      "image": "GragasR.png",
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "id": "Yone",
+  "championId": "777",
+  "name": "封魔剑魂",
+  "title": "永恩",
+  "region": "艾欧尼亚",
+  "blurb": "生前，他是永恩，是亚索同母异父的哥哥，是故乡剑术道场的知名弟子。但当他死在弟弟手下以后，却发现自己被精神领域中的恶毒灵体所侵扰，不得不拿起恶魔的刀剑将它弑杀。如今，诅咒缠身的永恩戴上了它的恶魔面具，开始了不懈地追猎，他誓要猎尽所有同种的恶魔，以查清自己究竟成为了什么。",
+  "tags": [
+    "战士",
+    "刺客"
+  ],
+  "partype": "剑意",
+  "info": {
+    "attack": 8,
+    "defense": 4,
+    "magic": 4,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 620,
+    "hpPerLevel": 105,
+    "mp": 500,
+    "mpPerLevel": 0,
+    "movespeed": 345,
+    "armor": 33,
+    "armorPerLevel": 4.6,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 62,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 3.5,
+    "hpregen": 7.5,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "777001",
+      "name": "灵魂莲华 永恩",
+      "chromas": true
+    },
+    {
+      "id": "777002",
+      "name": "灵魂莲华 永恩 流火",
+      "chromas": false
+    },
+    {
+      "id": "777003",
+      "name": "灵魂莲华 永恩 融冰",
+      "chromas": false
+    },
+    {
+      "id": "777004",
+      "name": "灵魂莲华 永恩 雁来",
+      "chromas": false
+    },
+    {
+      "id": "777005",
+      "name": "灵魂莲华 永恩 云开",
+      "chromas": false
+    },
+    {
+      "id": "777006",
+      "name": "灵魂莲华 永恩 春晓",
+      "chromas": false
+    },
+    {
+      "id": "777007",
+      "name": "灵魂莲华 永恩 星回",
+      "chromas": false
+    },
+    {
+      "id": "777008",
+      "name": "灵魂莲华 永恩 霜见",
+      "chromas": false
+    },
+    {
+      "id": "777009",
+      "name": "灵魂莲华 永恩 月升",
+      "chromas": false
+    },
+    {
+      "id": "777010",
+      "name": "战斗学院 永恩",
+      "chromas": true
+    },
+    {
+      "id": "777011",
+      "name": "战斗学院 永恩 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "777012",
+      "name": "战斗学院 永恩 黑龙",
+      "chromas": false
+    },
+    {
+      "id": "777013",
+      "name": "战斗学院 永恩 火蜥蜴",
+      "chromas": false
+    },
+    {
+      "id": "777014",
+      "name": "战斗学院 永恩 夜枭",
+      "chromas": false
+    },
+    {
+      "id": "777015",
+      "name": "战斗学院 永恩 美人鱼",
+      "chromas": false
+    },
+    {
+      "id": "777016",
+      "name": "战斗学院 永恩 天马",
+      "chromas": false
+    },
+    {
+      "id": "777017",
+      "name": "战斗学院 永恩 森林龙",
+      "chromas": false
+    },
+    {
+      "id": "777018",
+      "name": "战斗学院 永恩 狮鹫",
+      "chromas": false
+    },
+    {
+      "id": "777019",
+      "name": "黎明使者 永恩",
+      "chromas": true
+    },
+    {
+      "id": "777020",
+      "name": "黎明使者 永恩 阳辉",
+      "chromas": false
+    },
+    {
+      "id": "777021",
+      "name": "黎明使者 永恩 宁辉",
+      "chromas": false
+    },
+    {
+      "id": "777022",
+      "name": "黎明使者 永恩 霞辉",
+      "chromas": false
+    },
+    {
+      "id": "777023",
+      "name": "黎明使者 永恩 雪辉",
+      "chromas": false
+    },
+    {
+      "id": "777024",
+      "name": "黎明使者 永恩 苍辉",
+      "chromas": false
+    },
+    {
+      "id": "777025",
+      "name": "黎明使者 永恩 生辉",
+      "chromas": false
+    },
+    {
+      "id": "777026",
+      "name": "海之歌 永恩",
+      "chromas": true
+    },
+    {
+      "id": "777027",
+      "name": "海之歌 永恩 迷人晚霞",
+      "chromas": false
+    },
+    {
+      "id": "777028",
+      "name": "海之歌 永恩 清凉海风",
+      "chromas": false
+    },
+    {
+      "id": "777029",
+      "name": "海之歌 永恩 葱郁椰林",
+      "chromas": false
+    },
+    {
+      "id": "777030",
+      "name": "海之歌 永恩 浪漫氛围",
+      "chromas": false
+    },
+    {
+      "id": "777031",
+      "name": "海之歌 永恩 逐浪流沙",
+      "chromas": false
+    },
+    {
+      "id": "777032",
+      "name": "海之歌 永恩 幻彩夜空",
+      "chromas": false
+    },
+    {
+      "id": "777033",
+      "name": "海之歌 永恩 冰爽浪花",
+      "chromas": false
+    },
+    {
+      "id": "777034",
+      "name": "海之歌 永恩 月夜潮汐",
+      "chromas": false
+    },
+    {
+      "id": "777035",
+      "name": "墨之影武者 永恩",
+      "chromas": true
+    },
+    {
+      "id": "777036",
+      "name": "墨之影武者 永恩 炽墨挥影",
+      "chromas": false
+    },
+    {
+      "id": "777037",
+      "name": "墨之影武者 永恩 茶墨绘影",
+      "chromas": false
+    },
+    {
+      "id": "777038",
+      "name": "墨之影武者 永恩 云墨漾影",
+      "chromas": false
+    },
+    {
+      "id": "777039",
+      "name": "墨之影武者 永恩 森墨拂影",
+      "chromas": false
+    },
+    {
+      "id": "777040",
+      "name": "墨之影武者 永恩 晶墨绽影",
+      "chromas": false
+    },
+    {
+      "id": "777041",
+      "name": "墨之影武者 永恩 樱墨映影",
+      "chromas": false
+    },
+    {
+      "id": "777042",
+      "name": "墨之影武者 永恩 松墨彰影",
+      "chromas": false
+    },
+    {
+      "id": "777043",
+      "name": "墨之影武者 永恩 玄墨蕴影",
+      "chromas": false
+    },
+    {
+      "id": "777044",
+      "name": "墨之影武者 永恩 灵墨刻影",
+      "chromas": false
+    },
+    {
+      "id": "777045",
+      "name": "心之钢 永恩",
+      "chromas": true
+    },
+    {
+      "id": "777046",
+      "name": "至臻 心之钢 永恩",
+      "chromas": false
+    },
+    {
+      "id": "777047",
+      "name": "心之钢 永恩 锐意曲风",
+      "chromas": false
+    },
+    {
+      "id": "777048",
+      "name": "心之钢 永恩 无畏斗志",
+      "chromas": false
+    },
+    {
+      "id": "777049",
+      "name": "心之钢 永恩 坚守决意",
+      "chromas": false
+    },
+    {
+      "id": "777050",
+      "name": "心之钢 永恩 本真风范",
+      "chromas": false
+    },
+    {
+      "id": "777051",
+      "name": "心之钢 永恩 超凡信心",
+      "chromas": false
+    },
+    {
+      "id": "777052",
+      "name": "心之钢 永恩 天纵才华",
+      "chromas": false
+    },
+    {
+      "id": "777053",
+      "name": "心之钢 永恩 典雅品味",
+      "chromas": false
+    },
+    {
+      "id": "777054",
+      "name": "心之钢 永恩 金声玉振",
+      "chromas": false
+    },
+    {
+      "id": "777055",
+      "name": "西部魔影 永恩",
+      "chromas": true
+    },
+    {
+      "id": "777056",
+      "name": "心之钢 永恩 摇滚明星",
+      "chromas": false
+    },
+    {
+      "id": "777058",
+      "name": "西部魔影 炽天使 永恩",
+      "chromas": false
+    },
+    {
+      "id": "777059",
+      "name": "西部魔影 永恩 温和",
+      "chromas": false
+    },
+    {
+      "id": "777060",
+      "name": "西部魔影 永恩 善良",
+      "chromas": false
+    },
+    {
+      "id": "777061",
+      "name": "西部魔影 永恩 诚实",
+      "chromas": false
+    },
+    {
+      "id": "777062",
+      "name": "西部魔影 永恩 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "777063",
+      "name": "西部魔影 永恩 谦卑",
+      "chromas": false
+    },
+    {
+      "id": "777064",
+      "name": "西部魔影 永恩 正午幻日",
+      "chromas": false
+    },
+    {
+      "id": "777065",
+      "name": "正义假面 永恩",
+      "chromas": false
+    },
+    {
+      "id": "777066",
+      "name": "正义假面 永恩 歌颂爱与和平",
+      "chromas": true
+    },
+    {
+      "id": "777067",
+      "name": "正义假面 永恩 贯彻吾之道路",
+      "chromas": false
+    },
+    {
+      "id": "777068",
+      "name": "正义假面 永恩 为了无憾而活",
+      "chromas": false
+    },
+    {
+      "id": "777069",
+      "name": "正义假面 永恩 英雄不靠自封",
+      "chromas": false
+    },
+    {
+      "id": "777070",
+      "name": "正义假面 永恩 保护爱的微笑",
+      "chromas": false
+    },
+    {
+      "id": "777071",
+      "name": "正义假面 永恩 化绝望为希望",
+      "chromas": false
+    },
+    {
+      "id": "777072",
+      "name": "正义假面 永恩 守梦的无梦者",
+      "chromas": false
+    },
+    {
+      "id": "777073",
+      "name": "正义假面 永恩 恶魔的同行者",
+      "chromas": false
+    },
+    {
+      "id": "777074",
+      "name": "T1 永恩",
+      "chromas": false
+    },
+    {
+      "id": "777075",
+      "name": "T1 永恩 精锐",
+      "chromas": true
+    },
+    {
+      "id": "777076",
+      "name": "墨之影武者 永恩 至强",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "狩人之道",
+    "description": "永恩每第二次攻击造成魔法伤害。此外，他的暴击几率提升。",
+    "image": "YonePassive.png"
+  },
+  "spells": [
+    {
+      "name": "错玉切",
+      "description": "向前出剑，呈直线造成伤害。在命中时，错玉切会获得一层旋风烈斩效果，持续数秒。在2层时，错玉切会使永恩向前冲刺并带着一阵能够击飞敌人的旋风。",
+      "tooltip": "永恩向前出剑，造成{{ qdamage }}物理伤害。在命中时，提供一层持续{{ buffduration }}秒的可叠加效果。在积攒2层效果后，这个技能会使永恩向前冲刺，并带着一阵能够击飞敌人{{ q3knockupduration }}秒的的旋风，造成{{ qdamage }}物理伤害。",
+      "cooldown": "4",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "450",
+      "maxrank": 5,
+      "image": "YoneQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "凛神斩",
+      "description": "向前顺劈，对锥形范围内的所有敌人造成伤害。为永恩提供一个护盾，护盾生命值会基于被顺劈到的敌方英雄的数量而得到提升。凛神斩的冷却时间和施放时间可通过攻击速度来缩短。",
+      "tooltip": "永恩向前顺劈，造成{{ basedamage*0.5 }}+目标{{ maxhealthdamage*50 }}%最大生命值的物理伤害和{{ basedamage*0.5 }}+目标{{ maxhealthdamage*50 }}%最大生命值的魔法伤害。如果永恩命中了敌方单位，那么他会获得{{ wshield }}护盾，持续{{ shieldduration }}秒。每命中一名敌方英雄，护盾生命值都会提升。",
+      "cooldown": "14",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "700",
+      "maxrank": 5,
+      "image": "YoneW.png",
+      "key": "W"
+    },
+    {
+      "name": "破障之锋",
+      "description": "永恩的灵体离开他的身体，并获得移动速度。当这个技能结束时，永恩的灵体会被强制返回他的身体，并且他会再次造成伤害，伤害值相当于一部分他在灵体形态中造成的伤害。",
+      "tooltip": "永恩进入灵体形态{{ returntimer }}秒，期间会将他的身体留在原地，并获得不断提升的{{ startingms*100 }}%到{{ movementspeed*100 }}%移动速度。当灵体形态结束时，永恩会返回他的身体，并再次造成伤害，伤害值相当于他在此期间对英雄造成伤害的{{ deathmarkpercent*100 }}%。你可以在灵体形态期间再次施放这个技能。再次施放：提前结束灵体形态。",
+      "cooldown": "22/19/16/13/10",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "25000",
+      "maxrank": 5,
+      "image": "YoneE.png",
+      "key": "E"
+    },
+    {
+      "name": "封尘绝念斩",
+      "description": "永恩沿直线进行斩击，闪烁至最后一名敌方英雄身后，并将命中的所有敌人拉向他。",
+      "tooltip": "永恩对一条路径上的所有敌人进行打击，造成{{ tooltipdamage }}物理伤害和{{ tooltipdamage }}魔法伤害，传送至命中的最后一名敌方英雄身后，并将命中的所有敌人击飞向永恩。",
+      "cooldown": "120/100/80",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "1000",
+      "maxrank": 3,
+      "image": "YoneR.png",
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,6674 @@
+{
+  "version": "16.10.1",
+  "total": 172,
+  "success": 172,
+  "updated": "2026-06-17 14:39:22",
+  "champions": {
+    "Aatrox": {
+      "id": "Aatrox",
+      "name": "暗裔剑魔",
+      "title": "亚托克斯",
+      "region": "符文之地",
+      "tags": [
+        "战士"
+      ],
+      "passive": "赐死剑气",
+      "spells": [
+        "暗裔利刃",
+        "恶火束链",
+        "暗影冲决",
+        "大灭"
+      ],
+      "stats": {
+        "hp": 650,
+        "hpPerLevel": 114,
+        "mp": 0,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 38,
+        "armorPerLevel": 4.8,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.651,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 3,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "name": "九尾妖狐",
+      "title": "阿狸",
+      "region": "艾欧尼亚",
+      "tags": [
+        "法师",
+        "刺客"
+      ],
+      "passive": "摄魂夺魄",
+      "spells": [
+        "欺诈宝珠",
+        "妖异狐火",
+        "魅惑妖术",
+        "灵魄突袭"
+      ],
+      "stats": {
+        "hp": 590,
+        "hpPerLevel": 104,
+        "mp": 418,
+        "mpPerLevel": 25,
+        "movespeed": 330,
+        "armor": 21,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 53,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.668,
+        "attackspeedPerLevel": 2.2,
+        "hpregen": 2.5,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Akali": {
+      "id": "Akali",
+      "name": "离群之刺",
+      "title": "阿卡丽",
+      "region": "艾欧尼亚",
+      "tags": [
+        "刺客"
+      ],
+      "passive": "我流忍法！潜龙印",
+      "spells": [
+        "我流奥义！寒影",
+        "我流奥义！霞阵",
+        "我流奥义！隼舞",
+        "我流秘奥义！表里杀缭乱"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 119,
+        "mp": 200,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 23,
+        "armorPerLevel": 4.7,
+        "spellblock": 37,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3.2,
+        "hpregen": 9,
+        "hpregenPerLevel": 0.9,
+        "mpregen": 50,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Akshan": {
+      "id": "Akshan",
+      "name": "影哨",
+      "title": "阿克尚",
+      "region": "恕瑞玛",
+      "tags": [
+        "射手",
+        "刺客"
+      ],
+      "passive": "无所不用",
+      "spells": [
+        "去而复还",
+        "赴险夺人",
+        "骄行荡寇",
+        "恩怨相抵"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 107,
+        "mp": 350,
+        "mpPerLevel": 40,
+        "movespeed": 330,
+        "armor": 26,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 500,
+        "attackdamage": 52,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.638,
+        "attackspeedPerLevel": 4,
+        "hpregen": 3.75,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 8.2,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Alistar": {
+      "id": "Alistar",
+      "name": "牛头酋长",
+      "title": "阿利斯塔",
+      "region": "符文之地",
+      "tags": [
+        "坦克",
+        "辅助"
+      ],
+      "passive": "凯旋怒吼",
+      "spells": [
+        "大地粉碎",
+        "野蛮冲撞",
+        "践踏",
+        "坚定意志"
+      ],
+      "stats": {
+        "hp": 685,
+        "hpPerLevel": 120,
+        "mp": 350,
+        "mpPerLevel": 40,
+        "movespeed": 330,
+        "armor": 40,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.125,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.85,
+        "mpregen": 8.5,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Ambessa": {
+      "id": "Ambessa",
+      "name": "铁血狼母",
+      "title": "安蓓萨",
+      "region": "诺克萨斯",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "龙犬诡步",
+      "spells": [
+        "暗袭 / 裂斩",
+        "铁令",
+        "血戮",
+        "公开处刑"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 110,
+        "mp": 200,
+        "mpPerLevel": 0,
+        "movespeed": 335,
+        "armor": 35,
+        "armorPerLevel": 4.9,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 63,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 50,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Amumu": {
+      "id": "Amumu",
+      "name": "殇之木乃伊",
+      "title": "阿木木",
+      "region": "恕瑞玛",
+      "tags": [
+        "坦克",
+        "辅助"
+      ],
+      "passive": "诅咒之触",
+      "spells": [
+        "绷带牵引",
+        "绝望光环",
+        "阿木木的愤怒",
+        "木乃伊之咒"
+      ],
+      "stats": {
+        "hp": 685,
+        "hpPerLevel": 94,
+        "mp": 285,
+        "mpPerLevel": 40,
+        "movespeed": 335,
+        "armor": 33,
+        "armorPerLevel": 4,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 57,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.736,
+        "attackspeedPerLevel": 2.18,
+        "hpregen": 9,
+        "hpregenPerLevel": 0.85,
+        "mpregen": 7.4,
+        "mpregenPerLevel": 0.55,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Anivia": {
+      "id": "Anivia",
+      "name": "冰晶凤凰",
+      "title": "艾尼维亚",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "法师"
+      ],
+      "passive": "寒霜涅槃",
+      "spells": [
+        "寒冰闪耀",
+        "寒冰屏障",
+        "霜寒刺骨",
+        "冰川风暴"
+      ],
+      "stats": {
+        "hp": 550,
+        "hpPerLevel": 92,
+        "mp": 495,
+        "mpPerLevel": 45,
+        "movespeed": 325,
+        "armor": 19,
+        "armorPerLevel": 4.1,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 600,
+        "attackdamage": 51,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 1.68,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Annie": {
+      "id": "Annie",
+      "name": "黑暗之女",
+      "title": "安妮",
+      "region": "符文之地",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "嗜火",
+      "spells": [
+        "碎裂之火",
+        "焚烧",
+        "熔岩护盾",
+        "提伯斯之怒"
+      ],
+      "stats": {
+        "hp": 560,
+        "hpPerLevel": 96,
+        "mp": 418,
+        "mpPerLevel": 25,
+        "movespeed": 335,
+        "armor": 23,
+        "armorPerLevel": 4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 625,
+        "attackdamage": 50,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.61,
+        "attackspeedPerLevel": 1.36,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Aphelios": {
+      "id": "Aphelios",
+      "name": "残月之肃",
+      "title": "厄斐琉斯",
+      "region": "巨神峰",
+      "tags": [
+        "射手"
+      ],
+      "passive": "传知者与真知者",
+      "spells": [
+        "武器技能",
+        "月相轮转",
+        "武器队列系统",
+        "清辉夜凝"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 102,
+        "mp": 348,
+        "mpPerLevel": 42,
+        "movespeed": 325,
+        "armor": 26,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.665,
+        "attackspeedPerLevel": 2.1,
+        "hpregen": 3.25,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 6.5,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Ashe": {
+      "id": "Ashe",
+      "name": "寒冰射手",
+      "title": "艾希",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "射手",
+        "辅助"
+      ],
+      "passive": "冰霜射击",
+      "spells": [
+        "射手的专注",
+        "万箭齐发",
+        "鹰击长空",
+        "魔法水晶箭"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 101,
+        "mp": 280,
+        "mpPerLevel": 35,
+        "movespeed": 325,
+        "armor": 26,
+        "armorPerLevel": 4.6,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 600,
+        "attackdamage": 59,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 3,
+        "hpregen": 3.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.65,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "AurelionSol": {
+      "id": "AurelionSol",
+      "name": "铸星龙王",
+      "title": "奥瑞利安·索尔",
+      "region": "符文之地",
+      "tags": [
+        "法师"
+      ],
+      "passive": "星海焕然",
+      "spells": [
+        "星河冲荡",
+        "星穹流丽",
+        "星芒凝汇",
+        "星天落瀑"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 90,
+        "mp": 530,
+        "mpPerLevel": 40,
+        "movespeed": 340,
+        "armor": 22,
+        "armorPerLevel": 4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 58,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1.5,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.75,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Aurora": {
+      "id": "Aurora",
+      "name": "双界灵兔",
+      "title": "阿萝拉",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "法师",
+        "刺客"
+      ],
+      "passive": "驱灵奇术",
+      "spells": [
+        "飞去来咒",
+        "灵纱洞开",
+        "怪奇喷涌",
+        "双界合一"
+      ],
+      "stats": {
+        "hp": 607,
+        "hpPerLevel": 110,
+        "mp": 475,
+        "mpPerLevel": 30,
+        "movespeed": 335,
+        "armor": 23,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 53,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.668,
+        "attackspeedPerLevel": 2,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Azir": {
+      "id": "Azir",
+      "name": "沙漠皇帝",
+      "title": "阿兹尔",
+      "region": "恕瑞玛",
+      "tags": [
+        "法师",
+        "射手"
+      ],
+      "passive": "恕瑞玛的传承",
+      "spells": [
+        "狂沙猛攻",
+        "沙兵现身",
+        "流沙移形",
+        "禁军之墙"
+      ],
+      "stats": {
+        "hp": 575,
+        "hpPerLevel": 108,
+        "mp": 320,
+        "mpPerLevel": 40,
+        "movespeed": 330,
+        "armor": 25,
+        "armorPerLevel": 5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 56,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 5,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Bard": {
+      "id": "Bard",
+      "name": "星界游神",
+      "title": "巴德",
+      "region": "符文之地",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "旅者的召唤",
+      "spells": [
+        "星界束缚",
+        "游神圣坛",
+        "神奇旅程",
+        "调和命运"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 103,
+        "mp": 350,
+        "mpPerLevel": 50,
+        "movespeed": 335,
+        "armor": 34,
+        "armorPerLevel": 5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 500,
+        "attackdamage": 52,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.45,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Belveth": {
+      "id": "Belveth",
+      "name": "虚空女皇",
+      "title": "卑尔维斯",
+      "region": "虚空之地",
+      "tags": [
+        "战士"
+      ],
+      "passive": "溶烛化紫 ",
+      "spells": [
+        "虚空激流",
+        "上觐沉渊",
+        "搠面皇锋",
+        "万载豪筵"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 105,
+        "mp": 60,
+        "mpPerLevel": 0,
+        "movespeed": 340,
+        "armor": 32,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.85,
+        "attackspeedPerLevel": 0,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Blitzcrank": {
+      "id": "Blitzcrank",
+      "name": "蒸汽机器人",
+      "title": "布里茨",
+      "region": "祖安",
+      "tags": [
+        "坦克",
+        "辅助"
+      ],
+      "passive": "法力屏障",
+      "spells": [
+        "机械飞爪",
+        "过载运转",
+        "能量铁拳",
+        "静电力场"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 109,
+        "mp": 267,
+        "mpPerLevel": 40,
+        "movespeed": 325,
+        "armor": 37,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1.13,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 8.5,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Brand": {
+      "id": "Brand",
+      "name": "复仇焰魂",
+      "title": "布兰德",
+      "region": "符文之地",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "炽热之焰",
+      "spells": [
+        "火焰烙印",
+        "烈焰之柱",
+        "烈火燃烧",
+        "烈焰风暴"
+      ],
+      "stats": {
+        "hp": 570,
+        "hpPerLevel": 105,
+        "mp": 469,
+        "mpPerLevel": 21,
+        "movespeed": 340,
+        "armor": 27,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 57,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.681,
+        "attackspeedPerLevel": 2,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 9,
+        "mpregenPerLevel": 0.6,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Braum": {
+      "id": "Braum",
+      "name": "弗雷尔卓德之心",
+      "title": "布隆",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "坦克",
+        "辅助"
+      ],
+      "passive": "震荡猛击",
+      "spells": [
+        "寒冬之咬",
+        "挺身而出",
+        "坚不可摧",
+        "冰川裂隙"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 112,
+        "mp": 311,
+        "mpPerLevel": 45,
+        "movespeed": 335,
+        "armor": 35,
+        "armorPerLevel": 5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.644,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 1,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Briar": {
+      "id": "Briar",
+      "name": "狂厄蔷薇",
+      "title": "贝蕾亚",
+      "region": "诺克萨斯",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "猩红诅咒",
+      "spells": [
+        "冲头",
+        "血莽 / 噬击",
+        "惊吼",
+        "毙除"
+      ],
+      "stats": {
+        "hp": 625,
+        "hpPerLevel": 95,
+        "mp": 0,
+        "mpPerLevel": 0,
+        "movespeed": 340,
+        "armor": 30,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.644,
+        "attackspeedPerLevel": 2,
+        "hpregen": 0,
+        "hpregenPerLevel": 0,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Caitlyn": {
+      "id": "Caitlyn",
+      "name": "皮城女警",
+      "title": "凯特琳",
+      "region": "皮尔特沃夫",
+      "tags": [
+        "射手"
+      ],
+      "passive": "爆头",
+      "spells": [
+        "和平使者",
+        "约德尔诱捕器",
+        "90口径绳网",
+        "让子弹飞"
+      ],
+      "stats": {
+        "hp": 580,
+        "hpPerLevel": 107,
+        "mp": 315,
+        "mpPerLevel": 40,
+        "movespeed": 325,
+        "armor": 27,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 650,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.681,
+        "attackspeedPerLevel": 4,
+        "hpregen": 3.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 7.4,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Camille": {
+      "id": "Camille",
+      "name": "青钢影",
+      "title": "卡蜜尔",
+      "region": "皮尔特沃夫",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "适应性防御",
+      "spells": [
+        "精准礼仪",
+        "战术横扫",
+        "钩索",
+        "海克斯最后通牒"
+      ],
+      "stats": {
+        "hp": 650,
+        "hpPerLevel": 99,
+        "mp": 339,
+        "mpPerLevel": 52,
+        "movespeed": 340,
+        "armor": 35,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.644,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.8,
+        "mpregen": 8.15,
+        "mpregenPerLevel": 0.75,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Cassiopeia": {
+      "id": "Cassiopeia",
+      "name": "魔蛇之拥",
+      "title": "卡西奥佩娅",
+      "region": "诺克萨斯",
+      "tags": [
+        "法师"
+      ],
+      "passive": "优雅蛇行",
+      "spells": [
+        "瘟毒爆炸",
+        "剧毒迷雾",
+        "双生毒牙",
+        "石化凝视"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 104,
+        "mp": 480,
+        "mpPerLevel": 40,
+        "movespeed": 335,
+        "armor": 18,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 53,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.647,
+        "attackspeedPerLevel": 1.5,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Chogath": {
+      "id": "Chogath",
+      "name": "虚空恐惧",
+      "title": "科加斯",
+      "region": "虚空之地",
+      "tags": [
+        "坦克",
+        "法师"
+      ],
+      "passive": "肉食者",
+      "spells": [
+        "破裂",
+        "野性尖叫",
+        "恐惧之刺",
+        "盛宴"
+      ],
+      "stats": {
+        "hp": 644,
+        "hpPerLevel": 94,
+        "mp": 270,
+        "mpPerLevel": 60,
+        "movespeed": 345,
+        "armor": 38,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 69,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 1.44,
+        "hpregen": 9,
+        "hpregenPerLevel": 0.85,
+        "mpregen": 7.2,
+        "mpregenPerLevel": 0.45,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Corki": {
+      "id": "Corki",
+      "name": "英勇投弹手",
+      "title": "库奇",
+      "region": "班德尔城",
+      "tags": [
+        "射手",
+        "法师"
+      ],
+      "passive": "海克斯科技军备",
+      "spells": [
+        "磷光炸弹",
+        "瓦尔基里俯冲",
+        "格林机枪",
+        "火箭轰击"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 100,
+        "mp": 350,
+        "mpPerLevel": 40,
+        "movespeed": 325,
+        "armor": 27,
+        "armorPerLevel": 4.5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 52,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.644,
+        "attackspeedPerLevel": 2.8,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 7.4,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Darius": {
+      "id": "Darius",
+      "name": "诺克萨斯之手",
+      "title": "德莱厄斯",
+      "region": "诺克萨斯",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "出血",
+      "spells": [
+        "大杀四方",
+        "致残打击",
+        "无情铁手",
+        "诺克萨斯断头台"
+      ],
+      "stats": {
+        "hp": 652,
+        "hpPerLevel": 114,
+        "mp": 263,
+        "mpPerLevel": 58,
+        "movespeed": 340,
+        "armor": 37,
+        "armorPerLevel": 5.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 64,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1,
+        "hpregen": 10,
+        "hpregenPerLevel": 0.95,
+        "mpregen": 6.6,
+        "mpregenPerLevel": 0.35,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Diana": {
+      "id": "Diana",
+      "name": "皎月女神",
+      "title": "黛安娜",
+      "region": "巨神峰",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "月银之刃",
+      "spells": [
+        "新月打击",
+        "苍白之瀑",
+        "月神冲刺",
+        "月之降临"
+      ],
+      "stats": {
+        "hp": 640,
+        "hpPerLevel": 109,
+        "mp": 375,
+        "mpPerLevel": 25,
+        "movespeed": 345,
+        "armor": 31,
+        "armorPerLevel": 4.3,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 57,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2,
+        "hpregen": 6.5,
+        "hpregenPerLevel": 0.85,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "DrMundo": {
+      "id": "DrMundo",
+      "name": "祖安狂人",
+      "title": "蒙多医生",
+      "region": "祖安",
+      "tags": [
+        "坦克",
+        "战士"
+      ],
+      "passive": "想去哪就去哪",
+      "spells": [
+        "病毒屠刀",
+        "电击疗法",
+        "大力行医",
+        "极限剂量"
+      ],
+      "stats": {
+        "hp": 640,
+        "hpPerLevel": 103,
+        "mp": 0,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 32,
+        "armorPerLevel": 4.5,
+        "spellblock": 29,
+        "spellblockPerLevel": 2.3,
+        "attackrange": 125,
+        "attackdamage": 61,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.67,
+        "attackspeedPerLevel": 3.3,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Draven": {
+      "id": "Draven",
+      "name": "荣耀行刑官",
+      "title": "德莱文",
+      "region": "诺克萨斯",
+      "tags": [
+        "射手"
+      ],
+      "passive": "德莱文联盟",
+      "spells": [
+        "旋转飞斧",
+        "血性冲刺",
+        "开道利斧",
+        "冷血追命"
+      ],
+      "stats": {
+        "hp": 675,
+        "hpPerLevel": 104,
+        "mp": 361,
+        "mpPerLevel": 39,
+        "movespeed": 330,
+        "armor": 29,
+        "armorPerLevel": 4.5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.679,
+        "attackspeedPerLevel": 2.7,
+        "hpregen": 3.75,
+        "hpregenPerLevel": 0.7,
+        "mpregen": 8.05,
+        "mpregenPerLevel": 0.65,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Ekko": {
+      "id": "Ekko",
+      "name": "时间刺客",
+      "title": "艾克",
+      "region": "祖安",
+      "tags": [
+        "刺客",
+        "法师"
+      ],
+      "passive": "Z型驱动共振",
+      "spells": [
+        "时间卷曲器",
+        "时光交错",
+        "相位俯冲",
+        "时空断裂"
+      ],
+      "stats": {
+        "hp": 655,
+        "hpPerLevel": 99,
+        "mp": 280,
+        "mpPerLevel": 70,
+        "movespeed": 340,
+        "armor": 32,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 58,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.688,
+        "attackspeedPerLevel": 3.3,
+        "hpregen": 9,
+        "hpregenPerLevel": 0.9,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Elise": {
+      "id": "Elise",
+      "name": "蜘蛛女皇",
+      "title": "伊莉丝",
+      "region": "暗影岛",
+      "tags": [
+        "刺客",
+        "法师"
+      ],
+      "passive": "蜘蛛女皇",
+      "spells": [
+        "神经毒素 / 剧毒之蜇",
+        "自爆蜘蛛 / 掠行狂暴",
+        "结茧 / 盘丝",
+        "蜘蛛形态"
+      ],
+      "stats": {
+        "hp": 620,
+        "hpPerLevel": 109,
+        "mp": 324,
+        "mpPerLevel": 50,
+        "movespeed": 330,
+        "armor": 30,
+        "armorPerLevel": 4.5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1.75,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Evelynn": {
+      "id": "Evelynn",
+      "name": "痛苦之拥",
+      "title": "伊芙琳",
+      "region": "符文之地",
+      "tags": [
+        "刺客",
+        "法师"
+      ],
+      "passive": "恶魔魅影",
+      "spells": [
+        "憎恨之刺",
+        "引诱",
+        "鞭笞",
+        "最终抚慰"
+      ],
+      "stats": {
+        "hp": 642,
+        "hpPerLevel": 98,
+        "mp": 315,
+        "mpPerLevel": 42,
+        "movespeed": 335,
+        "armor": 37,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 61,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.667,
+        "attackspeedPerLevel": 2.1,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 8.11,
+        "mpregenPerLevel": 0.6,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Ezreal": {
+      "id": "Ezreal",
+      "name": "探险家",
+      "title": "伊泽瑞尔",
+      "region": "皮尔特沃夫",
+      "tags": [
+        "射手",
+        "法师"
+      ],
+      "passive": "咒能高涨",
+      "spells": [
+        "秘术射击",
+        "精华跃动",
+        "奥术跃迁",
+        "精准弹幕"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 102,
+        "mp": 375,
+        "mpPerLevel": 70,
+        "movespeed": 325,
+        "armor": 24,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 4,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 8.5,
+        "mpregenPerLevel": 1,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Fiddlesticks": {
+      "id": "Fiddlesticks",
+      "name": "远古恐惧",
+      "title": "费德提克",
+      "region": "符文之地",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "巫骇草人",
+      "spells": [
+        "恐惧",
+        "五骨丰登",
+        "夜割",
+        "群鸦风暴"
+      ],
+      "stats": {
+        "hp": 650,
+        "hpPerLevel": 106,
+        "mp": 500,
+        "mpPerLevel": 28,
+        "movespeed": 335,
+        "armor": 34,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 480,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.11,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Fiora": {
+      "id": "Fiora",
+      "name": "无双剑姬",
+      "title": "菲奥娜",
+      "region": "德玛西亚",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "决斗之舞",
+      "spells": [
+        "破空斩",
+        "劳伦特心眼刀",
+        "夺命连刺",
+        "无双挑战"
+      ],
+      "stats": {
+        "hp": 620,
+        "hpPerLevel": 99,
+        "mp": 300,
+        "mpPerLevel": 60,
+        "movespeed": 345,
+        "armor": 33,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 66,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.69,
+        "attackspeedPerLevel": 3.2,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Fizz": {
+      "id": "Fizz",
+      "name": "潮汐海灵",
+      "title": "菲兹",
+      "region": "符文之地",
+      "tags": [
+        "刺客",
+        "战士"
+      ],
+      "passive": "伶俐斗士",
+      "spells": [
+        "淘气打击",
+        "海石三叉戟",
+        "古灵/精怪",
+        "巨鲨强袭"
+      ],
+      "stats": {
+        "hp": 640,
+        "hpPerLevel": 106,
+        "mp": 317,
+        "mpPerLevel": 52,
+        "movespeed": 335,
+        "armor": 26,
+        "armorPerLevel": 4.6,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 58,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 3.1,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.7,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Galio": {
+      "id": "Galio",
+      "name": "正义巨像",
+      "title": "加里奥",
+      "region": "德玛西亚",
+      "tags": [
+        "坦克",
+        "法师"
+      ],
+      "passive": "巨像重击",
+      "spells": [
+        "战争罡风",
+        "杜朗护盾",
+        "正义冲拳",
+        "英雄登场"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 126,
+        "mp": 410,
+        "mpPerLevel": 40,
+        "movespeed": 340,
+        "armor": 24,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 59,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1.5,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.8,
+        "mpregen": 9.5,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Gangplank": {
+      "id": "Gangplank",
+      "name": "海洋之灾",
+      "title": "普朗克",
+      "region": "比尔吉沃特",
+      "tags": [
+        "战士"
+      ],
+      "passive": "烈火审讯",
+      "spells": [
+        "枪火谈判",
+        "坏血病疗法",
+        "火药桶",
+        "加农炮幕"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 114,
+        "mp": 280,
+        "mpPerLevel": 60,
+        "movespeed": 345,
+        "armor": 31,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 64,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 3.2,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Garen": {
+      "id": "Garen",
+      "name": "德玛西亚之力",
+      "title": "盖伦",
+      "region": "德玛西亚",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "坚韧",
+      "spells": [
+        "致命打击",
+        "勇气",
+        "审判",
+        "德玛西亚正义"
+      ],
+      "stats": {
+        "hp": 690,
+        "hpPerLevel": 98,
+        "mp": 0,
+        "mpPerLevel": 0,
+        "movespeed": 340,
+        "armor": 38,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 1.55,
+        "attackrange": 175,
+        "attackdamage": 69,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3.65,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Gnar": {
+      "id": "Gnar",
+      "name": "迷失之牙",
+      "title": "纳尔",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "狂怒基因",
+      "spells": [
+        "投掷回力标 / 投掷顽石",
+        "亢奋 /  痛殴",
+        "轻跳 / 猛踏",
+        "呐啊！"
+      ],
+      "stats": {
+        "hp": 540,
+        "hpPerLevel": 79,
+        "mp": 100,
+        "mpPerLevel": 0,
+        "movespeed": 335,
+        "armor": 32,
+        "armorPerLevel": 3.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 175,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 6,
+        "hpregen": 4.5,
+        "hpregenPerLevel": 1.25,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Gragas": {
+      "id": "Gragas",
+      "name": "酒桶",
+      "title": "古拉加斯",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "战士",
+        "法师"
+      ],
+      "passive": "欢乐时光",
+      "spells": [
+        "滚动酒桶",
+        "醉酒狂暴",
+        "肉弹冲击",
+        "爆破酒桶"
+      ],
+      "stats": {
+        "hp": 640,
+        "hpPerLevel": 115,
+        "mp": 400,
+        "mpPerLevel": 47,
+        "movespeed": 330,
+        "armor": 38,
+        "armorPerLevel": 5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 64,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.675,
+        "attackspeedPerLevel": 2.05,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Graves": {
+      "id": "Graves",
+      "name": "法外狂徒",
+      "title": "格雷福斯",
+      "region": "比尔吉沃特",
+      "tags": [
+        "射手"
+      ],
+      "passive": "新命运",
+      "spells": [
+        "穷途末路",
+        "烟幕弹",
+        "快速拔枪",
+        "终极爆弹"
+      ],
+      "stats": {
+        "hp": 625,
+        "hpPerLevel": 106,
+        "mp": 325,
+        "mpPerLevel": 40,
+        "movespeed": 340,
+        "armor": 33,
+        "armorPerLevel": 4.6,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 425,
+        "attackdamage": 66,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.475,
+        "attackspeedPerLevel": 3,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.7,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Gwen": {
+      "id": "Gwen",
+      "name": "灵罗娃娃",
+      "title": "格温",
+      "region": "暗影岛",
+      "tags": [
+        "战士"
+      ],
+      "passive": "千穿百孔",
+      "spells": [
+        "快刀剪乱",
+        "丝缕缠流",
+        "断续疾走",
+        "引针簇射"
+      ],
+      "stats": {
+        "hp": 620,
+        "hpPerLevel": 115,
+        "mp": 330,
+        "mpPerLevel": 40,
+        "movespeed": 340,
+        "armor": 39,
+        "armorPerLevel": 4.9,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 63,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.69,
+        "attackspeedPerLevel": 2.25,
+        "hpregen": 9,
+        "hpregenPerLevel": 0.9,
+        "mpregen": 7.5,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Hecarim": {
+      "id": "Hecarim",
+      "name": "战争之影",
+      "title": "赫卡里姆",
+      "region": "暗影岛",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "征战之路",
+      "spells": [
+        "暴走",
+        "恐惧之灵",
+        "毁灭冲锋",
+        "暗影冲击"
+      ],
+      "stats": {
+        "hp": 625,
+        "hpPerLevel": 106,
+        "mp": 280,
+        "mpPerLevel": 40,
+        "movespeed": 345,
+        "armor": 32,
+        "armorPerLevel": 5.45,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 66,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.67,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Heimerdinger": {
+      "id": "Heimerdinger",
+      "name": "大发明家",
+      "title": "黑默丁格",
+      "region": "皮尔特沃夫",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "海克斯科技亲和",
+      "spells": [
+        "H-28 G 进化炮台",
+        "海克斯科技微型导弹",
+        "CH-2电子风暴手雷",
+        "升级！！！"
+      ],
+      "stats": {
+        "hp": 558,
+        "hpPerLevel": 105,
+        "mp": 385,
+        "mpPerLevel": 20,
+        "movespeed": 340,
+        "armor": 19,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 56,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 1.36,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Hwei": {
+      "id": "Hwei",
+      "name": "异画师",
+      "title": "彗",
+      "region": "艾欧尼亚",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "落款",
+      "spells": [
+        "主题：灾",
+        "主题：靖",
+        "主题：悚",
+        "焚心绚华绘"
+      ],
+      "stats": {
+        "hp": 580,
+        "hpPerLevel": 109,
+        "mp": 480,
+        "mpPerLevel": 30,
+        "movespeed": 330,
+        "armor": 21,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 54,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.69,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 7.5,
+        "mpregenPerLevel": 0.75,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Illaoi": {
+      "id": "Illaoi",
+      "name": "海兽祭司",
+      "title": "俄洛伊",
+      "region": "比尔吉沃特",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "古神先知",
+      "spells": [
+        "触手猛击",
+        "严酷训诫",
+        "灵魂试炼",
+        "过界信仰"
+      ],
+      "stats": {
+        "hp": 656,
+        "hpPerLevel": 115,
+        "mp": 350,
+        "mpPerLevel": 50,
+        "movespeed": 350,
+        "armor": 35,
+        "armorPerLevel": 5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 65,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 9.5,
+        "hpregenPerLevel": 0.8,
+        "mpregen": 7.5,
+        "mpregenPerLevel": 0.75,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Irelia": {
+      "id": "Irelia",
+      "name": "刀锋舞者",
+      "title": "艾瑞莉娅",
+      "region": "艾欧尼亚",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "艾欧尼亚热诚",
+      "spells": [
+        "利刃冲击",
+        "距破之舞",
+        "比翼双刃",
+        "先锋之刃"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 115,
+        "mp": 350,
+        "mpPerLevel": 50,
+        "movespeed": 335,
+        "armor": 36,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 200,
+        "attackdamage": 65,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.656,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 3.5,
+        "hpregenPerLevel": 0.85,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Ivern": {
+      "id": "Ivern",
+      "name": "翠神",
+      "title": "艾翁",
+      "region": "艾欧尼亚",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "森林之友",
+      "spells": [
+        "根深敌固",
+        "揠苗助攻",
+        "种豆得瓜",
+        "小菊！"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 99,
+        "mp": 450,
+        "mpPerLevel": 60,
+        "movespeed": 330,
+        "armor": 27,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 475,
+        "attackdamage": 50,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.644,
+        "attackspeedPerLevel": 3.4,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.85,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.75,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Janna": {
+      "id": "Janna",
+      "name": "风暴之怒",
+      "title": "迦娜",
+      "region": "祖安",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "顺风而行",
+      "spells": [
+        "飓风呼啸",
+        "和风守护",
+        "风暴之眼",
+        "复苏季风"
+      ],
+      "stats": {
+        "hp": 570,
+        "hpPerLevel": 90,
+        "mp": 360,
+        "mpPerLevel": 50,
+        "movespeed": 325,
+        "armor": 28,
+        "armorPerLevel": 4.5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 47,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 11.5,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "JarvanIV": {
+      "id": "JarvanIV",
+      "name": "德玛西亚皇子",
+      "title": "嘉文四世",
+      "region": "德玛西亚",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "战争律动",
+      "spells": [
+        "巨龙撞击",
+        "黄金圣盾",
+        "德邦军旗",
+        "天崩地裂"
+      ],
+      "stats": {
+        "hp": 640,
+        "hpPerLevel": 104,
+        "mp": 300,
+        "mpPerLevel": 55,
+        "movespeed": 340,
+        "armor": 36,
+        "armorPerLevel": 4.6,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 64,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.7,
+        "mpregen": 6.5,
+        "mpregenPerLevel": 0.45,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Jax": {
+      "id": "Jax",
+      "name": "武器大师",
+      "title": "贾克斯",
+      "region": "符文之地",
+      "tags": [
+        "战士"
+      ],
+      "passive": "无情连打",
+      "spells": [
+        "跳斩",
+        "蓄力一击",
+        "反击风暴",
+        "武器大师"
+      ],
+      "stats": {
+        "hp": 650,
+        "hpPerLevel": 103,
+        "mp": 339,
+        "mpPerLevel": 52,
+        "movespeed": 350,
+        "armor": 36,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.638,
+        "attackspeedPerLevel": 3.4,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8.2,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Jayce": {
+      "id": "Jayce",
+      "name": "未来守护者",
+      "title": "杰斯",
+      "region": "皮尔特沃夫",
+      "tags": [
+        "战士",
+        "射手"
+      ],
+      "passive": "海克斯科技电容",
+      "spells": [
+        "苍穹之跃 / 电能震荡",
+        "闪电领域 / 超能电荷",
+        "雷霆一击 / 加速之门",
+        "墨丘利之炮 / 墨丘利之锤"
+      ],
+      "stats": {
+        "hp": 590,
+        "hpPerLevel": 109,
+        "mp": 375,
+        "mpPerLevel": 45,
+        "movespeed": 335,
+        "armor": 22,
+        "armorPerLevel": 5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 125,
+        "attackdamage": 59,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 3,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Jhin": {
+      "id": "Jhin",
+      "name": "戏命师",
+      "title": "烬",
+      "region": "艾欧尼亚",
+      "tags": [
+        "射手",
+        "法师"
+      ],
+      "passive": "低语",
+      "spells": [
+        "曼舞手雷",
+        "致命华彩",
+        "万众倾倒",
+        "完美谢幕"
+      ],
+      "stats": {
+        "hp": 655,
+        "hpPerLevel": 107,
+        "mp": 300,
+        "mpPerLevel": 50,
+        "movespeed": 330,
+        "armor": 24,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 61,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 0,
+        "hpregen": 3.75,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "name": "暴走萝莉",
+      "title": "金克丝",
+      "region": "祖安",
+      "tags": [
+        "射手"
+      ],
+      "passive": "罪恶快感",
+      "spells": [
+        "枪炮交响曲！",
+        "震荡电磁波！",
+        "嚼火者手雷！",
+        "超究极死神飞弹！"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 105,
+        "mp": 260,
+        "mpPerLevel": 50,
+        "movespeed": 325,
+        "armor": 26,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 59,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1,
+        "hpregen": 3.75,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 6.7,
+        "mpregenPerLevel": 1,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "KSante": {
+      "id": "KSante",
+      "name": "纳祖芒荣耀",
+      "title": "奎桑提",
+      "region": "恕瑞玛",
+      "tags": [
+        "坦克",
+        "战士"
+      ],
+      "passive": "血性本能",
+      "spells": [
+        "无双陀斧",
+        "辟路先锋",
+        "大步驰援",
+        "傲岸雄姿"
+      ],
+      "stats": {
+        "hp": 625,
+        "hpPerLevel": 120,
+        "mp": 320,
+        "mpPerLevel": 60,
+        "movespeed": 330,
+        "armor": 36,
+        "armorPerLevel": 5.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 2.1,
+        "attackrange": 150,
+        "attackdamage": 64,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.688,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 9.5,
+        "hpregenPerLevel": 1,
+        "mpregen": 7,
+        "mpregenPerLevel": 1,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Kaisa": {
+      "id": "Kaisa",
+      "name": "虚空之女",
+      "title": "卡莎",
+      "region": "虚空之地",
+      "tags": [
+        "射手",
+        "法师"
+      ],
+      "passive": "体表活肤",
+      "spells": [
+        "艾卡西亚暴雨",
+        "虚空索敌",
+        "极限超载",
+        "猎手本能"
+      ],
+      "stats": {
+        "hp": 640,
+        "hpPerLevel": 102,
+        "mp": 345,
+        "mpPerLevel": 40,
+        "movespeed": 335,
+        "armor": 25,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 59,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.644,
+        "attackspeedPerLevel": 1.8,
+        "hpregen": 4,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8.2,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Kalista": {
+      "id": "Kalista",
+      "name": "复仇之矛",
+      "title": "卡莉丝塔",
+      "region": "暗影岛",
+      "tags": [
+        "射手"
+      ],
+      "passive": "武术姿态",
+      "spells": [
+        "穿刺",
+        "哨兵",
+        "撕裂",
+        "命运的召唤"
+      ],
+      "stats": {
+        "hp": 560,
+        "hpPerLevel": 114,
+        "mp": 300,
+        "mpPerLevel": 45,
+        "movespeed": 330,
+        "armor": 24,
+        "armorPerLevel": 5.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 57,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.694,
+        "attackspeedPerLevel": 4.5,
+        "hpregen": 4,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 6.3,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Karma": {
+      "id": "Karma",
+      "name": "天启者",
+      "title": "卡尔玛",
+      "region": "艾欧尼亚",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "聚能之炎",
+      "spells": [
+        "心灵烈焰",
+        "坚定不移",
+        "鼓舞",
+        "梵咒"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 109,
+        "mp": 374,
+        "mpPerLevel": 40,
+        "movespeed": 335,
+        "armor": 28,
+        "armorPerLevel": 5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 49,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.3,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 13,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Karthus": {
+      "id": "Karthus",
+      "name": "死亡颂唱者",
+      "title": "卡尔萨斯",
+      "region": "暗影岛",
+      "tags": [
+        "法师"
+      ],
+      "passive": "死亡契约",
+      "spells": [
+        "荒芜",
+        "痛苦之墙",
+        "亵渎",
+        "安魂曲"
+      ],
+      "stats": {
+        "hp": 620,
+        "hpPerLevel": 110,
+        "mp": 467,
+        "mpPerLevel": 31,
+        "movespeed": 335,
+        "armor": 21,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 450,
+        "attackdamage": 46,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.11,
+        "hpregen": 6.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Kassadin": {
+      "id": "Kassadin",
+      "name": "虚空行者",
+      "title": "卡萨丁",
+      "region": "虚空之地",
+      "tags": [
+        "刺客",
+        "法师"
+      ],
+      "passive": "虚空之石",
+      "spells": [
+        "虚无法球",
+        "虚空之刃",
+        "能量脉冲",
+        "虚空行走"
+      ],
+      "stats": {
+        "hp": 646,
+        "hpPerLevel": 113,
+        "mp": 400,
+        "mpPerLevel": 87,
+        "movespeed": 335,
+        "armor": 21,
+        "armorPerLevel": 4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 150,
+        "attackdamage": 59,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.64,
+        "attackspeedPerLevel": 3.7,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Katarina": {
+      "id": "Katarina",
+      "name": "不祥之刃",
+      "title": "卡特琳娜",
+      "region": "诺克萨斯",
+      "tags": [
+        "刺客",
+        "法师"
+      ],
+      "passive": "贪婪",
+      "spells": [
+        "弹射之刃",
+        "伺机待发",
+        "瞬步",
+        "死亡莲华"
+      ],
+      "stats": {
+        "hp": 672,
+        "hpPerLevel": 108,
+        "mp": 0,
+        "mpPerLevel": 0,
+        "movespeed": 335,
+        "armor": 32,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 58,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2.74,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.7,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Kayle": {
+      "id": "Kayle",
+      "name": "正义天使",
+      "title": "凯尔",
+      "region": "德玛西亚",
+      "tags": [
+        "法师",
+        "射手"
+      ],
+      "passive": "登神长阶",
+      "spells": [
+        "耀焰冲击",
+        "星界恩典",
+        "星火符刃",
+        "圣裁之刻"
+      ],
+      "stats": {
+        "hp": 670,
+        "hpPerLevel": 92,
+        "mp": 330,
+        "mpPerLevel": 50,
+        "movespeed": 335,
+        "armor": 26,
+        "armorPerLevel": 4.2,
+        "spellblock": 22,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 175,
+        "attackdamage": 50,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1.5,
+        "hpregen": 5,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Kayn": {
+      "id": "Kayn",
+      "name": "影流之镰",
+      "title": "凯隐",
+      "region": "艾欧尼亚",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "暗裔魔镰",
+      "spells": [
+        "巨镰横扫",
+        "利刃纵贯",
+        "掠影步",
+        "裂舍影"
+      ],
+      "stats": {
+        "hp": 655,
+        "hpPerLevel": 103,
+        "mp": 410,
+        "mpPerLevel": 50,
+        "movespeed": 340,
+        "armor": 38,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 68,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.669,
+        "attackspeedPerLevel": 2.7,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 11.5,
+        "mpregenPerLevel": 0.95,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Kennen": {
+      "id": "Kennen",
+      "name": "狂暴之心",
+      "title": "凯南",
+      "region": "艾欧尼亚",
+      "tags": [
+        "法师"
+      ],
+      "passive": "【忍法！雷缚印】",
+      "spells": [
+        "奥义！千鸟",
+        "奥义！电刃",
+        "奥义！雷铠",
+        "秘奥义！万雷天牢引"
+      ],
+      "stats": {
+        "hp": 580,
+        "hpPerLevel": 98,
+        "mp": 200,
+        "mpPerLevel": 0,
+        "movespeed": 335,
+        "armor": 29,
+        "armorPerLevel": 4.95,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 48,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3.4,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 50,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Khazix": {
+      "id": "Khazix",
+      "name": "虚空掠夺者",
+      "title": "卡兹克",
+      "region": "虚空之地",
+      "tags": [
+        "刺客"
+      ],
+      "passive": "无形威胁",
+      "spells": [
+        "品尝恐惧",
+        "虚空突刺",
+        "跃击",
+        "虚空来袭"
+      ],
+      "stats": {
+        "hp": 643,
+        "hpPerLevel": 99,
+        "mp": 327,
+        "mpPerLevel": 40,
+        "movespeed": 345,
+        "armor": 32,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.668,
+        "attackspeedPerLevel": 2.7,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 7.59,
+        "mpregenPerLevel": 0.5,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Kindred": {
+      "id": "Kindred",
+      "name": "永猎双子",
+      "title": "千珏",
+      "region": "符文之地",
+      "tags": [
+        "射手"
+      ],
+      "passive": "千珏之印",
+      "spells": [
+        "乱箭之舞",
+        "狼灵狂热",
+        "横生惧意",
+        "羊灵生息"
+      ],
+      "stats": {
+        "hp": 595,
+        "hpPerLevel": 104,
+        "mp": 300,
+        "mpPerLevel": 35,
+        "movespeed": 325,
+        "armor": 29,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 500,
+        "attackdamage": 65,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Kled": {
+      "id": "Kled",
+      "name": "暴怒骑士",
+      "title": "克烈",
+      "region": "诺克萨斯",
+      "tags": [
+        "战士"
+      ],
+      "passive": "怯战蜥蜴斯嘎尔",
+      "spells": [
+        "飞索捕熊器",
+        "暴烈秉性",
+        "比武",
+        "冲啊——！！"
+      ],
+      "stats": {
+        "hp": 410,
+        "hpPerLevel": 84,
+        "mp": 100,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 35,
+        "armorPerLevel": 5.2,
+        "spellblock": 28,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 65,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "KogMaw": {
+      "id": "KogMaw",
+      "name": "深渊巨口",
+      "title": "克格莫",
+      "region": "虚空之地",
+      "tags": [
+        "射手",
+        "法师"
+      ],
+      "passive": "来自艾卡西亚的惊喜",
+      "spells": [
+        "腐蚀唾液",
+        "生化弹幕",
+        "虚空淤泥",
+        "活体大炮"
+      ],
+      "stats": {
+        "hp": 635,
+        "hpPerLevel": 99,
+        "mp": 325,
+        "mpPerLevel": 40,
+        "movespeed": 330,
+        "armor": 24,
+        "armorPerLevel": 4.45,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 500,
+        "attackdamage": 61,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.665,
+        "attackspeedPerLevel": 2.65,
+        "hpregen": 3.75,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8.75,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Leblanc": {
+      "id": "Leblanc",
+      "name": "诡术妖姬",
+      "title": "乐芙兰",
+      "region": "诺克萨斯",
+      "tags": [
+        "刺客",
+        "法师"
+      ],
+      "passive": "镜花水月",
+      "spells": [
+        "恶意魔印",
+        "魔影迷踪",
+        "幻影锁链",
+        "故技重施"
+      ],
+      "stats": {
+        "hp": 598,
+        "hpPerLevel": 108,
+        "mp": 400,
+        "mpPerLevel": 25,
+        "movespeed": 340,
+        "armor": 22,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2.35,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "name": "盲僧",
+      "title": "李青",
+      "region": "艾欧尼亚",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "疾风骤雨",
+      "spells": [
+        "天音波/回音击",
+        "金钟罩/铁布衫",
+        "天雷破/摧筋断骨",
+        "猛龙摆尾"
+      ],
+      "stats": {
+        "hp": 645,
+        "hpPerLevel": 108,
+        "mp": 200,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 36,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 66,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.651,
+        "attackspeedPerLevel": 3,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.7,
+        "mpregen": 50,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Leona": {
+      "id": "Leona",
+      "name": "曙光女神",
+      "title": "蕾欧娜",
+      "region": "巨神峰",
+      "tags": [
+        "坦克",
+        "辅助"
+      ],
+      "passive": "日光",
+      "spells": [
+        "破晓之盾",
+        "日蚀",
+        "天顶之刃",
+        "日炎耀斑"
+      ],
+      "stats": {
+        "hp": 646,
+        "hpPerLevel": 101,
+        "mp": 302,
+        "mpPerLevel": 40,
+        "movespeed": 335,
+        "armor": 43,
+        "armorPerLevel": 4.8,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.9,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.85,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Lillia": {
+      "id": "Lillia",
+      "name": "含羞蓓蕾",
+      "title": "莉莉娅",
+      "region": "艾欧尼亚",
+      "tags": [
+        "战士",
+        "法师"
+      ],
+      "passive": "梦满枝",
+      "spells": [
+        "飞花挞",
+        "惊惶木",
+        "流涡种",
+        "夜阑谣"
+      ],
+      "stats": {
+        "hp": 605,
+        "hpPerLevel": 105,
+        "mp": 410,
+        "mpPerLevel": 50,
+        "movespeed": 330,
+        "armor": 22,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 1.55,
+        "attackrange": 325,
+        "attackdamage": 61,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.7,
+        "hpregen": 2.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 11.5,
+        "mpregenPerLevel": 0.95,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Lissandra": {
+      "id": "Lissandra",
+      "name": "冰霜女巫",
+      "title": "丽桑卓",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "法师"
+      ],
+      "passive": "冰脉驱役",
+      "spells": [
+        "寒冰碎片",
+        "冰霜之环",
+        "冰川之径",
+        "冰封陵墓"
+      ],
+      "stats": {
+        "hp": 620,
+        "hpPerLevel": 110,
+        "mp": 475,
+        "mpPerLevel": 30,
+        "movespeed": 325,
+        "armor": 22,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.656,
+        "attackspeedPerLevel": 1.5,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Lucian": {
+      "id": "Lucian",
+      "name": "圣枪游侠",
+      "title": "卢锡安",
+      "region": "符文之地",
+      "tags": [
+        "射手",
+        "刺客"
+      ],
+      "passive": "圣光银弹",
+      "spells": [
+        "透体圣光",
+        "热诚烈弹",
+        "冷酷追击",
+        "圣枪洗礼"
+      ],
+      "stats": {
+        "hp": 641,
+        "hpPerLevel": 100,
+        "mp": 320,
+        "mpPerLevel": 43,
+        "movespeed": 335,
+        "armor": 28,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 500,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.638,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 3.75,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Lulu": {
+      "id": "Lulu",
+      "name": "仙灵女巫",
+      "title": "璐璐",
+      "region": "班德尔城",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "皮克斯，仙灵伙伴",
+      "spells": [
+        "闪耀长枪",
+        "奇思妙想",
+        "帮忙，皮克斯！",
+        "狂野生长"
+      ],
+      "stats": {
+        "hp": 565,
+        "hpPerLevel": 92,
+        "mp": 350,
+        "mpPerLevel": 55,
+        "movespeed": 330,
+        "armor": 26,
+        "armorPerLevel": 4.6,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 47,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.25,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 11,
+        "mpregenPerLevel": 0.6,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Lux": {
+      "id": "Lux",
+      "name": "光辉女郎",
+      "title": "拉克丝",
+      "region": "德玛西亚",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "光芒四射",
+      "spells": [
+        "光之束缚",
+        "曲光屏障",
+        "透光奇点",
+        "终极闪光"
+      ],
+      "stats": {
+        "hp": 580,
+        "hpPerLevel": 99,
+        "mp": 440,
+        "mpPerLevel": 23.5,
+        "movespeed": 330,
+        "armor": 21,
+        "armorPerLevel": 5.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 54,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.669,
+        "attackspeedPerLevel": 3,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 9,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Malphite": {
+      "id": "Malphite",
+      "name": "熔岩巨兽",
+      "title": "墨菲特",
+      "region": "以绪塔尔",
+      "tags": [
+        "坦克",
+        "法师"
+      ],
+      "passive": "花岗岩护盾",
+      "spells": [
+        "地震碎片",
+        "雷霆拍击",
+        "大地震颤",
+        "势不可挡"
+      ],
+      "stats": {
+        "hp": 665,
+        "hpPerLevel": 104,
+        "mp": 280,
+        "mpPerLevel": 60,
+        "movespeed": 335,
+        "armor": 40,
+        "armorPerLevel": 4.95,
+        "spellblock": 28,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.736,
+        "attackspeedPerLevel": 3.4,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 7.3,
+        "mpregenPerLevel": 0.55,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Malzahar": {
+      "id": "Malzahar",
+      "name": "虚空先知",
+      "title": "玛尔扎哈",
+      "region": "虚空之地",
+      "tags": [
+        "法师"
+      ],
+      "passive": "虚空穿越",
+      "spells": [
+        "虚空召唤",
+        "虚空虫群",
+        "煞星幻象",
+        "冥府之握"
+      ],
+      "stats": {
+        "hp": 580,
+        "hpPerLevel": 101,
+        "mp": 375,
+        "mpPerLevel": 28,
+        "movespeed": 335,
+        "armor": 18,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 500,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1.5,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Maokai": {
+      "id": "Maokai",
+      "name": "扭曲树精",
+      "title": "茂凯",
+      "region": "暗影岛",
+      "tags": [
+        "坦克",
+        "辅助"
+      ],
+      "passive": "吸元秘术",
+      "spells": [
+        "荆棘重击",
+        "扭曲突刺",
+        "树苗投掷",
+        "自然之握"
+      ],
+      "stats": {
+        "hp": 665,
+        "hpPerLevel": 109,
+        "mp": 375,
+        "mpPerLevel": 43,
+        "movespeed": 335,
+        "armor": 35,
+        "armorPerLevel": 5.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 64,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.8,
+        "attackspeedPerLevel": 2.125,
+        "hpregen": 5,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.6,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "MasterYi": {
+      "id": "MasterYi",
+      "name": "无极剑圣",
+      "title": "易",
+      "region": "艾欧尼亚",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "双重打击",
+      "spells": [
+        "阿尔法突袭",
+        "冥想",
+        "无极剑道",
+        "高原血统"
+      ],
+      "stats": {
+        "hp": 640,
+        "hpPerLevel": 105,
+        "mp": 251,
+        "mpPerLevel": 42,
+        "movespeed": 355,
+        "armor": 33,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 65,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.679,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 7.25,
+        "mpregenPerLevel": 0.45,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Mel": {
+      "id": "Mel",
+      "name": "流光镜影",
+      "title": "梅尔",
+      "region": "诺克萨斯",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "灼灼之光",
+      "spells": [
+        "耀光齐射",
+        "灵魂折镜",
+        "阳炎涡旋",
+        "鎏金蚀日"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 99,
+        "mp": 480,
+        "mpPerLevel": 28,
+        "movespeed": 330,
+        "armor": 21,
+        "armorPerLevel": 5.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 54,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 9,
+        "mpregenPerLevel": 0.9,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Milio": {
+      "id": "Milio",
+      "name": "明烛",
+      "title": "米利欧",
+      "region": "以绪塔尔",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "热情洋溢！",
+      "spells": [
+        "火爆飞踢",
+        "依依不舍",
+        "融融情谊",
+        "生生不息"
+      ],
+      "stats": {
+        "hp": 560,
+        "hpPerLevel": 88,
+        "mp": 365,
+        "mpPerLevel": 43,
+        "movespeed": 330,
+        "armor": 26,
+        "armorPerLevel": 4.6,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 48,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3,
+        "hpregen": 5,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 11.5,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "MissFortune": {
+      "id": "MissFortune",
+      "name": "赏金猎人",
+      "title": "厄运小姐",
+      "region": "比尔吉沃特",
+      "tags": [
+        "射手",
+        "法师"
+      ],
+      "passive": "厄运的眷顾",
+      "spells": [
+        "一箭双雕",
+        "大步流星",
+        "枪林弹雨",
+        "弹幕时间"
+      ],
+      "stats": {
+        "hp": 625,
+        "hpPerLevel": 100,
+        "mp": 300,
+        "mpPerLevel": 40,
+        "movespeed": 325,
+        "armor": 25,
+        "armorPerLevel": 4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.656,
+        "attackspeedPerLevel": 3,
+        "hpregen": 3.75,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "MonkeyKing": {
+      "id": "MonkeyKing",
+      "name": "齐天大圣",
+      "title": "孙悟空",
+      "region": "艾欧尼亚",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "金刚不坏",
+      "spells": [
+        "粉碎打击",
+        "真假猴王",
+        "腾云突击",
+        "大闹天宫"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 99,
+        "mp": 330,
+        "mpPerLevel": 65,
+        "movespeed": 340,
+        "armor": 31,
+        "armorPerLevel": 4.7,
+        "spellblock": 28,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 66,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.69,
+        "attackspeedPerLevel": 3,
+        "hpregen": 3.5,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Mordekaiser": {
+      "id": "Mordekaiser",
+      "name": "铁铠冥魂",
+      "title": "莫德凯撒",
+      "region": "诺克萨斯",
+      "tags": [
+        "战士",
+        "法师"
+      ],
+      "passive": "黑暗起兮",
+      "spells": [
+        "破灭之锤",
+        "不坏之身",
+        "断魂一扼",
+        "轮回绝境"
+      ],
+      "stats": {
+        "hp": 645,
+        "hpPerLevel": 104,
+        "mp": 100,
+        "mpPerLevel": 0,
+        "movespeed": 335,
+        "armor": 37,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 61,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1,
+        "hpregen": 5,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Morgana": {
+      "id": "Morgana",
+      "name": "堕落天使",
+      "title": "莫甘娜",
+      "region": "德玛西亚",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "灵魂吸取",
+      "spells": [
+        "暗之禁锢",
+        "折磨之影",
+        "黑暗之盾",
+        "灵魂镣铐"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 104,
+        "mp": 340,
+        "mpPerLevel": 60,
+        "movespeed": 335,
+        "armor": 25,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 450,
+        "attackdamage": 56,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1.53,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.4,
+        "mpregen": 11,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Naafiri": {
+      "id": "Naafiri",
+      "name": "百裂冥犬",
+      "title": "纳亚菲利",
+      "region": "恕瑞玛",
+      "tags": [
+        "刺客",
+        "战士"
+      ],
+      "passive": "狂烈种群",
+      "spells": [
+        "暗裔犬牙",
+        "暴吼",
+        "剔骨本能",
+        "猎狗血性"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 105,
+        "mp": 400,
+        "mpPerLevel": 55,
+        "movespeed": 340,
+        "armor": 28,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.663,
+        "attackspeedPerLevel": 2.1,
+        "hpregen": 6.25,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 7.5,
+        "mpregenPerLevel": 1,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Nami": {
+      "id": "Nami",
+      "name": "唤潮鲛姬",
+      "title": "娜美",
+      "region": "符文之地",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "踏浪之行",
+      "spells": [
+        "碧波之牢",
+        "冲击之潮",
+        "唤潮之佑",
+        "怒涛之啸"
+      ],
+      "stats": {
+        "hp": 560,
+        "hpPerLevel": 88,
+        "mp": 365,
+        "mpPerLevel": 43,
+        "movespeed": 335,
+        "armor": 29,
+        "armorPerLevel": 5.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 54,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.644,
+        "attackspeedPerLevel": 2.61,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 11.5,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Nasus": {
+      "id": "Nasus",
+      "name": "沙漠死神",
+      "title": "内瑟斯",
+      "region": "恕瑞玛",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "吞噬灵魂",
+      "spells": [
+        "汲魂痛击",
+        "枯萎",
+        "灵魂烈焰",
+        "死神降临"
+      ],
+      "stats": {
+        "hp": 650,
+        "hpPerLevel": 104,
+        "mp": 326,
+        "mpPerLevel": 62,
+        "movespeed": 350,
+        "armor": 34,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 67,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.638,
+        "attackspeedPerLevel": 3.48,
+        "hpregen": 9,
+        "hpregenPerLevel": 0.9,
+        "mpregen": 7.45,
+        "mpregenPerLevel": 0.5,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Nautilus": {
+      "id": "Nautilus",
+      "name": "深海泰坦",
+      "title": "诺提勒斯",
+      "region": "比尔吉沃特",
+      "tags": [
+        "坦克",
+        "辅助"
+      ],
+      "passive": "排山倒海",
+      "spells": [
+        "疏通航道",
+        "泰坦之怒",
+        "暗流涌动",
+        "深海冲击"
+      ],
+      "stats": {
+        "hp": 646,
+        "hpPerLevel": 100,
+        "mp": 400,
+        "mpPerLevel": 47,
+        "movespeed": 325,
+        "armor": 39,
+        "armorPerLevel": 4.95,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 61,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.706,
+        "attackspeedPerLevel": 1,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8.65,
+        "mpregenPerLevel": 0.5,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Neeko": {
+      "id": "Neeko",
+      "name": "万花通灵",
+      "title": "妮蔻",
+      "region": "以绪塔尔",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "天生幻魅",
+      "spells": [
+        "盛开花种",
+        "两生花影",
+        "缠结倒刺",
+        "怒放"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 104,
+        "mp": 450,
+        "mpPerLevel": 30,
+        "movespeed": 340,
+        "armor": 21,
+        "armorPerLevel": 5.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 48,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Nidalee": {
+      "id": "Nidalee",
+      "name": "狂野女猎手",
+      "title": "奈德丽",
+      "region": "以绪塔尔",
+      "tags": [
+        "刺客",
+        "法师"
+      ],
+      "passive": "寻觅",
+      "spells": [
+        "标枪投掷 / 推倒",
+        "丛林伏击 / 猛扑",
+        "野性奔腾 / 挥击",
+        "美洲狮形态"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 109,
+        "mp": 295,
+        "mpPerLevel": 45,
+        "movespeed": 335,
+        "armor": 32,
+        "armorPerLevel": 5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.45,
+        "attackrange": 525,
+        "attackdamage": 58,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.638,
+        "attackspeedPerLevel": 3.22,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Nilah": {
+      "id": "Nilah",
+      "name": "不羁之悦",
+      "title": "尼菈",
+      "region": "比尔吉沃特",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "喜色川流",
+      "spells": [
+        "游刃万变",
+        "轻纱飞漾",
+        "纵情逐流",
+        "神恩激荡"
+      ],
+      "stats": {
+        "hp": 570,
+        "hpPerLevel": 101,
+        "mp": 350,
+        "mpPerLevel": 35,
+        "movespeed": 340,
+        "armor": 27,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 225,
+        "attackdamage": 58,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.697,
+        "attackspeedPerLevel": 1.25,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.9,
+        "mpregen": 8.2,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Nocturne": {
+      "id": "Nocturne",
+      "name": "永恒梦魇",
+      "title": "魔腾",
+      "region": "符文之地",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "暗影之刃",
+      "spells": [
+        "梦魇之径",
+        "黑暗庇护",
+        "无言恐惧",
+        "鬼影重重"
+      ],
+      "stats": {
+        "hp": 655,
+        "hpPerLevel": 109,
+        "mp": 275,
+        "mpPerLevel": 35,
+        "movespeed": 345,
+        "armor": 38,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 1.55,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.721,
+        "attackspeedPerLevel": 2.7,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.45,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Nunu": {
+      "id": "Nunu",
+      "name": "雪原双子",
+      "title": "努努和威朗普",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "坦克",
+        "法师"
+      ],
+      "passive": "弗雷尔卓德的召唤",
+      "spells": [
+        "吞噬",
+        "史上最大雪球！",
+        "雪球飞射",
+        "绝对零度"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 90,
+        "mp": 280,
+        "mpPerLevel": 42,
+        "movespeed": 345,
+        "armor": 29,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 61,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.25,
+        "hpregen": 5,
+        "hpregenPerLevel": 0.8,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.5,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Olaf": {
+      "id": "Olaf",
+      "name": "狂战士",
+      "title": "奥拉夫",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "狂战之怒",
+      "spells": [
+        "逆流投掷",
+        "挺过去",
+        "鲁莽挥击",
+        "诸神黄昏"
+      ],
+      "stats": {
+        "hp": 645,
+        "hpPerLevel": 119,
+        "mp": 316,
+        "mpPerLevel": 50,
+        "movespeed": 350,
+        "armor": 35,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.72,
+        "attackspeedPerLevel": 2.7,
+        "hpregen": 6.5,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 7.5,
+        "mpregenPerLevel": 0.6,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Orianna": {
+      "id": "Orianna",
+      "name": "发条魔灵",
+      "title": "奥莉安娜",
+      "region": "皮尔特沃夫",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "发条协奏",
+      "spells": [
+        "指令：攻击",
+        "指令：杂音",
+        "指令：防卫",
+        "指令：冲击波"
+      ],
+      "stats": {
+        "hp": 585,
+        "hpPerLevel": 110,
+        "mp": 418,
+        "mpPerLevel": 25,
+        "movespeed": 325,
+        "armor": 20,
+        "armorPerLevel": 4.2,
+        "spellblock": 26,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 44,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Ornn": {
+      "id": "Ornn",
+      "name": "山隐之焰",
+      "title": "奥恩",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "坦克"
+      ],
+      "passive": "活体锻炉",
+      "spells": [
+        "火山突堑",
+        "风箱炎息",
+        "炽烈冲锋",
+        "熔铸之神的召唤"
+      ],
+      "stats": {
+        "hp": 660,
+        "hpPerLevel": 109,
+        "mp": 341,
+        "mpPerLevel": 65,
+        "movespeed": 335,
+        "armor": 33,
+        "armorPerLevel": 5.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 69,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2,
+        "hpregen": 9,
+        "hpregenPerLevel": 0.9,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.6,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Pantheon": {
+      "id": "Pantheon",
+      "name": "不屈之枪",
+      "title": "潘森",
+      "region": "巨神峰",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "矢志不退",
+      "spells": [
+        "贯星长枪",
+        "斗盾跃击",
+        "神佑枪阵",
+        "大荒星陨"
+      ],
+      "stats": {
+        "hp": 650,
+        "hpPerLevel": 109,
+        "mp": 317,
+        "mpPerLevel": 31,
+        "movespeed": 345,
+        "armor": 40,
+        "armorPerLevel": 4.95,
+        "spellblock": 28,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 64,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2.95,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 7.35,
+        "mpregenPerLevel": 0.45,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Poppy": {
+      "id": "Poppy",
+      "name": "圣锤之毅",
+      "title": "波比",
+      "region": "德玛西亚",
+      "tags": [
+        "坦克",
+        "战士"
+      ],
+      "passive": "钢铁大使",
+      "spells": [
+        "圣锤猛击",
+        "坚定风采",
+        "英勇冲锋",
+        "持卫的裁决"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 110,
+        "mp": 280,
+        "mpPerLevel": 40,
+        "movespeed": 345,
+        "armor": 35,
+        "armorPerLevel": 5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.8,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Pyke": {
+      "id": "Pyke",
+      "name": "血港鬼影",
+      "title": "派克",
+      "region": "比尔吉沃特",
+      "tags": [
+        "辅助",
+        "刺客"
+      ],
+      "passive": "溺水之幸",
+      "spells": [
+        "透骨尖钉",
+        "幽潭潜行",
+        "魅影浪洄",
+        "涌泉之恨"
+      ],
+      "stats": {
+        "hp": 670,
+        "hpPerLevel": 110,
+        "mp": 415,
+        "mpPerLevel": 50,
+        "movespeed": 330,
+        "armor": 37,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.667,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 8,
+        "mpregenPerLevel": 1,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Qiyana": {
+      "id": "Qiyana",
+      "name": "元素女皇",
+      "title": "奇亚娜",
+      "region": "以绪塔尔",
+      "tags": [
+        "刺客"
+      ],
+      "passive": "凌人贵气",
+      "spells": [
+        "元素之怒 / 以绪塔尔之锋",
+        "方圆塑令",
+        "天纵之勇",
+        "惊才绝景"
+      ],
+      "stats": {
+        "hp": 590,
+        "hpPerLevel": 115,
+        "mp": 375,
+        "mpPerLevel": 60,
+        "movespeed": 335,
+        "armor": 31,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 64,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.688,
+        "attackspeedPerLevel": 2.1,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.9,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Quinn": {
+      "id": "Quinn",
+      "name": "德玛西亚之翼",
+      "title": "奎因",
+      "region": "德玛西亚",
+      "tags": [
+        "射手",
+        "刺客"
+      ],
+      "passive": "侵扰",
+      "spells": [
+        "炫目攻势",
+        "敏锐感知",
+        "旋翔掠杀",
+        "深入敌后"
+      ],
+      "stats": {
+        "hp": 565,
+        "hpPerLevel": 107,
+        "mp": 269,
+        "mpPerLevel": 35,
+        "movespeed": 330,
+        "armor": 28,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 59,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.668,
+        "attackspeedPerLevel": 3.1,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Rakan": {
+      "id": "Rakan",
+      "name": "幻翎",
+      "title": "洛",
+      "region": "艾欧尼亚",
+      "tags": [
+        "辅助"
+      ],
+      "passive": "异色羽裳",
+      "spells": [
+        "微光飞翎",
+        "盛大登场",
+        "轻舞成双",
+        "惊鸿过隙"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 99,
+        "mp": 315,
+        "mpPerLevel": 50,
+        "movespeed": 335,
+        "armor": 30,
+        "armorPerLevel": 4.9,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 300,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.635,
+        "attackspeedPerLevel": 3,
+        "hpregen": 5,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 8.75,
+        "mpregenPerLevel": 0.5,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Rammus": {
+      "id": "Rammus",
+      "name": "披甲龙龟",
+      "title": "拉莫斯",
+      "region": "恕瑞玛",
+      "tags": [
+        "坦克"
+      ],
+      "passive": "锥刺甲壳",
+      "spells": [
+        "动力冲刺",
+        "尖刺防御",
+        "狂乱嘲讽",
+        "冲天猛撞"
+      ],
+      "stats": {
+        "hp": 645,
+        "hpPerLevel": 100,
+        "mp": 310,
+        "mpPerLevel": 33,
+        "movespeed": 335,
+        "armor": 35,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 65,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.7,
+        "attackspeedPerLevel": 2.215,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 7.85,
+        "mpregenPerLevel": 0.5,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "RekSai": {
+      "id": "RekSai",
+      "name": "虚空遁地兽",
+      "title": "雷克塞",
+      "region": "虚空之地",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "艾克塞之怒",
+      "spells": [
+        "女王之怒 / 猎物搜寻",
+        "遁地 / 破土而出",
+        "狂野之噬 / 挖掘隧道",
+        "虚空猛冲"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 99,
+        "mp": 100,
+        "mpPerLevel": 0,
+        "movespeed": 340,
+        "armor": 35,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.667,
+        "attackspeedPerLevel": 2,
+        "hpregen": 2.5,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Rell": {
+      "id": "Rell",
+      "name": "镕铁少女",
+      "title": "芮尔",
+      "region": "诺克萨斯",
+      "tags": [
+        "坦克",
+        "辅助"
+      ],
+      "passive": "溃敌沉力",
+      "spells": [
+        "裂阵",
+        "驭铁术：轰落",
+        "全速冲锋",
+        "极涌"
+      ],
+      "stats": {
+        "hp": 620,
+        "hpPerLevel": 104,
+        "mp": 320,
+        "mpPerLevel": 40,
+        "movespeed": 315,
+        "armor": 30,
+        "armorPerLevel": 4,
+        "spellblock": 28,
+        "spellblockPerLevel": 1.8,
+        "attackrange": 175,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.85,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Renata": {
+      "id": "Renata",
+      "name": "炼金男爵",
+      "title": "烈娜塔 · 戈拉斯克",
+      "region": "未知",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "物尽其用",
+      "spells": [
+        "铁腕竞合",
+        "及时救难",
+        "忠诚激励",
+        "恶意收购"
+      ],
+      "stats": {
+        "hp": 545,
+        "hpPerLevel": 94,
+        "mp": 350,
+        "mpPerLevel": 50,
+        "movespeed": 330,
+        "armor": 27,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 49,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.11,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 11.5,
+        "mpregenPerLevel": 0.5,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Renekton": {
+      "id": "Renekton",
+      "name": "荒漠屠夫",
+      "title": "雷克顿",
+      "region": "恕瑞玛",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "怒之领域",
+      "spells": [
+        "巨鳄狂袭",
+        "冷酷捕猎",
+        "横冲直撞",
+        "终极统治"
+      ],
+      "stats": {
+        "hp": 660,
+        "hpPerLevel": 111,
+        "mp": 100,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 35,
+        "armorPerLevel": 5.2,
+        "spellblock": 28,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 69,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.665,
+        "attackspeedPerLevel": 2.75,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Rengar": {
+      "id": "Rengar",
+      "name": "傲之追猎者",
+      "title": "雷恩加尔",
+      "region": "以绪塔尔",
+      "tags": [
+        "刺客",
+        "战士"
+      ],
+      "passive": "无形掠食者",
+      "spells": [
+        "残忍无情",
+        "战争咆哮",
+        "套索打击",
+        "狩猎律动"
+      ],
+      "stats": {
+        "hp": 590,
+        "hpPerLevel": 104,
+        "mp": 4,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 34,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.667,
+        "attackspeedPerLevel": 3,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Riven": {
+      "id": "Riven",
+      "name": "放逐之刃",
+      "title": "锐雯",
+      "region": "诺克萨斯",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "符文之刃",
+      "spells": [
+        "折翼之舞",
+        "震魂怒吼",
+        "勇往直前",
+        "放逐之锋"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 100,
+        "mp": 0,
+        "mpPerLevel": 0,
+        "movespeed": 340,
+        "armor": 33,
+        "armorPerLevel": 4.4,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 64,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Rumble": {
+      "id": "Rumble",
+      "name": "机械公敌",
+      "title": "兰博",
+      "region": "班德尔城",
+      "tags": [
+        "战士",
+        "法师"
+      ],
+      "passive": "机械重组",
+      "spells": [
+        "纵火盛宴",
+        "破碎护盾",
+        "电子鱼叉",
+        "恒温灼烧"
+      ],
+      "stats": {
+        "hp": 640,
+        "hpPerLevel": 105,
+        "mp": 150,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 36,
+        "armorPerLevel": 4.7,
+        "spellblock": 28,
+        "spellblockPerLevel": 1.55,
+        "attackrange": 125,
+        "attackdamage": 64,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.644,
+        "attackspeedPerLevel": 1.85,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Ryze": {
+      "id": "Ryze",
+      "name": "符文法师",
+      "title": "瑞兹",
+      "region": "符文之地",
+      "tags": [
+        "法师"
+      ],
+      "passive": "奥术专精",
+      "spells": [
+        "超负荷",
+        "符文禁锢",
+        "法术涌动",
+        "曲境折跃"
+      ],
+      "stats": {
+        "hp": 645,
+        "hpPerLevel": 124,
+        "mp": 300,
+        "mpPerLevel": 70,
+        "movespeed": 340,
+        "armor": 22,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 58,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2.11,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.8,
+        "mpregen": 8,
+        "mpregenPerLevel": 1,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Samira": {
+      "id": "Samira",
+      "name": "沙漠玫瑰",
+      "title": "莎弥拉",
+      "region": "诺克萨斯",
+      "tags": [
+        "射手",
+        "刺客"
+      ],
+      "passive": "悍勇本色",
+      "spells": [
+        "交火",
+        "锋旋",
+        "狂飙",
+        "炼狱扳机"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 108,
+        "mp": 349,
+        "mpPerLevel": 38,
+        "movespeed": 335,
+        "armor": 26,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 500,
+        "attackdamage": 57,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 3.3,
+        "hpregen": 3.25,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8.2,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Sejuani": {
+      "id": "Sejuani",
+      "name": "北地之怒",
+      "title": "瑟庄妮",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "坦克"
+      ],
+      "passive": "北地之怒",
+      "spells": [
+        "极寒突袭",
+        "凛冬之怒",
+        "永冻领域",
+        "极冰寒狱"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 114,
+        "mp": 400,
+        "mpPerLevel": 40,
+        "movespeed": 340,
+        "armor": 34,
+        "armorPerLevel": 5.45,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 66,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.688,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 1,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Senna": {
+      "id": "Senna",
+      "name": "涤魂圣枪",
+      "title": "赛娜",
+      "region": "符文之地",
+      "tags": [
+        "辅助",
+        "射手"
+      ],
+      "passive": "赦除",
+      "spells": [
+        "黑暗洞灭",
+        "无尽厮守",
+        "黑雾咒附",
+        "暗影燎原"
+      ],
+      "stats": {
+        "hp": 530,
+        "hpPerLevel": 89,
+        "mp": 350,
+        "mpPerLevel": 45,
+        "movespeed": 330,
+        "armor": 25,
+        "armorPerLevel": 4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 600,
+        "attackdamage": 50,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.6,
+        "hpregen": 3.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 11.5,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Seraphine": {
+      "id": "Seraphine",
+      "name": "星籁歌姬",
+      "title": "萨勒芬妮",
+      "region": "皮尔特沃夫",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "星光漫射",
+      "spells": [
+        "清籁穿云",
+        "聚和心声",
+        "增幅节拍",
+        "炫音返场"
+      ],
+      "stats": {
+        "hp": 570,
+        "hpPerLevel": 95,
+        "mp": 360,
+        "mpPerLevel": 40,
+        "movespeed": 330,
+        "armor": 26,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 50,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.669,
+        "attackspeedPerLevel": 2,
+        "hpregen": 6.5,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 11.5,
+        "mpregenPerLevel": 0.95,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Sett": {
+      "id": "Sett",
+      "name": "腕豪",
+      "title": "瑟提",
+      "region": "艾欧尼亚",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "沙场豪情",
+      "spells": [
+        "屈人之威",
+        "蓄意轰拳",
+        "强手裂颅",
+        "叹为观止"
+      ],
+      "stats": {
+        "hp": 670,
+        "hpPerLevel": 114,
+        "mp": 0,
+        "mpPerLevel": 0,
+        "movespeed": 340,
+        "armor": 33,
+        "armorPerLevel": 4.7,
+        "spellblock": 28,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1.75,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Shaco": {
+      "id": "Shaco",
+      "name": "恶魔小丑",
+      "title": "萨科",
+      "region": "符文之地",
+      "tags": [
+        "刺客"
+      ],
+      "passive": "背刺",
+      "spells": [
+        "欺诈魔术",
+        "惊吓魔盒",
+        "双面毒刃",
+        "幻像"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 99,
+        "mp": 297,
+        "mpPerLevel": 40,
+        "movespeed": 345,
+        "armor": 30,
+        "armorPerLevel": 4,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 63,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.694,
+        "attackspeedPerLevel": 3,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.35,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Shen": {
+      "id": "Shen",
+      "name": "暮光之眼",
+      "title": "慎",
+      "region": "艾欧尼亚",
+      "tags": [
+        "坦克"
+      ],
+      "passive": "忍法！气合盾",
+      "spells": [
+        "奥义！暮临",
+        "奥义！魂佑",
+        "奥义！影缚",
+        "秘奥义！慈悲度魂落"
+      ],
+      "stats": {
+        "hp": 610,
+        "hpPerLevel": 99,
+        "mp": 400,
+        "mpPerLevel": 0,
+        "movespeed": 340,
+        "armor": 34,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 64,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.751,
+        "attackspeedPerLevel": 3,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 50,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Shyvana": {
+      "id": "Shyvana",
+      "name": "龙血武姬",
+      "title": "希瓦娜",
+      "region": "德玛西亚",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "龙鳞铁衣",
+      "spells": [
+        "焚焰打击",
+        "烈火圣盾",
+        "爆炎吐息",
+        "魔龙降世"
+      ],
+      "stats": {
+        "hp": 625,
+        "hpPerLevel": 95,
+        "mp": 100,
+        "mpPerLevel": 0,
+        "movespeed": 350,
+        "armor": 35,
+        "armorPerLevel": 4,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.638,
+        "attackspeedPerLevel": 2,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Singed": {
+      "id": "Singed",
+      "name": "炼金术士",
+      "title": "辛吉德",
+      "region": "祖安",
+      "tags": [
+        "坦克",
+        "法师"
+      ],
+      "passive": "剧毒冲流",
+      "spells": [
+        "剧毒踪迹",
+        "强力粘胶",
+        "过肩摔",
+        "疯狂药剂"
+      ],
+      "stats": {
+        "hp": 650,
+        "hpPerLevel": 96,
+        "mp": 330,
+        "mpPerLevel": 45,
+        "movespeed": 345,
+        "armor": 34,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 63,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.7,
+        "attackspeedPerLevel": 1.9,
+        "hpregen": 9.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 7.5,
+        "mpregenPerLevel": 0.55,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Sion": {
+      "id": "Sion",
+      "name": "亡灵战神",
+      "title": "赛恩",
+      "region": "诺克萨斯",
+      "tags": [
+        "坦克",
+        "战士"
+      ],
+      "passive": "死亡荣耀",
+      "spells": [
+        "残虐猛击",
+        "灵魂熔炉",
+        "杀手怒吼",
+        "蛮横冲撞"
+      ],
+      "stats": {
+        "hp": 655,
+        "hpPerLevel": 87,
+        "mp": 400,
+        "mpPerLevel": 52,
+        "movespeed": 345,
+        "armor": 36,
+        "armorPerLevel": 4.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 68,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.679,
+        "attackspeedPerLevel": 1.3,
+        "hpregen": 9,
+        "hpregenPerLevel": 0.8,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.6,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Sivir": {
+      "id": "Sivir",
+      "name": "战争女神",
+      "title": "希维尔",
+      "region": "恕瑞玛",
+      "tags": [
+        "射手"
+      ],
+      "passive": "敏锐疾行",
+      "spells": [
+        "回旋之刃",
+        "弹射",
+        "法术护盾",
+        "狩猎"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 104,
+        "mp": 340,
+        "mpPerLevel": 45,
+        "movespeed": 335,
+        "armor": 30,
+        "armorPerLevel": 4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 500,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1.6,
+        "hpregen": 3.25,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Skarner": {
+      "id": "Skarner",
+      "name": "上古领主",
+      "title": "斯卡纳",
+      "region": "以绪塔尔",
+      "tags": [
+        "坦克",
+        "战士"
+      ],
+      "passive": "战栗",
+      "spells": [
+        "撼地 / 擎天",
+        "震地壁垒",
+        "以绪塔尔冲击",
+        "毒刺贯体"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 110,
+        "mp": 320,
+        "mpPerLevel": 40,
+        "movespeed": 335,
+        "armor": 33,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 63,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 7.2,
+        "mpregenPerLevel": 0.75,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Smolder": {
+      "id": "Smolder",
+      "name": "炽炎雏龙",
+      "title": "斯莫德",
+      "region": "符文之地",
+      "tags": [
+        "射手",
+        "法师"
+      ],
+      "passive": "龙之研习",
+      "spells": [
+        "超级灼热龙息",
+        "阿嚏！",
+        "扑棱，扑棱，扑棱！",
+        "妈----！"
+      ],
+      "stats": {
+        "hp": 575,
+        "hpPerLevel": 100,
+        "mp": 300,
+        "mpPerLevel": 40,
+        "movespeed": 330,
+        "armor": 24,
+        "armorPerLevel": 4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.638,
+        "attackspeedPerLevel": 4,
+        "hpregen": 3.75,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 8.5,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Sona": {
+      "id": "Sona",
+      "name": "琴瑟仙女",
+      "title": "娑娜",
+      "region": "德玛西亚",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "能量和弦",
+      "spells": [
+        "英勇赞美诗",
+        "坚毅咏叹调",
+        "迅捷奏鸣曲",
+        "狂舞终乐章"
+      ],
+      "stats": {
+        "hp": 550,
+        "hpPerLevel": 91,
+        "mp": 340,
+        "mpPerLevel": 45,
+        "movespeed": 325,
+        "armor": 26,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 49,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.644,
+        "attackspeedPerLevel": 2.3,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 11.5,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Soraka": {
+      "id": "Soraka",
+      "name": "众星之子",
+      "title": "索拉卡",
+      "region": "巨神峰",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "拯救",
+      "spells": [
+        "流星坠落",
+        "星之灌注",
+        "星体结界",
+        "祈愿"
+      ],
+      "stats": {
+        "hp": 605,
+        "hpPerLevel": 88,
+        "mp": 425,
+        "mpPerLevel": 40,
+        "movespeed": 325,
+        "armor": 32,
+        "armorPerLevel": 5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 50,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.14,
+        "hpregen": 2.5,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 11.5,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Swain": {
+      "id": "Swain",
+      "name": "诺克萨斯统领",
+      "title": "斯维因",
+      "region": "诺克萨斯",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "狂食鸦群",
+      "spells": [
+        "解脱之触",
+        "帝国视界",
+        "永不复行",
+        "恶魔升华"
+      ],
+      "stats": {
+        "hp": 595,
+        "hpPerLevel": 99,
+        "mp": 400,
+        "mpPerLevel": 29,
+        "movespeed": 330,
+        "armor": 25,
+        "armorPerLevel": 4.7,
+        "spellblock": 31,
+        "spellblockPerLevel": 1.55,
+        "attackrange": 525,
+        "attackdamage": 58,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.11,
+        "hpregen": 3,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 10,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Sylas": {
+      "id": "Sylas",
+      "name": "解脱者",
+      "title": "塞拉斯",
+      "region": "德玛西亚",
+      "tags": [
+        "法师",
+        "刺客"
+      ],
+      "passive": "破敌禁法",
+      "spells": [
+        "锁链鞭击",
+        "弑君突刺",
+        "潜掠/强掳",
+        "其人之道"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 122,
+        "mp": 400,
+        "mpPerLevel": 70,
+        "movespeed": 340,
+        "armor": 29,
+        "armorPerLevel": 5.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.55,
+        "attackrange": 175,
+        "attackdamage": 61,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.645,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 9,
+        "hpregenPerLevel": 0.9,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Syndra": {
+      "id": "Syndra",
+      "name": "暗黑元首",
+      "title": "辛德拉",
+      "region": "艾欧尼亚",
+      "tags": [
+        "法师"
+      ],
+      "passive": "卓尔不凡",
+      "spells": [
+        "暗黑法球",
+        "驱使念力",
+        "弱者退散",
+        "能量倾泻"
+      ],
+      "stats": {
+        "hp": 563,
+        "hpPerLevel": 100,
+        "mp": 480,
+        "mpPerLevel": 40,
+        "movespeed": 330,
+        "armor": 25,
+        "armorPerLevel": 4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 54,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2,
+        "hpregen": 6.5,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "TahmKench": {
+      "id": "TahmKench",
+      "name": "河流之王",
+      "title": "塔姆",
+      "region": "符文之地",
+      "tags": [
+        "坦克",
+        "辅助"
+      ],
+      "passive": "培养品味",
+      "spells": [
+        "巨舌鞭笞",
+        "深渊潜航",
+        "厚实表皮",
+        "大快朵颐"
+      ],
+      "stats": {
+        "hp": 640,
+        "hpPerLevel": 103,
+        "mp": 325,
+        "mpPerLevel": 50,
+        "movespeed": 335,
+        "armor": 39,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 56,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 6.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 1,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Taliyah": {
+      "id": "Taliyah",
+      "name": "岩雀",
+      "title": "塔莉垭",
+      "region": "恕瑞玛",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "浮石冲",
+      "spells": [
+        "石穿",
+        "岩突",
+        "撒石阵",
+        "墙幔"
+      ],
+      "stats": {
+        "hp": 550,
+        "hpPerLevel": 104,
+        "mp": 470,
+        "mpPerLevel": 30,
+        "movespeed": 330,
+        "armor": 18,
+        "armorPerLevel": 4.7,
+        "spellblock": 28,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 58,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 1.36,
+        "hpregen": 6.5,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Talon": {
+      "id": "Talon",
+      "name": "刀锋之影",
+      "title": "泰隆",
+      "region": "诺克萨斯",
+      "tags": [
+        "刺客"
+      ],
+      "passive": "刀锋之末",
+      "spells": [
+        "诺克萨斯式外交",
+        "斩草除根",
+        "刺客之道",
+        "暗影突袭"
+      ],
+      "stats": {
+        "hp": 658,
+        "hpPerLevel": 109,
+        "mp": 400,
+        "mpPerLevel": 37,
+        "movespeed": 335,
+        "armor": 30,
+        "armorPerLevel": 4.7,
+        "spellblock": 36,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.9,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 7.6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Taric": {
+      "id": "Taric",
+      "name": "瓦洛兰之盾",
+      "title": "塔里克",
+      "region": "巨神峰",
+      "tags": [
+        "辅助",
+        "坦克"
+      ],
+      "passive": "正气凌人",
+      "spells": [
+        "星光之触",
+        "坚毅壁垒",
+        "炫光",
+        "宇宙之辉"
+      ],
+      "stats": {
+        "hp": 645,
+        "hpPerLevel": 99,
+        "mp": 300,
+        "mpPerLevel": 60,
+        "movespeed": 340,
+        "armor": 40,
+        "armorPerLevel": 4.3,
+        "spellblock": 28,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 8.5,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Teemo": {
+      "id": "Teemo",
+      "name": "迅捷斥候",
+      "title": "提莫",
+      "region": "班德尔城",
+      "tags": [
+        "射手",
+        "法师"
+      ],
+      "passive": "游击队军备",
+      "spells": [
+        "致盲吹箭",
+        "小莫快跑",
+        "毒性射击",
+        "种蘑菇"
+      ],
+      "stats": {
+        "hp": 615,
+        "hpPerLevel": 104,
+        "mp": 334,
+        "mpPerLevel": 25,
+        "movespeed": 330,
+        "armor": 24,
+        "armorPerLevel": 4.95,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 500,
+        "attackdamage": 54,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.69,
+        "attackspeedPerLevel": 3.38,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 9.6,
+        "mpregenPerLevel": 0.45,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "name": "魂锁典狱长",
+      "title": "锤石",
+      "region": "暗影岛",
+      "tags": [
+        "辅助",
+        "坦克"
+      ],
+      "passive": "地狱诅咒",
+      "spells": [
+        "死亡判决",
+        "魂引之灯",
+        "厄运钟摆",
+        "幽冥监牢"
+      ],
+      "stats": {
+        "hp": 620,
+        "hpPerLevel": 120,
+        "mp": 274,
+        "mpPerLevel": 44,
+        "movespeed": 330,
+        "armor": 33,
+        "armorPerLevel": 0,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.55,
+        "attackrange": 450,
+        "attackdamage": 56,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Tristana": {
+      "id": "Tristana",
+      "name": "麦林炮手",
+      "title": "崔丝塔娜",
+      "region": "班德尔城",
+      "tags": [
+        "射手",
+        "刺客"
+      ],
+      "passive": "瞄准",
+      "spells": [
+        "急速射击",
+        "火箭跳跃",
+        "爆炸火花",
+        "毁灭射击"
+      ],
+      "stats": {
+        "hp": 640,
+        "hpPerLevel": 102,
+        "mp": 300,
+        "mpPerLevel": 32,
+        "movespeed": 325,
+        "armor": 30,
+        "armorPerLevel": 4,
+        "spellblock": 28,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.656,
+        "attackspeedPerLevel": 1.5,
+        "hpregen": 4,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 7.2,
+        "mpregenPerLevel": 0.45,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Trundle": {
+      "id": "Trundle",
+      "name": "巨魔之王",
+      "title": "特朗德尔",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "国王的贡品",
+      "spells": [
+        "利齿撕咬",
+        "冰封领域",
+        "寒冰之柱",
+        "强权至上"
+      ],
+      "stats": {
+        "hp": 650,
+        "hpPerLevel": 110,
+        "mp": 340,
+        "mpPerLevel": 45,
+        "movespeed": 350,
+        "armor": 37,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 68,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.67,
+        "attackspeedPerLevel": 2.9,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 7.5,
+        "mpregenPerLevel": 0.6,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Tryndamere": {
+      "id": "Tryndamere",
+      "name": "蛮族之王",
+      "title": "泰达米尔",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "战斗狂怒",
+      "spells": [
+        "嗜血杀戮",
+        "蔑视",
+        "旋风斩",
+        "无尽怒火"
+      ],
+      "stats": {
+        "hp": 696,
+        "hpPerLevel": 108,
+        "mp": 100,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 33,
+        "armorPerLevel": 4.8,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 66,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.67,
+        "attackspeedPerLevel": 3.4,
+        "hpregen": 8.5,
+        "hpregenPerLevel": 0.9,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "TwistedFate": {
+      "id": "TwistedFate",
+      "name": "卡牌大师",
+      "title": "崔斯特",
+      "region": "比尔吉沃特",
+      "tags": [
+        "法师",
+        "射手"
+      ],
+      "passive": "灌铅骰子",
+      "spells": [
+        "万能牌",
+        "选牌",
+        "卡牌骗术",
+        "命运"
+      ],
+      "stats": {
+        "hp": 604,
+        "hpPerLevel": 108,
+        "mp": 333,
+        "mpPerLevel": 39,
+        "movespeed": 330,
+        "armor": 24,
+        "armorPerLevel": 4.35,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 52,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Twitch": {
+      "id": "Twitch",
+      "name": "瘟疫之源",
+      "title": "图奇",
+      "region": "祖安",
+      "tags": [
+        "射手",
+        "刺客"
+      ],
+      "passive": "死亡毒液",
+      "spells": [
+        "埋伏",
+        "剧毒之桶",
+        "毒性爆发",
+        "火力全开"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 98,
+        "mp": 300,
+        "mpPerLevel": 40,
+        "movespeed": 330,
+        "armor": 27,
+        "armorPerLevel": 4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 59,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.679,
+        "attackspeedPerLevel": 3,
+        "hpregen": 3.75,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 7.25,
+        "mpregenPerLevel": 0.7,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Udyr": {
+      "id": "Udyr",
+      "name": "兽灵行者",
+      "title": "乌迪尔",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "众灵纽带",
+      "spells": [
+        "狂暴爪击",
+        "坚铁甲胄",
+        "踏火蛮冲",
+        "极凌飓风"
+      ],
+      "stats": {
+        "hp": 664,
+        "hpPerLevel": 92,
+        "mp": 271,
+        "mpPerLevel": 50,
+        "movespeed": 350,
+        "armor": 31,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.65,
+        "attackspeedPerLevel": 3,
+        "hpregen": 6,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 7.5,
+        "mpregenPerLevel": 0.45,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Urgot": {
+      "id": "Urgot",
+      "name": "无畏战车",
+      "title": "厄加特",
+      "region": "祖安",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "回响烈焰",
+      "spells": [
+        "腐蚀电荷",
+        "净除",
+        "鄙弃",
+        "超越死亡的恐惧"
+      ],
+      "stats": {
+        "hp": 655,
+        "hpPerLevel": 102,
+        "mp": 340,
+        "mpPerLevel": 45,
+        "movespeed": 330,
+        "armor": 36,
+        "armorPerLevel": 5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 350,
+        "attackdamage": 63,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3.75,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.7,
+        "mpregen": 7.25,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Varus": {
+      "id": "Varus",
+      "name": "惩戒之箭",
+      "title": "韦鲁斯",
+      "region": "艾欧尼亚",
+      "tags": [
+        "射手",
+        "法师"
+      ],
+      "passive": "复仇之欲",
+      "spells": [
+        "穿刺之箭",
+        "枯萎箭袋",
+        "恶灵箭雨",
+        "腐败锁链"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 105,
+        "mp": 320,
+        "mpPerLevel": 40,
+        "movespeed": 330,
+        "armor": 24,
+        "armorPerLevel": 4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 575,
+        "attackdamage": 59,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 3.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Vayne": {
+      "id": "Vayne",
+      "name": "暗夜猎手",
+      "title": "薇恩",
+      "region": "德玛西亚",
+      "tags": [
+        "射手",
+        "刺客"
+      ],
+      "passive": "暗夜猎手",
+      "spells": [
+        "闪避突袭",
+        "圣银弩箭",
+        "恶魔审判",
+        "终极时刻"
+      ],
+      "stats": {
+        "hp": 550,
+        "hpPerLevel": 103,
+        "mp": 232,
+        "mpPerLevel": 35,
+        "movespeed": 330,
+        "armor": 23,
+        "armorPerLevel": 4.6,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 3.3,
+        "hpregen": 3.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Veigar": {
+      "id": "Veigar",
+      "name": "邪恶小法师",
+      "title": "维迦",
+      "region": "班德尔城",
+      "tags": [
+        "法师"
+      ],
+      "passive": "超凡邪力",
+      "spells": [
+        "黑暗祭祀",
+        "黑暗物质",
+        "扭曲空间",
+        "能量爆裂"
+      ],
+      "stats": {
+        "hp": 580,
+        "hpPerLevel": 108,
+        "mp": 490,
+        "mpPerLevel": 26,
+        "movespeed": 340,
+        "armor": 18,
+        "armorPerLevel": 5.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 52,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.24,
+        "hpregen": 6.5,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Velkoz": {
+      "id": "Velkoz",
+      "name": "虚空之眼",
+      "title": "维克兹",
+      "region": "虚空之地",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "有机体解构",
+      "spells": [
+        "等离子裂变",
+        "虚空裂隙",
+        "构造分解",
+        "生命形态瓦解射线"
+      ],
+      "stats": {
+        "hp": 590,
+        "hpPerLevel": 102,
+        "mp": 469,
+        "mpPerLevel": 21,
+        "movespeed": 340,
+        "armor": 22,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.643,
+        "attackspeedPerLevel": 1.59,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Vex": {
+      "id": "Vex",
+      "name": "愁云使者",
+      "title": "薇古丝",
+      "region": "暗影岛",
+      "tags": [
+        "法师"
+      ],
+      "passive": "终焉暮气",
+      "spells": [
+        "寒心波云",
+        "生人勿近",
+        "溟濛渐染",
+        "愁煞"
+      ],
+      "stats": {
+        "hp": 590,
+        "hpPerLevel": 104,
+        "mp": 490,
+        "mpPerLevel": 32,
+        "movespeed": 335,
+        "armor": 23,
+        "armorPerLevel": 4.45,
+        "spellblock": 28,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 54,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.669,
+        "attackspeedPerLevel": 1,
+        "hpregen": 6.5,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Vi": {
+      "id": "Vi",
+      "name": "皮城执法官",
+      "title": "蔚",
+      "region": "皮尔特沃夫",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "爆裂护盾",
+      "spells": [
+        "强能冲拳",
+        "爆弹重拳",
+        "透体之劲",
+        "天霸横空烈轰"
+      ],
+      "stats": {
+        "hp": 655,
+        "hpPerLevel": 105,
+        "mp": 295,
+        "mpPerLevel": 65,
+        "movespeed": 340,
+        "armor": 30,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 63,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.644,
+        "attackspeedPerLevel": 2,
+        "hpregen": 10,
+        "hpregenPerLevel": 1,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.65,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Viego": {
+      "id": "Viego",
+      "name": "破败之王",
+      "title": "佛耶戈",
+      "region": "暗影岛",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "君命已决",
+      "spells": [
+        "破败王剑",
+        "千载幽咽",
+        "茫茫焦土",
+        "痛贯天灵"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 109,
+        "mp": 10000,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 34,
+        "armorPerLevel": 4.6,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 200,
+        "attackdamage": 57,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2.75,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.7,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Viktor": {
+      "id": "Viktor",
+      "name": "奥术先驱",
+      "title": "维克托",
+      "region": "祖安",
+      "tags": [
+        "法师"
+      ],
+      "passive": "光荣进化",
+      "spells": [
+        "虹吸能量",
+        "重力场",
+        "海克斯射线",
+        "奥术风暴"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 100,
+        "mp": 405,
+        "mpPerLevel": 45,
+        "movespeed": 335,
+        "armor": 23,
+        "armorPerLevel": 4.4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 53,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2.11,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Vladimir": {
+      "id": "Vladimir",
+      "name": "猩红收割者",
+      "title": "弗拉基米尔",
+      "region": "诺克萨斯",
+      "tags": [
+        "法师",
+        "战士"
+      ],
+      "passive": "血色契约",
+      "spells": [
+        "鲜血转换",
+        "血红之池",
+        "血之潮汐",
+        "血之瘟疫"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 110,
+        "mp": 2,
+        "mpPerLevel": 0,
+        "movespeed": 330,
+        "armor": 24,
+        "armorPerLevel": 4.5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 450,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Volibear": {
+      "id": "Volibear",
+      "name": "不灭狂雷",
+      "title": "沃利贝尔",
+      "region": "弗雷尔卓德",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "狂雷渐起",
+      "spells": [
+        "擂首一击",
+        "暴怒撕咬",
+        "霹天雳地",
+        "天声震落"
+      ],
+      "stats": {
+        "hp": 650,
+        "hpPerLevel": 104,
+        "mp": 350,
+        "mpPerLevel": 70,
+        "movespeed": 340,
+        "armor": 35,
+        "armorPerLevel": 5.2,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 150,
+        "attackdamage": 65,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2,
+        "hpregen": 9,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 6.25,
+        "mpregenPerLevel": 0.5,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Warwick": {
+      "id": "Warwick",
+      "name": "祖安怒兽",
+      "title": "沃里克",
+      "region": "祖安",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "血之饥渴",
+      "spells": [
+        "野兽之口",
+        "鲜血追猎",
+        "远祖嗥叫",
+        "无尽束缚"
+      ],
+      "stats": {
+        "hp": 620,
+        "hpPerLevel": 99,
+        "mp": 280,
+        "mpPerLevel": 35,
+        "movespeed": 335,
+        "armor": 33,
+        "armorPerLevel": 4.4,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 65,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.638,
+        "attackspeedPerLevel": 2,
+        "hpregen": 4,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 7.45,
+        "mpregenPerLevel": 0.6,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Xayah": {
+      "id": "Xayah",
+      "name": "逆羽",
+      "title": "霞",
+      "region": "艾欧尼亚",
+      "tags": [
+        "射手"
+      ],
+      "passive": "锐切",
+      "spells": [
+        "双刃",
+        "致死羽衣",
+        "倒钩",
+        "暴风羽刃"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 107,
+        "mp": 340,
+        "mpPerLevel": 40,
+        "movespeed": 330,
+        "armor": 25,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 3.9,
+        "hpregen": 3.25,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 8.25,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Xerath": {
+      "id": "Xerath",
+      "name": "远古巫灵",
+      "title": "泽拉斯",
+      "region": "恕瑞玛",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "法力澎湃",
+      "spells": [
+        "奥能脉冲",
+        "毁灭之眼",
+        "冲击法球",
+        "奥术仪式"
+      ],
+      "stats": {
+        "hp": 596,
+        "hpPerLevel": 106,
+        "mp": 400,
+        "mpPerLevel": 22,
+        "movespeed": 340,
+        "armor": 22,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 525,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 1.36,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 6.85,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "XinZhao": {
+      "id": "XinZhao",
+      "name": "德邦总管",
+      "title": "赵信",
+      "region": "德玛西亚",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "果决",
+      "spells": [
+        "三重爪击",
+        "风斩电刺",
+        "无畏冲锋",
+        "新月护卫"
+      ],
+      "stats": {
+        "hp": 620,
+        "hpPerLevel": 106,
+        "mp": 274,
+        "mpPerLevel": 55,
+        "movespeed": 345,
+        "armor": 35,
+        "armorPerLevel": 4.4,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 63,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.645,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.7,
+        "mpregen": 7.25,
+        "mpregenPerLevel": 0.45,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Yasuo": {
+      "id": "Yasuo",
+      "name": "疾风剑豪",
+      "title": "亚索",
+      "region": "艾欧尼亚",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "浪客之道",
+      "spells": [
+        "斩钢闪",
+        "风之障壁",
+        "踏前斩",
+        "狂风绝息斩"
+      ],
+      "stats": {
+        "hp": 590,
+        "hpPerLevel": 110,
+        "mp": 100,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 32,
+        "armorPerLevel": 4.6,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.697,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 6.5,
+        "hpregenPerLevel": 0.9,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Yone": {
+      "id": "Yone",
+      "name": "封魔剑魂",
+      "title": "永恩",
+      "region": "艾欧尼亚",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "狩人之道",
+      "spells": [
+        "错玉切",
+        "凛神斩",
+        "破障之锋",
+        "封尘绝念斩"
+      ],
+      "stats": {
+        "hp": 620,
+        "hpPerLevel": 105,
+        "mp": 500,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 33,
+        "armorPerLevel": 4.6,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 3.5,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.75,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Yorick": {
+      "id": "Yorick",
+      "name": "牧魂人",
+      "title": "约里克",
+      "region": "暗影岛",
+      "tags": [
+        "战士",
+        "坦克"
+      ],
+      "passive": "牧魂人",
+      "spells": [
+        "临终仪式",
+        "暗灵缠身",
+        "哀伤之雾",
+        "海屿悼词"
+      ],
+      "stats": {
+        "hp": 650,
+        "hpPerLevel": 114,
+        "mp": 300,
+        "mpPerLevel": 60,
+        "movespeed": 340,
+        "armor": 36,
+        "armorPerLevel": 4.5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 62,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2,
+        "hpregen": 8,
+        "hpregenPerLevel": 0.8,
+        "mpregen": 7.5,
+        "mpregenPerLevel": 0.75,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Yunara": {
+      "id": "Yunara",
+      "name": "不破之誓",
+      "title": "芸阿娜",
+      "region": "艾欧尼亚",
+      "tags": [
+        "射手"
+      ],
+      "passive": "初生之誓",
+      "spells": [
+        "灵蕴拳",
+        "善恶轮 | 寂灭掌",
+        "明踪步 | 夜影翻",
+        "定圣诀"
+      ],
+      "stats": {
+        "hp": 590,
+        "hpPerLevel": 110,
+        "mp": 275,
+        "mpPerLevel": 45,
+        "movespeed": 325,
+        "armor": 25,
+        "armorPerLevel": 4.4,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 575,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.65,
+        "attackspeedPerLevel": 2,
+        "hpregen": 4,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 7.5,
+        "mpregenPerLevel": 0.75,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Yuumi": {
+      "id": "Yuumi",
+      "name": "魔法猫咪",
+      "title": "悠米",
+      "region": "班德尔城",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "猫的博爱",
+      "spells": [
+        "摸鱼飞弹",
+        "悠米出动！",
+        "旺盛精力",
+        "魔典终章"
+      ],
+      "stats": {
+        "hp": 500,
+        "hpPerLevel": 69,
+        "mp": 440,
+        "mpPerLevel": 45,
+        "movespeed": 330,
+        "armor": 25,
+        "armorPerLevel": 4.2,
+        "spellblock": 25,
+        "spellblockPerLevel": 1.1,
+        "attackrange": 425,
+        "attackdamage": 49,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 1,
+        "hpregen": 5,
+        "hpregenPerLevel": 0.55,
+        "mpregen": 10,
+        "mpregenPerLevel": 0.4,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Zaahen": {
+      "id": "Zaahen",
+      "name": "不落魔锋",
+      "title": "亚恒",
+      "region": "符文之地",
+      "tags": [
+        "战士",
+        "刺客"
+      ],
+      "passive": "不落之志",
+      "spells": [
+        "暗裔长刀",
+        "厄影回锋",
+        "赤金突袭",
+        "大赦"
+      ],
+      "stats": {
+        "hp": 640,
+        "hpPerLevel": 114,
+        "mp": 350,
+        "mpPerLevel": 55,
+        "movespeed": 345,
+        "armor": 36,
+        "armorPerLevel": 5,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 63,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.625,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.8,
+        "mpregen": 8.15,
+        "mpregenPerLevel": 0.75,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Zac": {
+      "id": "Zac",
+      "name": "生化魔人",
+      "title": "扎克",
+      "region": "祖安",
+      "tags": [
+        "坦克",
+        "战士"
+      ],
+      "passive": "细胞分裂",
+      "spells": [
+        "延伸打击",
+        "不稳定物质",
+        "橡筋弹弓",
+        "动感弹球"
+      ],
+      "stats": {
+        "hp": 685,
+        "hpPerLevel": 109,
+        "mp": 0,
+        "mpPerLevel": 0,
+        "movespeed": 340,
+        "armor": 33,
+        "armorPerLevel": 4.7,
+        "spellblock": 32,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 175,
+        "attackdamage": 60,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.736,
+        "attackspeedPerLevel": 1.6,
+        "hpregen": 5,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 0,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Zed": {
+      "id": "Zed",
+      "name": "影流之主",
+      "title": "劫",
+      "region": "艾欧尼亚",
+      "tags": [
+        "刺客"
+      ],
+      "passive": "影忍法！灭魂劫",
+      "spells": [
+        "影奥义！诸刃",
+        "影奥义！分身",
+        "影奥义！鬼斩",
+        "禁奥义！瞬狱影杀阵"
+      ],
+      "stats": {
+        "hp": 654,
+        "hpPerLevel": 99,
+        "mp": 200,
+        "mpPerLevel": 0,
+        "movespeed": 345,
+        "armor": 32,
+        "armorPerLevel": 4.7,
+        "spellblock": 29,
+        "spellblockPerLevel": 2.05,
+        "attackrange": 125,
+        "attackdamage": 63,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.651,
+        "attackspeedPerLevel": 3.3,
+        "hpregen": 7,
+        "hpregenPerLevel": 0.65,
+        "mpregen": 50,
+        "mpregenPerLevel": 0,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Zeri": {
+      "id": "Zeri",
+      "name": "祖安花火",
+      "title": "泽丽",
+      "region": "祖安",
+      "tags": [
+        "射手"
+      ],
+      "passive": "内能迁转",
+      "spells": [
+        "电火迸射",
+        "强穿激光",
+        "灿丽花火",
+        "超限爆闪"
+      ],
+      "stats": {
+        "hp": 600,
+        "hpPerLevel": 110,
+        "mp": 250,
+        "mpPerLevel": 45,
+        "movespeed": 330,
+        "armor": 24,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 56,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2,
+        "hpregen": 3.25,
+        "hpregenPerLevel": 0.7,
+        "mpregen": 6,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Ziggs": {
+      "id": "Ziggs",
+      "name": "爆破鬼才",
+      "title": "吉格斯",
+      "region": "祖安",
+      "tags": [
+        "法师"
+      ],
+      "passive": "一触即发",
+      "spells": [
+        "弹跳炸弹",
+        "定点爆破",
+        "海克斯爆破雷区",
+        "科学的地狱火炮"
+      ],
+      "stats": {
+        "hp": 606,
+        "hpPerLevel": 106,
+        "mp": 480,
+        "mpPerLevel": 23.5,
+        "movespeed": 325,
+        "armor": 21,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 55,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.656,
+        "attackspeedPerLevel": 2,
+        "hpregen": 6.5,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Zilean": {
+      "id": "Zilean",
+      "name": "时光守护者",
+      "title": "基兰",
+      "region": "符文之地",
+      "tags": [
+        "辅助",
+        "法师"
+      ],
+      "passive": "瓶中时光",
+      "spells": [
+        "定时炸弹",
+        "穿梭未来",
+        "时光发条",
+        "时光倒流"
+      ],
+      "stats": {
+        "hp": 574,
+        "hpPerLevel": 96,
+        "mp": 452,
+        "mpPerLevel": 50,
+        "movespeed": 335,
+        "armor": 24,
+        "armorPerLevel": 5,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 52,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2.13,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 11.35,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Zoe": {
+      "id": "Zoe",
+      "name": "暮光星灵",
+      "title": "佐伊",
+      "region": "巨神峰",
+      "tags": [
+        "法师"
+      ],
+      "passive": "烟火四射！",
+      "spells": [
+        "飞星乱入！",
+        "窃法巧手",
+        "催眠气泡",
+        "折返跃迁"
+      ],
+      "stats": {
+        "hp": 630,
+        "hpPerLevel": 106,
+        "mp": 425,
+        "mpPerLevel": 25,
+        "movespeed": 340,
+        "armor": 21,
+        "armorPerLevel": 4.7,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 550,
+        "attackdamage": 58,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.658,
+        "attackspeedPerLevel": 2.5,
+        "hpregen": 7.5,
+        "hpregenPerLevel": 0.6,
+        "mpregen": 8,
+        "mpregenPerLevel": 0.65,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    },
+    "Zyra": {
+      "id": "Zyra",
+      "name": "荆棘之兴",
+      "title": "婕拉",
+      "region": "以绪塔尔",
+      "tags": [
+        "法师",
+        "辅助"
+      ],
+      "passive": "荆棘花园",
+      "spells": [
+        "致命棘刺",
+        "狂野生长",
+        "缠绕之根",
+        "绞杀之藤"
+      ],
+      "stats": {
+        "hp": 574,
+        "hpPerLevel": 93,
+        "mp": 418,
+        "mpPerLevel": 25,
+        "movespeed": 340,
+        "armor": 29,
+        "armorPerLevel": 4.2,
+        "spellblock": 30,
+        "spellblockPerLevel": 1.3,
+        "attackrange": 575,
+        "attackdamage": 53,
+        "attackdamagePerLevel": 0,
+        "attackspeed": 0.681,
+        "attackspeedPerLevel": 2.11,
+        "hpregen": 5.5,
+        "hpregenPerLevel": 0.5,
+        "mpregen": 7,
+        "mpregenPerLevel": 0.8,
+        "crit": 0,
+        "critPerLevel": 0
+      }
+    }
+  }
+}

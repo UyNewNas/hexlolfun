@@ -1,0 +1,462 @@
+{
+  "id": "Syndra",
+  "championId": "134",
+  "name": "暗黑元首",
+  "title": "辛德拉",
+  "region": "艾欧尼亚",
+  "blurb": "辛德拉是一位令人胆寒的艾欧尼亚魔法师，操纵着难以置信的力量。她在孩童时期就因为狂暴而不受控制的魔法而让村庄的长老们深感不安。长老们把她送到外地接受严密的监管和训练，但她发现所谓的训练其实是对自己能力的限制。辛德拉将自己感受到的背叛与痛楚融入暗黑法球，并发誓消灭所有想要控制她的人。",
+  "tags": [
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 3,
+    "magic": 9,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 563,
+    "hpPerLevel": 100,
+    "mp": 480,
+    "mpPerLevel": 40,
+    "movespeed": 330,
+    "armor": 25,
+    "armorPerLevel": 4,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 54,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 2,
+    "hpregen": 6.5,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "134001",
+      "name": "仲裁圣女 辛德拉",
+      "chromas": false
+    },
+    {
+      "id": "134002",
+      "name": "亚特兰蒂斯 辛德拉",
+      "chromas": false
+    },
+    {
+      "id": "134003",
+      "name": "方块王后 辛德拉",
+      "chromas": false
+    },
+    {
+      "id": "134004",
+      "name": "冰雪女神 辛德拉",
+      "chromas": false
+    },
+    {
+      "id": "134005",
+      "name": "SKT T1 辛德拉",
+      "chromas": true
+    },
+    {
+      "id": "134006",
+      "name": "星之守护者 辛德拉",
+      "chromas": true
+    },
+    {
+      "id": "134007",
+      "name": "泳池派对 辛德拉",
+      "chromas": true
+    },
+    {
+      "id": "134008",
+      "name": "泳池派对 辛德拉 车厘厘晃跳",
+      "chromas": false
+    },
+    {
+      "id": "134009",
+      "name": "泳池派对 辛德拉 白桃桃扣杀",
+      "chromas": false
+    },
+    {
+      "id": "134010",
+      "name": "泳池派对 辛德拉 菠萝萝轻扣",
+      "chromas": false
+    },
+    {
+      "id": "134011",
+      "name": "泳池派对 辛德拉 蓝莓莓突破",
+      "chromas": false
+    },
+    {
+      "id": "134012",
+      "name": "泳池派对 辛德拉 西瓜瓜鱼跃",
+      "chromas": false
+    },
+    {
+      "id": "134013",
+      "name": "泳池派对 辛德拉 荔枝枝连击",
+      "chromas": false
+    },
+    {
+      "id": "134014",
+      "name": "泳池派对 辛德拉 葡萄萄游动",
+      "chromas": false
+    },
+    {
+      "id": "134015",
+      "name": "泳池派对 辛德拉 水果糖跳发",
+      "chromas": false
+    },
+    {
+      "id": "134016",
+      "name": "幽梦玫瑰 辛德拉",
+      "chromas": true
+    },
+    {
+      "id": "134017",
+      "name": "幽梦玫瑰 辛德拉 热烈花蕾",
+      "chromas": false
+    },
+    {
+      "id": "134018",
+      "name": "幽梦玫瑰 辛德拉 倾心花蕾",
+      "chromas": false
+    },
+    {
+      "id": "134019",
+      "name": "幽梦玫瑰 辛德拉 痴心花蕾",
+      "chromas": false
+    },
+    {
+      "id": "134020",
+      "name": "幽梦玫瑰 辛德拉 真挚花蕾",
+      "chromas": false
+    },
+    {
+      "id": "134021",
+      "name": "幽梦玫瑰 辛德拉 憧憬花蕾",
+      "chromas": false
+    },
+    {
+      "id": "134022",
+      "name": "幽梦玫瑰 辛德拉 浪漫花蕾",
+      "chromas": false
+    },
+    {
+      "id": "134023",
+      "name": "幽梦玫瑰 辛德拉 甜蜜花蕾",
+      "chromas": false
+    },
+    {
+      "id": "134024",
+      "name": "幽梦玫瑰 辛德拉 纯洁花蕾",
+      "chromas": false
+    },
+    {
+      "id": "134025",
+      "name": "魅惑女巫 辛德拉",
+      "chromas": true
+    },
+    {
+      "id": "134026",
+      "name": "魅惑女巫 辛德拉 热情化身",
+      "chromas": false
+    },
+    {
+      "id": "134027",
+      "name": "魅惑女巫 辛德拉 清新化身",
+      "chromas": false
+    },
+    {
+      "id": "134028",
+      "name": "魅惑女巫 辛德拉 青春化身",
+      "chromas": false
+    },
+    {
+      "id": "134029",
+      "name": "魅惑女巫 辛德拉 浪漫化身",
+      "chromas": false
+    },
+    {
+      "id": "134030",
+      "name": "魅惑女巫 辛德拉 典雅化身",
+      "chromas": false
+    },
+    {
+      "id": "134031",
+      "name": "魅惑女巫 辛德拉 知性化身",
+      "chromas": false
+    },
+    {
+      "id": "134032",
+      "name": "魅惑女巫 辛德拉 纯真化身",
+      "chromas": false
+    },
+    {
+      "id": "134033",
+      "name": "魅惑女巫 辛德拉 高冷化身",
+      "chromas": false
+    },
+    {
+      "id": "134034",
+      "name": "至臻 星之守护者 辛德拉",
+      "chromas": false
+    },
+    {
+      "id": "134035",
+      "name": "星之守护者 辛德拉 热情之光",
+      "chromas": false
+    },
+    {
+      "id": "134036",
+      "name": "星之守护者 辛德拉 爱之光",
+      "chromas": false
+    },
+    {
+      "id": "134037",
+      "name": "星之守护者 辛德拉 勇气之光",
+      "chromas": false
+    },
+    {
+      "id": "134038",
+      "name": "星之守护者 辛德拉 智慧之光",
+      "chromas": false
+    },
+    {
+      "id": "134039",
+      "name": "星之守护者 辛德拉 重生之光",
+      "chromas": false
+    },
+    {
+      "id": "134040",
+      "name": "星之守护者 辛德拉 未来之光",
+      "chromas": false
+    },
+    {
+      "id": "134041",
+      "name": "星之守护者 辛德拉 正义之光",
+      "chromas": false
+    },
+    {
+      "id": "134042",
+      "name": "星之守护者 辛德拉 守护之光",
+      "chromas": false
+    },
+    {
+      "id": "134043",
+      "name": "星之守护者 辛德拉 希望之光",
+      "chromas": false
+    },
+    {
+      "id": "134044",
+      "name": "灵魂莲华 辛德拉",
+      "chromas": true
+    },
+    {
+      "id": "134045",
+      "name": "灵魂莲华 辛德拉 流火",
+      "chromas": false
+    },
+    {
+      "id": "134046",
+      "name": "灵魂莲华 辛德拉 风起",
+      "chromas": false
+    },
+    {
+      "id": "134047",
+      "name": "灵魂莲华 辛德拉 雁来",
+      "chromas": false
+    },
+    {
+      "id": "134048",
+      "name": "灵魂莲华 辛德拉 雪落",
+      "chromas": false
+    },
+    {
+      "id": "134049",
+      "name": "灵魂莲华 辛德拉 春晓",
+      "chromas": false
+    },
+    {
+      "id": "134050",
+      "name": "灵魂莲华 辛德拉 星回",
+      "chromas": false
+    },
+    {
+      "id": "134051",
+      "name": "灵魂莲华 辛德拉 朝花",
+      "chromas": false
+    },
+    {
+      "id": "134052",
+      "name": "灵魂莲华 辛德拉 月升",
+      "chromas": false
+    },
+    {
+      "id": "134053",
+      "name": "灵魂莲华 辛德拉 绽夜",
+      "chromas": false
+    },
+    {
+      "id": "134054",
+      "name": "魔女 辛德拉",
+      "chromas": true
+    },
+    {
+      "id": "134055",
+      "name": "魔女 辛德拉 愤怒",
+      "chromas": false
+    },
+    {
+      "id": "134056",
+      "name": "魔女 辛德拉 贪婪",
+      "chromas": false
+    },
+    {
+      "id": "134057",
+      "name": "魔女 辛德拉 欺骗",
+      "chromas": false
+    },
+    {
+      "id": "134058",
+      "name": "魔女 辛德拉 嫉妒",
+      "chromas": false
+    },
+    {
+      "id": "134059",
+      "name": "魔女 辛德拉 霸道",
+      "chromas": false
+    },
+    {
+      "id": "134060",
+      "name": "魔女 辛德拉 饕餮",
+      "chromas": false
+    },
+    {
+      "id": "134061",
+      "name": "魔女 辛德拉 猜忌",
+      "chromas": false
+    },
+    {
+      "id": "134062",
+      "name": "魔女 辛德拉 傲慢",
+      "chromas": false
+    },
+    {
+      "id": "134063",
+      "name": "魔女 辛德拉 不畏",
+      "chromas": false
+    },
+    {
+      "id": "134064",
+      "name": "SKT T1 辛德拉 至强",
+      "chromas": false
+    },
+    {
+      "id": "134065",
+      "name": "点心宝贝 辛德拉",
+      "chromas": true
+    },
+    {
+      "id": "134066",
+      "name": "点心宝贝 辛德拉 草莓点心",
+      "chromas": false
+    },
+    {
+      "id": "134067",
+      "name": "点心宝贝 辛德拉 葡萄点心",
+      "chromas": false
+    },
+    {
+      "id": "134068",
+      "name": "点心宝贝 辛德拉 胡萝卜点心",
+      "chromas": false
+    },
+    {
+      "id": "134069",
+      "name": "点心宝贝 辛德拉 紫甘蓝点心",
+      "chromas": false
+    },
+    {
+      "id": "134070",
+      "name": "点心宝贝 辛德拉 菠菜点心",
+      "chromas": false
+    },
+    {
+      "id": "134071",
+      "name": "点心宝贝 辛德拉 西红柿点心",
+      "chromas": false
+    },
+    {
+      "id": "134072",
+      "name": "点心宝贝 辛德拉 黑芝麻点心",
+      "chromas": false
+    },
+    {
+      "id": "134073",
+      "name": "点心宝贝 辛德拉 芥菜点心",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "卓尔不凡",
+    "description": "辛德拉可通过提升等级和伤害敌人来收集【怒法碎晶】，用来使她的各技能获得强化。暗黑法球：辛德拉可以持有额外一层充能。驱使念力：额外真实伤害。弱者退散：提升宽度并减速所有目标。能量倾泻：处决低生命值的目标。",
+    "image": "SyndraPassive.png"
+  },
+  "spells": [
+    {
+      "name": "暗黑法球",
+      "description": "辛德拉幻化出一个造成魔法伤害的暗黑法球。法球会存留，并且被她的其它能力所操纵。",
+      "tooltip": "辛德拉幻化出一颗暗黑法球，造成{{ totaldamage }}魔法伤害。这个暗黑法球可以存留{{ sphereduration }}秒，并且能被辛德拉的其它技能所操纵。{{ spell.syndrapassive:q1upgradethreshold }}块怒法碎晶：辛德拉可以储存{{ upgrade1maxammo }}个暗黑法球充能。",
+      "cooldown": "7",
+      "cost": "40/45/50/55/60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "SyndraQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "驱使念力",
+      "description": "辛德拉抓取并投掷一名敌方小兵或者暗黑法球，来对敌人造成魔法伤害，并减少他们的移动速度。",
+      "tooltip": "辛德拉抓取一颗暗黑法球、一个敌方小兵或一只非史诗级野怪。她在抓取后的至多5秒内可以再次施放这个技能。再次施放：辛德拉将物体猛掷出去，造成{{ throwdamage }}魔法伤害和持续{{ f2 }}秒的{{ totalslowamount }}%减速效果。{{ spell.syndrapassive:wupgradethreshold }}块怒法碎晶：这个技能造成额外的{{ tooltiponlypassivebonuspercent }}真实伤害。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "60/70/80/90/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "925",
+      "maxrank": 5,
+      "image": "SyndraW.png",
+      "key": "W"
+    },
+    {
+      "name": "弱者退散",
+      "description": "辛德拉将敌人和暗黑法球击退，并造成魔法伤害。被暗黑法球命中的敌人会被晕眩。",
+      "tooltip": "辛德拉投出一道原力波，击退敌人们和暗黑法球并造成{{ totaldamage }}魔法伤害。被推挤的暗黑法球会晕眩敌人{{ stunduration }}秒并造成{{ totaldamage }}魔法伤害。{{ spell.syndrapassive:eupgradethreshold }}块怒法碎晶：这个技能的宽度得到提升并且还会对敌人们造成持续{{ upgradedslowduration }}秒的{{ upgradedslowamount*100 }}%减速。",
+      "cooldown": "15",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "SyndraE.png",
+      "key": "E"
+    },
+    {
+      "name": "能量倾泻",
+      "description": "辛德拉用她的所有暗黑法球来轰击一名敌方英雄。",
+      "tooltip": "被动：每级能量倾泻都会为暗黑法球提供额外的{{ qhasteperrank }}技能急速。辛德拉动用她洪流般的能量，将环绕于她的3颗暗黑法球外加至多4颗附近的暗黑法球轰在一名敌方英雄身上。每颗暗黑法球造成{{ damagecalc }}魔法伤害(最大{{ maxdamagecalc }}魔法伤害)。{{ spell.syndrapassive:rupgradethreshold }}块怒法碎晶：这个技能处决生命值低于{{ upgradeexecutethreshold*100 }}%的敌人。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "675",
+      "maxrank": 3,
+      "image": "SyndraR.png",
+      "key": "R"
+    }
+  ]
+}

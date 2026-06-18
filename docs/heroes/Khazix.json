@@ -1,0 +1,382 @@
+{
+  "id": "Khazix",
+  "championId": "121",
+  "name": "虚空掠夺者",
+  "title": "卡兹克",
+  "region": "虚空之地",
+  "blurb": "虚空在成长，虚空在进化——在众多虚空生物中，没有谁能比卡兹克更完美体现这一特性。进化让这种恐怖的能力不断变异，求生的本能让它不断弑杀强者，只要遇到障碍，它就会进化出新的、更有效的方法反杀猎物。最初卡兹克只是一头愚钝的野兽，但随着智力与形态的不断进化，现在它已学会了提前计划狩猎行动，甚至懂得在猎物心中制造最真实的恐惧。",
+  "tags": [
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 9,
+    "defense": 4,
+    "magic": 3,
+    "difficulty": 6
+  },
+  "stats": {
+    "hp": 643,
+    "hpPerLevel": 99,
+    "mp": 327,
+    "mpPerLevel": 40,
+    "movespeed": 345,
+    "armor": 32,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.668,
+    "attackspeedPerLevel": 2.7,
+    "hpregen": 7.5,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 7.59,
+    "mpregenPerLevel": 0.5,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "121001",
+      "name": "霸天异形 卡兹克",
+      "chromas": true
+    },
+    {
+      "id": "121002",
+      "name": "沙之守护 卡兹克",
+      "chromas": false
+    },
+    {
+      "id": "121003",
+      "name": "死亡绽放 卡兹克",
+      "chromas": false
+    },
+    {
+      "id": "121004",
+      "name": "暗星 卡兹克",
+      "chromas": false
+    },
+    {
+      "id": "121005",
+      "name": "霸天异形 卡兹克 刹那银光",
+      "chromas": false
+    },
+    {
+      "id": "121006",
+      "name": "霸天异形 卡兹克 黄金异端",
+      "chromas": false
+    },
+    {
+      "id": "121007",
+      "name": "霸天异形 卡兹克 掠空魅影",
+      "chromas": false
+    },
+    {
+      "id": "121008",
+      "name": "霸天异形 卡兹克 丛林灾厄",
+      "chromas": false
+    },
+    {
+      "id": "121009",
+      "name": "霸天异形 卡兹克 源初暴走",
+      "chromas": false
+    },
+    {
+      "id": "121010",
+      "name": "霸天异形 卡兹克 变革特攻",
+      "chromas": false
+    },
+    {
+      "id": "121011",
+      "name": "冠军掠夺者 卡兹克",
+      "chromas": true
+    },
+    {
+      "id": "121012",
+      "name": "冠军掠夺者 卡兹克 凯旋圣装",
+      "chromas": false
+    },
+    {
+      "id": "121013",
+      "name": "冠军掠夺者 卡兹克 Flash Wolves",
+      "chromas": false
+    },
+    {
+      "id": "121014",
+      "name": "冠军掠夺者 卡兹克 KT Rolster",
+      "chromas": false
+    },
+    {
+      "id": "121015",
+      "name": "冠军掠夺者 卡兹克 Fnatic",
+      "chromas": false
+    },
+    {
+      "id": "121017",
+      "name": "冠军掠夺者 卡兹克 Kaos Latin Gamers",
+      "chromas": false
+    },
+    {
+      "id": "121018",
+      "name": "冠军掠夺者 卡兹克 G2 Esports",
+      "chromas": false
+    },
+    {
+      "id": "121022",
+      "name": "冠军掠夺者 卡兹克 Team Vitality",
+      "chromas": false
+    },
+    {
+      "id": "121023",
+      "name": "冠军掠夺者 卡兹克 Ascension Gaming",
+      "chromas": false
+    },
+    {
+      "id": "121024",
+      "name": "冠军掠夺者 卡兹克 Afreeca Freecs",
+      "chromas": false
+    },
+    {
+      "id": "121025",
+      "name": "冠军掠夺者 卡兹克 Gen.G",
+      "chromas": false
+    },
+    {
+      "id": "121028",
+      "name": "冠军掠夺者 卡兹克 KaBuM! e-Sports",
+      "chromas": false
+    },
+    {
+      "id": "121030",
+      "name": "冠军掠夺者 卡兹克 Gambit Esports",
+      "chromas": false
+    },
+    {
+      "id": "121031",
+      "name": "冠军掠夺者 卡兹克 DetonatioN FocusMe",
+      "chromas": false
+    },
+    {
+      "id": "121035",
+      "name": "冠军掠夺者 卡兹克 Infinity eSports",
+      "chromas": false
+    },
+    {
+      "id": "121037",
+      "name": "冠军掠夺者 卡兹克 G-Rex",
+      "chromas": false
+    },
+    {
+      "id": "121041",
+      "name": "冠军掠夺者 卡兹克 MAD Team",
+      "chromas": false
+    },
+    {
+      "id": "121042",
+      "name": "冠军掠夺者 卡兹克 Edward Gaming",
+      "chromas": false
+    },
+    {
+      "id": "121043",
+      "name": "冠军掠夺者 卡兹克 Invictus Gaming",
+      "chromas": false
+    },
+    {
+      "id": "121046",
+      "name": "冠军掠夺者 卡兹克 Royal Never Give Up",
+      "chromas": false
+    },
+    {
+      "id": "121047",
+      "name": "冠军掠夺者 卡兹克 100 Thieves",
+      "chromas": false
+    },
+    {
+      "id": "121048",
+      "name": "冠军掠夺者 卡兹克 Cloud9",
+      "chromas": false
+    },
+    {
+      "id": "121051",
+      "name": "冠军掠夺者 卡兹克 Team Liquid",
+      "chromas": false
+    },
+    {
+      "id": "121053",
+      "name": "冠军掠夺者 卡兹克 Dire Wolves",
+      "chromas": false
+    },
+    {
+      "id": "121054",
+      "name": "冠军掠夺者 卡兹克 BAHÇEŞEHİR SUPERMASSIVE eSports",
+      "chromas": false
+    },
+    {
+      "id": "121059",
+      "name": "冠军掠夺者 卡兹克 Phong Vu Buffalo",
+      "chromas": false
+    },
+    {
+      "id": "121060",
+      "name": "奥德赛 卡兹克",
+      "chromas": false
+    },
+    {
+      "id": "121061",
+      "name": "奥德赛 卡兹克 银河征服者",
+      "chromas": false
+    },
+    {
+      "id": "121062",
+      "name": "奥德赛 卡兹克 星陨粉碎者",
+      "chromas": false
+    },
+    {
+      "id": "121063",
+      "name": "奥德赛 卡兹克 宇宙探索者",
+      "chromas": false
+    },
+    {
+      "id": "121064",
+      "name": "奥德赛 卡兹克 星辉收割者",
+      "chromas": false
+    },
+    {
+      "id": "121065",
+      "name": "奥德赛 卡兹克 恒星游历者",
+      "chromas": false
+    },
+    {
+      "id": "121066",
+      "name": "奥德赛 卡兹克 虫洞穿行者",
+      "chromas": false
+    },
+    {
+      "id": "121067",
+      "name": "奥德赛 卡兹克 星云环游者",
+      "chromas": false
+    },
+    {
+      "id": "121068",
+      "name": "奥德赛 卡兹克 黑洞挑战者",
+      "chromas": false
+    },
+    {
+      "id": "121069",
+      "name": "春晖海神 卡兹克",
+      "chromas": false
+    },
+    {
+      "id": "121070",
+      "name": "春晖海神 卡兹克 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "121071",
+      "name": "春晖海神 卡兹克 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "121072",
+      "name": "春晖海神 卡兹克 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "121073",
+      "name": "春晖海神 卡兹克 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "121074",
+      "name": "春晖海神 卡兹克 紫气东来",
+      "chromas": false
+    },
+    {
+      "id": "121075",
+      "name": "春晖海神 卡兹克 财源滚滚",
+      "chromas": false
+    },
+    {
+      "id": "121076",
+      "name": "春晖海神 卡兹克 吉祥如意",
+      "chromas": false
+    },
+    {
+      "id": "121077",
+      "name": "春晖海神 卡兹克 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "121078",
+      "name": "春晖海神 卡兹克 灿烂辉煌",
+      "chromas": false
+    },
+    {
+      "id": "121079",
+      "name": "水晶掠夺者 卡兹克",
+      "chromas": false
+    },
+    {
+      "id": "121080",
+      "name": "水晶掠夺者 卡兹克 破碎之光",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "无形威胁",
+    "description": "附近陷入孤立无援状态的敌人会被标记出来。卡兹克的技能会与孤立无援的目标产生交互作用。当卡兹克没有被敌方队伍所看见时，他会获得无形威胁，使他的下次对敌方英雄发动的普通攻击造成额外魔法伤害，并使目标减速数秒。",
+    "image": "Khazix_P.png"
+  },
+  "spells": [
+    {
+      "name": "品尝恐惧",
+      "description": "对目标造成物理伤害。对孤立无援的目标造成的伤害会提高。如果他选择进化收割利爪的话，这个技能会在对抗孤立无援的目标时返还一部分冷却时间。卡兹克也会提升他的普通攻击和品尝恐惧的距离。",
+      "tooltip": "卡兹克斩击一名附近的敌人，造成{{ spell.khazixq:basedamage }}物理伤害。这个技能对孤立无援的目标造成{{ spell.khazixq:isodamage }}伤害作为替代。",
+      "cooldown": "4",
+      "cost": "20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "325",
+      "maxrank": 5,
+      "image": "KhazixQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "虚空突刺",
+      "description": "卡兹克发射爆炸性的尖刺，对命中的敌人造成物理伤害。卡兹克如果在爆炸范围内，则会回复生命值。如果他选择进化刺鞘的话，虚空突刺现在会呈锥形发射三个尖刺，减速被命中的敌人并使被命中的敌方英雄显形2秒。孤立无援的目标会被减速额外的幅度。",
+      "tooltip": "卡兹克发射一根尖刺，对命中的首个目标及一个小区域内造成{{ basedamage }}物理伤害。如果卡兹克在该区域内，那么他会回复{{ healamount }}生命值。",
+      "cooldown": "9",
+      "cost": "55/60/65/70/75",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "KhazixW.png",
+      "key": "W"
+    },
+    {
+      "name": "跃击",
+      "description": "卡兹克跳向一个区域，在着陆时造成物理伤害。如果他选择进化虫翼的话，跃击的距离会提升200并在击杀和助攻时重置冷却时间。",
+      "tooltip": "卡兹克进行跳跃，在着陆时造成{{ totaldamage }}物理伤害。",
+      "cooldown": "20/18/16/14/12",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "700",
+      "maxrank": 5,
+      "image": "KhazixE.png",
+      "key": "E"
+    },
+    {
+      "name": "虚空来袭",
+      "description": "每升一级此技能都会允许卡兹克进化他的一项技能，给予该技能独特的附加效果。在激活【虚空来袭】时，会使卡兹克变成隐形状态，触发无形威胁并提升移动速度。如果他选择进化动态遮蔽的话，【虚空来袭】获得已提升的隐形持续时间，以及一次额外的使用次数。",
+      "tooltip": "主动：卡兹克进入持续{{ stealthduration }}秒的隐形状态并获得{{ bonusmovementspeedpercent*100 }}%移动速度。卡兹克可以在{{ recastwindow }}秒内再次施放这个技能。被动：升级这个技能会允许卡兹克进化他的一个技能，来为该技能提供额外效果。品尝恐惧：获得技能距离、攻击距离，并且在对抗孤立无援的目标时会降低{{ spell.khazixq:effect4amount }}%冷却时间。虚空突刺：发射3个尖刺，造成{{ spell.khazixw:effect3amount }}%减速，对抗孤立无援的目标时会提升。跃击：提升距离并在参与击杀英雄后刷新冷却时间。虚空来袭： 隐形持续{{ evolvedstealthduration }}秒并获得第二段再次施放。",
+      "cooldown": "100/85/70",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "25000",
+      "maxrank": 3,
+      "image": "KhazixR.png",
+      "key": "R"
+    }
+  ]
+}

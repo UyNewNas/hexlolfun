@@ -1,0 +1,343 @@
+{
+  "id": "Hecarim",
+  "championId": "120",
+  "name": "战争之影",
+  "title": "赫卡里姆",
+  "region": "暗影岛",
+  "blurb": "赫卡里姆是人与兽的幽灵混合体，身上的诅咒让他只能永世不停地践踏生者的灵魂。在福光岛被暗影吞噬之际，这位高傲的骑士被破败之咒的毁灭能量彻底湮没——连同他的骑兵团和他们胯下的坐骑。现在，符文之地上只要是有黑雾出现的地方，就会有赫卡里姆率军冲锋的鬼影，他们肆虐雀跃，用铁蹄践踏着脚下的幽魂。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 6,
+    "magic": 4,
+    "difficulty": 6
+  },
+  "stats": {
+    "hp": 625,
+    "hpPerLevel": 106,
+    "mp": 280,
+    "mpPerLevel": 40,
+    "movespeed": 345,
+    "armor": 32,
+    "armorPerLevel": 5.45,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 66,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.67,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 7,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 7,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "120001",
+      "name": "血石骑士 赫卡里姆",
+      "chromas": false
+    },
+    {
+      "id": "120002",
+      "name": "幽魂骑士 赫卡里姆",
+      "chromas": false
+    },
+    {
+      "id": "120003",
+      "name": "无头骑士 赫卡里姆",
+      "chromas": false
+    },
+    {
+      "id": "120004",
+      "name": "电玩战魂 赫卡里姆",
+      "chromas": false
+    },
+    {
+      "id": "120005",
+      "name": "永恒之森 赫卡里姆",
+      "chromas": false
+    },
+    {
+      "id": "120006",
+      "name": "创世之神 赫卡里姆",
+      "chromas": false
+    },
+    {
+      "id": "120007",
+      "name": "零之枪骑 赫卡里姆",
+      "chromas": false
+    },
+    {
+      "id": "120008",
+      "name": "西部魔影 赫卡里姆",
+      "chromas": true
+    },
+    {
+      "id": "120009",
+      "name": "西部魔影 赫卡里姆 欧利昂之威",
+      "chromas": false
+    },
+    {
+      "id": "120010",
+      "name": "西部魔影 赫卡里姆 布锐斯之鸣",
+      "chromas": false
+    },
+    {
+      "id": "120011",
+      "name": "西部魔影 赫卡里姆 贝列之锐",
+      "chromas": false
+    },
+    {
+      "id": "120012",
+      "name": "西部魔影 赫卡里姆 拜恩之势",
+      "chromas": false
+    },
+    {
+      "id": "120013",
+      "name": "西部魔影 赫卡里姆 斯伯纳克之坚",
+      "chromas": false
+    },
+    {
+      "id": "120014",
+      "name": "人马星神 赫卡里姆",
+      "chromas": true
+    },
+    {
+      "id": "120015",
+      "name": "人马星神 赫卡里姆 战神星魂",
+      "chromas": false
+    },
+    {
+      "id": "120016",
+      "name": "人马星神 赫卡里姆 光神星魂",
+      "chromas": false
+    },
+    {
+      "id": "120017",
+      "name": "人马星神 赫卡里姆 猎神星魂",
+      "chromas": false
+    },
+    {
+      "id": "120018",
+      "name": "人马星神 赫卡里姆 夜神星魂",
+      "chromas": false
+    },
+    {
+      "id": "120019",
+      "name": "人马星神 赫卡里姆 天神星魂",
+      "chromas": false
+    },
+    {
+      "id": "120020",
+      "name": "人马星神 赫卡里姆 美神星魂",
+      "chromas": false
+    },
+    {
+      "id": "120021",
+      "name": "人马星神 赫卡里姆 冥神星魂",
+      "chromas": false
+    },
+    {
+      "id": "120022",
+      "name": "车骑之力 赫卡里姆",
+      "chromas": true
+    },
+    {
+      "id": "120023",
+      "name": "车骑之力 赫卡里姆 斗志",
+      "chromas": false
+    },
+    {
+      "id": "120024",
+      "name": "车骑之力 赫卡里姆 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "120025",
+      "name": "车骑之力 赫卡里姆 丰足",
+      "chromas": false
+    },
+    {
+      "id": "120026",
+      "name": "车骑之力 赫卡里姆 财富",
+      "chromas": false
+    },
+    {
+      "id": "120027",
+      "name": "车骑之力 赫卡里姆 权威",
+      "chromas": false
+    },
+    {
+      "id": "120028",
+      "name": "车骑之力 赫卡里姆 学识",
+      "chromas": false
+    },
+    {
+      "id": "120029",
+      "name": "车骑之力 赫卡里姆 哀伤",
+      "chromas": false
+    },
+    {
+      "id": "120030",
+      "name": "车骑之力 赫卡里姆 均衡",
+      "chromas": false
+    },
+    {
+      "id": "120031",
+      "name": "北极星守护者 赫卡里姆",
+      "chromas": true
+    },
+    {
+      "id": "120032",
+      "name": "北极星守护者 赫卡里姆 激昂脉冲",
+      "chromas": false
+    },
+    {
+      "id": "120033",
+      "name": "北极星守护者 赫卡里姆 幸运漩涡",
+      "chromas": false
+    },
+    {
+      "id": "120034",
+      "name": "北极星守护者 赫卡里姆 祥和面纱",
+      "chromas": false
+    },
+    {
+      "id": "120035",
+      "name": "北极星守护者 赫卡里姆 希望辉光",
+      "chromas": false
+    },
+    {
+      "id": "120036",
+      "name": "北极星守护者 赫卡里姆 神秘幻彩",
+      "chromas": false
+    },
+    {
+      "id": "120037",
+      "name": "北极星守护者 赫卡里姆 浪漫帘幕",
+      "chromas": false
+    },
+    {
+      "id": "120038",
+      "name": "北极星守护者 赫卡里姆 庄严光冕",
+      "chromas": false
+    },
+    {
+      "id": "120039",
+      "name": "北极星守护者 赫卡里姆 七彩光斑",
+      "chromas": false
+    },
+    {
+      "id": "120040",
+      "name": "北极星守护者 赫卡里姆 花冠极光",
+      "chromas": false
+    },
+    {
+      "id": "120041",
+      "name": "黑夜使者 赫卡里姆",
+      "chromas": true
+    },
+    {
+      "id": "120042",
+      "name": "黑夜使者 赫卡里姆 血夜",
+      "chromas": false
+    },
+    {
+      "id": "120043",
+      "name": "黑夜使者 赫卡里姆 炎夜",
+      "chromas": false
+    },
+    {
+      "id": "120044",
+      "name": "黑夜使者 赫卡里姆 宁夜",
+      "chromas": false
+    },
+    {
+      "id": "120045",
+      "name": "黑夜使者 赫卡里姆 寒夜",
+      "chromas": false
+    },
+    {
+      "id": "120046",
+      "name": "黑夜使者 赫卡里姆 夕夜",
+      "chromas": false
+    },
+    {
+      "id": "120047",
+      "name": "黑夜使者 赫卡里姆 邪夜",
+      "chromas": false
+    },
+    {
+      "id": "120048",
+      "name": "黑夜使者 赫卡里姆 梦夜",
+      "chromas": false
+    },
+    {
+      "id": "120049",
+      "name": "黑夜使者 赫卡里姆 白夜",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "征战之路",
+    "description": "赫卡里姆获得相当于他一部分额外移动速度的攻击力加成。",
+    "image": "Hecarim_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "暴走",
+      "description": "赫卡里姆猛劈周围的敌人，同时造成物理伤害。如果这个技能对至少一名敌人造成伤害，那么赫卡里姆会提升【暴走】的伤害并为随后施放的【暴走】缩短冷却时间。",
+      "tooltip": "赫卡里姆顺劈周围的敌人，造成{{ damage }}物理伤害。如果这个技能命中了敌人，那么他会获得一层效果，来使这次技能的冷却时间降低{{ rampagecooldownreduction }}秒并提升此技能{{ rampagebonusdamageperc }}%伤害，持续{{ e6 }}秒。这个效果至多可达{{ e2 }}层。",
+      "cooldown": "4",
+      "cost": "28/26/24/22/20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "350",
+      "maxrank": 5,
+      "image": "HecarimRapidSlash.png",
+      "key": "Q"
+    },
+    {
+      "name": "恐惧之灵",
+      "description": "赫卡里姆获得护甲和魔抗。赫卡里姆对附近敌人造成魔法伤害，并基于敌人所受的伤害来恢复生命值。",
+      "tooltip": "赫卡里姆在{{ buffduration }}秒里对附近的敌人们持续造成共{{ totaldamage }}魔法伤害。赫卡里姆获得{{ resistamount }} 护甲和魔法抗性并治疗自身，治疗数额相当于这些敌人受到的来自赫卡里姆的{{ leechamount }}%伤害和来自赫卡里姆友军的{{ allytooltipleachvalue }}%伤害。",
+      "cooldown": "14",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "525",
+      "maxrank": 5,
+      "image": "HecarimW.png",
+      "key": "W"
+    },
+    {
+      "name": "毁灭冲锋",
+      "description": "赫卡里姆获得不断提升的移动速度加成并且移动时可以无视单位的碰撞体积。他的下一次攻击将会击退目标，并且造成额外物理伤害，伤害值基于他在激活该技能后所移动的距离。",
+      "tooltip": "赫卡里姆变为幽灵状态，并获得{{ minmovespeed*100 }}%移动速度，在{{ e5 }}秒里持续提升至{{ maxmovespeed*100 }}%。他的下次攻击会击退目标并造成{{ mindamage }}到{{ maxdamage }}物理伤害。击退距离和伤害随此技能期间的位移距离而增长。",
+      "cooldown": "20/19/18/17/16",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "300",
+      "maxrank": 5,
+      "image": "HecarimRamp.png",
+      "key": "E"
+    },
+    {
+      "name": "暗影冲击",
+      "description": "赫卡里姆召唤幽魂骑兵向前冲锋，对一条直线上的敌人造成魔法伤害。赫卡里姆会在完成他的冲锋时发出一道冲击波，来使周围的敌人惊慌失措地逃命。",
+      "tooltip": "赫卡里姆召唤幽魂骑兵并向前冲锋，造成{{ damagedone }}魔法伤害。赫卡里姆会在他冲锋的终点释放一道冲击波，来使敌人们恐惧{{ feardurationmin }}到{{ feardurationmax }}秒，随冲锋距离提升。",
+      "cooldown": "140/120/100",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "50000",
+      "maxrank": 3,
+      "image": "HecarimUlt.png",
+      "key": "R"
+    }
+  ]
+}

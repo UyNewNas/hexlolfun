@@ -1,0 +1,433 @@
+{
+  "id": "Nami",
+  "championId": "267",
+  "name": "唤潮鲛姬",
+  "title": "娜美",
+  "region": "符文之地",
+  "blurb": "娜美是一名强大年轻的瓦斯塔亚海族。当鲛人族与巨神族自古订立的契约被打破，她是第一个离开海洋、踏上陆地的人。她别无选择，只能挺身而出担此重任，完成神圣的仪式以确保族人的安全。在这崭新时代的混乱浪潮中，娜美以无比的决心和无畏的斗志面对未知的明天，用手中的唤潮者之杖召唤来自海洋的力量。",
+  "tags": [
+    "辅助",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 4,
+    "defense": 3,
+    "magic": 7,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 560,
+    "hpPerLevel": 88,
+    "mp": 365,
+    "mpPerLevel": 43,
+    "movespeed": 335,
+    "armor": 29,
+    "armorPerLevel": 5.2,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 54,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.644,
+    "attackspeedPerLevel": 2.61,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 11.5,
+    "mpregenPerLevel": 0.4,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "267001",
+      "name": "锦鲤 娜美",
+      "chromas": true
+    },
+    {
+      "id": "267002",
+      "name": "河水之灵 娜美",
+      "chromas": false
+    },
+    {
+      "id": "267003",
+      "name": "鲛妮座人 娜美",
+      "chromas": false
+    },
+    {
+      "id": "267004",
+      "name": "锦鲤 娜美 黄金鲤",
+      "chromas": false
+    },
+    {
+      "id": "267005",
+      "name": "锦鲤 娜美 红白鲤",
+      "chromas": false
+    },
+    {
+      "id": "267006",
+      "name": "锦鲤 娜美 幻紫鲤",
+      "chromas": false
+    },
+    {
+      "id": "267007",
+      "name": "海皇姬 娜美",
+      "chromas": false
+    },
+    {
+      "id": "267008",
+      "name": "SKT T1 娜美",
+      "chromas": false
+    },
+    {
+      "id": "267009",
+      "name": "源代码 娜美",
+      "chromas": true
+    },
+    {
+      "id": "267010",
+      "name": "源代码 娜美 灭火娇娃",
+      "chromas": false
+    },
+    {
+      "id": "267011",
+      "name": "源代码 娜美 抗毒娇娃",
+      "chromas": false
+    },
+    {
+      "id": "267012",
+      "name": "源代码 娜美 救灾娇娃",
+      "chromas": false
+    },
+    {
+      "id": "267013",
+      "name": "源代码 娜美 消暑娇娃",
+      "chromas": false
+    },
+    {
+      "id": "267014",
+      "name": "源代码 娜美 造景娇娃",
+      "chromas": false
+    },
+    {
+      "id": "267015",
+      "name": "玉剑传说 寒潭夭夭",
+      "chromas": true
+    },
+    {
+      "id": "267016",
+      "name": "玉剑传说 寒潭夭夭 胭脂",
+      "chromas": false
+    },
+    {
+      "id": "267017",
+      "name": "玉剑传说 寒潭夭夭 丁香",
+      "chromas": false
+    },
+    {
+      "id": "267018",
+      "name": "玉剑传说 寒潭夭夭 碧空",
+      "chromas": false
+    },
+    {
+      "id": "267019",
+      "name": "玉剑传说 寒潭夭夭 黄栌",
+      "chromas": false
+    },
+    {
+      "id": "267020",
+      "name": "玉剑传说 寒潭夭夭 紫檀",
+      "chromas": false
+    },
+    {
+      "id": "267021",
+      "name": "玉剑传说 寒潭夭夭 绿柳",
+      "chromas": false
+    },
+    {
+      "id": "267022",
+      "name": "玉剑传说 寒潭夭夭 鹤雪",
+      "chromas": false
+    },
+    {
+      "id": "267023",
+      "name": "玉剑传说 寒潭夭夭 珠光",
+      "chromas": false
+    },
+    {
+      "id": "267024",
+      "name": "双鱼星神 娜美",
+      "chromas": true
+    },
+    {
+      "id": "267025",
+      "name": "双鱼星神 娜美 战神星魂",
+      "chromas": false
+    },
+    {
+      "id": "267026",
+      "name": "双鱼星神 娜美 主神星魂",
+      "chromas": false
+    },
+    {
+      "id": "267027",
+      "name": "双鱼星神 娜美 猎神星魂",
+      "chromas": false
+    },
+    {
+      "id": "267028",
+      "name": "双鱼星神 娜美 梦神星魂",
+      "chromas": false
+    },
+    {
+      "id": "267029",
+      "name": "双鱼星神 娜美 美神星魂",
+      "chromas": false
+    },
+    {
+      "id": "267030",
+      "name": "双鱼星神 娜美 冥神星魂",
+      "chromas": false
+    },
+    {
+      "id": "267031",
+      "name": "双鱼星神 娜美 乐神星魂",
+      "chromas": false
+    },
+    {
+      "id": "267032",
+      "name": "魅惑女巫 娜美",
+      "chromas": true
+    },
+    {
+      "id": "267033",
+      "name": "魅惑女巫 娜美 热情化身",
+      "chromas": false
+    },
+    {
+      "id": "267034",
+      "name": "魅惑女巫 娜美 清新化身",
+      "chromas": false
+    },
+    {
+      "id": "267035",
+      "name": "魅惑女巫 娜美 青春化身",
+      "chromas": false
+    },
+    {
+      "id": "267036",
+      "name": "魅惑女巫 娜美 知性化身",
+      "chromas": false
+    },
+    {
+      "id": "267037",
+      "name": "魅惑女巫 娜美 浪漫化身",
+      "chromas": false
+    },
+    {
+      "id": "267038",
+      "name": "魅惑女巫 娜美 高冷化身",
+      "chromas": false
+    },
+    {
+      "id": "267039",
+      "name": "魅惑女巫 娜美 纯真化身",
+      "chromas": false
+    },
+    {
+      "id": "267040",
+      "name": "魅惑女巫 娜美 典雅化身",
+      "chromas": false
+    },
+    {
+      "id": "267041",
+      "name": "太空律动 “魔音海妖” 娜美",
+      "chromas": true
+    },
+    {
+      "id": "267042",
+      "name": "至臻 太空律动 “魔音海妖” 娜美",
+      "chromas": false
+    },
+    {
+      "id": "267043",
+      "name": "“魔音海妖” 娜美 草莓弹弹乐",
+      "chromas": false
+    },
+    {
+      "id": "267044",
+      "name": "“魔音海妖” 娜美 凤梨弹弹乐",
+      "chromas": false
+    },
+    {
+      "id": "267045",
+      "name": "“魔音海妖” 娜美 猕猴桃弹弹乐",
+      "chromas": false
+    },
+    {
+      "id": "267046",
+      "name": "“魔音海妖” 娜美 蓝果弹弹乐",
+      "chromas": false
+    },
+    {
+      "id": "267047",
+      "name": "“魔音海妖” 娜美 蜜桃弹弹乐",
+      "chromas": false
+    },
+    {
+      "id": "267048",
+      "name": "“魔音海妖” 娜美 酸梅弹弹乐",
+      "chromas": false
+    },
+    {
+      "id": "267049",
+      "name": "“魔音海妖” 娜美 椰果弹弹乐",
+      "chromas": false
+    },
+    {
+      "id": "267050",
+      "name": "“魔音海妖” 娜美 彩虹弹弹乐",
+      "chromas": false
+    },
+    {
+      "id": "267051",
+      "name": "魔女 娜美",
+      "chromas": true
+    },
+    {
+      "id": "267052",
+      "name": "魔女 娜美 愤怒",
+      "chromas": false
+    },
+    {
+      "id": "267053",
+      "name": "魔女 娜美 欺骗",
+      "chromas": false
+    },
+    {
+      "id": "267054",
+      "name": "魔女 娜美 嫉妒",
+      "chromas": false
+    },
+    {
+      "id": "267055",
+      "name": "魔女 娜美 虚荣",
+      "chromas": false
+    },
+    {
+      "id": "267056",
+      "name": "魔女 娜美 饕餮",
+      "chromas": false
+    },
+    {
+      "id": "267057",
+      "name": "魔女 娜美 不畏",
+      "chromas": false
+    },
+    {
+      "id": "267058",
+      "name": "剪纸仙灵 娜美",
+      "chromas": true
+    },
+    {
+      "id": "267059",
+      "name": "剪纸仙灵 娜美 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "267060",
+      "name": "剪纸仙灵 娜美 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "267061",
+      "name": "剪纸仙灵 娜美 年年有余",
+      "chromas": false
+    },
+    {
+      "id": "267062",
+      "name": "剪纸仙灵 娜美 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "267063",
+      "name": "剪纸仙灵 娜美 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "267064",
+      "name": "剪纸仙灵 娜美 日进斗金",
+      "chromas": false
+    },
+    {
+      "id": "267065",
+      "name": "剪纸仙灵 娜美 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "267066",
+      "name": "剪纸仙灵 娜美 吉祥如意",
+      "chromas": false
+    },
+    {
+      "id": "267068",
+      "name": "沉溺暗影 娜美",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "踏浪之行",
+    "description": "每当娜美的技能命中友方英雄时，他们都会暂时获得移动速度加成。",
+    "image": "NamiPassive.png"
+  },
+  "spells": [
+    {
+      "name": "碧波之牢",
+      "description": "朝着目标区域放出一个泡泡，对命中的所有敌人造成伤害和晕眩效果。",
+      "tooltip": "娜美掷出一个泡泡，晕眩敌人{{ e2 }}秒并造成{{ totaldamagett }}魔法伤害。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "875",
+      "maxrank": 5,
+      "image": "NamiQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "冲击之潮",
+      "description": "释放一股在友方英雄和敌方英雄之间交替流动的水流，治疗友军并伤害敌军。",
+      "tooltip": "娜美释放一股在友方英雄和敌方英雄之间交替弹跳的水流。每个目标只会被弹到一次，并且水流至多可弹{{ maxtargets }}个目标。为友方英雄回复{{ totalheal }}生命值并弹向附近的一名敌方英雄身上。对敌方英雄造成{{ totaldamage }}魔法伤害并弹向附近的一名友方英雄身上。每次弹跳会使伤害和治疗数额修正{{ bouncescaling }}。",
+      "cooldown": "10",
+      "cost": "70/75/80/85/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "725",
+      "maxrank": 5,
+      "image": "NamiW.png",
+      "key": "W"
+    },
+    {
+      "name": "唤潮之佑",
+      "description": "短时间里强化一个友军英雄。友军的普通攻击和技能会对其目标造成额外伤害和减速效果。",
+      "tooltip": "娜美强化一位友方英雄的下{{ hitcount }}次普通攻击和技能，持续{{ buffduration }}秒，使其可以对目标造成持续{{ slowduration }}秒的{{ totalslow }}减速，并造成额外的{{ totaldamage }}魔法伤害。",
+      "cooldown": "11",
+      "cost": "55/60/65/70/75",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "NamiE.png",
+      "key": "E"
+    },
+    {
+      "name": "怒涛之啸",
+      "description": "召唤一阵巨大的怒涛，击飞、减速并伤害沿途的所有敌人。被怒涛命中的友方英雄会获得【踏浪之行】的双倍加速效果。",
+      "tooltip": "娜美召唤一阵怒涛，造成0.5秒击飞，{{ e4 }}%减速并造成{{ totaldamage }}魔法伤害。减速的持续时间会基于怒涛的行进距离而提升，至多持续{{ e5 }}秒。被怒涛命中的友方英雄会获得踏浪之行的双倍效果。",
+      "cooldown": "120/110/100",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "2550",
+      "maxrank": 3,
+      "image": "NamiR.png",
+      "key": "R"
+    }
+  ]
+}

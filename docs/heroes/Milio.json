@@ -1,0 +1,238 @@
+{
+  "id": "Milio",
+  "championId": "902",
+  "name": "明烛",
+  "title": "米利欧",
+  "region": "以绪塔尔",
+  "blurb": "米利欧是一个热心肠的以绪塔尔男孩，年纪轻轻就掌握了火焰的元素公理，还发现了一种全新的东西：安心火。有了全新的能力，米利欧打算帮全家结束流放的生活，进入育恩塔尔——就像祖母曾经那样。横穿以绪塔尔的密林，来到以绪奥肯以后，如今的米利欧准备直面维达利安并加入育恩塔尔，但他并不清楚在前方等待他的是什么样的试炼——和什么样的危险。",
+  "tags": [
+    "辅助",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 4,
+    "magic": 8,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 560,
+    "hpPerLevel": 88,
+    "mp": 365,
+    "mpPerLevel": 43,
+    "movespeed": 330,
+    "armor": 26,
+    "armorPerLevel": 4.6,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 525,
+    "attackdamage": 48,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 3,
+    "hpregen": 5,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 11.5,
+    "mpregenPerLevel": 0.4,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "902001",
+      "name": "花仙贤者 米利欧",
+      "chromas": true
+    },
+    {
+      "id": "902002",
+      "name": "花仙贤者 米利欧 丹良",
+      "chromas": false
+    },
+    {
+      "id": "902003",
+      "name": "花仙贤者 米利欧 熠耀",
+      "chromas": false
+    },
+    {
+      "id": "902004",
+      "name": "花仙贤者 米利欧 夜光",
+      "chromas": false
+    },
+    {
+      "id": "902005",
+      "name": "花仙贤者 米利欧 宵烛",
+      "chromas": false
+    },
+    {
+      "id": "902006",
+      "name": "花仙贤者 米利欧 景天",
+      "chromas": false
+    },
+    {
+      "id": "902007",
+      "name": "花仙贤者 米利欧 耀夜",
+      "chromas": false
+    },
+    {
+      "id": "902008",
+      "name": "花仙贤者 米利欧 磷",
+      "chromas": false
+    },
+    {
+      "id": "902009",
+      "name": "花仙贤者 米利欧 丹鸟",
+      "chromas": false
+    },
+    {
+      "id": "902010",
+      "name": "花仙贤者 米利欧 迷人幻翼",
+      "chromas": false
+    },
+    {
+      "id": "902011",
+      "name": "青蛙雨衣 米利欧",
+      "chromas": true
+    },
+    {
+      "id": "902012",
+      "name": "青蛙雨衣 米利欧 红雨",
+      "chromas": false
+    },
+    {
+      "id": "902013",
+      "name": "青蛙雨衣 米利欧 喜雨",
+      "chromas": false
+    },
+    {
+      "id": "902014",
+      "name": "青蛙雨衣 米利欧 春雨",
+      "chromas": false
+    },
+    {
+      "id": "902015",
+      "name": "青蛙雨衣 米利欧 泽雨",
+      "chromas": false
+    },
+    {
+      "id": "902016",
+      "name": "青蛙雨衣 米利欧 桃雨",
+      "chromas": false
+    },
+    {
+      "id": "902017",
+      "name": "青蛙雨衣 米利欧 灵雨",
+      "chromas": false
+    },
+    {
+      "id": "902018",
+      "name": "青蛙雨衣 米利欧 夜雨",
+      "chromas": false
+    },
+    {
+      "id": "902019",
+      "name": "青蛙雨衣 米利欧 丝雨",
+      "chromas": false
+    },
+    {
+      "id": "902020",
+      "name": "冬境仙灵 米利欧",
+      "chromas": true
+    },
+    {
+      "id": "902021",
+      "name": "冬境仙灵 米利欧 焰阳",
+      "chromas": false
+    },
+    {
+      "id": "902022",
+      "name": "冬境仙灵 米利欧 荧火",
+      "chromas": false
+    },
+    {
+      "id": "902023",
+      "name": "冬境仙灵 米利欧 新绿",
+      "chromas": false
+    },
+    {
+      "id": "902024",
+      "name": "冬境仙灵 米利欧 温泉",
+      "chromas": false
+    },
+    {
+      "id": "902025",
+      "name": "冬境仙灵 米利欧 紫晶",
+      "chromas": false
+    },
+    {
+      "id": "902026",
+      "name": "冬境仙灵 米利欧 白雪",
+      "chromas": false
+    },
+    {
+      "id": "902027",
+      "name": "冬境仙灵 米利欧 夜幕",
+      "chromas": false
+    },
+    {
+      "id": "902028",
+      "name": "冬境仙灵 米利欧 蔷薇",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "热情洋溢！",
+    "description": "米利欧的技能可以为队友提供增益，让他们下一次伤害造成更多伤害，并点燃目标。",
+    "image": "Milio_P.png"
+  },
+  "spells": [
+    {
+      "name": "火爆飞踢",
+      "description": "踢出一团火球，这个火球可击退一名敌人。火球在击中敌人时会弹至目标身后，对落地范围内的所有敌人造成伤害和减速效果。",
+      "tooltip": "米利欧踢出一团火球，这个火球会击退命中的第一个敌人。如果它命中了敌人，则会弹至目标身后并爆炸，对周围的敌人们造成{{ damage }}魔法伤害和持续{{ slowduration }}秒的{{ slowamountpercent }}减速。用火爆飞踢命中至少一个敌方英雄时，会返还其{{ refundratio*100 }}%法力消耗。",
+      "cooldown": "10",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1200",
+      "maxrank": 5,
+      "image": "MilioQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "依依不舍",
+      "description": "创造一个强化地带，为地带中的友军们提供治疗效果并提升攻击距离。地带会跟随距离施法点最近的那名友方英雄。",
+      "tooltip": "米利欧创造一团炉火来跟随友方英雄们，持续{{ zoneduration }}秒。炉火附近的友方英雄们会在持续期间获得{{ rangepercent }}攻击距离并且持续回复共{{ healingovertime }}生命值。炉火还会每{{ healfrequencyseconds }}秒施加热情洋溢！。再次施放：改变炉火跟随的友方英雄。",
+      "cooldown": "29/27/25/23/21",
+      "cost": "90/100/110/120/130",
+      "costType": " {{ abilityresourcename }}",
+      "range": "350",
+      "maxrank": 5,
+      "image": "MilioW.png",
+      "key": "W"
+    },
+    {
+      "name": "融融情谊",
+      "description": "米利欧为一名队友提供护盾，并暂时提升队友的移动速度。这个技能有2层充能。",
+      "tooltip": "米利欧将一名友方英雄裹入护体火焰之中，提供{{ shieldcalc }}护盾值和持续{{ movespeedduration }}秒的{{ movespeedamount*100 }}%移动速度。这个技能有2层充能并且它的各种效果可在目标上堆叠。",
+      "cooldown": "0.5",
+      "cost": "50/60/70/80/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "MilioE.png",
+      "key": "E"
+    },
+    {
+      "name": "生生不息",
+      "description": "米利欧释放一道舒心火焰波纹，治疗范围内的队友并净化他们身上的控制效果。",
+      "tooltip": "米利欧释放一道舒心火焰波纹给附近的友方英雄们，净化限制和定身效果，回复{{ healcalc }}生命值，并提供持续{{ tenacityduration }}秒的{{ tenacityamount*100 }}%韧性。",
+      "cooldown": "160/145/130",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "700",
+      "maxrank": 3,
+      "image": "MilioR.png",
+      "key": "R"
+    }
+  ]
+}

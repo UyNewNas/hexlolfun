@@ -1,0 +1,283 @@
+{
+  "id": "Naafiri",
+  "championId": "950",
+  "name": "百裂冥犬",
+  "title": "纳亚菲利",
+  "region": "恕瑞玛",
+  "blurb": "一望无际的恕瑞玛大漠上，回荡着嗥吠啸鸣的合唱，那是沙丘猎狗的呼号。这些凶狠的食肉动物会成群结队，在这片贫瘠的土地上争夺狩猎的资格。在众多狗群之中，有一群地位最高，因为它们不仅拥有犬科动物的血性，更有来自暗裔的远古力量。",
+  "tags": [
+    "刺客",
+    "战士"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 9,
+    "defense": 5,
+    "magic": 0,
+    "difficulty": 2
+  },
+  "stats": {
+    "hp": 610,
+    "hpPerLevel": 105,
+    "mp": 400,
+    "mpPerLevel": 55,
+    "movespeed": 340,
+    "armor": 28,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 55,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.663,
+    "attackspeedPerLevel": 2.1,
+    "hpregen": 6.25,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 7.5,
+    "mpregenPerLevel": 1,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "950001",
+      "name": "斗魂觉醒 纳亚菲利",
+      "chromas": true
+    },
+    {
+      "id": "950002",
+      "name": "斗魂觉醒 纳亚菲利 烈之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "950003",
+      "name": "斗魂觉醒 纳亚菲利 锐之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "950004",
+      "name": "斗魂觉醒 纳亚菲利 魅之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "950005",
+      "name": "斗魂觉醒 纳亚菲利 飒之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "950006",
+      "name": "斗魂觉醒 纳亚菲利 韧之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "950007",
+      "name": "斗魂觉醒 纳亚菲利 狡之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "950008",
+      "name": "斗魂觉醒 纳亚菲利 狂之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "950009",
+      "name": "斗魂觉醒 纳亚菲利 幽之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "950010",
+      "name": "斗魂觉醒 纳亚菲利 无限斗志",
+      "chromas": false
+    },
+    {
+      "id": "950011",
+      "name": "源计划：狂猎 纳亚菲利",
+      "chromas": true
+    },
+    {
+      "id": "950012",
+      "name": "源计划：狂猎 纳亚菲利 裂变",
+      "chromas": false
+    },
+    {
+      "id": "950013",
+      "name": "源计划：狂猎 纳亚菲利 地覆",
+      "chromas": false
+    },
+    {
+      "id": "950014",
+      "name": "源计划：狂猎 纳亚菲利 潜袭",
+      "chromas": false
+    },
+    {
+      "id": "950015",
+      "name": "源计划：狂猎 纳亚菲利 幻灭",
+      "chromas": false
+    },
+    {
+      "id": "950016",
+      "name": "源计划：狂猎 纳亚菲利 默化",
+      "chromas": false
+    },
+    {
+      "id": "950017",
+      "name": "源计划：狂猎 纳亚菲利 失控",
+      "chromas": false
+    },
+    {
+      "id": "950018",
+      "name": "源计划：狂猎 纳亚菲利 冥火",
+      "chromas": false
+    },
+    {
+      "id": "950019",
+      "name": "源计划：狂猎 纳亚菲利 雪崩",
+      "chromas": false
+    },
+    {
+      "id": "950020",
+      "name": "热狗 纳亚菲利",
+      "chromas": true
+    },
+    {
+      "id": "950021",
+      "name": "热狗 纳亚菲利 红肠",
+      "chromas": false
+    },
+    {
+      "id": "950022",
+      "name": "热狗 纳亚菲利 玉米肠",
+      "chromas": false
+    },
+    {
+      "id": "950023",
+      "name": "热狗 纳亚菲利 绿肠",
+      "chromas": false
+    },
+    {
+      "id": "950024",
+      "name": "热狗 纳亚菲利 紫薯肠",
+      "chromas": false
+    },
+    {
+      "id": "950025",
+      "name": "热狗 纳亚菲利 蓝香肠果",
+      "chromas": false
+    },
+    {
+      "id": "950026",
+      "name": "热狗 纳亚菲利 火腿肠",
+      "chromas": false
+    },
+    {
+      "id": "950027",
+      "name": "热狗 纳亚菲利 墨鱼肠",
+      "chromas": false
+    },
+    {
+      "id": "950028",
+      "name": "热狗 纳亚菲利 白香肠",
+      "chromas": false
+    },
+    {
+      "id": "950029",
+      "name": "银焰骑士 纳亚菲利",
+      "chromas": true
+    },
+    {
+      "id": "950030",
+      "name": "银焰骑士 纳亚菲利 红焰迅牙",
+      "chromas": false
+    },
+    {
+      "id": "950031",
+      "name": "银焰骑士 纳亚菲利 黄焰猛牙",
+      "chromas": false
+    },
+    {
+      "id": "950032",
+      "name": "银焰骑士 纳亚菲利 粉焰傲牙",
+      "chromas": false
+    },
+    {
+      "id": "950033",
+      "name": "银焰骑士 纳亚菲利 青焰蛮牙",
+      "chromas": false
+    },
+    {
+      "id": "950034",
+      "name": "银焰骑士 纳亚菲利 蓝焰幸牙",
+      "chromas": false
+    },
+    {
+      "id": "950035",
+      "name": "银焰骑士 纳亚菲利 绿焰霸牙",
+      "chromas": false
+    },
+    {
+      "id": "950036",
+      "name": "银焰骑士 纳亚菲利 黑焰劲牙",
+      "chromas": false
+    },
+    {
+      "id": "950037",
+      "name": "银焰骑士 纳亚菲利 白焰凶牙",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "狂烈种群",
+    "description": "纳亚菲利生成狗群伙伴，它们会在她攻击或施放技能时攻击目标。",
+    "image": "Icons_Naafiri_P.png"
+  },
+  "spells": [
+    {
+      "name": "暗裔犬牙",
+      "description": "纳亚菲利猛投出两根犬牙，每根都会施加流血效果，或在目标已经流血时施加额外伤害。狗群伙伴们会跃向并攻击被这个技能命中的英雄或野怪。",
+      "tooltip": "纳亚菲利猛投出多个侵染了暗裔能量的犬牙，造成{{ spell.naafiriq:totaldamagefirstcast }}物理伤害并施加一个流血效果，流血会在{{ spell.naafiriq:bleedduration }}秒里持续造成共{{ spell.naafiriq:totalbleeddamage }}物理伤害。纳亚菲利可以再次施放这个技能。如果被命中的敌人已经被施加了来自这个技能的流血，那么它会转而造成剩余的流血伤害外加{{ spell.naafiriq:totalmindamagesecondcast }} 到{{ spell.naafiriq:totalmaxdamagesecondcast }}物理伤害，基于该敌人的已损失生命值。如果该目标是一个英雄或大型野怪，那么纳亚菲利会回复{{ spell.naafiriq:totalhealsecondcast }}生命值。狗群伙伴们将跃向被命中的第一个英雄或野怪并攻击该目标{{ spell.naafirip:packmatetauntduration }}秒。",
+      "cooldown": "9/8.5/8/7.5/7",
+      "cost": "50/60/70/80/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "900",
+      "maxrank": 5,
+      "image": "NaafiriQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "暴吼",
+      "description": "纳亚菲利变为不可被选取状态并强化她的狗群，生成额外的狗群伙伴并获得移动速度和攻击力提升。",
+      "tooltip": "纳亚菲利变为不可被选取状态{{ untargetableduration }}秒并准备狩猎，生成{{ packmatestoadd }}个额外的狗群伙伴并获得{{ bonusad }}攻击力和{{ movespeedamount*100 }}%移动速度，持续{{ duration }}秒。狗群伙伴变为不可被选取状态并被召回至纳亚菲利。",
+      "cooldown": "26/24/22/20/18",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "NaafiriR.png",
+      "key": "W"
+    },
+    {
+      "name": "剔骨本能",
+      "description": "纳亚菲利冲刺并伤害她附近一个区域内的敌人们，唤回她的狗群并完全回复它们的生命值。",
+      "tooltip": "纳亚菲利向前奔涌，造成{{ totaldamagefirstslash }}物理伤害，然后爆裂出一连串利刃，造成{{ totaldamagesecondslash }}物理伤害。狗群伙伴会变为不可被选取状态并被唤回至纳亚菲利处并回复100%生命值。",
+      "cooldown": "11/10/9/8/7",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "450",
+      "maxrank": 5,
+      "image": "NaafiriE.png",
+      "key": "E"
+    },
+    {
+      "name": "猎狗血性",
+      "description": "纳亚菲利与她的狗群伙伴们一起向一个英雄冲刺，然后造成伤害。如果纳亚菲利参与了一次击杀，那么她会显形附近的敌方英雄们并且可以再次施放这个技能一次。第二次施放会提供一个护盾。",
+      "tooltip": "纳亚菲利向一个敌人冲刺，对其造成{{ totaldamage }}物理伤害和短暂减速。狗群伙伴们会变为不可被选取状态并与纳亚菲利一起冲刺，每只狗群伙伴造成{{ packmatedamage }}物理伤害。如果纳亚菲利在{{ takedownwindow }}秒内参与了一次击杀，那么她会显形附近的敌方英雄们并且可再次施放这个技能一次。第二次施放会提供持续{{ shieldduration }}秒的{{ shieldtotal }}护盾值。",
+      "cooldown": "110/95/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "900",
+      "maxrank": 3,
+      "image": "NaafiriW.png",
+      "key": "R"
+    }
+  ]
+}

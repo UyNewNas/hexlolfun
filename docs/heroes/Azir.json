@@ -1,0 +1,233 @@
+{
+  "id": "Azir",
+  "championId": "268",
+  "name": "沙漠皇帝",
+  "title": "阿兹尔",
+  "region": "恕瑞玛",
+  "blurb": "阿兹尔是上古时期恕瑞玛的一位凡人皇帝，一位站在不朽神话巅峰的自豪之人。但他的狂妄引来了旁人的背叛，在最伟大胜利降临的那一刻将他杀害。而现在，数千年后，他重获新生并成为了力量无边的飞升者。阿兹尔的城市已经从黄沙之下崛起，他要让恕瑞玛恢复曾经的荣光。",
+  "tags": [
+    "法师",
+    "射手"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 6,
+    "defense": 3,
+    "magic": 8,
+    "difficulty": 9
+  },
+  "stats": {
+    "hp": 575,
+    "hpPerLevel": 108,
+    "mp": 320,
+    "mpPerLevel": 40,
+    "movespeed": 330,
+    "armor": 25,
+    "armorPerLevel": 5,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 525,
+    "attackdamage": 56,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 5,
+    "hpregen": 7,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "268001",
+      "name": "星际之门 阿兹尔",
+      "chromas": false
+    },
+    {
+      "id": "268002",
+      "name": "幽冥领主 阿兹尔",
+      "chromas": false
+    },
+    {
+      "id": "268003",
+      "name": "SKT T1 阿兹尔",
+      "chromas": false
+    },
+    {
+      "id": "268004",
+      "name": "司马懿 仲达",
+      "chromas": false
+    },
+    {
+      "id": "268005",
+      "name": "永恒之森 阿兹尔",
+      "chromas": true
+    },
+    {
+      "id": "268006",
+      "name": "永恒之森 阿兹尔 焰枫",
+      "chromas": false
+    },
+    {
+      "id": "268007",
+      "name": "永恒之森 阿兹尔 寒楹",
+      "chromas": false
+    },
+    {
+      "id": "268008",
+      "name": "永恒之森 阿兹尔 灵橡",
+      "chromas": false
+    },
+    {
+      "id": "268009",
+      "name": "永恒之森 阿兹尔 辉瓣",
+      "chromas": false
+    },
+    {
+      "id": "268010",
+      "name": "永恒之森 阿兹尔 永茂",
+      "chromas": false
+    },
+    {
+      "id": "268011",
+      "name": "永恒之森 阿兹尔 冰桦",
+      "chromas": false
+    },
+    {
+      "id": "268012",
+      "name": "永恒之森 阿兹尔 余烬重生",
+      "chromas": false
+    },
+    {
+      "id": "268013",
+      "name": "永恒之森 阿兹尔 樱落",
+      "chromas": false
+    },
+    {
+      "id": "268014",
+      "name": "2022 全球总决赛 阿兹尔",
+      "chromas": true
+    },
+    {
+      "id": "268015",
+      "name": "2022 全球总决赛 阿兹尔 征战八方",
+      "chromas": false
+    },
+    {
+      "id": "268016",
+      "name": "2022 全球总决赛 阿兹尔 竞逐巅峰",
+      "chromas": false
+    },
+    {
+      "id": "268017",
+      "name": "2022 全球总决赛 阿兹尔 勇者无畏",
+      "chromas": false
+    },
+    {
+      "id": "268018",
+      "name": "2022 全球总决赛 阿兹尔 此志无双",
+      "chromas": false
+    },
+    {
+      "id": "268019",
+      "name": "精英律师 阿兹尔",
+      "chromas": true
+    },
+    {
+      "id": "268020",
+      "name": "精英律师 阿兹尔 敬业",
+      "chromas": false
+    },
+    {
+      "id": "268021",
+      "name": "精英律师 阿兹尔 创新",
+      "chromas": false
+    },
+    {
+      "id": "268022",
+      "name": "精英律师 阿兹尔 细致",
+      "chromas": false
+    },
+    {
+      "id": "268023",
+      "name": "精英律师 阿兹尔 耐心",
+      "chromas": false
+    },
+    {
+      "id": "268024",
+      "name": "精英律师 阿兹尔 合作",
+      "chromas": false
+    },
+    {
+      "id": "268025",
+      "name": "精英律师 阿兹尔 诚实",
+      "chromas": false
+    },
+    {
+      "id": "268026",
+      "name": "精英律师 阿兹尔 灵活",
+      "chromas": false
+    },
+    {
+      "id": "268027",
+      "name": "精英律师 阿兹尔 正直",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "恕瑞玛的传承",
+    "description": "阿兹尔可以从友方或敌方防御塔的废墟中召唤太阳圆盘。",
+    "image": "Azir_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "狂沙猛攻",
+      "description": "阿兹尔把所有黄沙士兵派往一个地点。黄沙士兵会对沿途的所有敌人造成魔法伤害，并施加持续1秒的减速效果。",
+      "tooltip": "阿兹尔把所有黄沙士兵派往一个区域，从而对它们途经的所有敌人造成{{ totaldamage }}魔法伤害，并施加持续1秒的{{ slowamount*-100 }}%减速。",
+      "cooldown": "14/12/10/8/6",
+      "cost": "70/80/90/100/110",
+      "costType": " {{ abilityresourcename }}",
+      "range": "740",
+      "maxrank": 5,
+      "image": "AzirQWrapper.png",
+      "key": "Q"
+    },
+    {
+      "name": "沙兵现身",
+      "description": "阿兹尔召唤一个黄沙士兵来为他攻击附近的敌方单位。如果敌方单位在士兵的攻击距离内，那么士兵会代替阿兹尔进行普攻。士兵的攻击会对一条直线上的敌人造成魔法伤害。",
+      "tooltip": "阿兹尔召唤一个持续{{ e1 }}秒的黄沙士兵。当阿兹尔攻击处在一个黄沙士兵附近的敌人时，他会转而命令该士兵进行戳刺，在其方向上造成{{ totaldamage }}魔法伤害。这个技能拥有{{ maxammo }}层充能。",
+      "cooldown": "1.5",
+      "cost": "40/35/30/25/20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "525",
+      "maxrank": 5,
+      "image": "AzirW.png",
+      "key": "W"
+    },
+    {
+      "name": "流沙移形",
+      "description": "阿兹尔暂时套上一层护盾并冲向他的一个黄沙士兵，伤害敌人。如果他命中了一位敌方英雄，那么他就会准备好一个新的黄沙士兵并中断他的位移。",
+      "tooltip": "阿兹尔为他自身提供{{ totalshield }}护盾值，持续{{ e6 }}秒并朝着他的一位黄沙士兵突进，对途经的敌人们造成{{ totaldamage }}魔法伤害。如果阿兹尔命中了一名敌方英雄，那么他就会停下来并获得一层黄沙士兵充能。",
+      "cooldown": "22/20.5/19/17.5/16",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1100",
+      "maxrank": 5,
+      "image": "AzirEWrapper.png",
+      "key": "E"
+    },
+    {
+      "name": "禁军之墙",
+      "description": "阿兹尔召唤一道由禁军组成的人墙向前冲锋，对敌人造成伤害和击退效果。",
+      "tooltip": "阿兹尔召唤一道由禁军组成的人墙向前冲锋，击退敌人们并造成{{ totaldamage }}魔法伤害。然后这道由禁军组成的人墙会持续{{ e4 }}秒，来阻挡敌人的前进。",
+      "cooldown": "120/105/90",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "250",
+      "maxrank": 3,
+      "image": "AzirR.png",
+      "key": "R"
+    }
+  ]
+}

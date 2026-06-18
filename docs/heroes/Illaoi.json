@@ -1,0 +1,278 @@
+{
+  "id": "Illaoi",
+  "championId": "420",
+  "name": "海兽祭司",
+  "title": "俄洛伊",
+  "region": "比尔吉沃特",
+  "blurb": "俄洛伊的体格强横无比，却唯独会在她的坚定信仰面前屈身。作为大海兽的先知，她挥舞着一个巨大的金色神像，将敌人的灵魂抽离体外，完全击毁他们对现实的感知。所有对“娜伽卡波洛丝的真者”发起挑战的人，很快就会发现，俄洛伊从来不单打独斗——蟒行群岛的神明会与她并肩作战。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 6,
+    "magic": 3,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 656,
+    "hpPerLevel": 115,
+    "mp": 350,
+    "mpPerLevel": 50,
+    "movespeed": 350,
+    "armor": 35,
+    "armorPerLevel": 5,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 65,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 9.5,
+    "hpregenPerLevel": 0.8,
+    "mpregen": 7.5,
+    "mpregenPerLevel": 0.75,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "420001",
+      "name": "虚空使者 俄洛伊",
+      "chromas": false
+    },
+    {
+      "id": "420002",
+      "name": "抵抗军炎魔 俄洛伊",
+      "chromas": true
+    },
+    {
+      "id": "420003",
+      "name": "抵抗军炎魔 俄洛伊 炼狱勇士",
+      "chromas": false
+    },
+    {
+      "id": "420004",
+      "name": "抵抗军炎魔 俄洛伊 炙热裁决",
+      "chromas": false
+    },
+    {
+      "id": "420005",
+      "name": "抵抗军炎魔 俄洛伊 合金怒火",
+      "chromas": false
+    },
+    {
+      "id": "420006",
+      "name": "抵抗军炎魔 俄洛伊 铁血先锋",
+      "chromas": false
+    },
+    {
+      "id": "420007",
+      "name": "抵抗军炎魔 俄洛伊 苍蓝悍将",
+      "chromas": false
+    },
+    {
+      "id": "420008",
+      "name": "抵抗军炎魔 俄洛伊 毁灭律动",
+      "chromas": false
+    },
+    {
+      "id": "420009",
+      "name": "抵抗军炎魔 俄洛伊 粉红魅焰",
+      "chromas": false
+    },
+    {
+      "id": "420010",
+      "name": "水瓶星神 俄洛伊",
+      "chromas": true
+    },
+    {
+      "id": "420011",
+      "name": "水瓶星神 俄洛伊 战神星魂",
+      "chromas": false
+    },
+    {
+      "id": "420012",
+      "name": "水瓶星神 俄洛伊 光神星魂",
+      "chromas": false
+    },
+    {
+      "id": "420013",
+      "name": "水瓶星神 俄洛伊 主神星魂",
+      "chromas": false
+    },
+    {
+      "id": "420014",
+      "name": "水瓶星神 俄洛伊 猎神星魂",
+      "chromas": false
+    },
+    {
+      "id": "420015",
+      "name": "水瓶星神 俄洛伊 梦神星魂",
+      "chromas": false
+    },
+    {
+      "id": "420016",
+      "name": "水瓶星神 俄洛伊 美神星魂",
+      "chromas": false
+    },
+    {
+      "id": "420017",
+      "name": "水瓶星神 俄洛伊 冥神星魂",
+      "chromas": false
+    },
+    {
+      "id": "420018",
+      "name": "净雪之月 俄洛伊",
+      "chromas": true
+    },
+    {
+      "id": "420019",
+      "name": "净雪之月 俄洛伊 赤心",
+      "chromas": false
+    },
+    {
+      "id": "420020",
+      "name": "净雪之月 俄洛伊 檀晕",
+      "chromas": false
+    },
+    {
+      "id": "420021",
+      "name": "净雪之月 俄洛伊 鲛绡",
+      "chromas": false
+    },
+    {
+      "id": "420022",
+      "name": "净雪之月 俄洛伊 翠微",
+      "chromas": false
+    },
+    {
+      "id": "420023",
+      "name": "净雪之月 俄洛伊 水竹",
+      "chromas": false
+    },
+    {
+      "id": "420024",
+      "name": "净雪之月 俄洛伊 风花",
+      "chromas": false
+    },
+    {
+      "id": "420025",
+      "name": "净雪之月 俄洛伊 琼枝",
+      "chromas": false
+    },
+    {
+      "id": "420026",
+      "name": "净雪之月 俄洛伊 化墨",
+      "chromas": false
+    },
+    {
+      "id": "420027",
+      "name": "幻灵巨熊 俄洛伊",
+      "chromas": true
+    },
+    {
+      "id": "420028",
+      "name": "幻灵巨熊 俄洛伊 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "420029",
+      "name": "幻灵巨熊 俄洛伊 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "420030",
+      "name": "幻灵巨熊 俄洛伊 灿烂轰击",
+      "chromas": false
+    },
+    {
+      "id": "420031",
+      "name": "幻灵巨熊 俄洛伊 华丽冲阵",
+      "chromas": false
+    },
+    {
+      "id": "420032",
+      "name": "幻灵巨熊 俄洛伊 坚韧阻击",
+      "chromas": false
+    },
+    {
+      "id": "420033",
+      "name": "幻灵巨熊 俄洛伊 连绵奔袭",
+      "chromas": false
+    },
+    {
+      "id": "420034",
+      "name": "幻灵巨熊 俄洛伊 钢铁守备",
+      "chromas": false
+    },
+    {
+      "id": "420035",
+      "name": "幻灵巨熊 俄洛伊 魅影闪击",
+      "chromas": false
+    },
+    {
+      "id": "420036",
+      "name": "幻灵巨熊 俄洛伊 隐秘夜影",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "古神先知",
+    "description": "俄洛伊和她创造的躯壳会在附近的不可穿越的地形上生成触手。触手会挥向灵魂，躯壳，以及俄洛伊的【严酷训诫】的受害者们。触手会在命中敌人时造成物理伤害，如果命中目标是英雄还会治疗俄洛伊。",
+    "image": "Illaoi_P.png"
+  },
+  "spells": [
+    {
+      "name": "触手猛击",
+      "description": "提升触手造成的伤害。在激活时，俄洛伊会挥出一条触手来造成物理伤害。",
+      "tooltip": "被动：猛击伤害提升{{ spell.illaoiq:tentacledamageamp*100 }}%(当前{{ spell.illaoiq:tentacledamagetotal }}物理伤害)。主动：俄洛伊挥舞她的神像，使一条触手向前猛击。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "40/45/50/55/60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "850",
+      "maxrank": 5,
+      "image": "IllaoiQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "严酷训诫",
+      "description": "俄洛伊跃向她的目标，造成物理伤害并使附近的触手也挥向目标。",
+      "tooltip": "俄洛伊的下次攻击会使她跃向目标，造成额外的{{ healthpercenttotal }}最大生命值的物理伤害。当她进行打击时，附近的触手会对目标进行猛击。",
+      "cooldown": "4",
+      "cost": "30",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "IllaoiW.png",
+      "key": "W"
+    },
+    {
+      "name": "灵魂试炼",
+      "description": "俄洛伊把灵魂从一名敌人的肉身中扯出，强迫它站在她面前。 灵魂会将其所受的一部分伤害传递到本体上。如果灵魂被击杀，或者本体离灵魂过远，那么本体就会成为一个躯壳并且开始生成触手。",
+      "tooltip": "俄洛伊从一名敌方英雄身上扯出灵魂，持续{{ spiritduration }}秒。灵魂能像英雄一样被攻击，并且所受的 {{ echopercent }}伤害会传递给本体。如果灵魂死亡或者离本体过远，那么目标会被标记{{ vesselduration }}秒，并被减速{{ slowamount*100 }}%，持续{{ slowduration }}秒。被标记的敌人会尽可能地生成触手。触手会每{{ timebetweenvesseltentacleslams }}秒自动猛击一次灵魂和被标记的敌人。",
+      "cooldown": "16/15/14/13/12",
+      "cost": "35/40/45/50/55",
+      "costType": " {{ abilityresourcename }}",
+      "range": "900",
+      "maxrank": 5,
+      "image": "IllaoiE.png",
+      "key": "E"
+    },
+    {
+      "name": "过界信仰",
+      "description": "俄洛伊将她的神像砸在地上，对附近的敌人造成物理伤害。每命中一个敌人就会生成一条触手。",
+      "tooltip": "俄洛伊将她的神像砸入地面，对附近的敌人造成{{ damagecalc }}物理伤害并且每命中一个敌方英雄就会生成一条触手。在接下来的{{ duration }}秒里，触手无法被选取， 猛击变快50%，并且严酷训诫有一个{{ spell.illaoiw:cooldownduringr }}秒的冷却时间。",
+      "cooldown": "120/95/70",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "450",
+      "maxrank": 3,
+      "image": "IllaoiR.png",
+      "key": "R"
+    }
+  ]
+}

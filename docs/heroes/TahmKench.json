@@ -1,0 +1,328 @@
+{
+  "id": "TahmKench",
+  "championId": "223",
+  "name": "河流之王",
+  "title": "塔姆",
+  "region": "符文之地",
+  "blurb": "塔姆在历史上有许多不同的名字，他游历于符文之地的各条水道，用大意之人的悲惨喂养自己贪得无厌的食欲。虽然他的外表可能富有古怪的魅力和得意，但他在物质领域的漫游只是为了寻找毫无戒心的猎物。他的舌头像巨大的鞭子，即使是全副武装的重甲士兵也会被他从十几步以外的距离击晕，而如果跌入了他隆隆作响的肚子里，就相当于掉进了九死一生的绝命深渊。",
+  "tags": [
+    "坦克",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 3,
+    "defense": 9,
+    "magic": 6,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 640,
+    "hpPerLevel": 103,
+    "mp": 325,
+    "mpPerLevel": 50,
+    "movespeed": 335,
+    "armor": 39,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 56,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 6.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 8,
+    "mpregenPerLevel": 1,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "223001",
+      "name": "五星大厨 塔姆",
+      "chromas": false
+    },
+    {
+      "id": "223002",
+      "name": "海牛大大 塔姆",
+      "chromas": false
+    },
+    {
+      "id": "223003",
+      "name": "纳财大帝 塔姆",
+      "chromas": true
+    },
+    {
+      "id": "223004",
+      "name": "纳财大帝 塔姆 赠禄",
+      "chromas": false
+    },
+    {
+      "id": "223005",
+      "name": "纳财大帝 塔姆 赐福",
+      "chromas": false
+    },
+    {
+      "id": "223006",
+      "name": "纳财大帝 塔姆 盈贯",
+      "chromas": false
+    },
+    {
+      "id": "223007",
+      "name": "纳财大帝 塔姆 进宝",
+      "chromas": false
+    },
+    {
+      "id": "223008",
+      "name": "纳财大帝 塔姆 招财",
+      "chromas": false
+    },
+    {
+      "id": "223009",
+      "name": "纳财大帝 塔姆 送吉",
+      "chromas": false
+    },
+    {
+      "id": "223011",
+      "name": "秩序之舌 塔姆",
+      "chromas": false
+    },
+    {
+      "id": "223012",
+      "name": "秩序之舌 塔姆 斗志",
+      "chromas": true
+    },
+    {
+      "id": "223013",
+      "name": "秩序之舌 塔姆 优雅",
+      "chromas": false
+    },
+    {
+      "id": "223014",
+      "name": "秩序之舌 塔姆 坚韧",
+      "chromas": false
+    },
+    {
+      "id": "223015",
+      "name": "秩序之舌 塔姆 丰足",
+      "chromas": false
+    },
+    {
+      "id": "223016",
+      "name": "秩序之舌 塔姆 学识",
+      "chromas": false
+    },
+    {
+      "id": "223017",
+      "name": "秩序之舌 塔姆 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "223018",
+      "name": "秩序之舌 塔姆 均衡",
+      "chromas": false
+    },
+    {
+      "id": "223019",
+      "name": "秩序之舌 塔姆 哀伤",
+      "chromas": false
+    },
+    {
+      "id": "223020",
+      "name": "西部魔影 恶魔大亨 塔姆",
+      "chromas": false
+    },
+    {
+      "id": "223021",
+      "name": "西部魔影 恶魔大亨 塔姆 温和",
+      "chromas": true
+    },
+    {
+      "id": "223022",
+      "name": "西部魔影 恶魔大亨 塔姆 慷慨",
+      "chromas": false
+    },
+    {
+      "id": "223023",
+      "name": "西部魔影 恶魔大亨 塔姆 守信",
+      "chromas": false
+    },
+    {
+      "id": "223024",
+      "name": "西部魔影 恶魔大亨 塔姆 节制",
+      "chromas": false
+    },
+    {
+      "id": "223025",
+      "name": "西部魔影 恶魔大亨 塔姆 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "223026",
+      "name": "西部魔影 恶魔大亨 塔姆 善良",
+      "chromas": false
+    },
+    {
+      "id": "223027",
+      "name": "西部魔影 恶魔大亨 塔姆 谦卑",
+      "chromas": false
+    },
+    {
+      "id": "223028",
+      "name": "西部魔影 恶魔大亨 塔姆 纯洁",
+      "chromas": false
+    },
+    {
+      "id": "223029",
+      "name": "西部魔影 恶魔大亨 塔姆 虔信",
+      "chromas": false
+    },
+    {
+      "id": "223030",
+      "name": "山海绘卷 塔姆",
+      "chromas": false
+    },
+    {
+      "id": "223031",
+      "name": "山海绘卷 塔姆 朱红",
+      "chromas": true
+    },
+    {
+      "id": "223032",
+      "name": "山海绘卷 塔姆 杏黄",
+      "chromas": false
+    },
+    {
+      "id": "223033",
+      "name": "山海绘卷 塔姆 辉石",
+      "chromas": false
+    },
+    {
+      "id": "223034",
+      "name": "山海绘卷 塔姆 葱青",
+      "chromas": false
+    },
+    {
+      "id": "223035",
+      "name": "山海绘卷 塔姆 昏黄",
+      "chromas": false
+    },
+    {
+      "id": "223036",
+      "name": "山海绘卷 塔姆 青莲",
+      "chromas": false
+    },
+    {
+      "id": "223037",
+      "name": "山海绘卷 塔姆 湘妃",
+      "chromas": false
+    },
+    {
+      "id": "223038",
+      "name": "山海绘卷 塔姆 茶白",
+      "chromas": false
+    },
+    {
+      "id": "223039",
+      "name": "胖胖龙 塔姆",
+      "chromas": false
+    },
+    {
+      "id": "223040",
+      "name": "胖胖龙 塔姆 并非胖红龙",
+      "chromas": true
+    },
+    {
+      "id": "223041",
+      "name": "胖胖龙 塔姆 并非胖金龙",
+      "chromas": false
+    },
+    {
+      "id": "223042",
+      "name": "胖胖龙 塔姆 并非胖绿龙",
+      "chromas": false
+    },
+    {
+      "id": "223043",
+      "name": "胖胖龙 塔姆 并非胖蓝龙",
+      "chromas": false
+    },
+    {
+      "id": "223044",
+      "name": "胖胖龙 塔姆 并非胖紫龙",
+      "chromas": false
+    },
+    {
+      "id": "223045",
+      "name": "胖胖龙 塔姆 并非胖青龙",
+      "chromas": false
+    },
+    {
+      "id": "223046",
+      "name": "胖胖龙 塔姆 并非胖岩龙",
+      "chromas": false
+    },
+    {
+      "id": "223047",
+      "name": "胖胖龙 塔姆 并非胖黑龙",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "培养品味",
+    "description": "塔姆将他那庞大身躯的分量夹杂在他的攻击和技能中，从而使他能造成基于自身总生命值的额外伤害。对敌方英雄造成伤害时，塔姆可以在目标身上叠加培养品味的层数。当敌方英雄身上的层数到达3时，塔姆可以使用大快朵颐来吞噬这名敌方英雄。",
+    "image": "TahmKenchP.png"
+  },
+  "spells": [
+    {
+      "name": "巨舌鞭笞",
+      "description": "塔姆用他的舌头进行猛击，对命中的第一个单位造成伤害和减速效果并在他命中一名敌方英雄时治疗自身。对敌方英雄施加一层培养品味效果。如果目标英雄已经被叠加了3层培养品味，那么该英雄还会被晕眩，并且层数会被消耗掉。",
+      "tooltip": "对命中的第一个敌人造成{{ totaldamage }}魔法伤害和持续{{ slowduration }}秒的{{ slowamount*100 }}%减速。在命中英雄时，塔姆会回复他{{ baseheal }} +他的{{ percenthealthhealing*100 }}%已损失生命值并施加一层培养品味效果并造成{{ spell.tahmkenchpassive:totaldamage }}额外魔法伤害。如果目标英雄已经被叠加了3层培养品味，那么该英雄还会被晕眩{{ stunduration }}秒，并且层数会被消耗掉。当你的舌头处在半空中，且命中了远处已经被叠加了3层培养品味的敌方英雄时，激活大快朵颐即可将其吞噬。",
+      "cooldown": "7/6.5/6/5.5/5",
+      "cost": "50/46/42/38/34",
+      "costType": " {{ abilityresourcename }}",
+      "range": "900",
+      "maxrank": 5,
+      "image": "TahmKenchQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "深渊潜航",
+      "description": "下潜然后重新出现在目标位置，对一个区域内的所有敌人造成魔法伤害和击飞效果。",
+      "tooltip": "下潜然后重新出现在目标位置，对一个区域内的所有敌人造成{{ totaldamage }}魔法伤害和{{ knockupduration }}秒击飞效果。如果命中至少一名敌方英雄，则会返还{{ champrefund*100 }}%的冷却时间和法力消耗。被吞噬的友方英雄能够被带着一起潜航（但总能够提前下船）。",
+      "cooldown": "21/20/19/18/17",
+      "cost": "60/75/90/105/120",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000/1050/1100/1150/1200",
+      "maxrank": 5,
+      "image": "TahmKenchW.png",
+      "key": "W"
+    },
+    {
+      "name": "厚实表皮",
+      "description": "被动：塔姆将他所受的一部分伤害储存起来，并在脱离战斗后基于已储存的伤害值来治疗自身。主动：将所有已储存的伤害值转化为一个临时的护盾。",
+      "tooltip": "被动：塔姆通过厚实表皮将他所受的{{ greyhealthratio*100 }}%伤害储存起来，并会在附近至少有{{ enhancedthreshold }}名敌方英雄时提升至{{ greyhealthratioenhanced*100 }}%。如果塔姆在{{ ooctimer }}秒内没有受到伤害，厚实表皮将快速消耗来治疗塔姆，数额相当于{{ greyhealthhealingratio }}已储存的伤害值。主动：将厚实表皮已储存的所有伤害值转换为一层护盾，持续{{ shieldduration }}秒。",
+      "cooldown": "3",
+      "cost": "0",
+      "costType": " {{ abilityresourcename }}",
+      "range": "2400",
+      "maxrank": 5,
+      "image": "TahmKenchE.png",
+      "key": "E"
+    },
+    {
+      "name": "大快朵颐",
+      "description": "塔姆吞噬一名英雄若干秒，如果该英雄是敌人则对其造成魔法伤害，如果该英雄是队友则为其提供护盾。",
+      "tooltip": "塔姆吞噬一名英雄若干秒。他可以再次施放这个技能来将其吐出。敌方英雄：需要3层培养品味。至多被吞噬{{ enemyduration }}秒并受到{{ basedamage }} (+目标{{ percenthpdamage }}最大生命值)魔法伤害。在这个效果期间，塔姆自身被减速{{ slowamount*100 }}%并被缚地。友方英雄：至多被吞噬{{ allyduration }}秒并在被吐出后获得持续衰减的{{ totalshield }}护盾值。友方英雄可以选择提前离开。在这个效果期间，塔姆自身被缚地，但他可以施放深渊潜航并获得持续{{ allyduration }}秒的{{ allyspeedamount*100 }}%移动速度。",
+      "cooldown": "0",
+      "cost": "100",
+      "costType": "法力",
+      "range": "25000",
+      "maxrank": 3,
+      "image": "TahmKenchRWrapper.png",
+      "key": "R"
+    }
+  ]
+}

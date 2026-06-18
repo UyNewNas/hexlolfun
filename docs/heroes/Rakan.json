@@ -1,0 +1,382 @@
+{
+  "id": "Rakan",
+  "championId": "497",
+  "name": "幻翎",
+  "title": "洛",
+  "region": "艾欧尼亚",
+  "blurb": "对洛特兰部落而言，瓦斯塔亚的洛是臭名远播的捣蛋鬼，同时也是有史以来最为出色的战舞舞者。他风流潇洒，魅力无穷，同时却令人难以捉摸。在艾欧尼亚高地的居民眼中，“洛”这个名字一旦出现，就一定会带来热闹非凡的节日庆典、热火朝天的狂欢派对和杂乱无章的音乐。很少人知道，这个精力充沛的浪荡子和叛逆的霞是一对儿，而他的一举一动就是为了全力配合她的行动。",
+  "tags": [
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 4,
+    "magic": 8,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 610,
+    "hpPerLevel": 99,
+    "mp": 315,
+    "mpPerLevel": 50,
+    "movespeed": 335,
+    "armor": 30,
+    "armorPerLevel": 4.9,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 300,
+    "attackdamage": 62,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.635,
+    "attackspeedPerLevel": 3,
+    "hpregen": 5,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 8.75,
+    "mpregenPerLevel": 0.5,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "497001",
+      "name": "晨星之翎 洛",
+      "chromas": false
+    },
+    {
+      "id": "497002",
+      "name": "甜心之翎 洛",
+      "chromas": false
+    },
+    {
+      "id": "497003",
+      "name": "SSG 洛",
+      "chromas": true
+    },
+    {
+      "id": "497004",
+      "name": "iG 洛",
+      "chromas": true
+    },
+    {
+      "id": "497005",
+      "name": "星之守护者 洛",
+      "chromas": true
+    },
+    {
+      "id": "497006",
+      "name": "星之守护者 洛 烈翎",
+      "chromas": false
+    },
+    {
+      "id": "497007",
+      "name": "星之守护者 洛 寒翎",
+      "chromas": false
+    },
+    {
+      "id": "497008",
+      "name": "星之守护者 洛 魅翎",
+      "chromas": false
+    },
+    {
+      "id": "497009",
+      "name": "永恒之森 洛",
+      "chromas": true
+    },
+    {
+      "id": "497010",
+      "name": "永恒之森 洛 辉瓣",
+      "chromas": false
+    },
+    {
+      "id": "497011",
+      "name": "永恒之森 洛 永茂",
+      "chromas": false
+    },
+    {
+      "id": "497012",
+      "name": "永恒之森 洛 昙夜",
+      "chromas": false
+    },
+    {
+      "id": "497013",
+      "name": "永恒之森 洛 冰桦",
+      "chromas": false
+    },
+    {
+      "id": "497014",
+      "name": "永恒之森 洛 樱落",
+      "chromas": false
+    },
+    {
+      "id": "497015",
+      "name": "永恒之森 洛 寒楹",
+      "chromas": false
+    },
+    {
+      "id": "497016",
+      "name": "永恒之森 洛 余烬重生",
+      "chromas": false
+    },
+    {
+      "id": "497017",
+      "name": "永恒之森 洛 焰枫",
+      "chromas": false
+    },
+    {
+      "id": "497018",
+      "name": "比翼之心 洛",
+      "chromas": true
+    },
+    {
+      "id": "497019",
+      "name": "比翼之心 洛 斗志",
+      "chromas": false
+    },
+    {
+      "id": "497020",
+      "name": "比翼之心 洛 财富",
+      "chromas": false
+    },
+    {
+      "id": "497021",
+      "name": "比翼之心 洛 学识",
+      "chromas": false
+    },
+    {
+      "id": "497022",
+      "name": "比翼之心 洛 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "497023",
+      "name": "比翼之心 洛 权威",
+      "chromas": false
+    },
+    {
+      "id": "497024",
+      "name": "比翼之心 洛 丰足",
+      "chromas": false
+    },
+    {
+      "id": "497025",
+      "name": "比翼之心 洛 均衡",
+      "chromas": false
+    },
+    {
+      "id": "497026",
+      "name": "比翼之心 洛 哀伤",
+      "chromas": false
+    },
+    {
+      "id": "497027",
+      "name": "绝息圣堂 洛",
+      "chromas": true
+    },
+    {
+      "id": "497028",
+      "name": "绝息圣堂 洛 残阳圆舞曲",
+      "chromas": false
+    },
+    {
+      "id": "497029",
+      "name": "绝息圣堂 洛 昼梦狂想曲",
+      "chromas": false
+    },
+    {
+      "id": "497030",
+      "name": "绝息圣堂 洛 永生前奏曲",
+      "chromas": false
+    },
+    {
+      "id": "497031",
+      "name": "绝息圣堂 洛 灵息变奏曲",
+      "chromas": false
+    },
+    {
+      "id": "497032",
+      "name": "绝息圣堂 洛 日冕摇篮曲",
+      "chromas": false
+    },
+    {
+      "id": "497033",
+      "name": "绝息圣堂 洛 苏生回旋曲",
+      "chromas": false
+    },
+    {
+      "id": "497034",
+      "name": "绝息圣堂 洛 白夜奏鸣曲",
+      "chromas": false
+    },
+    {
+      "id": "497035",
+      "name": "绝息圣堂 洛 黑昼交响曲",
+      "chromas": false
+    },
+    {
+      "id": "497036",
+      "name": "星之守护者 净化之翎 洛",
+      "chromas": false
+    },
+    {
+      "id": "497037",
+      "name": "神龙尊者 比翼之龙 洛",
+      "chromas": true
+    },
+    {
+      "id": "497038",
+      "name": "至臻 神龙尊者 比翼之龙 洛",
+      "chromas": false
+    },
+    {
+      "id": "497039",
+      "name": "神龙尊者 比翼之龙 洛 登龙",
+      "chromas": false
+    },
+    {
+      "id": "497040",
+      "name": "神龙尊者 比翼之龙 洛 玄黄",
+      "chromas": false
+    },
+    {
+      "id": "497041",
+      "name": "神龙尊者 比翼之龙 洛 摘星",
+      "chromas": false
+    },
+    {
+      "id": "497042",
+      "name": "神龙尊者 比翼之龙 洛 碧漪",
+      "chromas": false
+    },
+    {
+      "id": "497043",
+      "name": "神龙尊者 比翼之龙 洛 望霞",
+      "chromas": false
+    },
+    {
+      "id": "497044",
+      "name": "神龙尊者 比翼之龙 洛 柏露",
+      "chromas": false
+    },
+    {
+      "id": "497045",
+      "name": "神龙尊者 比翼之龙 洛 朝云",
+      "chromas": false
+    },
+    {
+      "id": "497046",
+      "name": "神龙尊者 比翼之龙 洛 松峦",
+      "chromas": false
+    },
+    {
+      "id": "497047",
+      "name": "战斗学院 洛",
+      "chromas": true
+    },
+    {
+      "id": "497048",
+      "name": "战斗学院 洛 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "497049",
+      "name": "战斗学院 洛 森林龙",
+      "chromas": false
+    },
+    {
+      "id": "497050",
+      "name": "战斗学院 洛 梦魇",
+      "chromas": false
+    },
+    {
+      "id": "497051",
+      "name": "战斗学院 洛 天马",
+      "chromas": false
+    },
+    {
+      "id": "497052",
+      "name": "战斗学院 洛 独角兽",
+      "chromas": false
+    },
+    {
+      "id": "497053",
+      "name": "战斗学院 洛 九头蛇",
+      "chromas": false
+    },
+    {
+      "id": "497054",
+      "name": "战斗学院 洛 黑龙",
+      "chromas": false
+    },
+    {
+      "id": "497055",
+      "name": "战斗学院 洛 雄狮",
+      "chromas": false
+    },
+    {
+      "id": "497056",
+      "name": "SSG 洛 精锐",
+      "chromas": false
+    },
+    {
+      "id": "497057",
+      "name": "iG 洛 极境",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "异色羽裳",
+    "description": "洛会周期性地获得一层护盾。",
+    "image": "Rakan_P.png"
+  },
+  "spells": [
+    {
+      "name": "微光飞翎",
+      "description": "掷出一片神奇羽毛以造成魔法伤害。用在一名敌方英雄或史诗级野怪上时，会使洛有能力治疗他的友军。",
+      "tooltip": "洛掷出一支魔羽，对命中的第一个敌人造成{{ totaldamage }}魔法伤害。如果魔羽命中了一个英雄或史诗级野怪，洛会在{{ healdelay }}秒后或触碰到一名友方英雄后，为自己和附近的友方回复{{ totalheal }}生命值。",
+      "cooldown": "11/10/9/8/7",
+      "cost": "45",
+      "costType": " {{ abilityresourcename }}",
+      "range": "850",
+      "maxrank": 5,
+      "image": "RakanQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "盛大登场",
+      "description": "冲到一个位置，在到达时击飞附近的敌人。",
+      "tooltip": "洛进行冲刺，然后旋至空中，击飞{{ knockupduration }}秒并造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "14/13/12/11/10",
+      "cost": "50/60/70/80/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 5,
+      "image": "RakanW.png",
+      "key": "W"
+    },
+    {
+      "name": "轻舞成双",
+      "description": "飞向一名友方英雄，并提供给该英雄一层护盾。能在短时间内再次免费施放。",
+      "tooltip": "洛冲向一名友方英雄，为其提供持续{{ duration }}秒的{{ totalshield }}护盾值。洛可以在{{ recastwindow }}秒内再次施放一次这个技能。",
+      "cooldown": "0",
+      "cost": "40/45/50/55/60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "RakanE.png",
+      "key": "E"
+    },
+    {
+      "name": "惊鸿过隙",
+      "description": "获得移动速度，对触碰到的敌人造成魅惑和魔法伤害。",
+      "tooltip": "洛获得持续{{ duration }}秒的{{ initialcastspeed }}%移动速度。洛触碰到敌人时会造成{{ totaldamagetooltip }}魔法伤害，并对被首次命中的敌人造成持续{{ charmduration }}秒的魅惑效果。被触碰的首个敌方英雄，会为洛提供持续衰减的{{ touchspeed }}%移动速度。",
+      "cooldown": "130/110/90",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "150",
+      "maxrank": 3,
+      "image": "RakanR.png",
+      "key": "R"
+    }
+  ]
+}

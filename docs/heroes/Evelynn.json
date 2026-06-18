@@ -1,0 +1,418 @@
+{
+  "id": "Evelynn",
+  "championId": "28",
+  "name": "痛苦之拥",
+  "title": "伊芙琳",
+  "region": "符文之地",
+  "blurb": "在符文之地的黑暗裂缝中，恶魔伊芙琳一直在搜寻着下一个目标。她披着人类女性的撩人外表，勾引她的猎物。只要有人被她魅惑，伊芙琳就会显露出真正的形态，对其施加难以言喻的折磨，再从他们的痛苦中获得满足。对于这个恶魔来说，这样的欢愉只是单纯的纵情享受；但是对于符文之地上的其他人，则是一个个血肉模糊的传说，提醒着人们肉欲的危险和纵欲的代价。",
+  "tags": [
+    "刺客",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 4,
+    "defense": 2,
+    "magic": 7,
+    "difficulty": 10
+  },
+  "stats": {
+    "hp": 642,
+    "hpPerLevel": 98,
+    "mp": 315,
+    "mpPerLevel": 42,
+    "movespeed": 335,
+    "armor": 37,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 61,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.667,
+    "attackspeedPerLevel": 2.1,
+    "hpregen": 8.5,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 8.11,
+    "mpregenPerLevel": 0.6,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "28001",
+      "name": "黑暗女王 伊芙琳",
+      "chromas": false
+    },
+    {
+      "id": "28002",
+      "name": "假面女皇 伊芙琳",
+      "chromas": false
+    },
+    {
+      "id": "28003",
+      "name": "探戈灵魂 伊芙琳",
+      "chromas": false
+    },
+    {
+      "id": "28004",
+      "name": "惊天魔盗 伊芙琳",
+      "chromas": false
+    },
+    {
+      "id": "28005",
+      "name": "腥红之月 伊芙琳",
+      "chromas": false
+    },
+    {
+      "id": "28006",
+      "name": "K/DA 伊芙琳",
+      "chromas": false
+    },
+    {
+      "id": "28007",
+      "name": "至臻 K/DA 伊芙琳",
+      "chromas": false
+    },
+    {
+      "id": "28008",
+      "name": "糖果大战 伊芙琳",
+      "chromas": true
+    },
+    {
+      "id": "28009",
+      "name": "糖果大战 伊芙琳 草莓奶昔",
+      "chromas": false
+    },
+    {
+      "id": "28010",
+      "name": "糖果大战 伊芙琳 樱桃奶昔",
+      "chromas": false
+    },
+    {
+      "id": "28011",
+      "name": "糖果大战 伊芙琳 蔓越莓奶昔",
+      "chromas": false
+    },
+    {
+      "id": "28012",
+      "name": "糖果大战 伊芙琳 嗜甜之齿",
+      "chromas": false
+    },
+    {
+      "id": "28013",
+      "name": "糖果大战 伊芙琳 巧克力奶昔",
+      "chromas": false
+    },
+    {
+      "id": "28014",
+      "name": "糖果大战 伊芙琳 可可奶昔",
+      "chromas": false
+    },
+    {
+      "id": "28015",
+      "name": "K/DA ALL OUT 伊芙琳",
+      "chromas": true
+    },
+    {
+      "id": "28016",
+      "name": "K/DA ALL OUT 伊芙琳 星光之途",
+      "chromas": false
+    },
+    {
+      "id": "28017",
+      "name": "K/DA ALL OUT 伊芙琳 惊艳之姿",
+      "chromas": false
+    },
+    {
+      "id": "28018",
+      "name": "K/DA ALL OUT 伊芙琳 前卫之范",
+      "chromas": false
+    },
+    {
+      "id": "28019",
+      "name": "K/DA ALL OUT 伊芙琳 萌动之心",
+      "chromas": false
+    },
+    {
+      "id": "28020",
+      "name": "K/DA ALL OUT 伊芙琳 治愈之声",
+      "chromas": false
+    },
+    {
+      "id": "28021",
+      "name": "K/DA ALL OUT 伊芙琳 纯粹之心",
+      "chromas": false
+    },
+    {
+      "id": "28022",
+      "name": "K/DA ALL OUT 伊芙琳 优雅之仪",
+      "chromas": false
+    },
+    {
+      "id": "28023",
+      "name": "K/DA ALL OUT 伊芙琳 BADDEST",
+      "chromas": false
+    },
+    {
+      "id": "28024",
+      "name": "魔女 伊芙琳",
+      "chromas": true
+    },
+    {
+      "id": "28025",
+      "name": "魔女 伊芙琳 愤怒",
+      "chromas": false
+    },
+    {
+      "id": "28026",
+      "name": "魔女 伊芙琳 虚荣",
+      "chromas": false
+    },
+    {
+      "id": "28027",
+      "name": "魔女 伊芙琳 贪婪",
+      "chromas": false
+    },
+    {
+      "id": "28028",
+      "name": "魔女 伊芙琳 饕餮",
+      "chromas": false
+    },
+    {
+      "id": "28029",
+      "name": "魔女 伊芙琳 倦怠",
+      "chromas": false
+    },
+    {
+      "id": "28030",
+      "name": "魔女 伊芙琳 狂信",
+      "chromas": false
+    },
+    {
+      "id": "28031",
+      "name": "至臻 K/DA 伊芙琳 (2022)",
+      "chromas": false
+    },
+    {
+      "id": "28032",
+      "name": "灵魂莲华 伊芙琳",
+      "chromas": true
+    },
+    {
+      "id": "28033",
+      "name": "灵魂莲华 伊芙琳 流火",
+      "chromas": false
+    },
+    {
+      "id": "28034",
+      "name": "灵魂莲华 伊芙琳 雁来",
+      "chromas": false
+    },
+    {
+      "id": "28035",
+      "name": "灵魂莲华 伊芙琳 春晓",
+      "chromas": false
+    },
+    {
+      "id": "28036",
+      "name": "灵魂莲华 伊芙琳 雪落",
+      "chromas": false
+    },
+    {
+      "id": "28037",
+      "name": "灵魂莲华 伊芙琳 风起",
+      "chromas": false
+    },
+    {
+      "id": "28038",
+      "name": "灵魂莲华 伊芙琳 云开",
+      "chromas": false
+    },
+    {
+      "id": "28039",
+      "name": "灵魂莲华 伊芙琳 月升",
+      "chromas": false
+    },
+    {
+      "id": "28040",
+      "name": "灵魂莲华 伊芙琳 朝花",
+      "chromas": false
+    },
+    {
+      "id": "28041",
+      "name": "灵魂莲华 伊芙琳 绽夜",
+      "chromas": false
+    },
+    {
+      "id": "28042",
+      "name": "斗魂觉醒 伊芙琳",
+      "chromas": true
+    },
+    {
+      "id": "28043",
+      "name": "斗魂觉醒 伊芙琳 烈之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "28044",
+      "name": "斗魂觉醒 伊芙琳 韧之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "28045",
+      "name": "斗魂觉醒 伊芙琳 幻之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "28046",
+      "name": "斗魂觉醒 伊芙琳 飒之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "28047",
+      "name": "斗魂觉醒 伊芙琳 狡之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "28048",
+      "name": "斗魂觉醒 伊芙琳 毅之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "28049",
+      "name": "斗魂觉醒 伊芙琳 愈之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "28050",
+      "name": "斗魂觉醒 伊芙琳 幽之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "28051",
+      "name": "斗魂觉醒 伊芙琳 无限斗志",
+      "chromas": false
+    },
+    {
+      "id": "28052",
+      "name": "西部魔影 伊芙琳",
+      "chromas": true
+    },
+    {
+      "id": "28053",
+      "name": "至臻 西部魔影 伊芙琳",
+      "chromas": false
+    },
+    {
+      "id": "28054",
+      "name": "西部魔影 伊芙琳 温和",
+      "chromas": false
+    },
+    {
+      "id": "28055",
+      "name": "西部魔影 伊芙琳 善良",
+      "chromas": false
+    },
+    {
+      "id": "28056",
+      "name": "西部魔影 伊芙琳 诚实",
+      "chromas": false
+    },
+    {
+      "id": "28057",
+      "name": "西部魔影 伊芙琳 恭敬",
+      "chromas": false
+    },
+    {
+      "id": "28058",
+      "name": "西部魔影 伊芙琳 节制",
+      "chromas": false
+    },
+    {
+      "id": "28059",
+      "name": "西部魔影 伊芙琳 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "28060",
+      "name": "西部魔影 伊芙琳 慷慨",
+      "chromas": false
+    },
+    {
+      "id": "28061",
+      "name": "西部魔影 伊芙琳 谦卑",
+      "chromas": false
+    },
+    {
+      "id": "28062",
+      "name": "西部魔影 伊芙琳 正午幻日",
+      "chromas": false
+    },
+    {
+      "id": "28063",
+      "name": "西部魔影 伊芙琳 午夜影月",
+      "chromas": false
+    },
+    {
+      "id": "28064",
+      "name": "黑夜使者 伊芙琳",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "恶魔魅影",
+    "description": "在非战斗状态下，伊芙琳进入【恶魔魅影】。【恶魔魅影】会在伊芙琳生命值较低时治疗她，并在6级后为她提供【伪装】。",
+    "image": "Evelynn_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "憎恨之刺",
+      "description": "伊芙琳用鞭子进行抽击，对命中的第一个敌方单位造成伤害。随后，伊芙琳可以朝附近的敌人发出一列尖刺，可发射若干次。",
+      "tooltip": "伊芙琳用她的鞭子进行打击，对命中的第一个敌人造成{{ missiledamage }}魔法伤害并使伊芙琳对该敌人发起的下3次攻击或技能造成额外的{{ totalbonusdamage }}魔法伤害。伊芙琳可以再次施放这个技能至多{{ qstackcount }}次。再次施放：伊芙琳发射尖刺穿过相距最近的敌人，并对命中的所有敌人造成{{ missiledamage }}魔法伤害。",
+      "cooldown": "4",
+      "cost": "40/45/50/55/60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "EvelynnQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "引诱",
+      "description": "伊芙琳诅咒她的目标，并使她在一段延时后的下次攻击或技能对目标施加魅惑和魔抗击碎效果。",
+      "tooltip": "伊芙琳标记一名英雄或野怪5秒。如果伊芙琳用一次攻击或技能命中了该目标，那么她将抹除该印记，返还它的法力消耗，并使目标减速{{ slowamount*100 }}%，持续{{ slowduration }}秒。如果标记持续了至少2.5秒，那么将它抹除还会有额外效果：对抗英雄时：将其魅惑{{ charmduration }}秒并削减{{ mrshred*100 }}%魔法抗性，持续{{ shredduration }}秒。对抗野怪时：将其魅惑{{ monstercharm }}秒并造成{{ monsterdamagetotaltooltip }}魔法伤害。",
+      "cooldown": "15/14/13/12/11",
+      "cost": "60/70/80/90/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1200/1300/1400/1500/1600",
+      "maxrank": 5,
+      "image": "EvelynnW.png",
+      "key": "W"
+    },
+    {
+      "name": "鞭笞",
+      "description": "伊芙琳鞭笞她的目标，并造成伤害。她随后会获得短暂持续的移动速度加成。",
+      "tooltip": "伊芙琳鞭打一名敌人，造成{{ basedamage }}加上{{ percenthealthbasetooltip }}最大生命值的魔法伤害。伊芙琳获得{{ speedamount*100 }}%移动速度，持续{{ speedduration }}秒。进入恶魔魅影会刷新这个技能的冷却时间并使其获得强化。当这个技能获得强化后，伊芙琳会冲刺向目标并对她的目标和沿途的所有敌人造成{{ empowereddamage }}加上{{ percenthealthempoweredtooltip }}最大生命值的魔法伤害。",
+      "cooldown": "8",
+      "cost": "40/45/50/55/60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "210",
+      "maxrank": 5,
+      "image": "EvelynnE.png",
+      "key": "E"
+    },
+    {
+      "name": "最终抚慰",
+      "description": "伊芙琳短暂进入不可被选取状态并大肆残杀她面前区域内的敌人，然后向后位移一大段距离。",
+      "tooltip": "伊芙琳释放她的恶魔能量，造成大量伤害、变为不可被选取状态并向后传送。她造成{{ damage }}魔法伤害，如果敌人低于30%生命值，则此伤害提升至{{ critdamage }}。在施放的同时，给【恶魔魅影】设置一个为期1.25秒的冷却时间。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "25000",
+      "maxrank": 3,
+      "image": "EvelynnR.png",
+      "key": "R"
+    }
+  ]
+}

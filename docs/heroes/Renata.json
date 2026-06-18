@@ -1,0 +1,253 @@
+{
+  "id": "Renata",
+  "championId": "888",
+  "name": "炼金男爵",
+  "title": "烈娜塔 · 戈拉斯克",
+  "region": "未知",
+  "blurb": "烈娜塔•格拉斯克从童年家宅的灰烬中走出，仅凭自己的名字和父母的炼金术研究成果白手起家。在后来的几十年里，她成为了祖安炼金男爵中的首富，通过利益捆绑积累人脉。与她合作，就将获得难以计量的奖赏。与她作对，就将捶胸顿足悔不当初。但到最后，所有人都会成为她的附庸。",
+  "tags": [
+    "辅助",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 6,
+    "magic": 9,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 545,
+    "hpPerLevel": 94,
+    "mp": 350,
+    "mpPerLevel": 50,
+    "movespeed": 330,
+    "armor": 27,
+    "armorPerLevel": 4.7,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 49,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.11,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 11.5,
+    "mpregenPerLevel": 0.5,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "888001",
+      "name": "舰队司令 烈娜塔",
+      "chromas": true
+    },
+    {
+      "id": "888002",
+      "name": "舰队司令 烈娜塔 战场狂焰",
+      "chromas": false
+    },
+    {
+      "id": "888003",
+      "name": "舰队司令 烈娜塔 漫天沙暴",
+      "chromas": false
+    },
+    {
+      "id": "888004",
+      "name": "舰队司令 烈娜塔 森中魔怪",
+      "chromas": false
+    },
+    {
+      "id": "888005",
+      "name": "舰队司令 烈娜塔 深海巨妖",
+      "chromas": false
+    },
+    {
+      "id": "888006",
+      "name": "舰队司令 烈娜塔 惑心恶魔",
+      "chromas": false
+    },
+    {
+      "id": "888007",
+      "name": "舰队司令 烈娜塔 曙光梦魇",
+      "chromas": false
+    },
+    {
+      "id": "888008",
+      "name": "舰队司令 烈娜塔 天际幽影",
+      "chromas": false
+    },
+    {
+      "id": "888009",
+      "name": "舰队司令 烈娜塔 苍穹铁腕",
+      "chromas": false
+    },
+    {
+      "id": "888010",
+      "name": "魔域梦魇 烈娜塔",
+      "chromas": true
+    },
+    {
+      "id": "888011",
+      "name": "舰队司令 烈娜塔 暗夜王牌",
+      "chromas": false
+    },
+    {
+      "id": "888012",
+      "name": "魔域梦魇 烈娜塔 红夜梦境",
+      "chromas": false
+    },
+    {
+      "id": "888013",
+      "name": "魔域梦魇 烈娜塔 糖果梦境",
+      "chromas": false
+    },
+    {
+      "id": "888014",
+      "name": "魔域梦魇 烈娜塔 荆棘梦境",
+      "chromas": false
+    },
+    {
+      "id": "888015",
+      "name": "魔域梦魇 烈娜塔 舞会梦境",
+      "chromas": false
+    },
+    {
+      "id": "888016",
+      "name": "魔域梦魇 烈娜塔 惊情梦境",
+      "chromas": false
+    },
+    {
+      "id": "888017",
+      "name": "魔域梦魇 烈娜塔 荒宅梦境",
+      "chromas": false
+    },
+    {
+      "id": "888018",
+      "name": "魔域梦魇 烈娜塔 歌影梦境",
+      "chromas": false
+    },
+    {
+      "id": "888019",
+      "name": "魔域梦魇 烈娜塔 飞帚梦境",
+      "chromas": false
+    },
+    {
+      "id": "888020",
+      "name": "魂蔷薇 烈娜塔",
+      "chromas": true
+    },
+    {
+      "id": "888021",
+      "name": "至臻 魂蔷薇 烈娜塔",
+      "chromas": false
+    },
+    {
+      "id": "888022",
+      "name": "魂蔷薇 烈娜塔 信念之火",
+      "chromas": false
+    },
+    {
+      "id": "888023",
+      "name": "魂蔷薇 烈娜塔 告慰之饮",
+      "chromas": false
+    },
+    {
+      "id": "888024",
+      "name": "魂蔷薇 烈娜塔 引路之花",
+      "chromas": false
+    },
+    {
+      "id": "888025",
+      "name": "魂蔷薇 烈娜塔 送别之礼",
+      "chromas": false
+    },
+    {
+      "id": "888026",
+      "name": "魂蔷薇 烈娜塔 庆典之饰",
+      "chromas": false
+    },
+    {
+      "id": "888027",
+      "name": "魂蔷薇 烈娜塔 家人之爱",
+      "chromas": false
+    },
+    {
+      "id": "888028",
+      "name": "魂蔷薇 烈娜塔 生命之源",
+      "chromas": false
+    },
+    {
+      "id": "888029",
+      "name": "魂蔷薇 烈娜塔 智慧之物",
+      "chromas": false
+    },
+    {
+      "id": "888030",
+      "name": "魂蔷薇 烈娜塔 生如夏花",
+      "chromas": false
+    },
+    {
+      "id": "888031",
+      "name": "黑色玫瑰假面舞会 烈娜塔",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "物尽其用",
+    "description": "烈娜塔的攻击会造成额外伤害并标记敌人。烈娜塔的队友在对被标记的敌人造成伤害时可以造成额外伤害。",
+    "image": "Renata_P.png"
+  },
+  "spells": [
+    {
+      "name": "铁腕竞合",
+      "description": "烈娜塔发射一颗飞弹来禁锢命中的第一个敌人，并且可以再次施放这个技能来将该目标朝一个方向投掷。",
+      "tooltip": "烈娜塔发射一颗飞弹来禁锢命中的第一个敌人{{ rootduration }}秒，并造成{{ totaldamage }}魔法伤害。再次施放：烈娜塔将敌人朝一个方向拉拽，对被其碰到的敌人们造成{{ totaldamage }}魔法伤害，并且如果被拉拽的敌人是一个英雄，那么还会造成{{ stunduration }}秒晕眩。",
+      "cooldown": "16",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "900",
+      "maxrank": 5,
+      "image": "RenataQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "及时救难",
+      "description": "烈娜塔增益一名友方英雄，让其打得更猛，延缓其死亡并且在其参与一次击杀后将其救活。",
+      "tooltip": "烈娜塔为一名友方英雄注入药剂，为其提供{{ ascalc }}攻击速度和朝敌人时的{{ mscalc }}移动速度，这个加成会在{{ duration }}秒里持续提升至{{ finalascalc }}攻击速度和{{ finalmscalc }}移动速度。参与击杀后会刷新这个增益的持续时间。如果该友方英雄阵亡，就会带着满额生命值归来，然后这些生命值会在3秒里持续衰减。如果该友方英雄在衰减期间参与了一次击杀，那么就会回复至{{ triumphpercent }}%最大生命值并停止衰减。该英雄在衰减状态下的死亡，可通过治疗或相似效果来延缓，但无法防止，除非该英雄参与了一次击杀。英雄仅可延缓一次死亡。",
+      "cooldown": "28/27/26/25/24",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "RenataW.png",
+      "key": "W"
+    },
+    {
+      "name": "忠诚激励",
+      "description": "烈娜塔发射一对炼金科技飞弹，在命中时为友军提供护盾并对敌人造成伤害和减速。",
+      "tooltip": "烈娜塔发射一对炼金科技飞弹，在命中敌人时对该敌人及周围的敌人们造成{{ totaldamage }}魔法伤害和持续{{ slowduration }}秒的30%减速。在命中友军时提供持续{{ shieldduration }}秒的{{ shieldcalc }}护盾值。",
+      "cooldown": "14/13/12/11/10",
+      "cost": "70/80/90/100/110",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "RenataE.png",
+      "key": "E"
+    },
+    {
+      "name": "恶意收购",
+      "description": "烈娜塔发射一道炼金波纹，使命中的敌人们都陷入狂暴状态。",
+      "tooltip": "烈娜塔发射一道炼金波纹，让命中的敌人们狂暴{{ berserkduration }}秒，来使他们攻击相距最近的单位并优先以他们的友军为目标。在狂暴状态下，敌人们会获得{{ bonusattackspeed*100 }}%攻击速度。",
+      "cooldown": "150/130/110",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "2000",
+      "maxrank": 3,
+      "image": "RenataR.png",
+      "key": "R"
+    }
+  ]
+}

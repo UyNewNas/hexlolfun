@@ -1,0 +1,363 @@
+{
+  "id": "Sylas",
+  "championId": "517",
+  "name": "解脱者",
+  "title": "塞拉斯",
+  "region": "德玛西亚",
+  "blurb": "在小城边沟镇长大的塞拉斯，如今却成了德玛西亚雄都的黑暗面的代表人物。当他还是个男孩的时候，人人避之唯恐不及的搜魔人发现他拥有感知法师的能力，便将他控制起来，利用这种能力来对付塞拉斯的同类。逃出生天之后的塞拉斯现在是一个坚定的抗命者，他要借助法师的力量摧毁自己曾经侍奉过的王国。遭到放逐而前来追随他的法师也与日俱增。",
+  "tags": [
+    "法师",
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 3,
+    "defense": 4,
+    "magic": 8,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 600,
+    "hpPerLevel": 122,
+    "mp": 400,
+    "mpPerLevel": 70,
+    "movespeed": 340,
+    "armor": 29,
+    "armorPerLevel": 5.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.55,
+    "attackrange": 175,
+    "attackdamage": 61,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.645,
+    "attackspeedPerLevel": 3.5,
+    "hpregen": 9,
+    "hpregenPerLevel": 0.9,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "517001",
+      "name": "窃魂修罗 塞拉斯",
+      "chromas": true
+    },
+    {
+      "id": "517002",
+      "name": "窃魂修罗 塞拉斯 摄灵",
+      "chromas": false
+    },
+    {
+      "id": "517003",
+      "name": "窃魂修罗 塞拉斯 灼神",
+      "chromas": false
+    },
+    {
+      "id": "517004",
+      "name": "窃魂修罗 塞拉斯 掠金",
+      "chromas": false
+    },
+    {
+      "id": "517005",
+      "name": "窃魂修罗 塞拉斯 寒影",
+      "chromas": false
+    },
+    {
+      "id": "517006",
+      "name": "窃魂修罗 塞拉斯 腐心",
+      "chromas": false
+    },
+    {
+      "id": "517007",
+      "name": "窃魂修罗 塞拉斯 攫念",
+      "chromas": false
+    },
+    {
+      "id": "517008",
+      "name": "弗雷尔卓德 塞拉斯",
+      "chromas": true
+    },
+    {
+      "id": "517009",
+      "name": "弗雷尔卓德 塞拉斯 豪迈饮者",
+      "chromas": false
+    },
+    {
+      "id": "517010",
+      "name": "弗雷尔卓德 塞拉斯 缜密猎者",
+      "chromas": false
+    },
+    {
+      "id": "517011",
+      "name": "弗雷尔卓德 塞拉斯 华丽歌者",
+      "chromas": false
+    },
+    {
+      "id": "517012",
+      "name": "弗雷尔卓德 塞拉斯 博学旅者",
+      "chromas": false
+    },
+    {
+      "id": "517013",
+      "name": "源计划：逆流 塞拉斯",
+      "chromas": true
+    },
+    {
+      "id": "517014",
+      "name": "至臻 源计划：逆流 塞拉斯",
+      "chromas": false
+    },
+    {
+      "id": "517015",
+      "name": "源计划：逆流 塞拉斯 裂变",
+      "chromas": false
+    },
+    {
+      "id": "517016",
+      "name": "源计划：逆流 塞拉斯 震击",
+      "chromas": false
+    },
+    {
+      "id": "517017",
+      "name": "源计划：逆流 塞拉斯 暴走",
+      "chromas": false
+    },
+    {
+      "id": "517018",
+      "name": "源计划：逆流 塞拉斯 地覆",
+      "chromas": false
+    },
+    {
+      "id": "517019",
+      "name": "源计划：逆流 塞拉斯 破障",
+      "chromas": false
+    },
+    {
+      "id": "517020",
+      "name": "源计划：逆流 塞拉斯 冥火",
+      "chromas": false
+    },
+    {
+      "id": "517021",
+      "name": "源计划：逆流 塞拉斯 雪崩",
+      "chromas": false
+    },
+    {
+      "id": "517022",
+      "name": "源计划：逆流 塞拉斯 潜袭",
+      "chromas": false
+    },
+    {
+      "id": "517023",
+      "name": "源计划：逆流 塞拉斯 惩戒",
+      "chromas": false
+    },
+    {
+      "id": "517024",
+      "name": "幻灵战斗狼 塞拉斯",
+      "chromas": true
+    },
+    {
+      "id": "517025",
+      "name": "幻灵战斗狼 塞拉斯 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "517026",
+      "name": "幻灵战斗狼 塞拉斯 炫目突击",
+      "chromas": false
+    },
+    {
+      "id": "517027",
+      "name": "幻灵战斗狼 塞拉斯 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "517028",
+      "name": "幻灵战斗狼 塞拉斯 连绵奔袭",
+      "chromas": false
+    },
+    {
+      "id": "517029",
+      "name": "幻灵战斗狼 塞拉斯 华丽冲阵",
+      "chromas": false
+    },
+    {
+      "id": "517030",
+      "name": "幻灵战斗狼 塞拉斯 坚韧阻击",
+      "chromas": false
+    },
+    {
+      "id": "517031",
+      "name": "幻灵战斗狼 塞拉斯 钢铁守备",
+      "chromas": false
+    },
+    {
+      "id": "517032",
+      "name": "幻灵战斗狼 塞拉斯 魅影闪击",
+      "chromas": false
+    },
+    {
+      "id": "517033",
+      "name": "幻灵战斗狼 塞拉斯 隐秘夜影",
+      "chromas": false
+    },
+    {
+      "id": "517034",
+      "name": "灰烬杀手 塞拉斯",
+      "chromas": true
+    },
+    {
+      "id": "517035",
+      "name": "灰烬杀手 塞拉斯 余烬觉醒",
+      "chromas": false
+    },
+    {
+      "id": "517036",
+      "name": "北极星发明家 塞拉斯",
+      "chromas": true
+    },
+    {
+      "id": "517037",
+      "name": "北极星发明家 塞拉斯 激昂脉冲",
+      "chromas": false
+    },
+    {
+      "id": "517038",
+      "name": "北极星发明家 塞拉斯 辉煌光焰",
+      "chromas": false
+    },
+    {
+      "id": "517039",
+      "name": "北极星发明家 塞拉斯 智慧纽带",
+      "chromas": false
+    },
+    {
+      "id": "517040",
+      "name": "北极星发明家 塞拉斯 幸福光晕",
+      "chromas": false
+    },
+    {
+      "id": "517041",
+      "name": "北极星发明家 塞拉斯 希望辉光",
+      "chromas": false
+    },
+    {
+      "id": "517042",
+      "name": "北极星发明家 塞拉斯 浪漫帘幕",
+      "chromas": false
+    },
+    {
+      "id": "517043",
+      "name": "北极星发明家 塞拉斯 庄严光冕",
+      "chromas": false
+    },
+    {
+      "id": "517044",
+      "name": "北极星发明家 塞拉斯 圣洁光带",
+      "chromas": false
+    },
+    {
+      "id": "517045",
+      "name": "北极星发明家 塞拉斯 花冠极光",
+      "chromas": false
+    },
+    {
+      "id": "517046",
+      "name": "暗星 塞拉斯",
+      "chromas": true
+    },
+    {
+      "id": "517047",
+      "name": "暗星 塞拉斯 战神星之爆",
+      "chromas": false
+    },
+    {
+      "id": "517048",
+      "name": "暗星 塞拉斯 主神星之黯",
+      "chromas": false
+    },
+    {
+      "id": "517049",
+      "name": "暗星 塞拉斯 智神星之嫉",
+      "chromas": false
+    },
+    {
+      "id": "517050",
+      "name": "暗星 塞拉斯 美神星之灭",
+      "chromas": false
+    },
+    {
+      "id": "517051",
+      "name": "暗星 塞拉斯 天神星之陨",
+      "chromas": false
+    },
+    {
+      "id": "517052",
+      "name": "暗星 塞拉斯 类星体",
+      "chromas": false
+    },
+    {
+      "id": "517053",
+      "name": "至臻 T1 塞拉斯",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "破敌禁法",
+    "description": "在施放一次技能后，塞拉斯会储存一层【破敌禁法】效果。塞拉斯的普攻将消耗一层效果并环绕自身挥舞他的盈能锁链来对命中的敌人造成额外魔法伤害。当塞拉斯拥有一层【破敌禁法】效果时，他会获得攻击速度。",
+    "image": "SylasP.png"
+  },
+  "spells": [
+    {
+      "name": "锁链鞭击",
+      "description": "塞拉斯甩出他的锁链，锁链会在目标区域交叉，并对敌人造成伤害和减速效果。在一段延迟后，魔法能量将从交叉点迸发，造成伤害。",
+      "tooltip": "塞拉斯甩出他的锁链，造成{{ damage }}魔法伤害和持续{{ slowduration }}秒的{{ slowamountcalc }}减速。锁链交叉的位置会被引爆，进一步造成{{ explosiondamage }}魔法伤害。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "55",
+      "costType": " {{ abilityresourcename }}",
+      "range": "775",
+      "maxrank": 5,
+      "image": "SylasQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "弑君突刺",
+      "description": "塞拉斯带着魔法之力跃向一名敌人，造成伤害，并且在对抗敌方英雄时治疗自身。",
+      "tooltip": "塞拉斯带着魔法之力跃向一名敌人，造成{{ mindamage }}魔法伤害。如果对敌方英雄造成伤害，那么会基于塞拉斯的已损失生命值来治疗塞拉斯{{ minhealing }}到{{ maxhealing }}生命值(在{{ maxexecutethreshold*100 }}%生命值或以下时达到最大值)。",
+      "cooldown": "12/10.5/9/7.5/6",
+      "cost": "50/60/70/80/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "SylasW.png",
+      "key": "W"
+    },
+    {
+      "name": "潜掠/强掳",
+      "description": "塞拉斯突进至一个位置。塞拉斯可以再次施放来将他的锁链向一个方向挥出，将他自身拉向命中的第一个敌人。",
+      "tooltip": "塞拉斯快速突进至一个位置，并准备好一次再次施放，持续3.5秒。再次施放：塞拉斯挥出他的锁链，将他自身拉向命中的第一个敌人并造成{{ damage }}魔法伤害和{{ knockupduration }}秒击飞。",
+      "cooldown": "13/12/11/10/9",
+      "cost": "65",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "SylasE.png",
+      "key": "E"
+    },
+    {
+      "name": "其人之道",
+      "description": "塞拉斯窃取一名敌人的终极技能，然后可以免费施放该技能。",
+      "tooltip": "塞拉斯劫掠一位敌方英雄，以使他自身可以施放该敌人的终极技能，基于他自身的终极技能等级并使用他自身的属性。从一名敌人处劫掠技能后，会进入一段相当于{{ pertargetcooldown }}%目标终极技能冷却时间的、只针对该名敌人的冷却阶段(基于塞拉斯的技能急速)，最小值为{{ minimumenemycooldown }}秒，期间无法再次劫掠该名敌人的终极技能。",
+      "cooldown": "80/55/30",
+      "cost": "75",
+      "costType": " {{ abilityresourcename }}",
+      "range": "950",
+      "maxrank": 3,
+      "image": "SylasR.png",
+      "key": "R"
+    }
+  ]
+}

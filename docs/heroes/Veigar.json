@@ -1,0 +1,427 @@
+{
+  "id": "Veigar",
+  "championId": "45",
+  "name": "邪恶小法师",
+  "title": "维迦",
+  "region": "班德尔城",
+  "blurb": "维迦是热衷于黑暗巫术的大师。几乎没有哪个凡人敢碰的恐怖力量，他却能敞开怀抱。作为拥有自由精神的班德尔城居民，他渴望突破约德尔魔法的边界，于是转而研究那些被隐藏数千年的秘法文字。现在他已经变成了一个偏执的生物，对宇宙的奥秘无限向往。人们总会低估维迦的力量。虽然维迦发自心底地觉得自己是邪恶的，不过他的一些心底的原则也的确会让人质疑他的深层动机。",
+  "tags": [
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 2,
+    "magic": 10,
+    "difficulty": 7
+  },
+  "stats": {
+    "hp": 580,
+    "hpPerLevel": 108,
+    "mp": 490,
+    "mpPerLevel": 26,
+    "movespeed": 340,
+    "armor": 18,
+    "armorPerLevel": 5.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 52,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.24,
+    "hpregen": 6.5,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "45001",
+      "name": "白魔法师 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45002",
+      "name": "冰壶选手 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45003",
+      "name": "灰胡子魔法师 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45004",
+      "name": "绿野仙踪 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45005",
+      "name": "魔导绅士 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45006",
+      "name": "穿着正装的恶魔 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45007",
+      "name": "邪恶圣诞老人 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45008",
+      "name": "最终BOSS 维迦",
+      "chromas": true
+    },
+    {
+      "id": "45009",
+      "name": "欧米伽小队 天雷爆破手",
+      "chromas": true
+    },
+    {
+      "id": "45010",
+      "name": "欧米伽小队 天雷爆破手 碧海天雷",
+      "chromas": false
+    },
+    {
+      "id": "45011",
+      "name": "欧米伽小队 天雷爆破手 死沼天雷",
+      "chromas": false
+    },
+    {
+      "id": "45012",
+      "name": "欧米伽小队 天雷爆破手 雪境天雷",
+      "chromas": false
+    },
+    {
+      "id": "45013",
+      "name": "永恒之森 维迦",
+      "chromas": true
+    },
+    {
+      "id": "45014",
+      "name": "永恒之森 维迦 魔焰菇",
+      "chromas": false
+    },
+    {
+      "id": "45015",
+      "name": "永恒之森 维迦 毒伞菇",
+      "chromas": false
+    },
+    {
+      "id": "45016",
+      "name": "永恒之森 维迦 灼心菇",
+      "chromas": false
+    },
+    {
+      "id": "45017",
+      "name": "永恒之森 维迦 致幻菇",
+      "chromas": false
+    },
+    {
+      "id": "45018",
+      "name": "永恒之森 维迦 迷魂菇",
+      "chromas": false
+    },
+    {
+      "id": "45019",
+      "name": "永恒之森 维迦 溶血菇",
+      "chromas": false
+    },
+    {
+      "id": "45020",
+      "name": "永恒之森 维迦 绝息菇",
+      "chromas": false
+    },
+    {
+      "id": "45021",
+      "name": "永恒之森 维迦 绞腹菇",
+      "chromas": false
+    },
+    {
+      "id": "45022",
+      "name": "永恒之森 维迦 彩虹菇",
+      "chromas": false
+    },
+    {
+      "id": "45023",
+      "name": "我，怒角 维迦",
+      "chromas": true
+    },
+    {
+      "id": "45024",
+      "name": "我，烈焰怒角 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45025",
+      "name": "我，苔原怒角 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45026",
+      "name": "我，甜筒怒角 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45027",
+      "name": "我，柳皮怒角 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45028",
+      "name": "我，狮心怒角 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45029",
+      "name": "我，雪绒怒角 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45030",
+      "name": "我，虚空标记怒角 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45031",
+      "name": "我，二哈怒角 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45032",
+      "name": "宇航员 维迦",
+      "chromas": true
+    },
+    {
+      "id": "45033",
+      "name": "宇航员 维迦 平坦宇宙",
+      "chromas": false
+    },
+    {
+      "id": "45034",
+      "name": "宇航员 维迦 盖亚意识",
+      "chromas": false
+    },
+    {
+      "id": "45035",
+      "name": "宇航员 维迦 重力弹弓",
+      "chromas": false
+    },
+    {
+      "id": "45036",
+      "name": "宇航员 维迦 万有引力",
+      "chromas": false
+    },
+    {
+      "id": "45037",
+      "name": "宇航员 维迦 自由落体",
+      "chromas": false
+    },
+    {
+      "id": "45038",
+      "name": "宇航员 维迦 超新星",
+      "chromas": false
+    },
+    {
+      "id": "45039",
+      "name": "宇航员 维迦 曲速引擎",
+      "chromas": false
+    },
+    {
+      "id": "45040",
+      "name": "宇航员 维迦 太阳风帆",
+      "chromas": false
+    },
+    {
+      "id": "45041",
+      "name": "小怪兽训练师 维迦",
+      "chromas": true
+    },
+    {
+      "id": "45042",
+      "name": "最终BOSS 维迦 里·大魔王",
+      "chromas": false
+    },
+    {
+      "id": "45043",
+      "name": "小怪兽训练师 维迦 红宝",
+      "chromas": false
+    },
+    {
+      "id": "45044",
+      "name": "小怪兽训练师 维迦 天蓝宝",
+      "chromas": false
+    },
+    {
+      "id": "45045",
+      "name": "小怪兽训练师 维迦 猫睛",
+      "chromas": false
+    },
+    {
+      "id": "45046",
+      "name": "小怪兽训练师 维迦 绿松",
+      "chromas": false
+    },
+    {
+      "id": "45047",
+      "name": "小怪兽训练师 维迦 蔷薇石英",
+      "chromas": false
+    },
+    {
+      "id": "45048",
+      "name": "小怪兽训练师 维迦 碧玉",
+      "chromas": false
+    },
+    {
+      "id": "45049",
+      "name": "小怪兽训练师 维迦 黑曜",
+      "chromas": false
+    },
+    {
+      "id": "45050",
+      "name": "小怪兽训练师 维迦 多彩石",
+      "chromas": false
+    },
+    {
+      "id": "45051",
+      "name": "蜂大王 维迦",
+      "chromas": true
+    },
+    {
+      "id": "45052",
+      "name": "元气满满小红红 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45053",
+      "name": "春意盎然小青青 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45054",
+      "name": "可爱可爱粉红红 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45055",
+      "name": "从容自若小绿松 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45056",
+      "name": "冷若冰霜小深蓝 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45057",
+      "name": "笑意盈盈小紫紫 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45058",
+      "name": "野心勃勃小腹黑 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45059",
+      "name": "白白嫩嫩小迷糊 维迦",
+      "chromas": false
+    },
+    {
+      "id": "45060",
+      "name": "魔域梦魇 维迦",
+      "chromas": true
+    },
+    {
+      "id": "45061",
+      "name": "魔域梦魇 维迦 红夜梦境",
+      "chromas": false
+    },
+    {
+      "id": "45062",
+      "name": "魔域梦魇 维迦 欢笑梦境",
+      "chromas": false
+    },
+    {
+      "id": "45063",
+      "name": "魔域梦魇 维迦 魔咒梦境",
+      "chromas": false
+    },
+    {
+      "id": "45064",
+      "name": "魔域梦魇 维迦 荒宅梦境",
+      "chromas": false
+    },
+    {
+      "id": "45065",
+      "name": "魔域梦魇 维迦 舞会梦境",
+      "chromas": false
+    },
+    {
+      "id": "45066",
+      "name": "魔域梦魇 维迦 古堡梦境",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "超凡邪力",
+    "description": "维迦是最强大的恶魔，甚至能对符文之地之心发起攻击——并且他只会越来越强大！用技能攻击一名敌人、击杀单位或拆毁防御塔都会为维迦永久提升法术强度加成。",
+    "image": "VeigarEntropy.png"
+  },
+  "spells": [
+    {
+      "name": "黑暗祭祀",
+      "description": "维迦释放一束黑暗能量，对最先被命中的两个敌人造成魔法伤害。被这个能量束所击杀的单位，会永久地为维迦提供一些法术强度。",
+      "tooltip": "维迦释放一束黑暗能量，对命中的头2个敌人造成{{ totaldamage }}魔法伤害。用此技能击杀一个单位，还会为维迦提供{{ spell.veigarpassive:dqkillstacks }}层超凡邪恶效果。大型小兵和大型野怪会提供{{ spell.veigarpassive:dqkillstackslarge }}层作为替代。",
+      "cooldown": "6/5.5/5/4.5/4",
+      "cost": "30/35/40/45/50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "VeigarBalefulStrike.png",
+      "key": "Q"
+    },
+    {
+      "name": "黑暗物质",
+      "description": "维迦召唤一大团黑暗物质轰击目标区域，落地造成魔法伤害。【超凡邪力】的层数会缩短这个技能的冷却时间。",
+      "tooltip": "维迦召唤黑暗物质将从天而降，造成{{ totaldamage }}魔法伤害。每{{ spell.veigarpassive:pstacksperdarkmattercdr }}层超凡邪力会使这个技能的冷却时间减少{{ spell.veigarpassive:darkmattercdrincrement*100 }}%。",
+      "cooldown": "0",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "950",
+      "maxrank": 5,
+      "image": "VeigarDarkMatter.png",
+      "key": "W"
+    },
+    {
+      "name": "扭曲空间",
+      "description": "维迦扭曲空间的边缘，创造一个牢笼来使途径的敌人晕眩。",
+      "tooltip": "维迦扭曲空间的边缘，创造一个牢笼来使途经的敌人晕眩{{ stunduration }}秒。牢笼持续3秒。",
+      "cooldown": "20/18.5/17/15.5/14",
+      "cost": "70/75/80/85/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "725",
+      "maxrank": 5,
+      "image": "VeigarEventHorizon.png",
+      "key": "E"
+    },
+    {
+      "name": "能量爆裂",
+      "description": "引爆目标敌方英雄，造成大量魔法伤害，并基于目标已损失生命值提升伤害。",
+      "tooltip": "维迦用源力魔法引爆目标一名敌方英雄，造成{{ mindamage }}到{{ maxdamage }}魔法伤害，伤害提升幅度基于目标的已损失生命值。目标生命值在33%以下即可造成最大伤害。",
+      "cooldown": "120/90/60",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 3,
+      "image": "VeigarR.png",
+      "key": "R"
+    }
+  ]
+}

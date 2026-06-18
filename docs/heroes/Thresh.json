@@ -1,0 +1,433 @@
+{
+  "id": "Thresh",
+  "championId": "412",
+  "name": "魂锁典狱长",
+  "title": "锤石",
+  "region": "暗影岛",
+  "blurb": "暴虐又狡猾的锤石是来自暗影岛的亡灵，野心勃勃、不知疲倦。他曾经是无数奥术秘藏的看守，在一种超越生死的力量下骨肉瓦解，而现在他则使用自己独创的钻心痛苦缓慢地折磨并击溃其他人，以此作为自己存在下去的手段。被他迫害的人需要承受远超死亡的痛苦，因为锤石会让他们的灵魂也饱尝剧痛，将他们的灵魂囚禁在自己的灯笼中，经受永世的折磨。",
+  "tags": [
+    "辅助",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 5,
+    "defense": 6,
+    "magic": 6,
+    "difficulty": 7
+  },
+  "stats": {
+    "hp": 620,
+    "hpPerLevel": 120,
+    "mp": 274,
+    "mpPerLevel": 44,
+    "movespeed": 330,
+    "armor": 33,
+    "armorPerLevel": 0,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.55,
+    "attackrange": 450,
+    "attackdamage": 56,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 3.5,
+    "hpregen": 7,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 6,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "412001",
+      "name": "深渊恐惧 锤石",
+      "chromas": false
+    },
+    {
+      "id": "412002",
+      "name": "冠军典狱长 锤石",
+      "chromas": true
+    },
+    {
+      "id": "412003",
+      "name": "腥红之月 锤石",
+      "chromas": false
+    },
+    {
+      "id": "412004",
+      "name": "SSW 锤石",
+      "chromas": false
+    },
+    {
+      "id": "412005",
+      "name": "暗星 锤石",
+      "chromas": true
+    },
+    {
+      "id": "412006",
+      "name": "西部魔影 锤石",
+      "chromas": true
+    },
+    {
+      "id": "412007",
+      "name": "西部魔影 锤石 压制之束",
+      "chromas": false
+    },
+    {
+      "id": "412008",
+      "name": "西部魔影 锤石 折磨之苦",
+      "chromas": false
+    },
+    {
+      "id": "412009",
+      "name": "西部魔影 锤石 控告之怨",
+      "chromas": false
+    },
+    {
+      "id": "412010",
+      "name": "西部魔影 锤石 恐吓之胁",
+      "chromas": false
+    },
+    {
+      "id": "412011",
+      "name": "西部魔影 锤石 试探之惑",
+      "chromas": false
+    },
+    {
+      "id": "412012",
+      "name": "冠军典狱长 锤石 凯旋圣装",
+      "chromas": false
+    },
+    {
+      "id": "412013",
+      "name": "未来战士 锤石",
+      "chromas": false
+    },
+    {
+      "id": "412014",
+      "name": "至臻 未来战士 锤石",
+      "chromas": false
+    },
+    {
+      "id": "412015",
+      "name": "FPX 锤石",
+      "chromas": true
+    },
+    {
+      "id": "412016",
+      "name": "暗星 锤石 万神殿之陷",
+      "chromas": false
+    },
+    {
+      "id": "412017",
+      "name": "灵魂莲华 锤石",
+      "chromas": true
+    },
+    {
+      "id": "412018",
+      "name": "FPX 锤石 涅槃",
+      "chromas": false
+    },
+    {
+      "id": "412019",
+      "name": "灵魂莲华 锤石 雪落",
+      "chromas": false
+    },
+    {
+      "id": "412020",
+      "name": "灵魂莲华 锤石 流火",
+      "chromas": false
+    },
+    {
+      "id": "412021",
+      "name": "灵魂莲华 锤石 雁来",
+      "chromas": false
+    },
+    {
+      "id": "412022",
+      "name": "灵魂莲华 锤石 云开",
+      "chromas": false
+    },
+    {
+      "id": "412023",
+      "name": "灵魂莲华 锤石 朝花",
+      "chromas": false
+    },
+    {
+      "id": "412024",
+      "name": "灵魂莲华 锤石 月升",
+      "chromas": false
+    },
+    {
+      "id": "412025",
+      "name": "灵魂莲华 锤石 春晓",
+      "chromas": false
+    },
+    {
+      "id": "412026",
+      "name": "灵魂莲华 锤石 霜见",
+      "chromas": false
+    },
+    {
+      "id": "412027",
+      "name": "破败解封 锤石",
+      "chromas": false
+    },
+    {
+      "id": "412028",
+      "name": "神龙尊者 钢铁之龙 锤石",
+      "chromas": true
+    },
+    {
+      "id": "412029",
+      "name": "神龙尊者 钢铁之龙 锤石 登龙",
+      "chromas": false
+    },
+    {
+      "id": "412030",
+      "name": "神龙尊者 钢铁之龙 锤石 朝云",
+      "chromas": false
+    },
+    {
+      "id": "412031",
+      "name": "神龙尊者 钢铁之龙 锤石 摘星",
+      "chromas": false
+    },
+    {
+      "id": "412032",
+      "name": "神龙尊者 钢铁之龙 锤石 柏露",
+      "chromas": false
+    },
+    {
+      "id": "412033",
+      "name": "神龙尊者 钢铁之龙 锤石 松峦",
+      "chromas": false
+    },
+    {
+      "id": "412034",
+      "name": "神龙尊者 钢铁之龙 锤石 聚鹤",
+      "chromas": false
+    },
+    {
+      "id": "412035",
+      "name": "神龙尊者 钢铁之龙 锤石 望霞",
+      "chromas": false
+    },
+    {
+      "id": "412036",
+      "name": "神龙尊者 钢铁之龙 锤石 傲雪",
+      "chromas": false
+    },
+    {
+      "id": "412037",
+      "name": "神龙尊者 钢铁之龙 锤石 烬爪",
+      "chromas": false
+    },
+    {
+      "id": "412038",
+      "name": "至臻 未来战士 锤石 (2022)",
+      "chromas": false
+    },
+    {
+      "id": "412039",
+      "name": "春晖大帝 锤石",
+      "chromas": true
+    },
+    {
+      "id": "412040",
+      "name": "春晖大帝 锤石 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "412041",
+      "name": "春晖大帝 锤石 飞黄腾达",
+      "chromas": false
+    },
+    {
+      "id": "412042",
+      "name": "春晖大帝 锤石 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "412043",
+      "name": "春晖大帝 锤石 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "412044",
+      "name": "春晖大帝 锤石 吉祥如意",
+      "chromas": false
+    },
+    {
+      "id": "412045",
+      "name": "春晖大帝 锤石 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "412046",
+      "name": "春晖大帝 锤石 财源滚滚",
+      "chromas": false
+    },
+    {
+      "id": "412047",
+      "name": "春晖大帝 锤石 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "412048",
+      "name": "春晖大帝 锤石 灿烂辉煌",
+      "chromas": false
+    },
+    {
+      "id": "412049",
+      "name": "北极星典狱长 锤石",
+      "chromas": true
+    },
+    {
+      "id": "412050",
+      "name": "北极星典狱长 锤石 激昂脉冲",
+      "chromas": false
+    },
+    {
+      "id": "412051",
+      "name": "北极星典狱长 锤石 聪颖光弧",
+      "chromas": false
+    },
+    {
+      "id": "412052",
+      "name": "北极星典狱长 锤石 祥和面纱",
+      "chromas": false
+    },
+    {
+      "id": "412053",
+      "name": "北极星典狱长 锤石 辉煌光焰",
+      "chromas": false
+    },
+    {
+      "id": "412054",
+      "name": "北极星典狱长 锤石 希望辉光",
+      "chromas": false
+    },
+    {
+      "id": "412055",
+      "name": "北极星典狱长 锤石 神秘幻彩",
+      "chromas": false
+    },
+    {
+      "id": "412056",
+      "name": "北极星典狱长 锤石 圣洁光带",
+      "chromas": false
+    },
+    {
+      "id": "412057",
+      "name": "北极星典狱长 锤石 庄严光冕",
+      "chromas": false
+    },
+    {
+      "id": "412058",
+      "name": "北极星典狱长 锤石 花冠极光",
+      "chromas": false
+    },
+    {
+      "id": "412059",
+      "name": "洗地专家 锤石",
+      "chromas": true
+    },
+    {
+      "id": "412060",
+      "name": "洗地专家 锤石 敬业",
+      "chromas": false
+    },
+    {
+      "id": "412061",
+      "name": "洗地专家 锤石 创新",
+      "chromas": false
+    },
+    {
+      "id": "412062",
+      "name": "洗地专家 锤石 耐心",
+      "chromas": false
+    },
+    {
+      "id": "412063",
+      "name": "洗地专家 锤石 细致",
+      "chromas": false
+    },
+    {
+      "id": "412064",
+      "name": "洗地专家 锤石 灵活",
+      "chromas": false
+    },
+    {
+      "id": "412065",
+      "name": "洗地专家 锤石 正直",
+      "chromas": false
+    },
+    {
+      "id": "412066",
+      "name": "洗地专家 锤石 奉献",
+      "chromas": false
+    },
+    {
+      "id": "412067",
+      "name": "洗地专家 锤石 无私",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "地狱诅咒",
+    "description": "锤石可以收割那些死在他身边的敌人们的灵魂，从而为他提供护甲和法术强度。",
+    "image": "Thresh_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "死亡判决",
+      "description": "在激活时，锤石会绑住一名敌方目标，并将该目标拉向锤石。再次激活此技能，会将锤石拉向该目标。",
+      "tooltip": "锤石投出他的镰刀，晕眩命中的第一个单位并将其拉拽向锤石{{ tauntlength }}秒。镰刀造成{{ totaldamage }}魔法伤害并且还会在持续期间提供真实视野。锤石可以再次施放这个技能来将自身拉拽到敌人处。如果这个技能命中了，那么它的冷却时间缩短{{ hitbonuscooldown }}秒。",
+      "cooldown": "19/16.5/14/11.5/9",
+      "cost": "70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1075",
+      "maxrank": 5,
+      "image": "ThreshQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "魂引之灯",
+      "description": "锤石扔出一个灯笼来为周围友军武装一层抵挡伤害的护盾。友军可以通过点击灯笼来冲到锤石身边。",
+      "tooltip": "锤石扔出他的灯笼，允许一名友军点击它来冲刺到锤石处。灯笼也会提供持续{{ shieldduration }}秒的{{ totalshield }}护盾值给锤石和前去触摸灯笼的第一个友方英雄。",
+      "cooldown": "21/20/19/18/17",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "950",
+      "maxrank": 5,
+      "image": "ThreshW.png",
+      "key": "W"
+    },
+    {
+      "name": "厄运钟摆",
+      "description": "锤石会提升攻击伤害，攻击的间歇期越久伤害值越高。在激活此技能时，锤石会挥舞他的锁链，将命中的所有敌人带向锁链挥舞的方向。",
+      "tooltip": "被动：锤石的攻击造成额外伤害，伤害值基于与他最后一次攻击相隔的时间。造成{{ pattackdamagemin }}到{{ pattackdamagemax }}魔法伤害。主动：锤石挥舞他的锁链，沿挥舞的方向拉拽或推挤敌人。还会对命中的敌人们造成持续{{ e4 }}秒的{{ e2 }}%减速和{{ totaldamage }}魔法伤害。",
+      "cooldown": "13/12.25/11.5/10.75/10",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "500",
+      "maxrank": 5,
+      "image": "ThreshE.png",
+      "key": "E"
+    },
+    {
+      "name": "幽冥监牢",
+      "description": "构建一座监牢，其墙壁在被敌方单位打破时对该敌方单位造成伤害和减速效果。",
+      "tooltip": "锤石生成一个由灵魂墙体组成的监牢，对英雄造成持续{{ e2 }}秒的{{ e3 }}%减速和{{ totaldamage }}魔法伤害。墙体一经碰撞就会被打破，并且一旦被打破一面墙体，剩余的就不会造成伤害且减速时长减半。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "450",
+      "maxrank": 3,
+      "image": "ThreshRPenta.png",
+      "key": "R"
+    }
+  ]
+}

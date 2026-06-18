@@ -1,0 +1,303 @@
+{
+  "id": "Chogath",
+  "championId": "31",
+  "name": "虚空恐惧",
+  "title": "科加斯",
+  "region": "虚空之地",
+  "blurb": "自从科加斯出现在符文之地烈日照射之下的那一刻起，它就被永不餍足的饥饿所驱使。虚空吞噬一切生命的欲望完美地体现在科加斯的身上，它复杂的生物构造能够迅速将物质转化为身体的成长，不仅会增加肌肉的质量和密度，还能让外壳变得有如钻石般坚硬。当单纯的体型增长已经不能满足它时，这只虚空生物就会将多余的物质形成锋利的骨刺吐出体外，刺穿猎物，为稍后的盛宴进行准备。",
+  "tags": [
+    "坦克",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 3,
+    "defense": 7,
+    "magic": 7,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 644,
+    "hpPerLevel": 94,
+    "mp": 270,
+    "mpPerLevel": 60,
+    "movespeed": 345,
+    "armor": 38,
+    "armorPerLevel": 4.5,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 69,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 1.44,
+    "hpregen": 9,
+    "hpregenPerLevel": 0.85,
+    "mpregen": 7.2,
+    "mpregenPerLevel": 0.45,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "31001",
+      "name": "梦魇 科加斯",
+      "chromas": false
+    },
+    {
+      "id": "31002",
+      "name": "绅士 科加斯",
+      "chromas": false
+    },
+    {
+      "id": "31003",
+      "name": "尼斯巨兽 科加斯",
+      "chromas": false
+    },
+    {
+      "id": "31004",
+      "name": "侏罗纪化石 科加斯",
+      "chromas": false
+    },
+    {
+      "id": "31005",
+      "name": "战地巨兽 科加斯",
+      "chromas": true
+    },
+    {
+      "id": "31006",
+      "name": "暴龙 科加斯",
+      "chromas": false
+    },
+    {
+      "id": "31007",
+      "name": "暗星 科加斯",
+      "chromas": false
+    },
+    {
+      "id": "31008",
+      "name": "战地巨兽 科加斯 赤红炼狱",
+      "chromas": false
+    },
+    {
+      "id": "31009",
+      "name": "战地巨兽 科加斯 颤栗黄昏",
+      "chromas": false
+    },
+    {
+      "id": "31010",
+      "name": "战地巨兽 科加斯 静默声波",
+      "chromas": false
+    },
+    {
+      "id": "31011",
+      "name": "战地巨兽 科加斯 苍白杀戮",
+      "chromas": false
+    },
+    {
+      "id": "31012",
+      "name": "战地巨兽 科加斯 午夜梦魇",
+      "chromas": false
+    },
+    {
+      "id": "31013",
+      "name": "战地巨兽 科加斯 肆虐风暴",
+      "chromas": false
+    },
+    {
+      "id": "31014",
+      "name": "山海绘卷 科加斯",
+      "chromas": true
+    },
+    {
+      "id": "31015",
+      "name": "山海绘卷 科加斯 朱红",
+      "chromas": false
+    },
+    {
+      "id": "31016",
+      "name": "山海绘卷 科加斯 葱青",
+      "chromas": false
+    },
+    {
+      "id": "31017",
+      "name": "山海绘卷 科加斯 湖蓝",
+      "chromas": false
+    },
+    {
+      "id": "31018",
+      "name": "山海绘卷 科加斯 青莲",
+      "chromas": false
+    },
+    {
+      "id": "31019",
+      "name": "山海绘卷 科加斯 蔚蓝",
+      "chromas": false
+    },
+    {
+      "id": "31020",
+      "name": "山海绘卷 科加斯 墨色",
+      "chromas": false
+    },
+    {
+      "id": "31021",
+      "name": "山海绘卷 科加斯 茶白",
+      "chromas": false
+    },
+    {
+      "id": "31022",
+      "name": "山海绘卷 科加斯 赤金",
+      "chromas": false
+    },
+    {
+      "id": "31023",
+      "name": "绝息圣堂 科加斯",
+      "chromas": true
+    },
+    {
+      "id": "31024",
+      "name": "绝息圣堂 科加斯 残阳圆舞曲",
+      "chromas": false
+    },
+    {
+      "id": "31025",
+      "name": "绝息圣堂 科加斯 昼梦狂想曲",
+      "chromas": false
+    },
+    {
+      "id": "31026",
+      "name": "绝息圣堂 科加斯 朝霞幻想曲",
+      "chromas": false
+    },
+    {
+      "id": "31027",
+      "name": "绝息圣堂 科加斯 永生前奏曲",
+      "chromas": false
+    },
+    {
+      "id": "31028",
+      "name": "绝息圣堂 科加斯 灵息变奏曲",
+      "chromas": false
+    },
+    {
+      "id": "31029",
+      "name": "绝息圣堂 科加斯 苏生回旋曲",
+      "chromas": false
+    },
+    {
+      "id": "31030",
+      "name": "绝息圣堂 科加斯 日冕摇篮曲",
+      "chromas": false
+    },
+    {
+      "id": "31031",
+      "name": "绝息圣堂 科加斯 白夜奏鸣曲",
+      "chromas": false
+    },
+    {
+      "id": "31032",
+      "name": "鳄加斯",
+      "chromas": true
+    },
+    {
+      "id": "31033",
+      "name": "铁甲鳄加斯",
+      "chromas": false
+    },
+    {
+      "id": "31034",
+      "name": "鲨鳍鳄加斯",
+      "chromas": false
+    },
+    {
+      "id": "31035",
+      "name": "萌萌鳄加斯",
+      "chromas": false
+    },
+    {
+      "id": "31036",
+      "name": "松饼鳄加斯",
+      "chromas": false
+    },
+    {
+      "id": "31037",
+      "name": "金牙鳄加斯",
+      "chromas": false
+    },
+    {
+      "id": "31038",
+      "name": "百战鳄加斯",
+      "chromas": false
+    },
+    {
+      "id": "31039",
+      "name": "星月夜鳄加斯",
+      "chromas": false
+    },
+    {
+      "id": "31040",
+      "name": "斑点鳄加斯",
+      "chromas": false
+    },
+    {
+      "id": "31041",
+      "name": "禁魔石巨像 科加斯",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "肉食者",
+    "description": "当科加斯杀死一个单位时，他会回复生命值和法力值。回复的数值会随着科加斯的等级而提升。",
+    "image": "GreenTerror_TailSpike.png"
+  },
+  "spells": [
+    {
+      "name": "破裂",
+      "description": "使目标地面破裂，将敌人抛向空中，造成伤害并减速。",
+      "tooltip": "科加斯使大地破裂，击飞敌人{{ e5 }}秒，造成{{ totaldamagetooltip }}魔法伤害，并使敌人减速{{ e2 }}%，持续{{ e3 }}秒。",
+      "cooldown": "6",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "950",
+      "maxrank": 5,
+      "image": "Rupture.png",
+      "key": "Q"
+    },
+    {
+      "name": "野性尖叫",
+      "description": "科加斯向面前锥形区域施放恐怖声波，造成魔法伤害并沉默数秒。",
+      "tooltip": "科加斯进行咆哮，沉默敌人{{ e2 }}秒并造成{{ totaldamagetooltip }}魔法伤害。",
+      "cooldown": "11/10.5/10/9.5/9",
+      "cost": "70/75/80/85/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "300",
+      "maxrank": 5,
+      "image": "FeralScream.png",
+      "key": "W"
+    },
+    {
+      "name": "恐惧之刺",
+      "description": "科加斯的攻击会释放致命的尖刺，伤害并减速面前所有的敌人。",
+      "tooltip": "科加斯的下三次攻击会发射尖刺，造成{{ flatdamagecalc }}加上目标{{ maxhealthpercentcalc }}最大生命值的魔法伤害并使敌人减速{{ slowamountpercentage }}%，减速效果会在{{ slowduration }}秒里持续衰减。",
+      "cooldown": "8/7/6/5/4",
+      "cost": "30",
+      "costType": " {{ abilityresourcename }}",
+      "range": "40",
+      "maxrank": 5,
+      "image": "VorpalSpikes.png",
+      "key": "E"
+    },
+    {
+      "name": "盛宴",
+      "description": "吞噬一个敌方单位，造成高额真实伤害。若目标被吞噬致死，科加斯就会长大，提高最大生命值。",
+      "tooltip": "科加斯贪婪地吞吃一名敌人，对英雄造成{{ rdamage }}真实伤害或对野怪和小兵造成{{ rmonsterdamage }}真实伤害。如果这个技能击杀了敌方单位，那么科加斯会获得一层可叠加的效果，使他的体型变大且提供{{ rhealthperstack }}最大生命值。通过吞吃小兵和非史诗级野怪的方式只能获得共{{ rminionmaxstacks }}层效果。",
+      "cooldown": "80/70/60",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "175",
+      "maxrank": 3,
+      "image": "Feast.png",
+      "key": "R"
+    }
+  ]
+}

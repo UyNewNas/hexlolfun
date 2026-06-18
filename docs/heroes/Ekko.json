@@ -1,0 +1,388 @@
+{
+  "id": "Ekko",
+  "championId": "245",
+  "name": "时间刺客",
+  "title": "艾克",
+  "region": "祖安",
+  "blurb": "艾克是一名来自祖安街头的奇才。他可以操纵时间，将任何处境扭转为对自己有利的局面。通过使用自己的发明——Z型驱动——他可以探索现实的其它平行分支，创造最完美的条件，将旁观者眼里的不可能之举变为可能，一击即中，屡试不爽。尽管艾克酷爱这种自由，但只要他在意的人身陷危险，他和野火帮一定会不顾一切地去保护他们。",
+  "tags": [
+    "刺客",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 5,
+    "defense": 3,
+    "magic": 7,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 655,
+    "hpPerLevel": 99,
+    "mp": 280,
+    "mpPerLevel": 70,
+    "movespeed": 340,
+    "armor": 32,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 58,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.688,
+    "attackspeedPerLevel": 3.3,
+    "hpregen": 9,
+    "hpregenPerLevel": 0.9,
+    "mpregen": 7,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "245001",
+      "name": "时之砂 艾克",
+      "chromas": true
+    },
+    {
+      "id": "245002",
+      "name": "任性学霸 艾克",
+      "chromas": false
+    },
+    {
+      "id": "245003",
+      "name": "源计划：自由 艾克",
+      "chromas": false
+    },
+    {
+      "id": "245004",
+      "name": "时之砂 艾克 秩序",
+      "chromas": false
+    },
+    {
+      "id": "245005",
+      "name": "时之砂 艾克 圣炎",
+      "chromas": false
+    },
+    {
+      "id": "245006",
+      "name": "时之砂 艾克 慈土",
+      "chromas": false
+    },
+    {
+      "id": "245007",
+      "name": "时之砂 艾克 威金",
+      "chromas": false
+    },
+    {
+      "id": "245008",
+      "name": "时之砂 艾克 净流",
+      "chromas": false
+    },
+    {
+      "id": "245009",
+      "name": "时之砂 艾克 永生",
+      "chromas": false
+    },
+    {
+      "id": "245010",
+      "name": "时之砂 艾克 邪龙",
+      "chromas": false
+    },
+    {
+      "id": "245011",
+      "name": "SKT T1 艾克",
+      "chromas": false
+    },
+    {
+      "id": "245012",
+      "name": "不给糖就捣蛋 艾克",
+      "chromas": true
+    },
+    {
+      "id": "245013",
+      "name": "不给糖就捣蛋 艾克 爆烈捣蛋鬼",
+      "chromas": false
+    },
+    {
+      "id": "245014",
+      "name": "不给糖就捣蛋 艾克 幽影捣蛋鬼",
+      "chromas": false
+    },
+    {
+      "id": "245015",
+      "name": "不给糖就捣蛋 艾克 恶毒捣蛋鬼",
+      "chromas": false
+    },
+    {
+      "id": "245016",
+      "name": "不给糖就捣蛋 艾克 喧哗捣蛋鬼",
+      "chromas": false
+    },
+    {
+      "id": "245017",
+      "name": "不给糖就捣蛋 艾克 深渊捣蛋鬼",
+      "chromas": false
+    },
+    {
+      "id": "245018",
+      "name": "不给糖就捣蛋 艾克 炫金",
+      "chromas": false
+    },
+    {
+      "id": "245019",
+      "name": "真实伤害 艾克",
+      "chromas": true
+    },
+    {
+      "id": "245020",
+      "name": "真实伤害 艾克 锐意之风",
+      "chromas": false
+    },
+    {
+      "id": "245021",
+      "name": "真实伤害 艾克 孤高之傲",
+      "chromas": false
+    },
+    {
+      "id": "245022",
+      "name": "真实伤害 艾克 即兴说唱",
+      "chromas": false
+    },
+    {
+      "id": "245023",
+      "name": "真实伤害 艾克 天籁之律",
+      "chromas": false
+    },
+    {
+      "id": "245024",
+      "name": "真实伤害 艾克 华丽之韵",
+      "chromas": false
+    },
+    {
+      "id": "245025",
+      "name": "真实伤害 艾克 天纵之才",
+      "chromas": false
+    },
+    {
+      "id": "245026",
+      "name": "真实伤害 艾克 本真之范",
+      "chromas": false
+    },
+    {
+      "id": "245027",
+      "name": "真实伤害 艾克 无畏之志",
+      "chromas": false
+    },
+    {
+      "id": "245028",
+      "name": "未来战士 艾克",
+      "chromas": true
+    },
+    {
+      "id": "245029",
+      "name": "未来战士 艾克 量子纠缠",
+      "chromas": false
+    },
+    {
+      "id": "245030",
+      "name": "未来战士 艾克 暗物质隐匿",
+      "chromas": false
+    },
+    {
+      "id": "245031",
+      "name": "未来战士 艾克 物质坍塌",
+      "chromas": false
+    },
+    {
+      "id": "245032",
+      "name": "未来战士 艾克 曲速跳跃",
+      "chromas": false
+    },
+    {
+      "id": "245033",
+      "name": "未来战士 艾克 无尽永前",
+      "chromas": false
+    },
+    {
+      "id": "245034",
+      "name": "未来战士 艾克 引力牵引",
+      "chromas": false
+    },
+    {
+      "id": "245035",
+      "name": "未来战士 艾克 降维打击",
+      "chromas": false
+    },
+    {
+      "id": "245036",
+      "name": "野火首领 艾克",
+      "chromas": true
+    },
+    {
+      "id": "245037",
+      "name": "野火首领 艾克 刚正不阿",
+      "chromas": false
+    },
+    {
+      "id": "245038",
+      "name": "野火首领 艾克 不屈不挠",
+      "chromas": false
+    },
+    {
+      "id": "245039",
+      "name": "野火首领 艾克 不忘初心",
+      "chromas": false
+    },
+    {
+      "id": "245040",
+      "name": "野火首领 艾克 坚定不移",
+      "chromas": false
+    },
+    {
+      "id": "245041",
+      "name": "野火首领 艾克 坚强不屈",
+      "chromas": false
+    },
+    {
+      "id": "245042",
+      "name": "野火首领 艾克 所向披靡",
+      "chromas": false
+    },
+    {
+      "id": "245043",
+      "name": "野火首领 艾克 无拘无束",
+      "chromas": false
+    },
+    {
+      "id": "245044",
+      "name": "野火首领 艾克 一往无前",
+      "chromas": false
+    },
+    {
+      "id": "245045",
+      "name": "星之守护者 艾克",
+      "chromas": true
+    },
+    {
+      "id": "245046",
+      "name": "至臻 星之守护者 艾克",
+      "chromas": false
+    },
+    {
+      "id": "245047",
+      "name": "星之守护者 艾克 热情之光",
+      "chromas": false
+    },
+    {
+      "id": "245048",
+      "name": "星之守护者 艾克 智慧之光",
+      "chromas": false
+    },
+    {
+      "id": "245049",
+      "name": "星之守护者 艾克 勇气之光",
+      "chromas": false
+    },
+    {
+      "id": "245050",
+      "name": "星之守护者 艾克 爱之光",
+      "chromas": false
+    },
+    {
+      "id": "245051",
+      "name": "星之守护者 艾克 拥抱之光",
+      "chromas": false
+    },
+    {
+      "id": "245052",
+      "name": "星之守护者 艾克 重生之光",
+      "chromas": false
+    },
+    {
+      "id": "245053",
+      "name": "星之守护者 艾克 正义之光",
+      "chromas": false
+    },
+    {
+      "id": "245054",
+      "name": "星之守护者 艾克 守护之光",
+      "chromas": false
+    },
+    {
+      "id": "245055",
+      "name": "星之守护者 艾克 希望之光",
+      "chromas": false
+    },
+    {
+      "id": "245056",
+      "name": "真实伤害 突破界限 艾克",
+      "chromas": false
+    },
+    {
+      "id": "245057",
+      "name": "双城之战2 孤勇者 艾克",
+      "chromas": true
+    },
+    {
+      "id": "245058",
+      "name": "双城之战2 孤勇者 艾克 典范",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "Z型驱动共振",
+    "description": "每当艾克对相同目标施放第三次普攻或伤害性技能时，都会造成额外魔法伤害，并且如果目标是英雄，那么艾克还会获得爆发性的移动速度加成。",
+    "image": "Ekko_P.png"
+  },
+  "spells": [
+    {
+      "name": "时间卷曲器",
+      "description": "艾克扔出一个时光手雷，这个手雷会在命中一个敌方英雄后扩展为一个时间扭曲的力场，对场内的所有敌方单位造成伤害和减速效果。然后它会在短暂的延迟后返回到艾克手上，返回途中会对沿途的敌人造成伤害。",
+      "tooltip": "艾克投出一个设备，造成{{ initialdamage }}魔法伤害。在命中一名英雄或到达它的距离终点后，它会扩展为一个领域来使其中的敌人减速{{ e2 }}%。在它扩展后，艾克会将其召回，造成{{ recalldamage }}魔法伤害。",
+      "cooldown": "9/8.5/8/7.5/7",
+      "cost": "50/60/70/80/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1075",
+      "maxrank": 5,
+      "image": "EkkoQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "时光交错",
+      "description": "艾克的普攻对低生命值的敌人造成额外魔法伤害。他可以施放【时光交错】来分离这条时间线，制造一个不稳定的异常时间点，这个时间点会在数秒后对范围内的敌人造成减速效果。如果艾克进入了这个异常时间点，那么他会获得护盾并让范围内的敌人因悬浮在时间中而陷入晕眩状态。",
+      "tooltip": "被动：艾克对生命值低于30%的敌方英雄进行的攻击会造成{{ missinghealthpercent }}已损失生命值的魔法伤害。主动：在1.5秒的延迟后，艾克放出一颗时空球体来使其中的敌人减速{{ e0 }}%。如果艾克进入了球体，那么他会将其引爆，造成{{ e2 }}秒晕眩并获得{{ totalshield }}护盾值。",
+      "cooldown": "22/20/18/16/14",
+      "cost": "30/35/40/45/50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1600",
+      "maxrank": 5,
+      "image": "EkkoW.png",
+      "key": "W"
+    },
+    {
+      "name": "相位俯冲",
+      "description": "艾克在为Z型驱动充能的同时灵巧地滚动。他的下次攻击将造成魔法伤害并扭曲时间，并让他传送到他的攻击目标旁。",
+      "tooltip": "艾克突进并强化他的下次攻击，以获得额外距离、将他传送到他的目标处、并造成额外的{{ totaldamage }}魔法伤害。",
+      "cooldown": "9/8.5/8/7.5/7",
+      "cost": "40/45/50/55/60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "325",
+      "maxrank": 5,
+      "image": "EkkoE.png",
+      "key": "E"
+    },
+    {
+      "name": "时空断裂",
+      "description": "艾克打破他的时间线，变得不可被选取并回溯到一个更加有利的时间点上。他会回到几秒前的位置，并治疗这几秒内所受的伤势。在完成传送后，传送终点区域附近的敌人都会受到巨量伤害。",
+      "tooltip": "艾克回到过去的时间点上，进入凝滞状态同时传送回他4秒前所在的位置，并在到达后对附近的所有敌人造成{{ totaldamage }}魔法伤害。此外，艾克会治疗自身{{ totalbaseheal }}生命值，且最近4秒里每损失1%生命值就会使这个治疗效果提升{{ percenthealampperpercentmissinghealth }}%。",
+      "cooldown": "110/80/50",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "850",
+      "maxrank": 3,
+      "image": "EkkoR.png",
+      "key": "R"
+    }
+  ]
+}

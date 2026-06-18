@@ -1,0 +1,388 @@
+{
+  "id": "Twitch",
+  "championId": "29",
+  "name": "瘟疫之源",
+  "title": "图奇",
+  "region": "祖安",
+  "blurb": "虽然出身只是一只瘟疫老鼠，但图奇却靠热情成为了一位污秽的鉴赏家，他可不介意弄脏自己的爪子。他使用一把炼金动力十字弩瞄准皮城人的镀金心脏，发誓要让这些生活在上层都市的人们知道他们真实的自我究竟有多么肮脏。他总是鬼鬼祟祟蹑手蹑脚，不是在地沟区翻来翻去，就是在别的地方深挖人类的垃圾堆，寻找被丢弃的宝藏……或者是一块发霉的三明治。",
+  "tags": [
+    "射手",
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 9,
+    "defense": 2,
+    "magic": 3,
+    "difficulty": 6
+  },
+  "stats": {
+    "hp": 630,
+    "hpPerLevel": 98,
+    "mp": 300,
+    "mpPerLevel": 40,
+    "movespeed": 330,
+    "armor": 27,
+    "armorPerLevel": 4,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 59,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.679,
+    "attackspeedPerLevel": 3,
+    "hpregen": 3.75,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 7.25,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "29001",
+      "name": "首领 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29002",
+      "name": "北风冻原 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29003",
+      "name": "都铎王朝 图奇",
+      "chromas": true
+    },
+    {
+      "id": "29004",
+      "name": "黑金诱惑 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29005",
+      "name": "横行霸道 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29006",
+      "name": "绝影神偷 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29007",
+      "name": "SSW 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29008",
+      "name": "欧米伽小队 毒针狙击手",
+      "chromas": true
+    },
+    {
+      "id": "29009",
+      "name": "欧米伽小队 毒针狙击手 雪境毒针",
+      "chromas": false
+    },
+    {
+      "id": "29010",
+      "name": "欧米伽小队 毒针狙击手 沙漠毒针",
+      "chromas": false
+    },
+    {
+      "id": "29011",
+      "name": "欧米伽小队 毒针狙击手 死沼毒针",
+      "chromas": false
+    },
+    {
+      "id": "29012",
+      "name": "狂心冰王 图奇",
+      "chromas": true
+    },
+    {
+      "id": "29013",
+      "name": "至尊冰王 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29014",
+      "name": "衰朽冰王 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29015",
+      "name": "梦魇冰王 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29016",
+      "name": "灾厄冰王 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29017",
+      "name": "噩梦冰王 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29021",
+      "name": "都铎王朝 图奇 上善若水",
+      "chromas": false
+    },
+    {
+      "id": "29023",
+      "name": "都铎王朝 图奇 至真至诚",
+      "chromas": false
+    },
+    {
+      "id": "29024",
+      "name": "都铎王朝 图奇 厚德载物",
+      "chromas": false
+    },
+    {
+      "id": "29027",
+      "name": "图奇 · 影足",
+      "chromas": false
+    },
+    {
+      "id": "29028",
+      "name": "图奇 · 影足 烈焰勇者",
+      "chromas": false
+    },
+    {
+      "id": "29029",
+      "name": "图奇 · 影足 海洋勇者",
+      "chromas": false
+    },
+    {
+      "id": "29030",
+      "name": "图奇 · 影足 赏金勇者",
+      "chromas": false
+    },
+    {
+      "id": "29031",
+      "name": "图奇 · 影足 梦境勇者",
+      "chromas": false
+    },
+    {
+      "id": "29032",
+      "name": "图奇 · 影足 大地勇者",
+      "chromas": false
+    },
+    {
+      "id": "29033",
+      "name": "图奇 · 影足 森之勇者",
+      "chromas": true
+    },
+    {
+      "id": "29034",
+      "name": "图奇 · 影足 水晶勇者",
+      "chromas": false
+    },
+    {
+      "id": "29035",
+      "name": "图奇 · 影足 白夜勇者",
+      "chromas": false
+    },
+    {
+      "id": "29036",
+      "name": "屠龙勇士 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29037",
+      "name": "屠龙勇士 图奇 红龙之狂傲",
+      "chromas": false
+    },
+    {
+      "id": "29038",
+      "name": "屠龙勇士 图奇 赤龙之倾奇",
+      "chromas": false
+    },
+    {
+      "id": "29039",
+      "name": "屠龙勇士 图奇 蓝龙之坚定",
+      "chromas": false
+    },
+    {
+      "id": "29040",
+      "name": "屠龙勇士 图奇 金龙之优雅",
+      "chromas": false
+    },
+    {
+      "id": "29041",
+      "name": "屠龙勇士 图奇 绿龙之无畏",
+      "chromas": false
+    },
+    {
+      "id": "29042",
+      "name": "屠龙勇士 图奇 黑龙之狡黠",
+      "chromas": true
+    },
+    {
+      "id": "29043",
+      "name": "屠龙勇士 图奇 紫龙之孤胆",
+      "chromas": false
+    },
+    {
+      "id": "29044",
+      "name": "屠龙勇士 图奇 银龙之庄严",
+      "chromas": false
+    },
+    {
+      "id": "29045",
+      "name": "西部魔影 送葬人 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29046",
+      "name": "西部魔影 送葬人 图奇 温和",
+      "chromas": false
+    },
+    {
+      "id": "29047",
+      "name": "西部魔影 送葬人 图奇 豪爽",
+      "chromas": false
+    },
+    {
+      "id": "29048",
+      "name": "西部魔影 送葬人 图奇 恭敬",
+      "chromas": false
+    },
+    {
+      "id": "29049",
+      "name": "西部魔影 送葬人 图奇 节制",
+      "chromas": false
+    },
+    {
+      "id": "29050",
+      "name": "西部魔影 送葬人 图奇 诚实",
+      "chromas": false
+    },
+    {
+      "id": "29051",
+      "name": "西部魔影 送葬人 图奇 忠诚",
+      "chromas": true
+    },
+    {
+      "id": "29052",
+      "name": "西部魔影 送葬人 图奇 谦卑",
+      "chromas": false
+    },
+    {
+      "id": "29053",
+      "name": "西部魔影 送葬人 图奇 纯洁",
+      "chromas": false
+    },
+    {
+      "id": "29054",
+      "name": "西部魔影 送葬人 图奇 虔信",
+      "chromas": false
+    },
+    {
+      "id": "29055",
+      "name": "奶酪首领 图奇",
+      "chromas": false
+    },
+    {
+      "id": "29056",
+      "name": "奶酪首领 图奇 西瓜奶盖",
+      "chromas": false
+    },
+    {
+      "id": "29057",
+      "name": "奶酪首领 图奇 蓝纹布里",
+      "chromas": false
+    },
+    {
+      "id": "29058",
+      "name": "奶酪首领 图奇 切达奶酪",
+      "chromas": false
+    },
+    {
+      "id": "29059",
+      "name": "奶酪首领 图奇 莓果蛋糕",
+      "chromas": false
+    },
+    {
+      "id": "29060",
+      "name": "奶酪首领 图奇 抹茶蛋糕",
+      "chromas": false
+    },
+    {
+      "id": "29061",
+      "name": "奶酪首领 图奇 奶酪蛋糕",
+      "chromas": true
+    },
+    {
+      "id": "29062",
+      "name": "奶酪首领 图奇 巧克力派",
+      "chromas": false
+    },
+    {
+      "id": "29063",
+      "name": "奶酪首领 图奇 七彩蛋糕",
+      "chromas": false
+    },
+    {
+      "id": "29064",
+      "name": "泳池派对 图奇",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "死亡毒液",
+    "description": "图奇的攻击会使目标感染死亡毒液%i:OnHit% 攻击特效，每秒造成真实伤害。",
+    "image": "Twitch_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "埋伏",
+      "description": "图奇进入伪装状态，持续一段短暂的时间并且移动速度得到提升。当离开伪装状态后，图奇会暂时获得攻击速度加成。当一名身上带有【死亡毒液】的敌方英雄死亡时，此技能的冷却时间会重置。",
+      "tooltip": "图奇伪装并获得{{ movespeedmod }}%移动速度，持续{{ stealthduration }}秒。当附近有一名无法看见他的敌方英雄时，移动速度提升至{{ hiddenspeed }}%。在离开伪装后，图奇获得{{ attackspeedmod*100 }}%攻击速度，持续{{ attackspeedduration }}秒。当一名带有毒液的敌方英雄阵亡时，这个技能的冷却时间就会刷新。",
+      "cooldown": "16",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "20",
+      "maxrank": 5,
+      "image": "TwitchHideInShadows.png",
+      "key": "Q"
+    },
+    {
+      "name": "剧毒之桶",
+      "description": "图奇扔出一个毒性之桶来引爆一个区域，对区域内的敌人造成减速效果，并对他们施加死亡毒液效果。",
+      "tooltip": "图奇扔出一个毒性之桶来添加一层死亡毒液给所有被桶砸中的敌人，并留下一团毒雾，存留{{ duration }}秒。一直呆在毒雾中的敌人会被减速{{ totalslowamount }}%并且会每秒受到额外的一层死亡毒液。",
+      "cooldown": "13/12/11/10/9",
+      "cost": "70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "950",
+      "maxrank": 5,
+      "image": "TwitchVenomCask.png",
+      "key": "W"
+    },
+    {
+      "name": "毒性爆发",
+      "description": "图奇引爆他那卑劣的毒素，对已中毒的敌人进行更为深远的蹂躏。",
+      "tooltip": "对附近感染了死亡毒液的所有敌人造成{{ basedamage }}物理伤害，此外，每层死亡毒液额外造成{{ physicaldamageperstack }}物理伤害和{{ magicdamageperstack }}魔法伤害。最大伤害：{{ maxphysicaldamage }}物理伤害和{{ maxmagicdamage }}魔法伤害。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "50/60/70/80/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1200",
+      "maxrank": 5,
+      "image": "TwitchExpunge.png",
+      "key": "E"
+    },
+    {
+      "name": "火力全开",
+      "description": "图奇让十字弩火力全开，快速地朝他面前射出强力且射程极远的穿刺箭头，穿透沿途的所有敌人。",
+      "tooltip": "图奇解开他的十字弩的封印，获得{{ bonusrange }}攻击距离和{{ bonusad }}攻击力，并使他的攻击变为穿刺弩箭，持续{{ duration }}秒。这些弩箭会攻击它们沿途的所有敌人，但对每个后续目标造成的伤害减少{{ falloffdamage*100 }}%，最低降至{{ minimumfalloffdamage*100 }}%伤害。",
+      "cooldown": "90",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1200",
+      "maxrank": 3,
+      "image": "TwitchFullAutomatic.png",
+      "key": "R"
+    }
+  ]
+}

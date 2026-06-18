@@ -1,0 +1,312 @@
+{
+  "id": "Karthus",
+  "championId": "30",
+  "name": "死亡颂唱者",
+  "title": "卡尔萨斯",
+  "region": "暗影岛",
+  "blurb": "卡尔萨斯是湮灭的使者，是不死的亡灵。从来都是未见其恐怖身影，先闻其鬼魅挽歌。活着的人惧怕那些永世不得超生的亡灵，但卡尔萨斯却在亡灵的存在中只看到了美丽和纯洁，这是生与死的完美融合。当卡尔萨斯从暗影岛获得新生的时候，他决心要担任不死亡灵的使徒，把死亡的欣喜带给所有凡人。",
+  "tags": [
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 2,
+    "magic": 10,
+    "difficulty": 7
+  },
+  "stats": {
+    "hp": 620,
+    "hpPerLevel": 110,
+    "mp": 467,
+    "mpPerLevel": 31,
+    "movespeed": 335,
+    "armor": 21,
+    "armorPerLevel": 4.7,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 450,
+    "attackdamage": 46,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.11,
+    "hpregen": 6.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "30001",
+      "name": "幽灵幻影 卡尔萨斯",
+      "chromas": false
+    },
+    {
+      "id": "30002",
+      "name": "自由女神 卡尔萨斯",
+      "chromas": false
+    },
+    {
+      "id": "30003",
+      "name": "死神 卡尔萨斯",
+      "chromas": true
+    },
+    {
+      "id": "30004",
+      "name": "五杀摇滚主唱 卡尔萨斯",
+      "chromas": false
+    },
+    {
+      "id": "30005",
+      "name": "Fnatic 卡尔萨斯",
+      "chromas": false
+    },
+    {
+      "id": "30006",
+      "name": "死神 卡尔萨斯 毁灭使者",
+      "chromas": false
+    },
+    {
+      "id": "30007",
+      "name": "死神 卡尔萨斯 痛苦使者",
+      "chromas": false
+    },
+    {
+      "id": "30008",
+      "name": "死神 卡尔萨斯 暗影使者",
+      "chromas": false
+    },
+    {
+      "id": "30009",
+      "name": "卡尔萨斯·祸害之光",
+      "chromas": false
+    },
+    {
+      "id": "30010",
+      "name": "地狱火 卡尔萨斯",
+      "chromas": true
+    },
+    {
+      "id": "30011",
+      "name": "地狱火 卡尔萨斯 荣耀之焰",
+      "chromas": false
+    },
+    {
+      "id": "30012",
+      "name": "地狱火 卡尔萨斯 希望之焰",
+      "chromas": false
+    },
+    {
+      "id": "30013",
+      "name": "地狱火 卡尔萨斯 慈悲之焰",
+      "chromas": false
+    },
+    {
+      "id": "30014",
+      "name": "地狱火 卡尔萨斯 理性之焰",
+      "chromas": false
+    },
+    {
+      "id": "30015",
+      "name": "地狱火 卡尔萨斯 骄傲之焰",
+      "chromas": false
+    },
+    {
+      "id": "30016",
+      "name": "地狱火 卡尔萨斯 力量之焰",
+      "chromas": false
+    },
+    {
+      "id": "30017",
+      "name": "五杀摇滚 III：遗失的章节 卡尔萨斯",
+      "chromas": true
+    },
+    {
+      "id": "30018",
+      "name": "五杀摇滚 III：遗失的章节 卡尔萨斯 热血",
+      "chromas": false
+    },
+    {
+      "id": "30019",
+      "name": "五杀摇滚 III：遗失的章节 卡尔萨斯 不羁",
+      "chromas": false
+    },
+    {
+      "id": "30020",
+      "name": "五杀摇滚 III：遗失的章节 卡尔萨斯 自在",
+      "chromas": false
+    },
+    {
+      "id": "30021",
+      "name": "五杀摇滚 III：遗失的章节 卡尔萨斯 迷幻",
+      "chromas": false
+    },
+    {
+      "id": "30022",
+      "name": "五杀摇滚 III：遗失的章节 卡尔萨斯 硬核",
+      "chromas": false
+    },
+    {
+      "id": "30023",
+      "name": "五杀摇滚 III：遗失的章节 卡尔萨斯 澎湃",
+      "chromas": false
+    },
+    {
+      "id": "30024",
+      "name": "五杀摇滚 III：遗失的章节 卡尔萨斯 纯粹",
+      "chromas": false
+    },
+    {
+      "id": "30025",
+      "name": "五杀摇滚 III：遗失的章节 卡尔萨斯 黑暗",
+      "chromas": false
+    },
+    {
+      "id": "30026",
+      "name": "永恒之森 卡尔萨斯",
+      "chromas": true
+    },
+    {
+      "id": "30027",
+      "name": "永恒之森 卡尔萨斯 焰枫",
+      "chromas": false
+    },
+    {
+      "id": "30028",
+      "name": "永恒之森 卡尔萨斯 辉瓣",
+      "chromas": false
+    },
+    {
+      "id": "30029",
+      "name": "永恒之森 卡尔萨斯 永茂",
+      "chromas": false
+    },
+    {
+      "id": "30030",
+      "name": "永恒之森 卡尔萨斯 樱落",
+      "chromas": false
+    },
+    {
+      "id": "30031",
+      "name": "永恒之森 卡尔萨斯 寒楹",
+      "chromas": false
+    },
+    {
+      "id": "30032",
+      "name": "永恒之森 卡尔萨斯 冰桦",
+      "chromas": false
+    },
+    {
+      "id": "30033",
+      "name": "永恒之森 卡尔萨斯 灵橡",
+      "chromas": false
+    },
+    {
+      "id": "30034",
+      "name": "永恒之森 卡尔萨斯 月见",
+      "chromas": false
+    },
+    {
+      "id": "30035",
+      "name": "永颂之歌 卡尔萨斯",
+      "chromas": true
+    },
+    {
+      "id": "30036",
+      "name": "永颂之歌 卡尔萨斯 斗志",
+      "chromas": false
+    },
+    {
+      "id": "30037",
+      "name": "永颂之歌 卡尔萨斯 学识",
+      "chromas": false
+    },
+    {
+      "id": "30038",
+      "name": "永颂之歌 卡尔萨斯 权威",
+      "chromas": false
+    },
+    {
+      "id": "30039",
+      "name": "永颂之歌 卡尔萨斯 财富",
+      "chromas": false
+    },
+    {
+      "id": "30040",
+      "name": "永颂之歌 卡尔萨斯 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "30041",
+      "name": "永颂之歌 卡尔萨斯 丰足",
+      "chromas": false
+    },
+    {
+      "id": "30042",
+      "name": "永颂之歌 卡尔萨斯 哀伤",
+      "chromas": false
+    },
+    {
+      "id": "30043",
+      "name": "永颂之歌 卡尔萨斯 均衡",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "死亡契约",
+    "description": "在死亡时，卡尔萨斯会化为一个灵体，能够继续施放技能。",
+    "image": "Karthus_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "荒芜",
+      "description": "卡尔萨斯在目标区域释放一次有延迟的爆炸魔法，对区域内的所有敌人造成伤害。对孤立无援的敌人造成提升过的伤害。",
+      "tooltip": "卡尔萨斯生成一道魔法爆裂，造成{{ qdamage }}魔法伤害。如果爆裂仅命中了一名敌人，它会转而造成{{ qsingletargetdamage }}魔法伤害。",
+      "cooldown": "0",
+      "cost": "20/25/30/35/40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "875",
+      "maxrank": 5,
+      "image": "KarthusLayWasteA1.png",
+      "key": "Q"
+    },
+    {
+      "name": "痛苦之墙",
+      "description": "卡尔萨斯创造一道可通过的魔能之墙。所有穿过墙体的敌方单位都会被暂时降低移动速度和魔法抗性。",
+      "tooltip": "卡尔萨斯生成一个持续{{ e4 }}秒的墙体。穿过它的敌人们会受到{{ e1 }}%魔法抗性削减，持续{{ e5 }}秒，以及在此期间持续衰减的{{ e3 }}%减速。",
+      "cooldown": "15",
+      "cost": "70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "KarthusWallOfPain.png",
+      "key": "W"
+    },
+    {
+      "name": "亵渎",
+      "description": "卡尔萨斯被动地从他的猎物那里窃取法力，每杀死一个敌人就会获得法力。卡尔萨斯也可以转化这种力量，用猎物的灵魂环绕自身，对附近的敌人造成伤害，但会急速消耗他自己的法力。",
+      "tooltip": "被动：当卡尔萨斯击杀了一个单位时，他会回复{{ e2 }}法力。激活：卡尔萨斯生成一个死灵光环，每秒对附近的敌人们造成{{ totaldps }}魔法伤害。",
+      "cooldown": "0.5",
+      "cost": "30/42/54/66/78",
+      "costType": "法力",
+      "range": "550",
+      "maxrank": 5,
+      "image": "KarthusDefile.png",
+      "key": "E"
+    },
+    {
+      "name": "安魂曲",
+      "description": "在引导3秒后，卡尔萨斯就会对所有敌方英雄造成伤害。",
+      "tooltip": "卡尔萨斯引导3秒，然后对敌方英雄们造成{{ totaldamage }}魔法伤害，无视距离。",
+      "cooldown": "200/180/160",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "10000",
+      "maxrank": 3,
+      "image": "KarthusFallenOne.png",
+      "key": "R"
+    }
+  ]
+}

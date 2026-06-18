@@ -1,0 +1,358 @@
+{
+  "id": "Olaf",
+  "championId": "2",
+  "name": "狂战士",
+  "title": "奥拉夫",
+  "region": "弗雷尔卓德",
+  "blurb": "来自弗雷尔卓德海岸洛克法半岛的奥拉夫，是一股无坚不摧的毁灭之力，手持战斧的他一心渴望光荣地战死。奥拉夫曾在一次占卜中听到了自己将安详辞世的预言——这是懦夫的命运，也是对他们族人的莫大侮辱。为了追寻另外一种结局，在狂怒的驱动下，他在这片土地上暴跳横行，屠杀了数十名伟大的战士和传说中的野兽，只希望能够找到能够阻止自己的对手。如今的奥拉夫，是凛冬之爪部族的残酷执法者，他期待在即将到来的大战中终结自己的性命。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 9,
+    "defense": 5,
+    "magic": 3,
+    "difficulty": 3
+  },
+  "stats": {
+    "hp": 645,
+    "hpPerLevel": 119,
+    "mp": 316,
+    "mpPerLevel": 50,
+    "movespeed": 350,
+    "armor": 35,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 68,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.72,
+    "attackspeedPerLevel": 2.7,
+    "hpregen": 6.5,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 7.5,
+    "mpregenPerLevel": 0.6,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "2001",
+      "name": "烈焰猛士 奥拉夫",
+      "chromas": false
+    },
+    {
+      "id": "2002",
+      "name": "冰河时代 奥拉夫",
+      "chromas": false
+    },
+    {
+      "id": "2003",
+      "name": "铁哥们儿 奥拉夫",
+      "chromas": true
+    },
+    {
+      "id": "2004",
+      "name": "五杀摇滚鼓手 奥拉夫",
+      "chromas": false
+    },
+    {
+      "id": "2005",
+      "name": "黑暗骑士 奥拉夫",
+      "chromas": false
+    },
+    {
+      "id": "2006",
+      "name": "牛扒狂战 奥拉夫",
+      "chromas": false
+    },
+    {
+      "id": "2007",
+      "name": "铁哥们儿 奥拉夫 成吨的伤害",
+      "chromas": false
+    },
+    {
+      "id": "2008",
+      "name": "铁哥们儿 奥拉夫 极限猛男",
+      "chromas": false
+    },
+    {
+      "id": "2009",
+      "name": "铁哥们儿 奥拉夫 粉红铁汉",
+      "chromas": false
+    },
+    {
+      "id": "2010",
+      "name": "铁哥们儿 奥拉夫 暴走怪杰",
+      "chromas": false
+    },
+    {
+      "id": "2011",
+      "name": "铁哥们儿 奥拉夫 断浪之斧",
+      "chromas": false
+    },
+    {
+      "id": "2012",
+      "name": "铁哥们儿 奥拉夫 迷彩战神",
+      "chromas": false
+    },
+    {
+      "id": "2013",
+      "name": "铁哥们儿 奥拉夫 健身教练",
+      "chromas": false
+    },
+    {
+      "id": "2014",
+      "name": "铁哥们儿 奥拉夫 黑拳裁判",
+      "chromas": false
+    },
+    {
+      "id": "2015",
+      "name": "SKT T1 奥拉夫",
+      "chromas": false
+    },
+    {
+      "id": "2016",
+      "name": "屠龙勇士 奥拉夫",
+      "chromas": true
+    },
+    {
+      "id": "2017",
+      "name": "屠龙勇士 奥拉夫 蓝龙之坚定",
+      "chromas": false
+    },
+    {
+      "id": "2018",
+      "name": "屠龙勇士 奥拉夫 金龙之优雅",
+      "chromas": false
+    },
+    {
+      "id": "2019",
+      "name": "屠龙勇士 奥拉夫 绿龙之无畏",
+      "chromas": false
+    },
+    {
+      "id": "2020",
+      "name": "屠龙勇士 奥拉夫 晶龙之威仪",
+      "chromas": false
+    },
+    {
+      "id": "2021",
+      "name": "屠龙勇士 奥拉夫 红龙之狂傲",
+      "chromas": false
+    },
+    {
+      "id": "2022",
+      "name": "屠龙勇士 奥拉夫 银龙之庄严",
+      "chromas": false
+    },
+    {
+      "id": "2023",
+      "name": "屠龙勇士 奥拉夫 黑龙之狡黠",
+      "chromas": false
+    },
+    {
+      "id": "2024",
+      "name": "屠龙勇士 奥拉夫 碧龙之警觉",
+      "chromas": false
+    },
+    {
+      "id": "2025",
+      "name": "光明哨兵 奥拉夫",
+      "chromas": true
+    },
+    {
+      "id": "2026",
+      "name": "光明哨兵 奥拉夫 帝国抗击者",
+      "chromas": false
+    },
+    {
+      "id": "2027",
+      "name": "光明哨兵 奥拉夫 沙漠抗击者",
+      "chromas": false
+    },
+    {
+      "id": "2028",
+      "name": "光明哨兵 奥拉夫 灵岛抗击者",
+      "chromas": false
+    },
+    {
+      "id": "2029",
+      "name": "光明哨兵 奥拉夫 虚无抗击者",
+      "chromas": false
+    },
+    {
+      "id": "2030",
+      "name": "光明哨兵 奥拉夫 海港抗击者",
+      "chromas": false
+    },
+    {
+      "id": "2031",
+      "name": "光明哨兵 奥拉夫 极地抗击者",
+      "chromas": false
+    },
+    {
+      "id": "2032",
+      "name": "光明哨兵 奥拉夫 森林抗击者",
+      "chromas": false
+    },
+    {
+      "id": "2033",
+      "name": "光明哨兵 奥拉夫 丛林抗击者",
+      "chromas": false
+    },
+    {
+      "id": "2034",
+      "name": "光明哨兵 奥拉夫 坚定抗击者",
+      "chromas": false
+    },
+    {
+      "id": "2035",
+      "name": "五杀摇滚 III：遗失的章节 奥拉夫",
+      "chromas": true
+    },
+    {
+      "id": "2036",
+      "name": "五杀摇滚 III：遗失的章节 奥拉夫 热血",
+      "chromas": false
+    },
+    {
+      "id": "2037",
+      "name": "五杀摇滚 III：遗失的章节 奥拉夫 激昂",
+      "chromas": false
+    },
+    {
+      "id": "2038",
+      "name": "五杀摇滚 III：遗失的章节 奥拉夫 不羁",
+      "chromas": false
+    },
+    {
+      "id": "2039",
+      "name": "五杀摇滚 III：遗失的章节 奥拉夫 自在",
+      "chromas": false
+    },
+    {
+      "id": "2040",
+      "name": "五杀摇滚 III：遗失的章节 奥拉夫 硬核",
+      "chromas": false
+    },
+    {
+      "id": "2041",
+      "name": "五杀摇滚 III：遗失的章节 奥拉夫 迷幻",
+      "chromas": false
+    },
+    {
+      "id": "2042",
+      "name": "五杀摇滚 III：遗失的章节 奥拉夫 纯粹",
+      "chromas": false
+    },
+    {
+      "id": "2043",
+      "name": "五杀摇滚 III：遗失的章节 奥拉夫 黑暗",
+      "chromas": false
+    },
+    {
+      "id": "2044",
+      "name": "地狱火 奥拉夫",
+      "chromas": true
+    },
+    {
+      "id": "2045",
+      "name": "地狱火 奥拉夫 荣耀之焰",
+      "chromas": false
+    },
+    {
+      "id": "2046",
+      "name": "地狱火 奥拉夫 骄傲之焰",
+      "chromas": false
+    },
+    {
+      "id": "2047",
+      "name": "地狱火 奥拉夫 理性之焰",
+      "chromas": false
+    },
+    {
+      "id": "2048",
+      "name": "地狱火 奥拉夫 慈悲之焰",
+      "chromas": false
+    },
+    {
+      "id": "2049",
+      "name": "地狱火 奥拉夫 痴迷之焰",
+      "chromas": false
+    },
+    {
+      "id": "2050",
+      "name": "地狱火 奥拉夫 冷酷之焰",
+      "chromas": false
+    },
+    {
+      "id": "2051",
+      "name": "地狱火 奥拉夫 力量之焰",
+      "chromas": false
+    },
+    {
+      "id": "2052",
+      "name": "地狱火 奥拉夫 博爱之焰",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "狂战之怒",
+    "description": "奥拉夫基于已损失生命值获得攻击速度和生命偷取。",
+    "image": "Olaf_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "逆流投掷",
+      "description": "奥拉夫将战斧投至目标区域，对所有被战斧穿过的敌人造成伤害并削减他们的护甲和移动速度。如果奥拉夫捡起斧头，那么该技能冷却时间就会重置。",
+      "tooltip": "奥拉夫扔出一把斧头，造成{{ totaldamage }}物理伤害和至多持续{{ maxslowduration }}秒(基于斧头移动距离)的{{ slowamount*100 }}%减速。被斧头命中的英雄还会损失{{ shredamount*100 }}%护甲，持续{{ debuffduration }}秒。如果奥拉夫拾起了斧头，那么这个技能的冷却时间会缩短至{{ tooltipcdrefund }}秒，或在度过{{ tooltipcdrefund }}秒之后完全返还。",
+      "cooldown": "9",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "OlafAxeThrowCast.png",
+      "key": "Q"
+    },
+    {
+      "name": "挺过去",
+      "description": "奥拉夫的攻击速度得到提升，并获得一层护盾。",
+      "tooltip": "奥拉夫获得持续{{ duration }}秒的{{ attackspeed*100 }}%攻击速度，以及持续{{ shieldduration }}秒的{{ baseshield }}外加{{ shieldpercmissinghp*100 }}%已损失生命值的护盾值(最大值为{{ maxshieldcalc }}护盾值，在低于{{ thresholdformax*100 }}%时提供)。",
+      "cooldown": "16/15/14/13/12",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "700",
+      "maxrank": 5,
+      "image": "OlafFrenziedStrikes.png",
+      "key": "W"
+    },
+    {
+      "name": "鲁莽挥击",
+      "description": "奥拉夫以破釜沉舟之势发动进攻，对目标造成真实伤害（不受护甲与魔抗减免），同时，自身也会根据敌方所受的伤害而受到真实伤害的反噬。",
+      "tooltip": "奥拉夫狂野地挥舞他的双斧，造成{{ totaldamage }}真实伤害。如果该敌人阵亡，那么会返还此技能的消耗。攻击会使这个技能的冷却时间缩短1秒，在攻击野怪时，缩短值提升至2秒。",
+      "cooldown": "11/10/9/8/7",
+      "cost": "0",
+      "costType": "生命值",
+      "range": "325",
+      "maxrank": 5,
+      "image": "OlafRecklessStrike.png",
+      "key": "E"
+    },
+    {
+      "name": "诸神黄昏",
+      "description": "奥拉夫被动获得护甲和魔法抗性提升。他可以激活这个技能来变得免疫控制效果，并且会在他保持攻击时一直持续。",
+      "tooltip": "被动：奥拉夫获得{{ resists }}护甲和{{ resists }}魔法抗性。主动：奥拉夫净化掉他身上的所有定身和限制效果并且在接下来的{{ duration }}秒内免疫这些效果。在激活时，奥拉夫获得{{ ad }}攻击力。用一次攻击或鲁莽挥击命中一名英雄时，会使持续时间延长{{ durationextension }}秒。此外，奥拉夫会在朝着敌方英雄时获得{{ haste*100 }}%移动速度，持续{{ hasteduration }}秒。",
+      "cooldown": "100/90/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 3,
+      "image": "OlafRagnarok.png",
+      "key": "R"
+    }
+  ]
+}

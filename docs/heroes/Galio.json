@@ -1,0 +1,328 @@
+{
+  "id": "Galio",
+  "championId": "3",
+  "name": "正义巨像",
+  "title": "加里奥",
+  "region": "德玛西亚",
+  "blurb": "光彩熠熠的德玛西亚城外，石巨像加里奥始终如一地守望着。他被创造出来是为了抵挡来犯的法师，却往往伫立不动数十年，直至受到强烈魔法干扰的时候才会苏醒。只要加里奥醒来，他便会利用这段时间仔细品味战斗的刺激与守护人民的荣耀。可惜胜利对他而言永远都是一件喜忧参半的事情。因为他必须摧毁的魔法力量，同时也是激活他的泉源，而每一次战斗的胜利，都会让他再次陷入不知世事的深眠之中。",
+  "tags": [
+    "坦克",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 1,
+    "defense": 10,
+    "magic": 6,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 600,
+    "hpPerLevel": 126,
+    "mp": 410,
+    "mpPerLevel": 40,
+    "movespeed": 340,
+    "armor": 24,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 150,
+    "attackdamage": 59,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 1.5,
+    "hpregen": 8,
+    "hpregenPerLevel": 0.8,
+    "mpregen": 9.5,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "3001",
+      "name": "幽蓝梦魇 加里奥",
+      "chromas": false
+    },
+    {
+      "id": "3002",
+      "name": "机械迷城 加里奥",
+      "chromas": false
+    },
+    {
+      "id": "3003",
+      "name": "战地之王 加里奥",
+      "chromas": false
+    },
+    {
+      "id": "3004",
+      "name": "地狱之门卫士 加里奥",
+      "chromas": false
+    },
+    {
+      "id": "3005",
+      "name": "风执事 加里奥",
+      "chromas": false
+    },
+    {
+      "id": "3006",
+      "name": "鸡里奥",
+      "chromas": true
+    },
+    {
+      "id": "3007",
+      "name": "红雀里奥",
+      "chromas": false
+    },
+    {
+      "id": "3008",
+      "name": "蓝蕉鹃里奥",
+      "chromas": false
+    },
+    {
+      "id": "3009",
+      "name": "黄金鸡里奥",
+      "chromas": false
+    },
+    {
+      "id": "3010",
+      "name": "高卢鸡里奥",
+      "chromas": false
+    },
+    {
+      "id": "3011",
+      "name": "火烈鸟里奥",
+      "chromas": false
+    },
+    {
+      "id": "3012",
+      "name": "白头鹰里奥",
+      "chromas": false
+    },
+    {
+      "id": "3013",
+      "name": "地狱火 加里奥",
+      "chromas": true
+    },
+    {
+      "id": "3014",
+      "name": "地狱火 加里奥 慈悲之焰",
+      "chromas": false
+    },
+    {
+      "id": "3015",
+      "name": "地狱火 加里奥 理性之焰",
+      "chromas": false
+    },
+    {
+      "id": "3016",
+      "name": "地狱火 加里奥 荣耀之焰",
+      "chromas": false
+    },
+    {
+      "id": "3017",
+      "name": "地狱火 加里奥 骄傲之焰",
+      "chromas": false
+    },
+    {
+      "id": "3018",
+      "name": "地狱火 加里奥 希望之焰",
+      "chromas": false
+    },
+    {
+      "id": "3019",
+      "name": "龙族卫士 加里奥",
+      "chromas": true
+    },
+    {
+      "id": "3020",
+      "name": "龙族卫士 加里奥 红龙之狂傲",
+      "chromas": false
+    },
+    {
+      "id": "3021",
+      "name": "龙族卫士 加里奥 赤龙之倾奇",
+      "chromas": false
+    },
+    {
+      "id": "3022",
+      "name": "龙族卫士 加里奥 晶龙之威仪",
+      "chromas": false
+    },
+    {
+      "id": "3023",
+      "name": "龙族卫士 加里奥 金龙之优雅",
+      "chromas": false
+    },
+    {
+      "id": "3024",
+      "name": "龙族卫士 加里奥 蓝龙之坚定",
+      "chromas": false
+    },
+    {
+      "id": "3025",
+      "name": "龙族卫士 加里奥 绿龙之无畏",
+      "chromas": false
+    },
+    {
+      "id": "3026",
+      "name": "龙族卫士 加里奥 银龙之庄严",
+      "chromas": false
+    },
+    {
+      "id": "3027",
+      "name": "龙族卫士 加里奥 黑龙之狡黠",
+      "chromas": false
+    },
+    {
+      "id": "3028",
+      "name": "剪纸仙灵 加里奥",
+      "chromas": true
+    },
+    {
+      "id": "3029",
+      "name": "鸡里奥 全球总决赛之翼",
+      "chromas": false
+    },
+    {
+      "id": "3030",
+      "name": "剪纸仙灵 加里奥 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "3031",
+      "name": "剪纸仙灵 加里奥 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "3032",
+      "name": "剪纸仙灵 加里奥 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "3033",
+      "name": "剪纸仙灵 加里奥 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "3034",
+      "name": "剪纸仙灵 加里奥 财源滚滚",
+      "chromas": false
+    },
+    {
+      "id": "3035",
+      "name": "剪纸仙灵 加里奥 年年有余",
+      "chromas": false
+    },
+    {
+      "id": "3036",
+      "name": "剪纸仙灵 加里奥 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "3037",
+      "name": "剪纸仙灵 加里奥 吉祥如意",
+      "chromas": false
+    },
+    {
+      "id": "3038",
+      "name": "剪纸仙灵 加里奥 金玉满堂",
+      "chromas": false
+    },
+    {
+      "id": "3039",
+      "name": "剪纸仙灵 加里奥 典范",
+      "chromas": false
+    },
+    {
+      "id": "3040",
+      "name": "神盾机甲 加里奥",
+      "chromas": true
+    },
+    {
+      "id": "3041",
+      "name": "神盾机甲 加里奥 战神赤翼",
+      "chromas": false
+    },
+    {
+      "id": "3042",
+      "name": "神盾机甲 加里奥 爱神圣翼",
+      "chromas": false
+    },
+    {
+      "id": "3043",
+      "name": "神盾机甲 加里奥 主神轰翼",
+      "chromas": false
+    },
+    {
+      "id": "3044",
+      "name": "神盾机甲 加里奥 梦神幻翼",
+      "chromas": false
+    },
+    {
+      "id": "3045",
+      "name": "神盾机甲 加里奥 冥神铁翼",
+      "chromas": false
+    },
+    {
+      "id": "3046",
+      "name": "神盾机甲 加里奥 美神创翼",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "巨像重击",
+    "description": "每过若干秒，加里奥的下次普攻就能在小范围内造成额外魔法伤害。",
+    "image": "Galio_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "战争罡风",
+      "description": "加里奥发射两道罡风，罡风在汇聚后会形成一团大型龙卷风，造成持续伤害。",
+      "tooltip": "加里奥发射两道罡风，每道造成{{ qmissiledamage }}魔法伤害。当罡风汇聚时，它们会合成一股龙卷风，在{{ superqduration }}秒内持续造成相当于各敌人{{ percentsuperqdamagett }}%最大生命值的魔法伤害。",
+      "cooldown": "11/10/9/8/7",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "825",
+      "maxrank": 5,
+      "image": "GalioQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "杜朗护盾",
+      "description": "加里奥在防御姿态下蓄力，同时移动速度减慢。在蓄力得以释放时，加里奥将嘲讽并伤害附近的敌人。",
+      "tooltip": "被动：如果加里奥在{{ passiveshieldooctimer }}秒内没有受到伤害，那么他就会获得{{ totalpassiveshield }}魔法护盾。开始蓄力：加里奥使即将到来的魔法伤害降低{{ magicdamagereduction }}，使即将到来的物理伤害降低{{ physicaldamagereduction }}，并且自身减速{{ selfslowpercent }}%。释放：加里奥嘲讽附近的敌方英雄{{ ccdurationmin }}到{{ ccdurationmax }}秒，造成{{ mintotaldamage }}到{{ maxtotaldamage }}魔法伤害，并使伤害减免的持续时长刷新至{{ drlingerduration }}秒。嘲讽的持续时长、伤害和距离取决于他的蓄力时长。",
+      "cooldown": "18/17/16/15/14",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "275",
+      "maxrank": 5,
+      "image": "GalioW.png",
+      "key": "W"
+    },
+    {
+      "name": "正义冲拳",
+      "description": "加里奥将暂时后跳然后冲锋，击飞他遇到的第一个敌方英雄。",
+      "tooltip": "加里奥挟着一股强劲向前猛冲，将命中的第一个敌方英雄击飞{{ knockupduration }}秒并造成{{ totaldamage }}魔法伤害。沿途的其它敌人将受到{{ pvedamage }}魔法伤害。加里奥的猛冲将在命中地形时停下。",
+      "cooldown": "11/10/9/8/7",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "GalioE.png",
+      "key": "E"
+    },
+    {
+      "name": "英雄登场",
+      "description": "加里奥将一名友军的当前位置作为他的着陆点，并为区域内的所有友军提供一个魔法护盾。在短暂的延迟后，加里奥会落到该位置上，然后击退附近的敌人。",
+      "tooltip": "加里奥选定一个友方英雄的位置作为他的着陆位置，并为该区域的所有友方英雄提供杜朗护盾的被动护盾，护盾持续{{ temporarywshieldduration }}秒。然后加里奥会飞往他的着陆地带。当加里奥着陆时，他会造成{{ stundurationouter }}秒击飞和{{ totaldamage }}魔法伤害。",
+      "cooldown": "180/160/140",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "4000/4750/5500",
+      "maxrank": 3,
+      "image": "GalioR.png",
+      "key": "R"
+    }
+  ]
+}

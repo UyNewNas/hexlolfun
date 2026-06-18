@@ -1,0 +1,352 @@
+{
+  "id": "Lissandra",
+  "championId": "127",
+  "name": "冰霜女巫",
+  "title": "丽桑卓",
+  "region": "弗雷尔卓德",
+  "blurb": "丽桑卓的魔法将纯净的冰霜之力扭曲为某种黑暗而可怕的东西。她的黯冰之力不仅能冻结一切，还能将任何反抗之人刺穿并粉碎。在北部终日惊惶的居民中，人们只知道她是“冰霜女巫”。但事实却更为邪恶：丽桑卓是自然世界的腐化者，她的阴谋是要让全世界都进入到彻骨寒冷的冰河世纪。",
+  "tags": [
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 5,
+    "magic": 8,
+    "difficulty": 6
+  },
+  "stats": {
+    "hp": 620,
+    "hpPerLevel": 110,
+    "mp": 475,
+    "mpPerLevel": 30,
+    "movespeed": 325,
+    "armor": 22,
+    "armorPerLevel": 4.2,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 55,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.656,
+    "attackspeedPerLevel": 1.5,
+    "hpregen": 7,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.4,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "127001",
+      "name": "血石妖后 丽桑卓",
+      "chromas": false
+    },
+    {
+      "id": "127002",
+      "name": "刀锋女王 丽桑卓",
+      "chromas": false
+    },
+    {
+      "id": "127003",
+      "name": "源代码 丽桑卓",
+      "chromas": false
+    },
+    {
+      "id": "127004",
+      "name": "魔女 丽桑卓",
+      "chromas": true
+    },
+    {
+      "id": "127005",
+      "name": "魔女 丽桑卓 愤怒",
+      "chromas": false
+    },
+    {
+      "id": "127006",
+      "name": "魔女 丽桑卓 欲望",
+      "chromas": false
+    },
+    {
+      "id": "127007",
+      "name": "魔女 丽桑卓 傲慢",
+      "chromas": false
+    },
+    {
+      "id": "127008",
+      "name": "魔女 丽桑卓 嫉妒",
+      "chromas": false
+    },
+    {
+      "id": "127009",
+      "name": "魔女 丽桑卓 饕餮",
+      "chromas": false
+    },
+    {
+      "id": "127010",
+      "name": "魔女 丽桑卓 倦怠",
+      "chromas": false
+    },
+    {
+      "id": "127011",
+      "name": "魔女 丽桑卓 贪婪",
+      "chromas": false
+    },
+    {
+      "id": "127012",
+      "name": "暗星女王 丽桑卓",
+      "chromas": true
+    },
+    {
+      "id": "127013",
+      "name": "暗星女王 丽桑卓 战神星之爆",
+      "chromas": false
+    },
+    {
+      "id": "127014",
+      "name": "暗星女王 丽桑卓 光神星之湮",
+      "chromas": false
+    },
+    {
+      "id": "127015",
+      "name": "暗星女王 丽桑卓 海神星之覆",
+      "chromas": false
+    },
+    {
+      "id": "127016",
+      "name": "暗星女王 丽桑卓 主神星之黯",
+      "chromas": false
+    },
+    {
+      "id": "127017",
+      "name": "暗星女王 丽桑卓 天神星之陨",
+      "chromas": false
+    },
+    {
+      "id": "127018",
+      "name": "暗星女王 丽桑卓 美神星之灭",
+      "chromas": false
+    },
+    {
+      "id": "127019",
+      "name": "暗星女王 丽桑卓 冥神星之击",
+      "chromas": false
+    },
+    {
+      "id": "127020",
+      "name": "暗星女王 丽桑卓 猎神星之屈",
+      "chromas": false
+    },
+    {
+      "id": "127021",
+      "name": "暗星女王 丽桑卓 乐神星之终",
+      "chromas": false
+    },
+    {
+      "id": "127022",
+      "name": "魔女 丽桑卓 狂信",
+      "chromas": false
+    },
+    {
+      "id": "127023",
+      "name": "青花瓷 丽桑卓",
+      "chromas": true
+    },
+    {
+      "id": "127024",
+      "name": "青花瓷 丽桑卓 牡丹",
+      "chromas": false
+    },
+    {
+      "id": "127025",
+      "name": "青花瓷 丽桑卓 骤雨",
+      "chromas": false
+    },
+    {
+      "id": "127026",
+      "name": "青花瓷 丽桑卓 芭蕉",
+      "chromas": false
+    },
+    {
+      "id": "127027",
+      "name": "青花瓷 丽桑卓 檀香",
+      "chromas": false
+    },
+    {
+      "id": "127028",
+      "name": "青花瓷 丽桑卓 含苞",
+      "chromas": false
+    },
+    {
+      "id": "127029",
+      "name": "青花瓷 丽桑卓 仕女",
+      "chromas": false
+    },
+    {
+      "id": "127030",
+      "name": "青花瓷 丽桑卓 月色",
+      "chromas": false
+    },
+    {
+      "id": "127031",
+      "name": "青花瓷 丽桑卓 墨色",
+      "chromas": false
+    },
+    {
+      "id": "127032",
+      "name": "青花瓷 丽桑卓 天青",
+      "chromas": false
+    },
+    {
+      "id": "127033",
+      "name": "至臻 青花瓷 丽桑卓",
+      "chromas": false
+    },
+    {
+      "id": "127034",
+      "name": "太空律动 “噪音女王” 丽桑卓",
+      "chromas": true
+    },
+    {
+      "id": "127035",
+      "name": "“噪音女王” 丽桑卓 红霸符的留声机",
+      "chromas": false
+    },
+    {
+      "id": "127036",
+      "name": "“噪音女王” 丽桑卓 兵线上的留声机",
+      "chromas": false
+    },
+    {
+      "id": "127037",
+      "name": "“噪音女王” 丽桑卓 蓝霸符的留声机",
+      "chromas": false
+    },
+    {
+      "id": "127038",
+      "name": "“噪音女王” 丽桑卓 草丛中的留声机",
+      "chromas": false
+    },
+    {
+      "id": "127039",
+      "name": "“噪音女王” 丽桑卓 小龙坑的留声机",
+      "chromas": false
+    },
+    {
+      "id": "127040",
+      "name": "“噪音女王” 丽桑卓 男爵坑的留声机",
+      "chromas": false
+    },
+    {
+      "id": "127041",
+      "name": "“噪音女王” 丽桑卓 河道中的留声机",
+      "chromas": false
+    },
+    {
+      "id": "127042",
+      "name": "“噪音女王” 丽桑卓 泉水中的音乐奖杯",
+      "chromas": false
+    },
+    {
+      "id": "127043",
+      "name": "绝命花妖 丽桑卓",
+      "chromas": true
+    },
+    {
+      "id": "127044",
+      "name": "绝命花妖 丽桑卓 绚丽绽放",
+      "chromas": false
+    },
+    {
+      "id": "127045",
+      "name": "绝命花妖 丽桑卓 灿烂绽放",
+      "chromas": false
+    },
+    {
+      "id": "127046",
+      "name": "绝命花妖 丽桑卓 葱茏绽放",
+      "chromas": false
+    },
+    {
+      "id": "127047",
+      "name": "绝命花妖 丽桑卓 冷艳绽放",
+      "chromas": false
+    },
+    {
+      "id": "127048",
+      "name": "绝命花妖 丽桑卓 梦幻绽放",
+      "chromas": false
+    },
+    {
+      "id": "127049",
+      "name": "绝命花妖 丽桑卓 清新绽放",
+      "chromas": false
+    },
+    {
+      "id": "127050",
+      "name": "绝命花妖 丽桑卓 素净绽放",
+      "chromas": false
+    },
+    {
+      "id": "127051",
+      "name": "绝命花妖 丽桑卓 幽香绽放",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "冰脉驱役",
+    "description": "当一名敌方英雄在丽桑卓附近阵亡时，该英雄会变成一个冰封奴仆。冰封奴仆会寻找活着的敌人，使身边敌人的移动速度减少。在一段延迟后，冰封奴仆会从极度冰寒中粉碎，对附近目标造成魔法伤害。",
+    "image": "Lissandra_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "寒冰碎片",
+      "description": "掷出一杆冰矛，冰矛会在命中敌人时碎裂，造成魔法伤害和减速效果。碎裂会穿过目标，对被冰矛命中的其他敌人造成等量伤害。",
+      "tooltip": "丽桑卓扔出一杆冰矛，冰矛会在命中第一个敌人后碎裂，造成{{ totaldamage }}魔法伤害、持续{{ e2 }}秒的{{ e3 }}%减速，并且还会对该敌人身后的敌人们造成伤害和减速。",
+      "cooldown": "7/6/5/4/3",
+      "cost": "55/60/65/70/75",
+      "costType": " {{ abilityresourcename }}",
+      "range": "725",
+      "maxrank": 5,
+      "image": "LissandraQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "冰霜之环",
+      "description": "将周围的敌人冻在原地，造成魔法伤害和束缚效果。",
+      "tooltip": "丽桑卓生成一个冰封领域，禁锢附近的敌人们{{ e2 }}秒并造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "10/9.5/9/8.5/8",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "450",
+      "maxrank": 5,
+      "image": "LissandraW.png",
+      "key": "W"
+    },
+    {
+      "name": "冰川之径",
+      "description": "丽桑卓召唤一个寒冰魔爪来造成魔法伤害。再次激活这个技能，可以让丽桑卓传送到寒冰魔爪的当前位置上。",
+      "tooltip": "丽桑卓向前放出一个冰爪，造成{{ totaldamage }}魔法伤害。丽桑卓可以在冰爪飞行时再次施放来传送到它所在的位置。",
+      "cooldown": "24/21/18/15/12",
+      "cost": "80/85/90/95/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1050",
+      "maxrank": 5,
+      "image": "LissandraE.png",
+      "key": "E"
+    },
+    {
+      "name": "冰封陵墓",
+      "description": "如果对敌方英雄施放，那么会冻结目标，对目标造成晕眩效果，如果对丽桑卓自己施放，那么她会暂时用暗黑之冰裹住自己，治疗自身并免疫任何伤害且不可被选取，但也无法进行任何动作。暗黑之冰可以从目标处放射寒芒对敌人造成魔法伤害和减速效果。",
+      "tooltip": "丽桑卓将她自身或一名敌方英雄裹进黑冰之中。敌人会被晕眩{{ enemycastduration }}秒。在自我施放时，丽桑卓进入凝滞状态{{ selfcastduration }}秒并回复{{ healamount }}生命值，每{{ selfcastmissinghpperabove }}%已损失生命值会使回复量提升{{ selfcastmissinghpratio }}%。之后，黑冰会从目标处开始蔓延，造成{{ calculateddamage }}魔法伤害。黑冰存在{{ slowduration }}秒，会使敌人减速{{ slowamount*-100 }}%。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "550",
+      "maxrank": 3,
+      "image": "LissandraR.png",
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "id": "Yuumi",
+  "championId": "350",
+  "name": "魔法猫咪",
+  "title": "悠米",
+  "region": "班德尔城",
+  "blurb": "作为一只来自班德尔城的魔法猫咪，悠米曾是一名约德尔魔女的守护灵，她的主人名叫诺拉。而当主人神秘消失以后，悠米就成为了《门扉魔典》的守护者，这是诺拉留下的一本有灵性的书，他们一起穿越书页中的传送门，共同寻找诺拉。渴望被宠爱的悠米在她的旅途中寻找着友善的同伴，为同伴们提供闪光护盾和坚决意志作为保护。虽然魔典竭尽全力让她把注意力留在最初的任务上，但悠米经常会被世俗的安逸所吸引，比如打盹和吃鱼。但安逸过后，她总是会回归自己的任务，找寻自己的朋友。",
+  "tags": [
+    "辅助",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 5,
+    "defense": 1,
+    "magic": 8,
+    "difficulty": 2
+  },
+  "stats": {
+    "hp": 500,
+    "hpPerLevel": 69,
+    "mp": 440,
+    "mpPerLevel": 45,
+    "movespeed": 330,
+    "armor": 25,
+    "armorPerLevel": 4.2,
+    "spellblock": 25,
+    "spellblockPerLevel": 1.1,
+    "attackrange": 425,
+    "attackdamage": 49,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 1,
+    "hpregen": 5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 10,
+    "mpregenPerLevel": 0.4,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "350001",
+      "name": "战斗校长 悠米",
+      "chromas": true
+    },
+    {
+      "id": "350002",
+      "name": "战斗校长 悠米 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "350003",
+      "name": "战斗校长 悠米 火蜥蜴",
+      "chromas": false
+    },
+    {
+      "id": "350004",
+      "name": "战斗校长 悠米 风精灵",
+      "chromas": false
+    },
+    {
+      "id": "350005",
+      "name": "战斗校长 悠米 天马",
+      "chromas": false
+    },
+    {
+      "id": "350006",
+      "name": "战斗校长 悠米 独角兽",
+      "chromas": false
+    },
+    {
+      "id": "350007",
+      "name": "战斗校长 悠米 狮鹫",
+      "chromas": false
+    },
+    {
+      "id": "350008",
+      "name": "战斗校长 悠米 梦魇",
+      "chromas": false
+    },
+    {
+      "id": "350009",
+      "name": "战斗校长 悠米 黑龙",
+      "chromas": false
+    },
+    {
+      "id": "350010",
+      "name": "战斗校长 悠米 盛典礼服",
+      "chromas": false
+    },
+    {
+      "id": "350011",
+      "name": "觅心猫猫 悠米",
+      "chromas": true
+    },
+    {
+      "id": "350012",
+      "name": "觅心猫猫 悠米 就想粘你",
+      "chromas": false
+    },
+    {
+      "id": "350013",
+      "name": "觅心猫猫 悠米 做朋友吧",
+      "chromas": false
+    },
+    {
+      "id": "350014",
+      "name": "觅心猫猫 悠米 我相信你",
+      "chromas": false
+    },
+    {
+      "id": "350015",
+      "name": "觅心猫猫 悠米 暗恋你",
+      "chromas": false
+    },
+    {
+      "id": "350016",
+      "name": "觅心猫猫 悠米 只准宠我",
+      "chromas": false
+    },
+    {
+      "id": "350017",
+      "name": "觅心猫猫 悠米 月色真美",
+      "chromas": false
+    },
+    {
+      "id": "350018",
+      "name": "觅心猫猫 悠米 你是好人",
+      "chromas": false
+    },
+    {
+      "id": "350019",
+      "name": "小蜜蜂 悠米",
+      "chromas": true
+    },
+    {
+      "id": "350020",
+      "name": "元气满满七星瓢 悠米",
+      "chromas": false
+    },
+    {
+      "id": "350021",
+      "name": "可爱可爱粉红红 悠米",
+      "chromas": false
+    },
+    {
+      "id": "350022",
+      "name": "春意盎然小青青 悠米",
+      "chromas": false
+    },
+    {
+      "id": "350023",
+      "name": "冷若冰霜小深蓝 悠米",
+      "chromas": false
+    },
+    {
+      "id": "350024",
+      "name": "浪漫浪漫小淡紫 悠米",
+      "chromas": false
+    },
+    {
+      "id": "350025",
+      "name": "白白嫩嫩小迷糊 悠米",
+      "chromas": false
+    },
+    {
+      "id": "350026",
+      "name": "野心勃勃特工蝇 悠米",
+      "chromas": false
+    },
+    {
+      "id": "350027",
+      "name": "五彩缤纷小可爱 悠米",
+      "chromas": false
+    },
+    {
+      "id": "350028",
+      "name": "魅惑女巫 悠米",
+      "chromas": true
+    },
+    {
+      "id": "350029",
+      "name": "魅惑女巫 悠米 热情化身",
+      "chromas": false
+    },
+    {
+      "id": "350030",
+      "name": "魅惑女巫 悠米 野性化身",
+      "chromas": false
+    },
+    {
+      "id": "350031",
+      "name": "魅惑女巫 悠米 青春化身",
+      "chromas": false
+    },
+    {
+      "id": "350032",
+      "name": "魅惑女巫 悠米 冷艳化身",
+      "chromas": false
+    },
+    {
+      "id": "350033",
+      "name": "魅惑女巫 悠米 浪漫化身",
+      "chromas": false
+    },
+    {
+      "id": "350034",
+      "name": "魅惑女巫 悠米 纯真化身",
+      "chromas": false
+    },
+    {
+      "id": "350035",
+      "name": "魅惑女巫 悠米 高冷化身",
+      "chromas": false
+    },
+    {
+      "id": "350036",
+      "name": "魅惑女巫 悠米 清新化身",
+      "chromas": false
+    },
+    {
+      "id": "350037",
+      "name": "EDG 悠米",
+      "chromas": true
+    },
+    {
+      "id": "350038",
+      "name": "EDG 悠米 破军",
+      "chromas": false
+    },
+    {
+      "id": "350039",
+      "name": "狗头猫咪 悠米",
+      "chromas": true
+    },
+    {
+      "id": "350040",
+      "name": "狗头猫咪 悠米 要吃汉堡！",
+      "chromas": false
+    },
+    {
+      "id": "350041",
+      "name": "狗头猫咪 悠米 要捉蝴蝶！",
+      "chromas": false
+    },
+    {
+      "id": "350042",
+      "name": "狗头猫咪 悠米 要看彩虹！",
+      "chromas": false
+    },
+    {
+      "id": "350043",
+      "name": "狗头猫咪 悠米 要打游戏！",
+      "chromas": false
+    },
+    {
+      "id": "350044",
+      "name": "狗头猫咪 悠米 要玩拼图！",
+      "chromas": false
+    },
+    {
+      "id": "350045",
+      "name": "狗头猫咪 悠米 要吃西瓜！",
+      "chromas": false
+    },
+    {
+      "id": "350046",
+      "name": "狗头猫咪 悠米 要扮美美！",
+      "chromas": false
+    },
+    {
+      "id": "350047",
+      "name": "狗头猫咪 悠米 要听音乐！",
+      "chromas": false
+    },
+    {
+      "id": "350048",
+      "name": "巅峰猫咪 悠米 凯旋辅卫",
+      "chromas": false
+    },
+    {
+      "id": "350049",
+      "name": "人工智能 悠米",
+      "chromas": true
+    },
+    {
+      "id": "350050",
+      "name": "至臻 人工智能 悠米",
+      "chromas": false
+    },
+    {
+      "id": "350051",
+      "name": "人工智能 悠米 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "350052",
+      "name": "人工智能 悠米 坚韧阻击",
+      "chromas": false
+    },
+    {
+      "id": "350053",
+      "name": "人工智能 悠米 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "350054",
+      "name": "人工智能 悠米 灿烂轰击",
+      "chromas": false
+    },
+    {
+      "id": "350055",
+      "name": "人工智能 悠米 优雅气度",
+      "chromas": false
+    },
+    {
+      "id": "350056",
+      "name": "人工智能 悠米 星流电击",
+      "chromas": false
+    },
+    {
+      "id": "350057",
+      "name": "人工智能 悠米 魅影闪击",
+      "chromas": false
+    },
+    {
+      "id": "350058",
+      "name": "人工智能 悠米 连绵奔袭",
+      "chromas": false
+    },
+    {
+      "id": "350059",
+      "name": "人工智能 悠米 隐秘夜影",
+      "chromas": false
+    },
+    {
+      "id": "350060",
+      "name": "人工智能 悠米 突破极限",
+      "chromas": false
+    },
+    {
+      "id": "350061",
+      "name": "黑夜使者 悠米",
+      "chromas": true
+    },
+    {
+      "id": "350062",
+      "name": "黑夜使者 悠米 血夜",
+      "chromas": false
+    },
+    {
+      "id": "350063",
+      "name": "黑夜使者 悠米 炎夜",
+      "chromas": false
+    },
+    {
+      "id": "350064",
+      "name": "黑夜使者 悠米 宁夜",
+      "chromas": false
+    },
+    {
+      "id": "350065",
+      "name": "黑夜使者 悠米 寒夜",
+      "chromas": false
+    },
+    {
+      "id": "350066",
+      "name": "黑夜使者 悠米 邪夜",
+      "chromas": false
+    },
+    {
+      "id": "350067",
+      "name": "黑夜使者 悠米 夕夜",
+      "chromas": false
+    },
+    {
+      "id": "350068",
+      "name": "黑夜使者 悠米 白夜",
+      "chromas": false
+    },
+    {
+      "id": "350069",
+      "name": "黑夜使者 悠米 幻夜",
+      "chromas": false
+    },
+    {
+      "id": "350070",
+      "name": "龙马烈焰 悠米",
+      "chromas": true
+    },
+    {
+      "id": "350071",
+      "name": "龙马烈焰 悠米 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "350072",
+      "name": "龙马烈焰 悠米 日进斗金",
+      "chromas": false
+    },
+    {
+      "id": "350073",
+      "name": "龙马烈焰 悠米 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "350074",
+      "name": "龙马烈焰 悠米 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "350075",
+      "name": "龙马烈焰 悠米 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "350076",
+      "name": "龙马烈焰 悠米 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "350077",
+      "name": "龙马烈焰 悠米 紫气东来",
+      "chromas": false
+    },
+    {
+      "id": "350078",
+      "name": "龙马烈焰 悠米 马到成功",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "猫的博爱",
+    "description": "周期性地，当悠米用一个攻击或技能击中一个英雄时，她会为自身和她要附身的下一个友方英雄回复生命值。在附身于友方英雄时，悠米会与她的友方英雄们生成一个特殊羁绊。在附身于拥有最强羁绊的那名友方英雄时，悠米的各个技能会获得强化。",
+    "image": "YuumiP2.png"
+  },
+  "spells": [
+    {
+      "name": "摸鱼飞弹",
+      "description": "悠米发射一道飞弹，对命中的首个单位造成伤害和减速效果。如果它在到达目标之前至少飞行了1.35秒，那么还会造成额外伤害和强化减速效果。在附身于她的挚友身上时，将总造成强化减速效果并且为她的挚友提供额外附加伤害。在附身状态时，飞弹可以通过你的指针来控制。",
+      "tooltip": "悠米召唤一个飘忽不定的飞弹，可对命中的首个敌人造成{{ totalmissiledamage }}魔法伤害和{{ slowamount }}%减速。如果在附身状态时施放，那么悠米可以通过使用她的鼠标来控制飞弹一小段时间，直到它提速进入一条直线轨迹为止。已提速的飞弹会转而对目标造成{{ totalmissiledamageempowered }}魔法伤害和持续{{ empoweredslowduration }}秒的{{ empoweredslowamount }}%减速。挚友加成：摸鱼飞弹将总是造成强化减速效果并在命中一名敌方英雄时还会为挚友提供持续{{ buffduration }}秒的附加%i:OnHit%{{ onhitdamagecalc }}魔法伤害。额外附加伤害可提升{{ allycritchancemaxamp*100 }}%，基于她正附身的友军的暴击几率。",
+      "cooldown": "6.5",
+      "cost": "50/55/60/65/70/75",
+      "costType": " {{ abilityresourcename }}",
+      "range": "25000",
+      "maxrank": 6,
+      "image": "YuumiQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "悠米出动！",
+      "description": "悠米突进到一名目标友方英雄处，变得不可被选取（防御塔除外）。在附身于她的挚友身上时，她会获得治疗与护盾强度并为她的这名友军提供附加治疗效果。",
+      "tooltip": "被动：在附身于她的挚友身上时，悠米获得额外的{{ healandshieldpower*100 }}%治疗与护盾强度并且她的这名友军也会获得附加%i:OnHit%{{ healthonhit }}治疗效果。主动：悠米突进到一名目标友方英雄处，并附身到该友军身上。当悠米处于附身状态时，她会跟随她搭档的移动并且不可被选取（防御塔除外）。对悠米施加定身效果会使这个技能进入为期{{ ccattachlockout }}秒的冷却时间。",
+      "cooldown": "0",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "25000",
+      "maxrank": 5,
+      "image": "YuumiW.png",
+      "key": "W"
+    },
+    {
+      "name": "旺盛精力",
+      "description": "为悠米提供护盾值和一个爆发性的移动速度和攻击速度加成。如果她处于附身状态，那么她会将这个效果传给她附身的友方英雄。",
+      "tooltip": "悠米为自身提供{{ totalshielding }}护盾值并获得持续{{ msduration }}秒的{{ totalattackspeed }}%攻击速度。在护盾存留时，目标还会获得{{ msamount }}%移动速度。如果悠米处于附身状态，这个技能会转而影响她附身的友方英雄并且还会为该英雄回复{{ manarestore }}法力值，基于目标的已损失法力值至多提升{{ maxmanapercincrease*100 }}%。",
+      "cooldown": "10",
+      "cost": "80/90/100/110/120",
+      "costType": " {{ abilityresourcename }}",
+      "range": "25000",
+      "maxrank": 5,
+      "image": "YuumiE.png",
+      "key": "E"
+    },
+    {
+      "name": "魔典终章",
+      "description": "悠米引导5道波纹来伤害敌人并治疗友军。在引导时，悠米可以移动、附身并施放【旺盛精力】。在附身于她的挚友身上时，这个技能还会跟随她的鼠标。",
+      "tooltip": "悠米引导{{ ultduration }}秒，发射{{ numberofwaves }}道影响双方的魔法波纹。如果在施放时处在附身状态，那么悠米可以操控这些波纹来跟随她的鼠标。波纹对命中的敌人们造成{{ totalmissiledamage }}魔法伤害和持续{{ ccduration }}秒的{{ baseslow*-100 }}%减速，每道命中的波纹都会使这个减速效果提升{{ bonusslowperwave*-100 }}%。每道波纹对命中的友方英雄们造成{{ totalhealperwave }}治疗效果。溢出的治疗效果会转化为护盾值。挚友加成：对她的挚友来说，治疗效果会提升至{{ enhancedhealperwave }}生命值。施放悠米出动！将把波纹锁定在当前方向。悠米可以在引导时移动和施放旺盛精力。",
+      "cooldown": "120/110/100",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1100",
+      "maxrank": 3,
+      "image": "YuumiR.png",
+      "key": "R"
+    }
+  ]
+}

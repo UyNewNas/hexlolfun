@@ -1,0 +1,243 @@
+{
+  "id": "Nilah",
+  "championId": "895",
+  "name": "不羁之悦",
+  "title": "尼菈",
+  "region": "比尔吉沃特",
+  "blurb": "尼菈是一名来自遥远异国的苦行战士。她不懈地寻找着世间最凶残、最雄伟的对手，渴望将它们彻底抹杀。她从遭囚许久的欢乐之主身上夺得了力量，却也因此丢失了所有情感——唯独剩下喜悦。相比她所获得的强大能力，这也许只是一点微小的代价。来自恶魔的流水化成了她手中无可匹敌的鞭剑，让尼菈足以挑战早已被世人遗忘的可怕危险。",
+  "tags": [
+    "战士",
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 4,
+    "magic": 4,
+    "difficulty": 10
+  },
+  "stats": {
+    "hp": 570,
+    "hpPerLevel": 101,
+    "mp": 350,
+    "mpPerLevel": 35,
+    "movespeed": 340,
+    "armor": 27,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 225,
+    "attackdamage": 58,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.697,
+    "attackspeedPerLevel": 1.25,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.9,
+    "mpregen": 8.2,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "895001",
+      "name": "星之守护者 尼菈",
+      "chromas": true
+    },
+    {
+      "id": "895002",
+      "name": "星之守护者 尼菈 热情之光",
+      "chromas": false
+    },
+    {
+      "id": "895003",
+      "name": "星之守护者 尼菈 勇气之光",
+      "chromas": false
+    },
+    {
+      "id": "895004",
+      "name": "星之守护者 尼菈 重生之光",
+      "chromas": false
+    },
+    {
+      "id": "895005",
+      "name": "星之守护者 尼菈 智慧之光",
+      "chromas": false
+    },
+    {
+      "id": "895006",
+      "name": "星之守护者 尼菈 未来之光",
+      "chromas": false
+    },
+    {
+      "id": "895007",
+      "name": "星之守护者 尼菈 爱之光",
+      "chromas": false
+    },
+    {
+      "id": "895008",
+      "name": "星之守护者 尼菈 正义之光",
+      "chromas": false
+    },
+    {
+      "id": "895009",
+      "name": "星之守护者 尼菈 守护之光",
+      "chromas": false
+    },
+    {
+      "id": "895010",
+      "name": "星之守护者 尼菈 希望之光",
+      "chromas": false
+    },
+    {
+      "id": "895011",
+      "name": "魔女 尼菈",
+      "chromas": true
+    },
+    {
+      "id": "895012",
+      "name": "魔女 尼菈 愤怒",
+      "chromas": false
+    },
+    {
+      "id": "895013",
+      "name": "魔女 尼菈 虚伪",
+      "chromas": false
+    },
+    {
+      "id": "895014",
+      "name": "魔女 尼菈 贪婪",
+      "chromas": false
+    },
+    {
+      "id": "895015",
+      "name": "魔女 尼菈 欲望",
+      "chromas": false
+    },
+    {
+      "id": "895016",
+      "name": "魔女 尼菈 嫉妒",
+      "chromas": false
+    },
+    {
+      "id": "895017",
+      "name": "魔女 尼菈 虚荣",
+      "chromas": false
+    },
+    {
+      "id": "895018",
+      "name": "魔女 尼菈 倦怠",
+      "chromas": false
+    },
+    {
+      "id": "895019",
+      "name": "魔女 尼菈 饕餮",
+      "chromas": false
+    },
+    {
+      "id": "895020",
+      "name": "魔女 尼菈 不畏",
+      "chromas": false
+    },
+    {
+      "id": "895021",
+      "name": "墨之影 尼菈",
+      "chromas": true
+    },
+    {
+      "id": "895022",
+      "name": "墨之影 尼菈 炽墨挥影",
+      "chromas": false
+    },
+    {
+      "id": "895023",
+      "name": "墨之影 尼菈 金墨耀影",
+      "chromas": false
+    },
+    {
+      "id": "895024",
+      "name": "墨之影 尼菈 森墨拂影",
+      "chromas": false
+    },
+    {
+      "id": "895025",
+      "name": "墨之影 尼菈 云墨漾影",
+      "chromas": false
+    },
+    {
+      "id": "895026",
+      "name": "墨之影 尼菈 松墨彰影",
+      "chromas": false
+    },
+    {
+      "id": "895027",
+      "name": "墨之影 尼菈 樱墨映影",
+      "chromas": false
+    },
+    {
+      "id": "895028",
+      "name": "墨之影 尼菈 雪墨封影",
+      "chromas": false
+    },
+    {
+      "id": "895029",
+      "name": "墨之影 尼菈 玄墨蕴影",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "喜色川流",
+    "description": "尼菈在对小兵进行补刀时可获得提升过的经验值，并且能够增强与分享附近的来自她友方的治疗和护盾效果。",
+    "image": "NIlahP.png"
+  },
+  "spells": [
+    {
+      "name": "游刃万变",
+      "description": "随着她鞭刃的一次抽击，尼菈对她所选方向中一条直线上命中的任何敌人们造成伤害。这个行动会在短时间里延伸她的攻击距离。",
+      "tooltip": "被动：尼菈获得{{ critarmorpen }}护甲穿透，并且她对英雄进行的攻击会回复自身{{ critlifesteal }}造成伤害值的生命值。来自这个效果的过量治疗将转化为一个持续{{ shieldduration }}秒的护盾。主动：尼菈甩出她的鞭刃，造成 {{ damagecalc }}物理伤害。如果命中了一个敌方单位或建筑物，尼菈就会获得125攻击距离和{{ bonusattackspeedcalc }}%攻击速度，并且她的攻击会命中一个锥形范围，这些效果持续{{ buffduration }}秒。",
+      "cooldown": "4",
+      "cost": "30",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 5,
+      "image": "NilahQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "轻纱飞漾",
+      "description": "尼菈将自身裹入迷雾中，提升她的移动速度并使她能够优雅地躲避所有即将到来的攻击。在迷雾期间，她接触到的任何友方英雄也都会获得这个效果。",
+      "tooltip": "尼菈将自身裹入迷雾中{{ baseduration }}秒，从而变为幽灵状态、获得{{ movespeedpercent*100 }}%移动速度、躲避攻击并使所受的魔法伤害降低{{ magicdamagereduction*100 }}%。在激活期间，她接触到的任何友方英雄也都会裹入迷雾中，获得持续{{ sharebaseduration }}秒的相同增益。",
+      "cooldown": "26/25/24/23/22",
+      "cost": "60/45/30/15/0",
+      "costType": " {{ abilityresourcename }}",
+      "range": "150",
+      "maxrank": 5,
+      "image": "NilahW.png",
+      "key": "W"
+    },
+    {
+      "name": "纵情逐流",
+      "description": "尼菈热情洋溢地朝着她的目标冲刺，对她途经的任何敌人们造成伤害。",
+      "tooltip": "尼菈冲刺并穿过一个单位，对她途经的任何敌人们造成{{ dashdamage }}物理伤害。",
+      "cooldown": "0.5",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "550",
+      "maxrank": 5,
+      "image": "NilahE.png",
+      "key": "E"
+    },
+    {
+      "name": "神恩激荡",
+      "description": "尼菈快乐洋溢地挥舞她的鞭刃，对她周围的敌人们造成伤害，然后用她的武器将他们拉得更加靠近。",
+      "tooltip": "尼菈挥舞她的鞭刃，在1秒里持续造成{{ damagepertickcalctooltip }}物理伤害，然后用一次{{ damagecalc }}物理伤害的爆发来完成挥舞，并将附近的敌人们拉拽向她。【神恩激荡】对尼菈和附近的友方英雄们进行治疗，治疗量相当于她对敌方英雄们的{{ champhealingpercent }} (+{{ spell.nilahq:critlifesteal }} 游刃万变)造成伤害值，并将任何过量治疗转化为一个持续{{ duration }}秒的护盾。",
+      "cooldown": "110/95/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 3,
+      "image": "NilahR.png",
+      "key": "R"
+    }
+  ]
+}

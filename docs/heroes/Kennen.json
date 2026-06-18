@@ -1,0 +1,262 @@
+{
+  "id": "Kennen",
+  "championId": "85",
+  "name": "狂暴之心",
+  "title": "凯南",
+  "region": "艾欧尼亚",
+  "blurb": "凯南不仅是一位迅猛如雷电的艾欧尼亚执法者，还是均衡教派中唯一的约德尔人。虽然他身体小巧，浑身绒毛，但他能用风暴一般的手里剑和无限热情去迎击任何敌人的威胁。他和师父慎一起在精神领域巡逻，使用雷电的能量痛击敌人。",
+  "tags": [
+    "法师"
+  ],
+  "partype": "能量",
+  "info": {
+    "attack": 6,
+    "defense": 4,
+    "magic": 7,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 580,
+    "hpPerLevel": 98,
+    "mp": 200,
+    "mpPerLevel": 0,
+    "movespeed": 335,
+    "armor": 29,
+    "armorPerLevel": 4.95,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 48,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 3.4,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.65,
+    "mpregen": 50,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "85001",
+      "name": "红色彗星 凯南",
+      "chromas": false
+    },
+    {
+      "id": "85002",
+      "name": "银色闪电 凯南",
+      "chromas": false
+    },
+    {
+      "id": "85003",
+      "name": "空手道 凯南",
+      "chromas": false
+    },
+    {
+      "id": "85004",
+      "name": "医学博士 凯南",
+      "chromas": true
+    },
+    {
+      "id": "85005",
+      "name": "刺客信条 凯南",
+      "chromas": false
+    },
+    {
+      "id": "85006",
+      "name": "腥红之月 凯南",
+      "chromas": false
+    },
+    {
+      "id": "85007",
+      "name": "超级英雄 凯南",
+      "chromas": false
+    },
+    {
+      "id": "85008",
+      "name": "奈落之炎 凯南",
+      "chromas": true
+    },
+    {
+      "id": "85009",
+      "name": "医学博士 凯南 众志成城",
+      "chromas": false
+    },
+    {
+      "id": "85010",
+      "name": "医学博士 凯南 初心不改",
+      "chromas": false
+    },
+    {
+      "id": "85011",
+      "name": "医学博士 凯南 以身作则",
+      "chromas": false
+    },
+    {
+      "id": "85012",
+      "name": "医学博士 凯南 赤子之心",
+      "chromas": false
+    },
+    {
+      "id": "85013",
+      "name": "医学博士 凯南 坚韧团结",
+      "chromas": false
+    },
+    {
+      "id": "85014",
+      "name": "医学博士 凯南 自强不息",
+      "chromas": false
+    },
+    {
+      "id": "85015",
+      "name": "医学博士 凯南 全力以赴",
+      "chromas": false
+    },
+    {
+      "id": "85016",
+      "name": "医学博士 凯南 万众一心",
+      "chromas": false
+    },
+    {
+      "id": "85017",
+      "name": "奈落之炎 凯南 慈悲之焰",
+      "chromas": false
+    },
+    {
+      "id": "85018",
+      "name": "奈落之炎 凯南 理性之焰",
+      "chromas": false
+    },
+    {
+      "id": "85019",
+      "name": "奈落之炎 凯南 荣耀之焰",
+      "chromas": false
+    },
+    {
+      "id": "85020",
+      "name": "奈落之炎 凯南 骄傲之焰",
+      "chromas": false
+    },
+    {
+      "id": "85021",
+      "name": "奈落之炎 凯南 力量之焰",
+      "chromas": false
+    },
+    {
+      "id": "85022",
+      "name": "奈落之炎 凯南 博爱之焰",
+      "chromas": false
+    },
+    {
+      "id": "85023",
+      "name": "DWG 凯南",
+      "chromas": true
+    },
+    {
+      "id": "85024",
+      "name": "DWG 凯南 精锐",
+      "chromas": false
+    },
+    {
+      "id": "85025",
+      "name": "宇航员 凯南",
+      "chromas": true
+    },
+    {
+      "id": "85026",
+      "name": "宇航员 凯南 平坦宇宙",
+      "chromas": false
+    },
+    {
+      "id": "85027",
+      "name": "宇航员 凯南 重力弹弓",
+      "chromas": false
+    },
+    {
+      "id": "85028",
+      "name": "宇航员 凯南 月球漫步",
+      "chromas": false
+    },
+    {
+      "id": "85029",
+      "name": "宇航员 凯南 自由落体",
+      "chromas": false
+    },
+    {
+      "id": "85030",
+      "name": "宇航员 凯南 事件视界",
+      "chromas": false
+    },
+    {
+      "id": "85031",
+      "name": "宇航员 凯南 伽马射线",
+      "chromas": false
+    },
+    {
+      "id": "85032",
+      "name": "宇航员 凯南 万有引力",
+      "chromas": false
+    },
+    {
+      "id": "85033",
+      "name": "宇航员 凯南 亚空间",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "【忍法！雷缚印】",
+    "description": "凯南在用他的技能命中同一敌方3次后，会将其晕眩。",
+    "image": "Kennen_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "奥义！千鸟",
+      "description": "凯南向目标区域投掷手里剑，对第一个目标造成伤害并附加【忍法！雷缚印】。",
+      "tooltip": "凯南投掷一枚手里剑，对命中的第一个敌人造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "7/6.25/5.5/4.75/4",
+      "cost": "60/55/50/45/40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "950",
+      "maxrank": 5,
+      "image": "KennenShurikenHurlMissile1.png",
+      "key": "Q"
+    },
+    {
+      "name": "奥义！电刃",
+      "description": "凯南连续攻击附加额外伤害并对目标造成一层【忍法！雷缚印】，主动释放会对所有带有【忍法！雷缚印】的敌人造成闪电伤害，并额外附加一层【忍法！雷缚印】。",
+      "tooltip": "被动：每第5次攻击额外的{{ totaldamagepassive }}魔法伤害%i:OnHit%攻击特效。主动：凯南释放一道电能爆裂，对附近被施加了忍法！雷缚印的敌人们造成{{ totaldamageactive }}魔法伤害。",
+      "cooldown": "13/11.25/9.5/7.75/6",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "725",
+      "maxrank": 5,
+      "image": "KennenBringTheLight.png",
+      "key": "W"
+    },
+    {
+      "name": "奥义！雷铠",
+      "description": "凯南变身为一个闪电形态，高速移动并可以穿越单位。对碰到的所有敌人造成伤害并施加一层【忍法！雷缚印】。凯南会在进入这个形态时获得移动速度，并在离开时获得攻击速度。",
+      "tooltip": "凯南变成一个闪电球，获得{{ movementspeed*100 }}%移动速度，在穿过敌人时造成{{ totaldamage }}魔法伤害，同时变为幽灵状态，持续{{ durationasball }}秒。如果凯南对至少一名敌人造成了伤害，那么他会获得{{ energyrefund }}能量。在这个技能结束后，凯南会获得持续{{ durationafterball }}秒的{{ totalas*100 }}%攻击速度。暴击会将这个时长延长{{ critdurationbonus }}秒。凯南可以再次施放以提前结束这个技能。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "170",
+      "maxrank": 5,
+      "image": "KennenLightningRush.png",
+      "key": "E"
+    },
+    {
+      "name": "秘奥义！万雷天牢引",
+      "description": "凯南召唤出一团风暴，会对周围的所有敌方英雄造成魔法伤害。",
+      "tooltip": "凯南释放一阵魔法风暴，每{{ kennenrtickrate }}秒对附近的所有敌人造成{{ pertickdamagecalculated }}魔法伤害，并且获得{{ kennenrdefenses }}护甲和{{ kennenrdefenses }}魔法抗性，持续{{ kennenrduration }}秒。后续的每次命中会对已被影响的敌人造成{{ damageamp*100 }}%提升伤害。",
+      "cooldown": "120",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "550",
+      "maxrank": 3,
+      "image": "KennenShurikenStorm.png",
+      "key": "R"
+    }
+  ]
+}

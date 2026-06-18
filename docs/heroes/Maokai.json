@@ -1,0 +1,273 @@
+{
+  "id": "Maokai",
+  "championId": "57",
+  "name": "扭曲树精",
+  "title": "茂凯",
+  "region": "暗影岛",
+  "blurb": "茂凯是一只内心暴怒外形魁梧的树精，不知疲倦地对抗暗影岛的骇人异象。一场魔法灾变摧毁了他的家园，同时也将他变成一股复仇的力量，使他免遭不死诅咒的，全靠他芯中灌注融合的生命之水。曾经的茂凯是一只平和的自然之灵，而现在的他则一直在暴怒地战斗，只为了将不死的灾祸逐出暗影岛，让他的家园重归往日的秀美。",
+  "tags": [
+    "坦克",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 3,
+    "defense": 8,
+    "magic": 6,
+    "difficulty": 3
+  },
+  "stats": {
+    "hp": 665,
+    "hpPerLevel": 109,
+    "mp": 375,
+    "mpPerLevel": 43,
+    "movespeed": 335,
+    "armor": 35,
+    "armorPerLevel": 5.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 64,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.8,
+    "attackspeedPerLevel": 2.125,
+    "hpregen": 5,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 6,
+    "mpregenPerLevel": 0.6,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "57001",
+      "name": "烈焰古树 茂凯",
+      "chromas": false
+    },
+    {
+      "id": "57002",
+      "name": "图腾古树 茂凯",
+      "chromas": false
+    },
+    {
+      "id": "57003",
+      "name": "喜庆之树 茂凯",
+      "chromas": false
+    },
+    {
+      "id": "57004",
+      "name": "鬼影森森 茂凯",
+      "chromas": false
+    },
+    {
+      "id": "57005",
+      "name": "绿茵门神 茂凯",
+      "chromas": false
+    },
+    {
+      "id": "57006",
+      "name": "喵凯",
+      "chromas": true
+    },
+    {
+      "id": "57007",
+      "name": "胜利之树 茂凯",
+      "chromas": false
+    },
+    {
+      "id": "57008",
+      "name": "喵凯 萌萌粉",
+      "chromas": false
+    },
+    {
+      "id": "57009",
+      "name": "喵凯 喜悦灰",
+      "chromas": false
+    },
+    {
+      "id": "57010",
+      "name": "喵凯 怪怪橙",
+      "chromas": false
+    },
+    {
+      "id": "57011",
+      "name": "喵凯 爽爽蓝",
+      "chromas": false
+    },
+    {
+      "id": "57012",
+      "name": "喵凯 呆呆青",
+      "chromas": false
+    },
+    {
+      "id": "57013",
+      "name": "喵凯 淡定桃",
+      "chromas": false
+    },
+    {
+      "id": "57014",
+      "name": "喵凯 期待绿",
+      "chromas": false
+    },
+    {
+      "id": "57015",
+      "name": "喵凯 悲伤紫",
+      "chromas": false
+    },
+    {
+      "id": "57016",
+      "name": "创世之神 茂凯",
+      "chromas": true
+    },
+    {
+      "id": "57017",
+      "name": "创世之神 茂凯 温暖之焰",
+      "chromas": false
+    },
+    {
+      "id": "57018",
+      "name": "创世之神 茂凯 丰收之风",
+      "chromas": false
+    },
+    {
+      "id": "57019",
+      "name": "创世之神 茂凯 复苏之雨",
+      "chromas": false
+    },
+    {
+      "id": "57020",
+      "name": "创世之神 茂凯 黎明之光",
+      "chromas": false
+    },
+    {
+      "id": "57021",
+      "name": "创世之神 茂凯 温情之霞",
+      "chromas": false
+    },
+    {
+      "id": "57022",
+      "name": "创世之神 茂凯 祥瑞之雪",
+      "chromas": false
+    },
+    {
+      "id": "57023",
+      "name": "创世之神 茂凯 空灵之境",
+      "chromas": false
+    },
+    {
+      "id": "57024",
+      "name": "宇航员 茂凯",
+      "chromas": true
+    },
+    {
+      "id": "57025",
+      "name": "宇航员 茂凯 平坦宇宙",
+      "chromas": false
+    },
+    {
+      "id": "57026",
+      "name": "宇航员 茂凯 盖亚意识",
+      "chromas": false
+    },
+    {
+      "id": "57027",
+      "name": "宇航员 茂凯 自由落体",
+      "chromas": false
+    },
+    {
+      "id": "57028",
+      "name": "宇航员 茂凯 万有引力",
+      "chromas": false
+    },
+    {
+      "id": "57029",
+      "name": "宇航员 茂凯 重力弹弓",
+      "chromas": false
+    },
+    {
+      "id": "57030",
+      "name": "宇航员 茂凯 亚空间",
+      "chromas": false
+    },
+    {
+      "id": "57031",
+      "name": "宇航员 茂凯 超新星",
+      "chromas": false
+    },
+    {
+      "id": "57032",
+      "name": "宇航员 茂凯 太阳风帆",
+      "chromas": false
+    },
+    {
+      "id": "57033",
+      "name": "DRX 茂凯",
+      "chromas": true
+    },
+    {
+      "id": "57034",
+      "name": "DRX 茂凯 无双",
+      "chromas": false
+    },
+    {
+      "id": "57035",
+      "name": "腐化禁魔石巨像 茂凯",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "吸元秘术",
+    "description": "茂凯的普通攻击也会治疗自身并造成额外伤害，此效果拥有一个中等的冷却时间。每当茂凯施放一次技能或被一个敌方技能击中时，这个冷却时间都会缩短。",
+    "image": "Maokai_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "荆棘重击",
+      "description": "茂凯用一记冲击波击退附近的敌人，造成魔法伤害和减速效果。",
+      "tooltip": "茂凯将他的拳头砸入大地中，造成{{ totaldamage }}外加{{ basepercenthealth*100 }}%最大生命值的魔法伤害和短暂的减速。附近的敌人们还会被击退。",
+      "cooldown": "7/6.5/6/5.5/5",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 5,
+      "image": "MaokaiQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "扭曲突刺",
+      "description": "茂凯扭曲为一团移动根须，不可被选取并且向目标突进。在抵达后，他会禁锢住目标。",
+      "tooltip": "茂凯扭曲为一团移动根须，无法被选取并且向目标突进。在抵达后，他会禁锢该敌人{{ rootduration }}秒并造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "14/13/12/11/10",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "525",
+      "maxrank": 5,
+      "image": "MaokaiW.png",
+      "key": "W"
+    },
+    {
+      "name": "树苗投掷",
+      "description": "茂凯投出一颗树苗去目标地区戒备。在草丛中更加有效。",
+      "tooltip": "茂凯扔出一棵树苗，戒备{{ saplingduration }}秒。树苗会追击附近的敌人，并在抵达后爆炸，对周围的敌人们造成{{ totaldamage }}魔法伤害和持续{{ slowduration }}秒的{{ slowamount*100 }}%减速。如果树苗命中了一名敌方英雄或史诗级野怪，吸元秘术的冷却时间就会缩短额外的4秒。投掷在草丛里的树苗会持续{{ empoweredsaplingduration }}秒，并引发一次范围更大的爆炸，在{{ empowereddotduration }}秒的持续时间里共造成{{ totalempowereddamage }}魔法伤害并且减速幅度变为{{ empoweredslowamount }}。",
+      "cooldown": "18/17/16/15/14",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1100",
+      "maxrank": 5,
+      "image": "MaokaiE.png",
+      "key": "E"
+    },
+    {
+      "name": "自然之握",
+      "description": "茂凯召唤一道荆棘和尖刺灌木组成的巨墙缓慢向前行进，对沿途的敌人造成伤害和禁锢效果。",
+      "tooltip": "茂凯召唤出一道由荆棘和带刺灌木组成的巨墙缓慢向前行进，禁锢敌人{{ minrootduration }}到{{ maxrootduration }}秒，时长随着行进距离提升，并造成{{ totaldamage }}魔法伤害。命中一名英雄时会为茂凯提供在{{ hasteduration }}秒里持续衰减的{{ movehaste*100 }}%移动速度。",
+      "cooldown": "130/110/90",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "3000",
+      "maxrank": 3,
+      "image": "MaokaiR.png",
+      "key": "R"
+    }
+  ]
+}

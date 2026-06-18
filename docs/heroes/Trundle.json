@@ -1,0 +1,243 @@
+{
+  "id": "Trundle",
+  "championId": "48",
+  "name": "巨魔之王",
+  "title": "特朗德尔",
+  "region": "弗雷尔卓德",
+  "blurb": "特朗德尔是一个粗鄙且狡猾的巨魔，性格非常顽劣。没有什么东西不能被他打到屈服认输，甚至是弗雷尔卓德本身。他的领土意识极强，任何进入他领地的蠢蛋都会被他追杀。巨大的臻冰棍棒随时伺候。他会让敌人感到刺骨寒冷，并且用锯齿状的冰柱刺穿他们，最后在他们血溅冰原的时候放声大笑。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 7,
+    "defense": 6,
+    "magic": 2,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 650,
+    "hpPerLevel": 110,
+    "mp": 340,
+    "mpPerLevel": 45,
+    "movespeed": 350,
+    "armor": 37,
+    "armorPerLevel": 4.5,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 68,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.67,
+    "attackspeedPerLevel": 2.9,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 7.5,
+    "mpregenPerLevel": 0.6,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "48001",
+      "name": "里尔击球手  特朗德尔",
+      "chromas": false
+    },
+    {
+      "id": "48002",
+      "name": "垃圾场  特朗德尔",
+      "chromas": false
+    },
+    {
+      "id": "48003",
+      "name": "传统造型 特朗德尔",
+      "chromas": false
+    },
+    {
+      "id": "48004",
+      "name": "巡逻警官 特朗德尔",
+      "chromas": false
+    },
+    {
+      "id": "48005",
+      "name": "创世之神 特朗德尔",
+      "chromas": false
+    },
+    {
+      "id": "48006",
+      "name": "屠龙勇士 特朗德尔",
+      "chromas": true
+    },
+    {
+      "id": "48007",
+      "name": "屠龙勇士 特朗德尔 赤龙之倾奇",
+      "chromas": false
+    },
+    {
+      "id": "48008",
+      "name": "屠龙勇士 特朗德尔 红龙之狂傲",
+      "chromas": false
+    },
+    {
+      "id": "48009",
+      "name": "屠龙勇士 特朗德尔 铜龙之灵通",
+      "chromas": false
+    },
+    {
+      "id": "48010",
+      "name": "屠龙勇士 特朗德尔 晶龙之威仪",
+      "chromas": false
+    },
+    {
+      "id": "48011",
+      "name": "屠龙勇士 特朗德尔 银龙之庄严",
+      "chromas": false
+    },
+    {
+      "id": "48012",
+      "name": "魔域梦魇 特朗德尔",
+      "chromas": true
+    },
+    {
+      "id": "48013",
+      "name": "魔域梦魇 特朗德尔 红夜梦境",
+      "chromas": false
+    },
+    {
+      "id": "48014",
+      "name": "魔域梦魇 特朗德尔 魔咒梦境",
+      "chromas": false
+    },
+    {
+      "id": "48015",
+      "name": "魔域梦魇 特朗德尔 糖果梦境",
+      "chromas": false
+    },
+    {
+      "id": "48016",
+      "name": "魔域梦魇 特朗德尔 荆棘梦境",
+      "chromas": false
+    },
+    {
+      "id": "48017",
+      "name": "魔域梦魇 特朗德尔 舞会梦境",
+      "chromas": false
+    },
+    {
+      "id": "48018",
+      "name": "魔域梦魇 特朗德尔 惊情梦境",
+      "chromas": false
+    },
+    {
+      "id": "48019",
+      "name": "魔域梦魇 特朗德尔 歌影梦境",
+      "chromas": false
+    },
+    {
+      "id": "48020",
+      "name": "魔域梦魇 特朗德尔 荒宅梦境",
+      "chromas": false
+    },
+    {
+      "id": "48021",
+      "name": "超级电竞粉丝 特朗德尔",
+      "chromas": true
+    },
+    {
+      "id": "48022",
+      "name": "超级电竞粉丝 特朗德尔 赤诚之心",
+      "chromas": false
+    },
+    {
+      "id": "48023",
+      "name": "超级电竞粉丝 特朗德尔 心花怒放",
+      "chromas": false
+    },
+    {
+      "id": "48024",
+      "name": "超级电竞粉丝 特朗德尔 抱诚守真",
+      "chromas": false
+    },
+    {
+      "id": "48025",
+      "name": "超级电竞粉丝 特朗德尔 活力满满",
+      "chromas": false
+    },
+    {
+      "id": "48026",
+      "name": "超级电竞粉丝 特朗德尔 坚如钢铁",
+      "chromas": false
+    },
+    {
+      "id": "48027",
+      "name": "超级电竞粉丝 特朗德尔 纯真初心",
+      "chromas": false
+    },
+    {
+      "id": "48028",
+      "name": "超级电竞粉丝 特朗德尔 心如止水",
+      "chromas": false
+    },
+    {
+      "id": "48029",
+      "name": "超级电竞粉丝 特朗德尔 牢不可破",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "国王的贡品",
+    "description": "每当附近有一个敌方单位死亡，特朗德尔都会获得相当于其一部分最大生命值的治疗效果。",
+    "image": "Trundle_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "利齿撕咬",
+      "description": "特朗德尔撕咬敌方，造成伤害，并暂时减少敌人的移动速度，削弱敌人的攻击力。",
+      "tooltip": "特朗德尔的下次攻击造成{{ totaldamage }}物理伤害和短暂的{{ slowamount*100 }}%减速，然后特朗德尔获得持续{{ sapdebuffduration }}秒的{{ bonusad }}攻击力并且敌人们在这期间失去{{ sappedad*-1 }}攻击力。",
+      "cooldown": "3.5",
+      "cost": "20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "300",
+      "maxrank": 5,
+      "image": "TrundleTrollSmash.png",
+      "key": "Q"
+    },
+    {
+      "name": "冰封领域",
+      "description": "特朗德尔将目标区域变成他的领土，增加自己在该区域的攻击速度、移动速度，并且会从所有治疗手段中获得额外治疗效果。",
+      "tooltip": "特朗德尔冻结一个区域{{ duration }}秒。在其中时，他会获得{{ msbonus*100 }}%移动速度，{{ asbonus*100 }}%攻击速度，和{{ healingbonus*100 }}%治疗效果提升。",
+      "cooldown": "18/17/16/15/14",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "750",
+      "maxrank": 5,
+      "image": "trundledesecrate.png",
+      "key": "W"
+    },
+    {
+      "name": "寒冰之柱",
+      "description": "特朗德尔在目标地点召唤寒冰之柱，令敌人无法通过，并减缓附近敌方单位的移动速度。",
+      "tooltip": "特朗德尔生成一个持续{{ pillarduration }}秒的冰柱，短暂击退它上方的敌人们并使附近的敌人们减速{{ slowamount }}%。",
+      "cooldown": "21/19.5/18/16.5/15",
+      "cost": "75",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "TrundleCircle.png",
+      "key": "E"
+    },
+    {
+      "name": "强权至上",
+      "description": "特朗德尔直接偷取目标的一部分生命值、大量的护甲和魔抗。在接下来的4秒里，特朗德尔将继续偷取双倍的等量的生命值、护甲值和魔抗。",
+      "tooltip": "特朗德尔吸取一名敌方英雄的生命力，在{{ actualdurationofdrainbuff }}秒里持续造成共计{{ totalpercenthpdamage }}最大生命值的魔法伤害并偷取{{ armormrshred*100 }}%护甲和魔法抗性。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 3,
+      "image": "TrundlePain.png",
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "id": "Ziggs",
+  "championId": "115",
+  "name": "爆破鬼才",
+  "title": "吉格斯",
+  "region": "祖安",
+  "blurb": "炸弹越大越好，引线越短越好——约德尔人吉格斯简直就是天生的爆炸狂人。他曾是皮尔特沃夫一位发明家的助手，因为千篇一律的生活过于无聊，而与一个名叫金克丝的蓝发小疯子交上了朋友。在那疯狂的皮城一夜后，吉格斯接受了金克丝的建议，搬到了祖安，更加自由地探索那些令自己着迷的东西。对爆炸无尽追逐的吉格斯，一直是炼金男爵之流和可怜的普通市民共同忌惮的人物。",
+  "tags": [
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 4,
+    "magic": 9,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 606,
+    "hpPerLevel": 106,
+    "mp": 480,
+    "mpPerLevel": 23.5,
+    "movespeed": 325,
+    "armor": 21,
+    "armorPerLevel": 4.7,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 55,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.656,
+    "attackspeedPerLevel": 2,
+    "hpregen": 6.5,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "115001",
+      "name": "科学狂人 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115002",
+      "name": "少校 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115003",
+      "name": "泳池派对 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115004",
+      "name": "雪球也能爆炸！ 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115005",
+      "name": "奥术大师 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115006",
+      "name": "战场BOSS 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115007",
+      "name": "奥德赛 吉格斯",
+      "chromas": true
+    },
+    {
+      "id": "115008",
+      "name": "奥德赛 吉格斯 彗星追赶者",
+      "chromas": false
+    },
+    {
+      "id": "115009",
+      "name": "奥德赛 吉格斯 星河征服者",
+      "chromas": false
+    },
+    {
+      "id": "115010",
+      "name": "奥德赛 吉格斯 虫洞穿行者",
+      "chromas": false
+    },
+    {
+      "id": "115011",
+      "name": "奥德赛 吉格斯 星云环游者",
+      "chromas": false
+    },
+    {
+      "id": "115012",
+      "name": "奥德赛 吉格斯 黑洞挑战者",
+      "chromas": false
+    },
+    {
+      "id": "115013",
+      "name": "奥德赛 吉格斯 恒星游历者",
+      "chromas": false
+    },
+    {
+      "id": "115014",
+      "name": "糖果大战 吉格斯",
+      "chromas": true
+    },
+    {
+      "id": "115015",
+      "name": "糖果大战 吉格斯 草莓圣代",
+      "chromas": false
+    },
+    {
+      "id": "115016",
+      "name": "糖果大战 吉格斯 柠檬圣代",
+      "chromas": false
+    },
+    {
+      "id": "115017",
+      "name": "糖果大战 吉格斯 奇异果圣代",
+      "chromas": false
+    },
+    {
+      "id": "115018",
+      "name": "糖果大战 吉格斯 蓝莓圣代",
+      "chromas": false
+    },
+    {
+      "id": "115019",
+      "name": "糖果大战 吉格斯 蔓越莓圣代",
+      "chromas": false
+    },
+    {
+      "id": "115020",
+      "name": "糖果大战 吉格斯 芝士圣代",
+      "chromas": false
+    },
+    {
+      "id": "115021",
+      "name": "糖果大战 吉格斯 嗜甜之齿",
+      "chromas": false
+    },
+    {
+      "id": "115022",
+      "name": "糖果大战 吉格斯 榛子圣代",
+      "chromas": false
+    },
+    {
+      "id": "115023",
+      "name": "海克斯科技 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115024",
+      "name": "小蜜蜂 吉格斯",
+      "chromas": true
+    },
+    {
+      "id": "115025",
+      "name": "元气满满七星瓢 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115026",
+      "name": "浪漫浪漫小淡紫 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115027",
+      "name": "冷若冰霜小深蓝 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115028",
+      "name": "春意盎然小青青 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115029",
+      "name": "可爱可爱粉红红 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115030",
+      "name": "白白嫩嫩小迷糊 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115031",
+      "name": "野心勃勃特工蝇 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115032",
+      "name": "五彩缤纷小可爱 吉格斯",
+      "chromas": false
+    },
+    {
+      "id": "115033",
+      "name": "魂蔷薇 吉格斯",
+      "chromas": true
+    },
+    {
+      "id": "115034",
+      "name": "魂蔷薇 吉格斯 信念之火",
+      "chromas": false
+    },
+    {
+      "id": "115035",
+      "name": "魂蔷薇 吉格斯 迎接之烛",
+      "chromas": false
+    },
+    {
+      "id": "115036",
+      "name": "魂蔷薇 吉格斯 告慰之饮",
+      "chromas": false
+    },
+    {
+      "id": "115037",
+      "name": "魂蔷薇 吉格斯 送别之礼",
+      "chromas": false
+    },
+    {
+      "id": "115038",
+      "name": "魂蔷薇 吉格斯 生命之源",
+      "chromas": false
+    },
+    {
+      "id": "115039",
+      "name": "魂蔷薇 吉格斯 家人之爱",
+      "chromas": false
+    },
+    {
+      "id": "115040",
+      "name": "魂蔷薇 吉格斯 祈祷之香",
+      "chromas": false
+    },
+    {
+      "id": "115041",
+      "name": "魂蔷薇 吉格斯 七彩之糖",
+      "chromas": false
+    },
+    {
+      "id": "115042",
+      "name": "魂蔷薇 吉格斯 生如夏花",
+      "chromas": false
+    },
+    {
+      "id": "115043",
+      "name": "龙马烈焰 吉格斯",
+      "chromas": true
+    },
+    {
+      "id": "115044",
+      "name": "龙马烈焰 吉格斯 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "115045",
+      "name": "龙马烈焰 吉格斯 财源滚滚",
+      "chromas": false
+    },
+    {
+      "id": "115046",
+      "name": "龙马烈焰 吉格斯 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "115047",
+      "name": "龙马烈焰 吉格斯 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "115048",
+      "name": "龙马烈焰 吉格斯 紫气东来",
+      "chromas": false
+    },
+    {
+      "id": "115049",
+      "name": "龙马烈焰 吉格斯 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "115050",
+      "name": "龙马烈焰 吉格斯 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "115051",
+      "name": "龙马烈焰 吉格斯 阖家安康",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "一触即发",
+    "description": "每过一段时间，吉格斯的下次普通攻击就会造成额外的魔法伤害。这个冷却时间会在吉格斯每用一次技能时得到减少。",
+    "image": "ZiggsPassiveReady.png"
+  },
+  "spells": [
+    {
+      "name": "弹跳炸弹",
+      "description": "吉格斯扔出一个会弹跳的炸弹，对敌人造成魔法伤害。",
+      "tooltip": "吉格斯扔出一个会弹跳的炸弹，对敌人造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "6/5.5/5/4.5/4",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "850",
+      "maxrank": 5,
+      "image": "ZiggsQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "定点爆破",
+      "description": "吉格斯扔出一个炸药包，会在一段延迟后爆炸，或者在再次施放该技能后爆炸。爆炸会对敌人造成魔法伤害，并将他们击退。吉格斯也会被击退，但不会受到伤害。吉格斯可以用这个技能来爆破敌方摇摇欲坠的防御塔。",
+      "tooltip": "吉格斯扔出一个炸药包，会在{{ bombduration }}秒后或者在再次施放该技能后爆炸。爆炸会对敌人造成{{ totaldamage }}魔法伤害，并将他们击退。吉格斯也会被震开，但不会受到伤害。【定点爆破】会自动摧毁生命值低于{{ turretdestroypercent*100 }}%的防御塔。",
+      "cooldown": "20/18/16/14/12",
+      "cost": "80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "ZiggsW.png",
+      "key": "W"
+    },
+    {
+      "name": "海克斯爆破雷区",
+      "description": "吉格斯布下敌人一踩就炸的感应雷区，对踩中地雷的敌人造成魔法伤害和减速效果。对相同目标的后续爆炸将造成较少伤害。",
+      "tooltip": "吉格斯布下敌人一踩就炸的感应雷区，对踩中地雷的敌人造成{{ totaldamage }}魔法伤害和持续{{ slowduration }}秒的{{ slow*-100 }}%减速。地雷持续{{ mineduration }}秒。",
+      "cooldown": "16",
+      "cost": "70/80/90/100/110",
+      "costType": " {{ abilityresourcename }}",
+      "range": "900",
+      "maxrank": 5,
+      "image": "ZiggsE.png",
+      "key": "E"
+    },
+    {
+      "name": "科学的地狱火炮",
+      "description": "吉格斯部署他的尖端发明，科学的地狱火炮，将它推送一段极远的距离。在主要爆炸区域里的敌人会比在其它爆炸区域里的敌人受到更多的伤害。",
+      "tooltip": "吉格斯扔出他的终极造物，在爆炸范围的中心区域造成{{ empowereddamage }}魔法伤害，或在边缘区域造成{{ blastdamage }}魔法伤害。",
+      "cooldown": "120/95/70",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "5000",
+      "maxrank": 3,
+      "image": "ZiggsR.png",
+      "key": "R"
+    }
+  ]
+}

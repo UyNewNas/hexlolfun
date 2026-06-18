@@ -1,0 +1,298 @@
+{
+  "id": "Urgot",
+  "championId": "6",
+  "name": "无畏战车",
+  "title": "厄加特",
+  "region": "祖安",
+  "blurb": "厄加特曾一度是诺克萨斯强大的处刑人，但这个让他为之杀人如麻的帝国，最后却背叛了他。铁链束缚着他，并迫使他在一个新的地方懂得了力量的真正意义——祖安地下深处的监牢矿坑——“沉钩”。后来的一场灾难让祖安城中混乱肆虐，厄加特也借机破土而出，在祖安的地下犯罪世界傲视群雄。曾经奴役他的铁链，现在是他折磨猎物的工具，他会用枪火洗礼自己新的家园，肃清那些不配苟活的人，将祖安铸成一座痛苦的熔炉。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 5,
+    "magic": 3,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 655,
+    "hpPerLevel": 102,
+    "mp": 340,
+    "mpPerLevel": 45,
+    "movespeed": 330,
+    "armor": 36,
+    "armorPerLevel": 5,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 350,
+    "attackdamage": 63,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 3.75,
+    "hpregen": 7.5,
+    "hpregenPerLevel": 0.7,
+    "mpregen": 7.25,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "6001",
+      "name": "深渊巨蟹 厄加特",
+      "chromas": false
+    },
+    {
+      "id": "6002",
+      "name": "电锯狂人 厄加特",
+      "chromas": false
+    },
+    {
+      "id": "6003",
+      "name": "战地机甲 厄加特",
+      "chromas": true
+    },
+    {
+      "id": "6004",
+      "name": "战地机甲 · 防卫迎击型 厄加特",
+      "chromas": false
+    },
+    {
+      "id": "6005",
+      "name": "战地机甲 · 机动II型 厄加特",
+      "chromas": false
+    },
+    {
+      "id": "6006",
+      "name": "战地机甲 · 初期试作0-81型 厄加特",
+      "chromas": false
+    },
+    {
+      "id": "6007",
+      "name": "战地机甲 · 强攻魔改型 厄加特",
+      "chromas": false
+    },
+    {
+      "id": "6008",
+      "name": "战地机甲 · 心控搭载实验型 厄加特",
+      "chromas": false
+    },
+    {
+      "id": "6009",
+      "name": "西部魔影 厄加特",
+      "chromas": true
+    },
+    {
+      "id": "6010",
+      "name": "西部魔影 厄加特 邪金霸权",
+      "chromas": false
+    },
+    {
+      "id": "6011",
+      "name": "西部魔影 厄加特 瘟疫原体",
+      "chromas": false
+    },
+    {
+      "id": "6012",
+      "name": "西部魔影 厄加特 嗜血魔头",
+      "chromas": false
+    },
+    {
+      "id": "6013",
+      "name": "西部魔影 厄加特 黄沙火花",
+      "chromas": false
+    },
+    {
+      "id": "6014",
+      "name": "西部魔影 厄加特 怒焰死神",
+      "chromas": false
+    },
+    {
+      "id": "6015",
+      "name": "星之守护者COS 厄加特",
+      "chromas": true
+    },
+    {
+      "id": "6016",
+      "name": "星之守护者COS 厄加特 火焰与热情",
+      "chromas": false
+    },
+    {
+      "id": "6017",
+      "name": "星之守护者COS 厄加特 爱与正义",
+      "chromas": false
+    },
+    {
+      "id": "6018",
+      "name": "星之守护者COS 厄加特 雷电与勇气",
+      "chromas": false
+    },
+    {
+      "id": "6019",
+      "name": "星之守护者COS 厄加特 爱与美",
+      "chromas": false
+    },
+    {
+      "id": "6020",
+      "name": "星之守护者COS 厄加特 正义与包容",
+      "chromas": false
+    },
+    {
+      "id": "6021",
+      "name": "星之守护者COS 厄加特 变化与重生",
+      "chromas": false
+    },
+    {
+      "id": "6022",
+      "name": "星之守护者COS 厄加特 天空与飞翔",
+      "chromas": false
+    },
+    {
+      "id": "6023",
+      "name": "魔域梦魇 厄加特",
+      "chromas": true
+    },
+    {
+      "id": "6024",
+      "name": "魔域梦魇 厄加特 红夜梦境",
+      "chromas": false
+    },
+    {
+      "id": "6025",
+      "name": "魔域梦魇 厄加特 糖果梦境",
+      "chromas": false
+    },
+    {
+      "id": "6026",
+      "name": "魔域梦魇 厄加特 荆棘梦境",
+      "chromas": false
+    },
+    {
+      "id": "6027",
+      "name": "魔域梦魇 厄加特 荒宅梦境",
+      "chromas": false
+    },
+    {
+      "id": "6028",
+      "name": "魔域梦魇 厄加特 画像梦境",
+      "chromas": false
+    },
+    {
+      "id": "6029",
+      "name": "魔域梦魇 厄加特 舞会梦境",
+      "chromas": false
+    },
+    {
+      "id": "6030",
+      "name": "魔域梦魇 厄加特 欢笑梦境",
+      "chromas": false
+    },
+    {
+      "id": "6031",
+      "name": "魔域梦魇 厄加特 魔咒梦境",
+      "chromas": false
+    },
+    {
+      "id": "6032",
+      "name": "洗地教父 厄加特",
+      "chromas": true
+    },
+    {
+      "id": "6033",
+      "name": "洗地教父 厄加特 敬业",
+      "chromas": false
+    },
+    {
+      "id": "6034",
+      "name": "洗地教父 厄加特 认真",
+      "chromas": false
+    },
+    {
+      "id": "6035",
+      "name": "洗地教父 厄加特 严谨",
+      "chromas": false
+    },
+    {
+      "id": "6036",
+      "name": "洗地教父 厄加特 无私",
+      "chromas": false
+    },
+    {
+      "id": "6037",
+      "name": "洗地教父 厄加特 创新",
+      "chromas": false
+    },
+    {
+      "id": "6038",
+      "name": "洗地教父 厄加特 正直",
+      "chromas": false
+    },
+    {
+      "id": "6039",
+      "name": "洗地教父 厄加特 奉献",
+      "chromas": false
+    },
+    {
+      "id": "6040",
+      "name": "洗地教父 厄加特 沉着",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "回响烈焰",
+    "description": "厄加特的普攻和【净除】会周期性地触发他腿上的烈焰喷射，造成物理伤害。",
+    "image": "Urgot_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "腐蚀电荷",
+      "description": "发射一个可爆炸的电荷至目标位置，对爆炸波及到的敌人造成物理伤害和减速效果。",
+      "tooltip": "厄加特发射一个爆炸性的电荷，对爆炸波及到的敌人造成{{ totaldamage }}物理伤害和持续{{ slowduration }}秒的{{ slowamount*100 }}%减速。",
+      "cooldown": "10/9.5/9/8.5/8",
+      "cost": "70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "UrgotQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "净除",
+      "description": "厄加特减速自身的同时对附近的敌人们火力全开。优先攻击被厄加特近期用其它技能命中过的敌方英雄，并触发回响烈焰。",
+      "tooltip": "被动：厄加特的其它技能会将命中的最后一名敌方英雄标记5秒。主动：厄加特开始用他的链枪朝着相距最近的敌人开火，优先选择被标记的敌人。他每秒攻击目标{{ wattackspersecond }}次并且每次射击造成{{ damagepershot }}物理伤害。厄加特可以在开火时移动，并且拥有{{ slowresistance }}%减速抗性，但会失去{{ movespeedmod }}移动速度。这个技能在点满技能等级后，可无限持续并且能切换开启状态和关闭状态。",
+      "cooldown": "12/9/6/3/0",
+      "cost": "40/30/20/10/0",
+      "costType": " {{ abilityresourcename }}",
+      "range": "490",
+      "maxrank": 5,
+      "image": "UrgotW.png",
+      "key": "W"
+    },
+    {
+      "name": "鄙弃",
+      "description": "厄加特向一个方向冲锋，为自身提供护盾并践踏非英雄的敌人。如果他捕捉到一个敌方英雄，他将会停下并将该英雄抛到他的另一侧。",
+      "tooltip": "厄加特向前冲锋，获得持续{{ eshieldduration }}秒的{{ etotalshieldhealth }}护盾值。命中的第一个英雄会被晕眩{{ stunduration }}秒并被投向厄加特的身后。厄加特碰撞到的所有敌人都会受到{{ edamage }}物理伤害。",
+      "cooldown": "16/15.5/15/14.5/14",
+      "cost": "60/70/80/90/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "475",
+      "maxrank": 5,
+      "image": "UrgotE.png",
+      "key": "E"
+    },
+    {
+      "name": "超越死亡的恐惧",
+      "description": "厄加特发射一个化学钻头，刺穿命中的第一个敌方英雄。如果该英雄的生命值低于一定阈值，那么厄加特就会将该英雄评判为弱者并将其处决。",
+      "tooltip": "厄加特发射一个炼金钻头来刺穿命中的第一个敌方英雄。造成{{ rcalculateddamage }}物理伤害和持续{{ rslowduration }}秒的减速，幅度为每1%已损失生命值提供1%，至多为{{ rmovespeedmod }}%。如果目标的生命值在被刺穿状态下跌至{{ rhealththreshold }}%生命值以下，厄加特就可以再次施放这个技能，来压制目标并将其拖过来。在接触到厄加特后，目标会被击杀并且附近敌人会被恐惧{{ rfearduration }}秒。",
+      "cooldown": "100/85/70",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "2500",
+      "maxrank": 3,
+      "image": "UrgotR.png",
+      "key": "R"
+    }
+  ]
+}

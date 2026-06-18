@@ -1,0 +1,257 @@
+{
+  "id": "Kalista",
+  "championId": "429",
+  "name": "复仇之矛",
+  "title": "卡莉丝塔",
+  "region": "暗影岛",
+  "blurb": "卡莉丝塔是充满复仇怨念的幽灵，是不灭的复仇之魂，是召唤自暗影岛的噩梦，专门猎杀背信弃义之人。因遭人背叛而受害的人会以血泪盼望着复仇，但只有甘愿献上自己灵魂的人，才能获得卡莉丝塔的回应。所有被卡莉丝塔盯上的人都将不可避免地遭遇不幸，因为这位死亡猎手完成誓约的方式只有一种，那就是她灵魂标枪上的冷酷灵火。",
+  "tags": [
+    "射手"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 2,
+    "magic": 4,
+    "difficulty": 7
+  },
+  "stats": {
+    "hp": 560,
+    "hpPerLevel": 114,
+    "mp": 300,
+    "mpPerLevel": 45,
+    "movespeed": 330,
+    "armor": 24,
+    "armorPerLevel": 5.2,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 525,
+    "attackdamage": 57,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.694,
+    "attackspeedPerLevel": 4.5,
+    "hpregen": 4,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 6.3,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "429001",
+      "name": "腥红之月 卡莉丝塔",
+      "chromas": false
+    },
+    {
+      "id": "429002",
+      "name": "冠军之矛 卡莉丝塔",
+      "chromas": true
+    },
+    {
+      "id": "429003",
+      "name": "SKT T1 卡莉丝塔",
+      "chromas": false
+    },
+    {
+      "id": "429004",
+      "name": "冠军之矛 卡莉丝塔 凯旋圣装",
+      "chromas": false
+    },
+    {
+      "id": "429005",
+      "name": "黑暗骑士 卡莉丝塔",
+      "chromas": true
+    },
+    {
+      "id": "429006",
+      "name": "黑暗骑士 卡莉丝塔 傲慢劫掠者",
+      "chromas": false
+    },
+    {
+      "id": "429007",
+      "name": "黑暗骑士 卡莉丝塔 冷血劫掠者",
+      "chromas": false
+    },
+    {
+      "id": "429008",
+      "name": "黑暗骑士 卡莉丝塔 炫目劫掠者",
+      "chromas": false
+    },
+    {
+      "id": "429009",
+      "name": "黑暗骑士 卡莉丝塔 狂热劫掠者",
+      "chromas": false
+    },
+    {
+      "id": "429010",
+      "name": "黑暗骑士 卡莉丝塔 魅惑劫掠者",
+      "chromas": false
+    },
+    {
+      "id": "429011",
+      "name": "黑暗骑士 卡莉丝塔 幻境劫掠者",
+      "chromas": false
+    },
+    {
+      "id": "429012",
+      "name": "黑暗骑士 卡莉丝塔 永生劫掠者",
+      "chromas": false
+    },
+    {
+      "id": "429013",
+      "name": "黑暗骑士 卡莉丝塔 剧毒劫掠者",
+      "chromas": false
+    },
+    {
+      "id": "429014",
+      "name": "花仙骑士 卡莉丝塔",
+      "chromas": true
+    },
+    {
+      "id": "429015",
+      "name": "花仙骑士 卡莉丝塔 朝云",
+      "chromas": false
+    },
+    {
+      "id": "429016",
+      "name": "花仙骑士 卡莉丝塔 彩裳",
+      "chromas": false
+    },
+    {
+      "id": "429017",
+      "name": "花仙骑士 卡莉丝塔 海神",
+      "chromas": false
+    },
+    {
+      "id": "429018",
+      "name": "花仙骑士 卡莉丝塔 眜影",
+      "chromas": false
+    },
+    {
+      "id": "429019",
+      "name": "花仙骑士 卡莉丝塔 乐仙",
+      "chromas": false
+    },
+    {
+      "id": "429020",
+      "name": "花仙骑士 卡莉丝塔 鼎脉",
+      "chromas": false
+    },
+    {
+      "id": "429021",
+      "name": "花仙骑士 卡莉丝塔 朱红",
+      "chromas": false
+    },
+    {
+      "id": "429022",
+      "name": "花仙骑士 卡莉丝塔 霜白",
+      "chromas": false
+    },
+    {
+      "id": "429023",
+      "name": "花仙骑士 卡莉丝塔 迷人幻翼",
+      "chromas": false
+    },
+    {
+      "id": "429024",
+      "name": "黎明使者 卡莉丝塔",
+      "chromas": true
+    },
+    {
+      "id": "429025",
+      "name": "黎明使者 卡莉丝塔 阳辉",
+      "chromas": false
+    },
+    {
+      "id": "429026",
+      "name": "黎明使者 卡莉丝塔 炎辉",
+      "chromas": false
+    },
+    {
+      "id": "429027",
+      "name": "黎明使者 卡莉丝塔 宁辉",
+      "chromas": false
+    },
+    {
+      "id": "429028",
+      "name": "黎明使者 卡莉丝塔 幻辉",
+      "chromas": false
+    },
+    {
+      "id": "429029",
+      "name": "黎明使者 卡莉丝塔 愈辉",
+      "chromas": false
+    },
+    {
+      "id": "429030",
+      "name": "黎明使者 卡莉丝塔 霞辉",
+      "chromas": false
+    },
+    {
+      "id": "429031",
+      "name": "黎明使者 卡莉丝塔 雪辉",
+      "chromas": false
+    },
+    {
+      "id": "429032",
+      "name": "黎明使者 卡莉丝塔 苍辉",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "武术姿态",
+    "description": "如果卡莉丝塔在进行普攻或穿刺的同时被下达了移动指令，那么她会在发起进攻的同时朝着这个移动指令的方向位移小段距离。",
+    "image": "Kalista_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "穿刺",
+      "description": "扔出一个快速移动的长矛。长矛在击杀敌人后会继续飞行。",
+      "tooltip": "卡莉丝塔掷出一支长矛，对命中的第一个目标造成{{ totaldamage }}物理伤害。如果这个技能击杀了目标，那么长矛会继续前行，将撕裂的层数带给命中的下一个目标。卡莉丝塔可以在使用这个技能后使用武术姿态的冲刺。",
+      "cooldown": "9",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1150",
+      "maxrank": 5,
+      "image": "KalistaMysticShot.png",
+      "key": "Q"
+    },
+    {
+      "name": "哨兵",
+      "description": "在卡莉丝塔与誓约者一起攻击相同目标时提供额外伤害。激活此技能可以派出一个灵魂来侦查道路，将它面前的区域显示在玩家的视野内。",
+      "tooltip": "被动：当卡莉丝塔和她的誓约者都攻击相同的目标时，她会造成{{ maxhealthdamage*100 }}%最大生命值的魔法伤害。这个效果对每个目标有{{ pertargetcooldown }}秒冷却时间并且对非英雄单位有{{ maximummonsterdamage }}的伤害上限。主动：卡莉丝塔派出一个幽灵去巡视一个地区，持续3个来回。被发现的敌方英雄会被显形4秒。这个技能有2层充能({{ ammorechargetooltip }}秒充能时间)。",
+      "cooldown": "30",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "5000",
+      "maxrank": 5,
+      "image": "KalistaW.png",
+      "key": "W"
+    },
+    {
+      "name": "撕裂",
+      "description": "攻击时用长矛来刺穿目标。主动激活可以将长矛扯出，造成减速和逐步上升的伤害。",
+      "tooltip": "被动：卡莉丝塔的长矛会在目标身上存留4秒，可叠加任意次数。主动：卡莉丝塔从附近的敌人们身上拔出长矛，造成{{ normaldamage }}外加每根后续长矛{{ additionaldamage }}物理伤害。对命中的敌人们造成持续{{ slowduration }}秒的{{ totalslowamount }}减速。如果这个技能击杀了至少一个目标，那么它的冷却时间会刷新并且它会返还{{ manarefund }}法力值。",
+      "cooldown": "0",
+      "cost": "30",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "KalistaExpungeWrapper.png",
+      "key": "E"
+    },
+    {
+      "name": "命运的召唤",
+      "description": "卡莉丝塔传送一位友军到自己身边。该友军随后可以冲向一个地点，并击退命中的敌人。",
+      "tooltip": "卡莉丝塔将她的誓约者置入凝滞状态并将其拖拽到她的身边，至多持续4秒。誓约者可以点击来将自己投放出去，在命中第一个英雄时停止并击退所有附近的敌人。如果誓约者命中了一名英雄，则会被放置在与目标相距其最大攻击距离的位置。",
+      "cooldown": "160/140/120",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 3,
+      "image": "KalistaRx.png",
+      "key": "R"
+    }
+  ]
+}

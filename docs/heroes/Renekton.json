@@ -1,0 +1,378 @@
+{
+  "id": "Renekton",
+  "championId": "58",
+  "name": "荒漠屠夫",
+  "title": "雷克顿",
+  "region": "恕瑞玛",
+  "blurb": "雷克顿是一位来自恕瑞玛炙热沙漠中的面目可怖、野蛮狂怒的飞升者。他曾经是帝国最受尊敬的战士，带领恕瑞玛的军队取得过无数次胜利。然而，在帝国陨落以后，雷克顿被困在了沙漠之下，慢慢地，在世界变迁的同时，雷克顿丧失了理智。现在他重获自由，但却被一个执念吞噬：找到并杀死他的哥哥内瑟斯，因为疯狂之中的他坚信内瑟斯是害他经受数百年黑暗束缚的罪魁祸首。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "怒气",
+  "info": {
+    "attack": 8,
+    "defense": 5,
+    "magic": 2,
+    "difficulty": 3
+  },
+  "stats": {
+    "hp": 660,
+    "hpPerLevel": 111,
+    "mp": 100,
+    "mpPerLevel": 0,
+    "movespeed": 345,
+    "armor": 35,
+    "armorPerLevel": 5.2,
+    "spellblock": 28,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 69,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.665,
+    "attackspeedPerLevel": 2.75,
+    "hpregen": 8,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "58001",
+      "name": "星河战队 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58002",
+      "name": "荒野之咬 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58003",
+      "name": "血石战神 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58004",
+      "name": "符文战神 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58005",
+      "name": "枯萎之壤 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58006",
+      "name": "泳池派对 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58007",
+      "name": "猛龙 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58008",
+      "name": "SKT T1 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58009",
+      "name": "鳄霸 雷克顿",
+      "chromas": true
+    },
+    {
+      "id": "58010",
+      "name": "黄金鳄霸 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58011",
+      "name": "死亡鳄霸 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58012",
+      "name": "激萌鳄霸 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58013",
+      "name": "暴走鳄霸 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58014",
+      "name": "虹彩鳄霸 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58015",
+      "name": "铁血鳄霸 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58016",
+      "name": "深渊鳄霸 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58017",
+      "name": "海克斯科技 雷克顿",
+      "chromas": false
+    },
+    {
+      "id": "58018",
+      "name": "黯晶巨鳄 雷克顿",
+      "chromas": true
+    },
+    {
+      "id": "58019",
+      "name": "黯晶巨鳄 雷克顿 凝结之焰",
+      "chromas": false
+    },
+    {
+      "id": "58020",
+      "name": "黯晶巨鳄 雷克顿 凝结之风",
+      "chromas": false
+    },
+    {
+      "id": "58021",
+      "name": "黯晶巨鳄 雷克顿 凝结之涛",
+      "chromas": false
+    },
+    {
+      "id": "58022",
+      "name": "黯晶巨鳄 雷克顿 凝结之魂",
+      "chromas": false
+    },
+    {
+      "id": "58023",
+      "name": "黯晶巨鳄 雷克顿 凝结之灵",
+      "chromas": false
+    },
+    {
+      "id": "58024",
+      "name": "黯晶巨鳄 雷克顿 凝结之沙",
+      "chromas": false
+    },
+    {
+      "id": "58025",
+      "name": "黯晶巨鳄 雷克顿 凝结之梦",
+      "chromas": false
+    },
+    {
+      "id": "58026",
+      "name": "源计划：泯灭 雷克顿",
+      "chromas": true
+    },
+    {
+      "id": "58027",
+      "name": "源计划：泯灭 雷克顿 裂变",
+      "chromas": false
+    },
+    {
+      "id": "58028",
+      "name": "源计划：泯灭 雷克顿 地覆",
+      "chromas": false
+    },
+    {
+      "id": "58029",
+      "name": "源计划：泯灭 雷克顿 默化",
+      "chromas": false
+    },
+    {
+      "id": "58030",
+      "name": "源计划：泯灭 雷克顿 失控",
+      "chromas": false
+    },
+    {
+      "id": "58031",
+      "name": "源计划：泯灭 雷克顿 惩戒",
+      "chromas": false
+    },
+    {
+      "id": "58032",
+      "name": "源计划：泯灭 雷克顿 震击",
+      "chromas": false
+    },
+    {
+      "id": "58033",
+      "name": "黎明使者 雷克顿",
+      "chromas": true
+    },
+    {
+      "id": "58034",
+      "name": "黎明使者 雷克顿 阳辉",
+      "chromas": false
+    },
+    {
+      "id": "58035",
+      "name": "黎明使者 雷克顿 曙辉",
+      "chromas": false
+    },
+    {
+      "id": "58036",
+      "name": "黎明使者 雷克顿 宁辉",
+      "chromas": false
+    },
+    {
+      "id": "58037",
+      "name": "黎明使者 雷克顿 霞辉",
+      "chromas": false
+    },
+    {
+      "id": "58038",
+      "name": "黎明使者 雷克顿 幻辉",
+      "chromas": false
+    },
+    {
+      "id": "58039",
+      "name": "黎明使者 雷克顿 愈辉",
+      "chromas": false
+    },
+    {
+      "id": "58040",
+      "name": "黎明使者 雷克顿 苍辉",
+      "chromas": false
+    },
+    {
+      "id": "58041",
+      "name": "黎明使者 雷克顿 雪辉",
+      "chromas": false
+    },
+    {
+      "id": "58042",
+      "name": "2023 全球总决赛 雷克顿",
+      "chromas": true
+    },
+    {
+      "id": "58043",
+      "name": "2023 全球总决赛 雷克顿 征战八方",
+      "chromas": false
+    },
+    {
+      "id": "58044",
+      "name": "2023 全球总决赛 雷克顿 竞逐巅峰",
+      "chromas": false
+    },
+    {
+      "id": "58045",
+      "name": "2023 全球总决赛 雷克顿 勇者无畏",
+      "chromas": false
+    },
+    {
+      "id": "58046",
+      "name": "2023 全球总决赛 雷克顿 潜力解封",
+      "chromas": false
+    },
+    {
+      "id": "58047",
+      "name": "2023 全球总决赛 雷克顿 百炼成金",
+      "chromas": false
+    },
+    {
+      "id": "58048",
+      "name": "墨之影 雷克顿",
+      "chromas": true
+    },
+    {
+      "id": "58049",
+      "name": "墨之影 雷克顿 炽墨挥影",
+      "chromas": false
+    },
+    {
+      "id": "58050",
+      "name": "墨之影 雷克顿 金墨耀影",
+      "chromas": false
+    },
+    {
+      "id": "58051",
+      "name": "墨之影 雷克顿 云墨漾影",
+      "chromas": false
+    },
+    {
+      "id": "58052",
+      "name": "墨之影 雷克顿 森墨拂影",
+      "chromas": false
+    },
+    {
+      "id": "58053",
+      "name": "墨之影 雷克顿 松墨彰影",
+      "chromas": false
+    },
+    {
+      "id": "58054",
+      "name": "墨之影 雷克顿 玄墨蕴影",
+      "chromas": false
+    },
+    {
+      "id": "58055",
+      "name": "墨之影 雷克顿 雪墨封影",
+      "chromas": false
+    },
+    {
+      "id": "58056",
+      "name": "墨之影 雷克顿 樱墨映影",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "怒之领域",
+    "description": "雷克顿的攻击会产生【怒气】，在它的生命值较低时产生更多【怒气】。【怒气】可以强化他的基础技能，使它们具有额外效果。",
+    "image": "Renekton_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "巨鳄狂袭",
+      "description": "雷克顿挥动他的武器，对周围所有目标造成中等水平物理伤害，并根据造成的伤害来治疗自己。如果他有50点以上怒气，那么此技能的伤害和治疗效果会得到提升。",
+      "tooltip": "雷克顿挥舞他的战刃，造成{{ basicdamage }}物理伤害，此外，每命中一个非英雄单位就会回复{{ nonchamphealing }}生命值，每命中一位英雄就会回复{{ champhealing }}。他每命中一个非英雄单位还会生成{{ minionfurygain }}怒气，且每命中一位英雄生成{{ championfurygain }}怒气。怒气加成：伤害提升至{{ empdamage }}物理伤害并且对非英雄单位的治疗效果提升至{{ empnonchamphealing }}生命值，对英雄的治疗效果提升至{{ empchamphealing }}生命值。不会生成任何怒气。",
+      "cooldown": "7",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "325",
+      "maxrank": 5,
+      "image": "RenektonCleave.png",
+      "key": "Q"
+    },
+    {
+      "name": "冷酷捕猎",
+      "description": "雷克顿两次挥击目标，对其造成中等水平物理伤害并晕眩其0.75秒。如果雷克顿有50点以上怒气，他会三次挥击目标，摧毁目标身上的伤害护盾，对其造成高额物理伤害，并晕眩其1.5秒。",
+      "tooltip": "雷克顿的下次攻击会进行两次打击，造成{{ stunduration }}秒晕眩和共计{{ basictotaldamage }}物理伤害。命中一名英雄会生成额外的{{ bonusfuryvschamps }}怒气。怒气加成：雷克顿转而进行三次打击，摧毁护盾然后造成{{ emptotaldamage }}物理伤害和{{ enragedstunduration }}秒晕眩。不会生成任何怒气。",
+      "cooldown": "16/14/12/10/8",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "300",
+      "maxrank": 5,
+      "image": "RenektonPreExecute.png",
+      "key": "W"
+    },
+    {
+      "name": "横冲直撞",
+      "description": "雷克顿冲向前方，对沿途的敌人造成伤害。如果雷克顿有50点以上怒气，就会造成额外伤害，并减少沿途敌人的护甲值。",
+      "tooltip": "雷克顿进行冲刺，造成{{ basicdamage }}物理伤害。他每命中一名非英雄单位就会生成{{ minionragegeneration }}怒气，每命中一位英雄就会生成{{ championragegeneration }}怒气。如果至少命中一名敌人，那么雷克顿就能在{{ dicetimer }}秒内再次施放这个技能一次。怒气加成：再次施放的冲刺转而造成{{ empdamage }}物理伤害并造成持续{{ shredtimer }}秒的{{ enragedarmorshred }}%护甲削减。不会生成怒气。",
+      "cooldown": "16/14.5/13/11.5/10",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "450",
+      "maxrank": 5,
+      "image": "RenektonSliceAndDice.png",
+      "key": "E"
+    },
+    {
+      "name": "终极统治",
+      "description": "雷克顿转换为暴君形态，获得额外生命值，并对周围敌人造成伤害。此形态的雷克顿定时获得怒气。",
+      "tooltip": "雷克顿用黑暗能量笼罩自身，持续{{ buffduration }}秒，获得{{ healthgain }}最大生命值和{{ furyoncast }}怒气。在激活时，他每秒造成{{ totaldamagepersecond }}魔法伤害并获得{{ furypersecond }}怒气。",
+      "cooldown": "120/100/80",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "20",
+      "maxrank": 3,
+      "image": "RenektonReignOfTheTyrant.png",
+      "key": "R"
+    }
+  ]
+}

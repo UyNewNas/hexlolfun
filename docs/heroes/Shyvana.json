@@ -1,0 +1,223 @@
+{
+  "id": "Shyvana",
+  "championId": "102",
+  "name": "龙血武姬",
+  "title": "希瓦娜",
+  "region": "德玛西亚",
+  "blurb": "希瓦娜是一位迅猛的半龙人战士。她平时以人的形象出现，但也能以巨龙的身姿统治天空，用龙息烈焰焚尽敌人。作为皇子嘉文四世曾经的救命恩人，希瓦娜如今在皇子的卫队中效力。她兢兢业业，试图在多疑的德玛西亚人中求得接纳。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "怒气",
+  "info": {
+    "attack": 8,
+    "defense": 6,
+    "magic": 3,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 625,
+    "hpPerLevel": 95,
+    "mp": 100,
+    "mpPerLevel": 0,
+    "movespeed": 350,
+    "armor": 35,
+    "armorPerLevel": 4,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 150,
+    "attackdamage": 62,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.638,
+    "attackspeedPerLevel": 2,
+    "hpregen": 7,
+    "hpregenPerLevel": 0.65,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "102001",
+      "name": "钢之逆鳞 希瓦娜",
+      "chromas": false
+    },
+    {
+      "id": "102002",
+      "name": "骸骨之爪 希瓦娜",
+      "chromas": false
+    },
+    {
+      "id": "102003",
+      "name": "黯黑魔龙 希瓦娜",
+      "chromas": false
+    },
+    {
+      "id": "102004",
+      "name": "冰霜亚龙 希瓦娜",
+      "chromas": false
+    },
+    {
+      "id": "102005",
+      "name": "冠军之血 希瓦娜",
+      "chromas": true
+    },
+    {
+      "id": "102006",
+      "name": "银河魔装机神 希瓦娜",
+      "chromas": false
+    },
+    {
+      "id": "102007",
+      "name": "冠军之血 希瓦娜 凯旋圣装",
+      "chromas": false
+    },
+    {
+      "id": "102008",
+      "name": "破败军团 希瓦娜",
+      "chromas": true
+    },
+    {
+      "id": "102009",
+      "name": "破败军团 希瓦娜 帝国征伐使",
+      "chromas": false
+    },
+    {
+      "id": "102010",
+      "name": "破败军团 希瓦娜 山峰征伐使",
+      "chromas": false
+    },
+    {
+      "id": "102011",
+      "name": "破败军团 希瓦娜 森林征伐使",
+      "chromas": false
+    },
+    {
+      "id": "102012",
+      "name": "破败军团 希瓦娜 海港征伐使",
+      "chromas": false
+    },
+    {
+      "id": "102013",
+      "name": "破败军团 希瓦娜 虚无征伐使",
+      "chromas": false
+    },
+    {
+      "id": "102014",
+      "name": "破败军团 希瓦娜 灵岛征伐使",
+      "chromas": false
+    },
+    {
+      "id": "102015",
+      "name": "破败军团 希瓦娜 极地征伐使",
+      "chromas": false
+    },
+    {
+      "id": "102016",
+      "name": "破败军团 希瓦娜 咒缚征伐使",
+      "chromas": false
+    },
+    {
+      "id": "102017",
+      "name": "玉剑传说 舞龙卫",
+      "chromas": true
+    },
+    {
+      "id": "102018",
+      "name": "玉剑传说 舞龙卫 胭脂",
+      "chromas": false
+    },
+    {
+      "id": "102019",
+      "name": "玉剑传说 舞龙卫 珐琅",
+      "chromas": false
+    },
+    {
+      "id": "102020",
+      "name": "玉剑传说 舞龙卫 翡翠",
+      "chromas": false
+    },
+    {
+      "id": "102021",
+      "name": "玉剑传说 舞龙卫 黄栌",
+      "chromas": false
+    },
+    {
+      "id": "102022",
+      "name": "玉剑传说 舞龙卫 紫檀",
+      "chromas": false
+    },
+    {
+      "id": "102023",
+      "name": "玉剑传说 舞龙卫 墨云",
+      "chromas": false
+    },
+    {
+      "id": "102024",
+      "name": "玉剑传说 舞龙卫 丁香",
+      "chromas": false
+    },
+    {
+      "id": "102025",
+      "name": "玉剑传说 舞龙卫 珠光",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "龙鳞铁衣",
+    "description": "参与击杀敌方英雄、大型小兵和大型野怪后，希瓦娜会获得【龙鳞铁衣】层数，从而改进她的防御属性。",
+    "image": "Shyvana_Passive.Shyvana_Rework.png"
+  },
+  "spells": [
+    {
+      "name": "焚焰打击",
+      "description": "希瓦娜的下次攻击会打击目标和周围区域。这个技能可以再次施放。在【魔龙形态】下，它提供一次额外的再次施放，对单体目标造成巨额伤害。",
+      "tooltip": "被动：希瓦娜的攻击附带{{ calc_max_health_damage }}最大生命值的魔法伤害%i:OnHit%并使这个技能的冷却时间缩短{{ cooldown_reduction }}秒。主动：希瓦娜的下次攻击会打击目标和周围区域，造成{{ calc_damage }}物理伤害。在接下来的{{ recastduration }}秒内，这个技能可以在一次攻击或短暂延迟后再次施放。魔龙形态：希瓦娜获得一次额外的再次施放，使她的下次攻击噬咬目标从而造成{{ calc_dragon_form_damage }}真实伤害。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "25000",
+      "maxrank": 5,
+      "image": "ShyvanaQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "烈火圣盾",
+      "description": "希瓦娜获得一个护盾和移动速度，并在短暂延迟后，她周围的区域会被引爆。在【魔龙形态】下，这次爆炸如果击中一个敌方英雄，则会治疗希瓦娜。",
+      "tooltip": "希瓦娜将她自身包裹在烈焰中{{ duration }}秒，从而获得{{ calc_shield }}护盾值，附近的每个敌方英雄都会使这个护盾值提升{{ calc_shield_per_nearby_champion }}；此外还会获得{{ movespeed }}移动速度，这个移速加成会在朝着敌方英雄移动时提升至{{ movespeedtowardsenemies }}。在这些效果结束时、护盾被打破时、或在再次施放时，她附近的区域会被引爆，造成{{ damage }}魔法伤害。魔龙形态：如果这次引爆命中了一个敌方英雄，那么希瓦娜会治疗{{ calc_base_heal }}+{{ calc_missing_health_heal }}已损失生命值。",
+      "cooldown": "13/12.25/11.5/10.75/10",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "350",
+      "maxrank": 5,
+      "image": "ShyvanaW.png",
+      "key": "W"
+    },
+    {
+      "name": "爆炎吐息",
+      "description": "希瓦娜发射一团火球，火球在击中一个大型目标时爆炸并将其减速。在【魔龙形态】下，它会穿过敌人并在击中大型目标时爆炸，还会留下一条烈焰轨迹。",
+      "tooltip": "希瓦娜向目标位置投出一团火球，造成{{ damage }}+{{ calc_max_health_damage }}最大生命值的魔法伤害和持续{{ slowduration }}秒的{{ calc_slow }}减速。它会在击中一个敌人或达到终点时爆炸。魔龙形态：希瓦娜的火球更大并会穿过敌人们。在击中一个英雄、大型野怪、或达到它的终点时，它会触发一道烈焰脉冲来造成{{ calc_dragon_damage }}+{{ calc_max_health_dragon_damage }}最大生命值的魔法伤害和持续{{ slowduration }}秒的{{ calc_slow_dragon }}减速。火球留下一条持续{{ groundlingerduration }}秒的轨迹，每秒造成{{ damagepersecond }}魔法伤害。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "800",
+      "maxrank": 5,
+      "image": "ShyvanaE.png",
+      "key": "E"
+    },
+    {
+      "name": "魔龙降世",
+      "description": "希瓦娜变形成一头魔龙并向前跳跃来使途经的敌人们因恐惧而逃跑。在【魔龙形态】下，她的体型变得更大并且她的基础技能都会获得强化。",
+      "tooltip": "被动：希瓦娜的攻击和技能在击中敌人时会生成{{ fury_generation }}龙怒，在魔龙形态下的生成量会提升{{ tt_fury_mult }}，并且在击中一个区域内的非英雄单位时的生成量会降低{{ tt_fury_aoe_penalty }}。主动：希瓦娜变形成她的魔龙形态，期间进入不可阻挡状态，在飞向目标位置的同时对下方的敌人们喷吐火焰，对其造成{{ damage }}魔法伤害并使其逃跑{{ fearduration }}秒。在变形状态下，希瓦娜的基础技能都会获得强化，她会获得{{ calc_bonus_health }}额外生命值、体型和攻击距离。希瓦娜持续损失龙怒并且她的变形会在她没有剩余龙怒时结束。",
+      "cooldown": "0",
+      "cost": "0",
+      "costType": "需要100龙怒",
+      "range": "1050",
+      "maxrank": 3,
+      "image": "ShyvanaR.png",
+      "key": "R"
+    }
+  ]
+}

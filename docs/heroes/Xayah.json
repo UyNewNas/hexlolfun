@@ -1,0 +1,417 @@
+{
+  "id": "Xayah",
+  "championId": "498",
+  "name": "逆羽",
+  "title": "霞",
+  "region": "艾欧尼亚",
+  "blurb": "身为瓦斯塔亚的一名有志之士，霞意在掀起一场革命来拯救她的族群。她身法敏捷又慧心独具，凭借锋芒逼人的羽刃，扫除任何异己。霞与她的灵魂伴侣洛并肩作战，守护着他们日渐衰落的部族，韬光养晦，希望终有一天能率领全族重夺昔日荣光。",
+  "tags": [
+    "射手"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 10,
+    "defense": 6,
+    "magic": 1,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 630,
+    "hpPerLevel": 107,
+    "mp": 340,
+    "mpPerLevel": 40,
+    "movespeed": 330,
+    "armor": 25,
+    "armorPerLevel": 4.2,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 525,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 3.9,
+    "hpregen": 3.25,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 8.25,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "498001",
+      "name": "暮星之羽 霞",
+      "chromas": false
+    },
+    {
+      "id": "498002",
+      "name": "甜心之羽 霞",
+      "chromas": false
+    },
+    {
+      "id": "498003",
+      "name": "SSG 霞",
+      "chromas": true
+    },
+    {
+      "id": "498004",
+      "name": "星之守护者 霞",
+      "chromas": true
+    },
+    {
+      "id": "498005",
+      "name": "星之守护者 霞 锐羽",
+      "chromas": false
+    },
+    {
+      "id": "498006",
+      "name": "星之守护者 霞 烈羽",
+      "chromas": false
+    },
+    {
+      "id": "498007",
+      "name": "星之守护者 霞 寒羽",
+      "chromas": false
+    },
+    {
+      "id": "498008",
+      "name": "永恒之森 霞",
+      "chromas": true
+    },
+    {
+      "id": "498009",
+      "name": "永恒之森 霞 永茂",
+      "chromas": false
+    },
+    {
+      "id": "498010",
+      "name": "永恒之森 霞 昙夜",
+      "chromas": false
+    },
+    {
+      "id": "498011",
+      "name": "永恒之森 霞 冰桦",
+      "chromas": false
+    },
+    {
+      "id": "498012",
+      "name": "永恒之森 霞 辉瓣",
+      "chromas": false
+    },
+    {
+      "id": "498013",
+      "name": "永恒之森 霞 樱落",
+      "chromas": false
+    },
+    {
+      "id": "498014",
+      "name": "永恒之森 霞 寒楹",
+      "chromas": false
+    },
+    {
+      "id": "498015",
+      "name": "永恒之森 霞 余烬重生",
+      "chromas": false
+    },
+    {
+      "id": "498016",
+      "name": "永恒之森 霞 焰枫",
+      "chromas": false
+    },
+    {
+      "id": "498017",
+      "name": "神凰行者 烈羽焰凰 霞",
+      "chromas": true
+    },
+    {
+      "id": "498018",
+      "name": "神凰行者 烈羽焰凰 霞 凌云",
+      "chromas": false
+    },
+    {
+      "id": "498019",
+      "name": "神凰行者 烈羽焰凰 霞 灵音",
+      "chromas": false
+    },
+    {
+      "id": "498020",
+      "name": "神凰行者 烈羽焰凰 霞 仙翰",
+      "chromas": false
+    },
+    {
+      "id": "498021",
+      "name": "神凰行者 烈羽焰凰 霞 晨晖",
+      "chromas": false
+    },
+    {
+      "id": "498022",
+      "name": "神凰行者 烈羽焰凰 霞 垂鹏",
+      "chromas": false
+    },
+    {
+      "id": "498023",
+      "name": "神凰行者 烈羽焰凰 霞 绮翼",
+      "chromas": false
+    },
+    {
+      "id": "498024",
+      "name": "神凰行者 烈羽焰凰 霞 玄霜",
+      "chromas": false
+    },
+    {
+      "id": "498025",
+      "name": "神凰行者 烈羽焰凰 霞 逸羽",
+      "chromas": false
+    },
+    {
+      "id": "498026",
+      "name": "至臻 神凰行者 烈羽焰凰 霞",
+      "chromas": false
+    },
+    {
+      "id": "498027",
+      "name": "神凰行者 烈羽焰凰 霞 玉虎呈祥",
+      "chromas": false
+    },
+    {
+      "id": "498028",
+      "name": "比翼之心 霞",
+      "chromas": true
+    },
+    {
+      "id": "498029",
+      "name": "比翼之心 霞 斗志",
+      "chromas": false
+    },
+    {
+      "id": "498030",
+      "name": "比翼之心 霞 财富",
+      "chromas": false
+    },
+    {
+      "id": "498031",
+      "name": "比翼之心 霞 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "498032",
+      "name": "比翼之心 霞 谦逊",
+      "chromas": false
+    },
+    {
+      "id": "498033",
+      "name": "比翼之心 霞 丰足",
+      "chromas": false
+    },
+    {
+      "id": "498034",
+      "name": "比翼之心 霞 权威",
+      "chromas": false
+    },
+    {
+      "id": "498035",
+      "name": "比翼之心 霞 哀伤",
+      "chromas": false
+    },
+    {
+      "id": "498036",
+      "name": "比翼之心 霞 均衡",
+      "chromas": false
+    },
+    {
+      "id": "498037",
+      "name": "绝息圣堂 霞",
+      "chromas": true
+    },
+    {
+      "id": "498038",
+      "name": "星之守护者 净化之羽 霞",
+      "chromas": false
+    },
+    {
+      "id": "498039",
+      "name": "绝息圣堂 霞 残阳圆舞曲",
+      "chromas": false
+    },
+    {
+      "id": "498040",
+      "name": "绝息圣堂 霞 纯净赋格曲",
+      "chromas": false
+    },
+    {
+      "id": "498041",
+      "name": "绝息圣堂 霞 朝霞幻想曲",
+      "chromas": false
+    },
+    {
+      "id": "498042",
+      "name": "绝息圣堂 霞 灵息变奏曲",
+      "chromas": false
+    },
+    {
+      "id": "498043",
+      "name": "绝息圣堂 霞 日冕摇篮曲",
+      "chromas": false
+    },
+    {
+      "id": "498044",
+      "name": "绝息圣堂 霞 相思小夜曲",
+      "chromas": false
+    },
+    {
+      "id": "498045",
+      "name": "绝息圣堂 霞 蛰伏进行曲",
+      "chromas": false
+    },
+    {
+      "id": "498046",
+      "name": "绝息圣堂 霞 白夜奏鸣曲",
+      "chromas": false
+    },
+    {
+      "id": "498047",
+      "name": "幻灵蝙蝠 霞",
+      "chromas": true
+    },
+    {
+      "id": "498048",
+      "name": "幻灵蝙蝠 霞 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "498049",
+      "name": "幻灵蝙蝠 霞 坚韧阻击",
+      "chromas": false
+    },
+    {
+      "id": "498050",
+      "name": "幻灵蝙蝠 霞 连绵奔袭",
+      "chromas": false
+    },
+    {
+      "id": "498051",
+      "name": "幻灵蝙蝠 霞 华丽冲阵",
+      "chromas": false
+    },
+    {
+      "id": "498052",
+      "name": "幻灵蝙蝠 霞 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "498053",
+      "name": "幻灵蝙蝠 霞 钢铁守备",
+      "chromas": false
+    },
+    {
+      "id": "498054",
+      "name": "幻灵蝙蝠 霞 魅影闪击",
+      "chromas": false
+    },
+    {
+      "id": "498055",
+      "name": "幻灵蝙蝠 霞 多彩漫射",
+      "chromas": false
+    },
+    {
+      "id": "498056",
+      "name": "幻灵蝙蝠 霞 隐秘夜影",
+      "chromas": false
+    },
+    {
+      "id": "498057",
+      "name": "战斗学院 霞",
+      "chromas": true
+    },
+    {
+      "id": "498058",
+      "name": "战斗学院 霞 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "498059",
+      "name": "战斗学院 霞 雄狮",
+      "chromas": false
+    },
+    {
+      "id": "498060",
+      "name": "战斗学院 霞 天马",
+      "chromas": false
+    },
+    {
+      "id": "498061",
+      "name": "战斗学院 霞 森林龙",
+      "chromas": false
+    },
+    {
+      "id": "498062",
+      "name": "战斗学院 霞 逆卫",
+      "chromas": false
+    },
+    {
+      "id": "498063",
+      "name": "战斗学院 霞 狮鹫",
+      "chromas": false
+    },
+    {
+      "id": "498065",
+      "name": "SSG 霞 精锐",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "锐切",
+    "description": "在使用一次技能后，霞的下几次普攻将命中沿途的所有敌人，并各落下一根羽毛。",
+    "image": "XayahPassive.png"
+  },
+  "spells": [
+    {
+      "name": "双刃",
+      "description": "霞扔出两把具有伤害的匕首，并掉落可供她召回的羽毛。",
+      "tooltip": "霞扔出两把匕首，每把造成{{ totaldamage }}物理伤害，然后留下两支羽毛。每把匕首对首个目标之后的后续目标造成{{ multihitdamage }}伤害。",
+      "cooldown": "10/9.5/9/8.5/8",
+      "cost": "35",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "XayahQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "致死羽衣",
+      "description": "霞创造一道刀刃风暴，来提升她的攻击速度和伤害，并且如果她的攻击命中了敌人，还会提升她的移动速度。",
+      "tooltip": "霞创造一道持续{{ wattackspeedduration }}秒的羽刃风暴，来为她提供{{ wattackspeedamount }}%攻击速度并使她的攻击发射一支造成{{ bonusdamagepercent }}%伤害的次级羽刃。如果次级羽刃命中了一名敌方英雄，那么她自身会获得{{ wmovespeedamount }}%移动速度，持续{{ wmovespeedduration }}秒。如果洛在附近，那么他也会获得这个技能的效果，但他只会在霞命中了一个目标时获得移动速度。",
+      "cooldown": "18/17/16/15/14",
+      "cost": "60/55/50/45/40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "XayahW.png",
+      "key": "W"
+    },
+    {
+      "name": "倒钩",
+      "description": "霞唤回她之前掉落的所有羽毛，对敌人造成伤害和禁锢效果。",
+      "tooltip": "霞将所有羽毛召回至她的位置，每支造成{{ featherdamage }}物理伤害提升。如果有{{ featherthreshold }}支或以上的羽毛命中了一名敌人，那么该敌人就会被禁锢{{ rootduration }}秒。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "2000",
+      "maxrank": 5,
+      "image": "XayahE.png",
+      "key": "E"
+    },
+    {
+      "name": "暴风羽刃",
+      "description": "霞跳向空中，变为不可被选取状态，然后扔出一排匕首，同时掉落可供她召回的羽毛。",
+      "tooltip": "霞跃向空中，变为不可被选取状态，持续1.5秒。然后她会从天降下匕首雨，造成{{ damage }}物理伤害并留下一连串的羽毛。",
+      "cooldown": "140/120/100",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "450",
+      "maxrank": 3,
+      "image": "XayahR.png",
+      "key": "R"
+    }
+  ]
+}

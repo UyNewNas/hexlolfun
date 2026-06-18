@@ -1,0 +1,198 @@
+{
+  "id": "Hwei",
+  "championId": "910",
+  "name": "异画师",
+  "title": "彗",
+  "region": "艾欧尼亚",
+  "blurb": "彗是一个郁郁寡欢的画家，在艾欧尼亚四处创作惊世佳作，只为惩戒恶人，宽慰弱者。在他的忧郁之下，藏着一颗斑驳、敏感的心，想象中的绚烂色彩与回忆中的凄惨尸骸始终萦绕在他脑海。彗寻求对自身光与暗的彻悟，而这份追寻也将不可避免地把他推向他的启蒙艺术家。以画笔和色盘，彗画出无尽的可能性，同时也在不断接近最终的答案，或是冰冷的绝望。",
+  "tags": [
+    "法师",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 7,
+    "defense": 1,
+    "magic": 8,
+    "difficulty": 9
+  },
+  "stats": {
+    "hp": 580,
+    "hpPerLevel": 109,
+    "mp": 480,
+    "mpPerLevel": 30,
+    "movespeed": 330,
+    "armor": 21,
+    "armorPerLevel": 4.7,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 54,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.69,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 7.5,
+    "mpregenPerLevel": 0.75,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "910001",
+      "name": "北极星使者 彗",
+      "chromas": true
+    },
+    {
+      "id": "910002",
+      "name": "北极星使者 彗 激昂脉冲",
+      "chromas": false
+    },
+    {
+      "id": "910003",
+      "name": "北极星使者 彗 幸运漩涡",
+      "chromas": false
+    },
+    {
+      "id": "910004",
+      "name": "北极星使者 彗 智慧纽带",
+      "chromas": false
+    },
+    {
+      "id": "910005",
+      "name": "北极星使者 彗 祥和面纱",
+      "chromas": false
+    },
+    {
+      "id": "910006",
+      "name": "北极星使者 彗 希望辉光",
+      "chromas": false
+    },
+    {
+      "id": "910007",
+      "name": "北极星使者 彗 浪漫帘幕",
+      "chromas": false
+    },
+    {
+      "id": "910008",
+      "name": "北极星使者 彗 庄严光冕",
+      "chromas": false
+    },
+    {
+      "id": "910009",
+      "name": "北极星使者 彗 圣洁光带",
+      "chromas": false
+    },
+    {
+      "id": "910010",
+      "name": "北极星使者 彗 花冠极光",
+      "chromas": false
+    },
+    {
+      "id": "910011",
+      "name": "灵魂莲华 彗",
+      "chromas": true
+    },
+    {
+      "id": "910012",
+      "name": "灵魂莲华 彗 流火",
+      "chromas": false
+    },
+    {
+      "id": "910013",
+      "name": "灵魂莲华 彗 雁来",
+      "chromas": false
+    },
+    {
+      "id": "910014",
+      "name": "灵魂莲华 彗 云开",
+      "chromas": false
+    },
+    {
+      "id": "910015",
+      "name": "灵魂莲华 彗 风起",
+      "chromas": false
+    },
+    {
+      "id": "910016",
+      "name": "灵魂莲华 彗 兰秋",
+      "chromas": false
+    },
+    {
+      "id": "910017",
+      "name": "灵魂莲华 彗 朝花",
+      "chromas": false
+    },
+    {
+      "id": "910018",
+      "name": "灵魂莲华 彗 月升",
+      "chromas": false
+    },
+    {
+      "id": "910019",
+      "name": "灵魂莲华 彗 春晓",
+      "chromas": false
+    },
+    {
+      "id": "910020",
+      "name": "灵魂莲华 彗 至强",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "落款",
+    "description": "彗准备在那些受到他的技能伤害的敌人们身上留下落款。用另一个伤害型技能命中时，即可完成他的落款，将其留在敌人脚下。落款会在短暂延迟后引爆，对范围内的所有敌人造成魔法伤害。",
+    "image": "HweiPassive.png"
+  },
+  "spells": [
+    {
+      "name": "主题：灾",
+      "description": "彗将眼中所见的灾难逐一描绘，造成可怕的破坏力。这个技能会用这些伤害型技能替换掉彗的技能：没骨火、攒聚雷、连皴山。",
+      "tooltip": "彗描绘出眼中所见的灾难，来对敌人们造成大量伤害。没骨火彗发射一颗炽热的快速火球，火球在命中第一个敌人时爆炸，对区域内的所有敌人造成{{ tooltip_qqdamage }}外加{{ tooltip_qqbonusdamage }}%最大生命值的魔法伤害。攒聚雷彗在一段延迟后降下一道远距离落雷，造成{{ tooltip_qwdamage }}魔法伤害。命中一个孤立无援或被定身的目标时会将这个伤害至多提升至{{ tooltip_qwbonusdamage }}魔法伤害，基于目标的已损失生命值。连皴山彗释放一道长距离、缓慢的喷发路径，在一个区域内造成{{ tooltip_qedamage }}魔法伤害并留下持续{{ spell.hweiqe:duration }}秒的岩浆池来对敌人造成{{ spell.hweiqe:slowpercent }}%减速和每秒{{ tooltip_qedamagepersecond }}魔法伤害。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "80/90/100/110/120",
+      "costType": " {{ abilityresourcename }}",
+      "range": "0",
+      "maxrank": 5,
+      "image": "HweiQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "主题：靖",
+      "description": "彗画下眼中所见到的宁静，抚慰并激励众人。这个技能会用这些功能型技能替换掉彗的技能：飞染、渲浓、宿墨",
+      "tooltip": "彗画下眼中所见到的宁静来为他和友方英雄们提供功能性。飞染彗画出一条激流来使友军提升{{ tooltip_wqmovespeed }}移动速度。渲浓彗画下一汪池水来持续为其中的友方英雄提供{{ tooltip_wwshieldamount }}护盾值并且对友军时减少{{ spell.hweiww:tooltipallymod*100 }}%护盾值。宿墨彗在身边点出三团光芒来强化他的下三次技能或攻击，每次造成额外的{{ tooltip_weonhitdamage }}魔法伤害并回复{{ tooltip_weonhitmanarestore }}法力值。",
+      "cooldown": "18/17.5/17/16.5/16",
+      "cost": "90/95/100/105/110",
+      "costType": " {{ abilityresourcename }}",
+      "range": "0",
+      "maxrank": 5,
+      "image": "HweiW.png",
+      "key": "W"
+    },
+    {
+      "name": "主题：悚",
+      "description": "彗将眼中所见到的恐怖景象付诸笔端，带来震慑人心的画面。这个技能会用这些控制型技能替换掉彗的技能：阴沉变意、滞涩幽瞳、双钩血喉。",
+      "tooltip": "彗描绘出恐怖景象来控制敌人们。阴沉变意彗投射出一张恐怖面容来对命中的第一个敌人造成{{ tooltip_eqfleeduration }}秒逃跑和{{ tooltip_eqdamage }}魔法伤害。滞涩幽瞳彗画出一颗眼眸来停留并提供视野，它会锁定进入其中的第一个敌方英雄并对其发射一颗追踪飞弹，这颗飞弹会禁锢命中的第一个敌人{{ tooltip_ewrootduration }}秒并造成{{ tooltip_ewdamage }}魔法伤害。双钩血喉彗在目标位置画出一张大口来将敌人们拖拽向它的中心。大口对被捕获的敌人们造成{{ tooltip_eedamage }}魔法伤害和在1.25秒内持续衰减的{{ tooltip_eeslowamount }}%减速。",
+      "cooldown": "13/12.5/12/11.5/11",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "0",
+      "maxrank": 5,
+      "image": "HweiE.png",
+      "key": "E"
+    },
+    {
+      "name": "焚心绚华绘",
+      "description": "彗画出深重的绝望。命中的第一个敌人会成为画卷的中心。画卷向四周展开，减速并伤害附近的敌人们。展开至最大时，或是中心的敌人死亡时，画卷会发生爆炸。",
+      "tooltip": "彗将深重的绝望附着在一名敌方英雄上，持续{{ duration }}秒。绝望会持续扩大，每0.25秒对敌人们施加一层可叠加的{{ slowpercentperstack }}%减速，并造成每秒{{ damageovertime }}魔法伤害。在完成的同时，绝望会碎裂，造成{{ damage }}魔法伤害。",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1300",
+      "maxrank": 3,
+      "image": "HweiR.png",
+      "key": "R"
+    }
+  ]
+}

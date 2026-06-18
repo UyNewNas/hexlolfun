@@ -1,0 +1,458 @@
+{
+  "id": "Darius",
+  "championId": "122",
+  "name": "诺克萨斯之手",
+  "title": "德莱厄斯",
+  "region": "诺克萨斯",
+  "blurb": "若要论谁才是诺克萨斯武力的象征，帝国上下没有人能比德莱厄斯这名久经沙场的指挥官更加适合。他劈开无数敌人的身躯——其中也不乏诺克萨斯人，终从一名无名小卒逐渐成长为如今的诺克萨斯之手。他从不怀疑自己执行的公义，也从不在举起战斧后迟疑。作为崔法利军团的领导者，德莱厄斯绝不会对任何敌人手下留情。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 9,
+    "defense": 5,
+    "magic": 1,
+    "difficulty": 2
+  },
+  "stats": {
+    "hp": 652,
+    "hpPerLevel": 114,
+    "mp": 263,
+    "mpPerLevel": 58,
+    "movespeed": 340,
+    "armor": 37,
+    "armorPerLevel": 5.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 64,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 1,
+    "hpregen": 10,
+    "hpregenPerLevel": 0.95,
+    "mpregen": 6.6,
+    "mpregenPerLevel": 0.35,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "122001",
+      "name": "铁血帝皇 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122002",
+      "name": "生化骑士 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122003",
+      "name": "勇敢的心 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122004",
+      "name": "灌篮高手 德莱厄斯",
+      "chromas": true
+    },
+    {
+      "id": "122005",
+      "name": "诺克萨斯之手 德莱厄斯 暗金将军",
+      "chromas": false
+    },
+    {
+      "id": "122006",
+      "name": "诺克萨斯之手 德莱厄斯 烈风将军",
+      "chromas": false
+    },
+    {
+      "id": "122007",
+      "name": "诺克萨斯之手 德莱厄斯 铁血将军",
+      "chromas": false
+    },
+    {
+      "id": "122008",
+      "name": "热血班长 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122009",
+      "name": "灌篮高手 德莱厄斯 紫金王朝",
+      "chromas": false
+    },
+    {
+      "id": "122010",
+      "name": "灌篮高手 德莱厄斯 传奇雷鸟",
+      "chromas": false
+    },
+    {
+      "id": "122011",
+      "name": "灌篮高手 德莱厄斯 绿衫战神",
+      "chromas": false
+    },
+    {
+      "id": "122012",
+      "name": "灌篮高手 德莱厄斯 罪城霸业",
+      "chromas": false
+    },
+    {
+      "id": "122013",
+      "name": "灌篮高手 德莱厄斯 逆袭传奇",
+      "chromas": false
+    },
+    {
+      "id": "122014",
+      "name": "恐惧新星 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122015",
+      "name": "神王 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122016",
+      "name": "西部魔影 德莱厄斯",
+      "chromas": true
+    },
+    {
+      "id": "122017",
+      "name": "西部魔影 德莱厄斯 阿撒兹勒之炽",
+      "chromas": false
+    },
+    {
+      "id": "122018",
+      "name": "西部魔影 德莱厄斯 亚巴顿之黯",
+      "chromas": false
+    },
+    {
+      "id": "122019",
+      "name": "西部魔影 德莱厄斯 路西法之逆",
+      "chromas": false
+    },
+    {
+      "id": "122020",
+      "name": "西部魔影 德莱厄斯 萨麦尔之毒",
+      "chromas": false
+    },
+    {
+      "id": "122021",
+      "name": "西部魔影 德莱厄斯 别西卜之威",
+      "chromas": false
+    },
+    {
+      "id": "122022",
+      "name": "西部魔影 德莱厄斯 贝利尔之怠",
+      "chromas": false
+    },
+    {
+      "id": "122023",
+      "name": "西部魔影 德莱厄斯 莫斯提马之恶",
+      "chromas": false
+    },
+    {
+      "id": "122024",
+      "name": "福牛守护者 德莱厄斯",
+      "chromas": true
+    },
+    {
+      "id": "122025",
+      "name": "福牛守护者 德莱厄斯 贺岁",
+      "chromas": false
+    },
+    {
+      "id": "122026",
+      "name": "福牛守护者 德莱厄斯 招财",
+      "chromas": false
+    },
+    {
+      "id": "122027",
+      "name": "福牛守护者 德莱厄斯 祈福",
+      "chromas": false
+    },
+    {
+      "id": "122028",
+      "name": "福牛守护者 德莱厄斯 纳福",
+      "chromas": false
+    },
+    {
+      "id": "122029",
+      "name": "福牛守护者 德莱厄斯 如意",
+      "chromas": false
+    },
+    {
+      "id": "122030",
+      "name": "福牛守护者 德莱厄斯 团圆",
+      "chromas": false
+    },
+    {
+      "id": "122031",
+      "name": "福牛守护者 德莱厄斯 吉祥",
+      "chromas": false
+    },
+    {
+      "id": "122033",
+      "name": "地下都市 梦魇 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122034",
+      "name": "地下都市 梦魇 德莱厄斯 红莲",
+      "chromas": true
+    },
+    {
+      "id": "122035",
+      "name": "地下都市 梦魇 德莱厄斯 青木",
+      "chromas": false
+    },
+    {
+      "id": "122036",
+      "name": "地下都市 梦魇 德莱厄斯 幻魅",
+      "chromas": false
+    },
+    {
+      "id": "122037",
+      "name": "地下都市 梦魇 德莱厄斯 蓝霜",
+      "chromas": false
+    },
+    {
+      "id": "122038",
+      "name": "地下都市 梦魇 德莱厄斯 琥珀",
+      "chromas": false
+    },
+    {
+      "id": "122039",
+      "name": "地下都市 梦魇 德莱厄斯 紫电",
+      "chromas": false
+    },
+    {
+      "id": "122040",
+      "name": "地下都市 梦魇 德莱厄斯 白影",
+      "chromas": false
+    },
+    {
+      "id": "122041",
+      "name": "地下都市 梦魇 德莱厄斯 黑曜",
+      "chromas": false
+    },
+    {
+      "id": "122042",
+      "name": "地下都市 梦魇 德莱厄斯 孽影",
+      "chromas": false
+    },
+    {
+      "id": "122043",
+      "name": "灵魂莲华 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122044",
+      "name": "灵魂莲华 德莱厄斯 流火",
+      "chromas": true
+    },
+    {
+      "id": "122045",
+      "name": "灵魂莲华 德莱厄斯 风起",
+      "chromas": false
+    },
+    {
+      "id": "122046",
+      "name": "灵魂莲华 德莱厄斯 雁来",
+      "chromas": false
+    },
+    {
+      "id": "122047",
+      "name": "灵魂莲华 德莱厄斯 云开",
+      "chromas": false
+    },
+    {
+      "id": "122048",
+      "name": "灵魂莲华 德莱厄斯 春晓",
+      "chromas": false
+    },
+    {
+      "id": "122049",
+      "name": "灵魂莲华 德莱厄斯 雪落",
+      "chromas": false
+    },
+    {
+      "id": "122050",
+      "name": "灵魂莲华 德莱厄斯 月升",
+      "chromas": false
+    },
+    {
+      "id": "122051",
+      "name": "灵魂莲华 德莱厄斯 朝花",
+      "chromas": false
+    },
+    {
+      "id": "122052",
+      "name": "灵魂莲华 德莱厄斯 绽夜",
+      "chromas": false
+    },
+    {
+      "id": "122053",
+      "name": "灌篮高手 德莱厄斯 金色神话",
+      "chromas": false
+    },
+    {
+      "id": "122054",
+      "name": "青花瓷 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122055",
+      "name": "青花瓷 德莱厄斯 牡丹",
+      "chromas": true
+    },
+    {
+      "id": "122056",
+      "name": "青花瓷 德莱厄斯 芭蕉",
+      "chromas": false
+    },
+    {
+      "id": "122057",
+      "name": "青花瓷 德莱厄斯 天青",
+      "chromas": false
+    },
+    {
+      "id": "122058",
+      "name": "青花瓷 德莱厄斯 釉色",
+      "chromas": false
+    },
+    {
+      "id": "122059",
+      "name": "青花瓷 德莱厄斯 含苞",
+      "chromas": false
+    },
+    {
+      "id": "122060",
+      "name": "青花瓷 德莱厄斯 墨色",
+      "chromas": false
+    },
+    {
+      "id": "122061",
+      "name": "青花瓷 德莱厄斯 月色",
+      "chromas": false
+    },
+    {
+      "id": "122062",
+      "name": "青花瓷 德莱厄斯 金辉玉洁",
+      "chromas": false
+    },
+    {
+      "id": "122063",
+      "name": "青花瓷 德莱厄斯 锦鲤",
+      "chromas": false
+    },
+    {
+      "id": "122064",
+      "name": "圣洁神王 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122065",
+      "name": "至臻 凯旋将军 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122066",
+      "name": "至臻 凯旋将军 德莱厄斯 常胜战神",
+      "chromas": true
+    },
+    {
+      "id": "122067",
+      "name": "机神 德莱厄斯",
+      "chromas": false
+    },
+    {
+      "id": "122068",
+      "name": "机神 德莱厄斯 炼狱",
+      "chromas": true
+    },
+    {
+      "id": "122069",
+      "name": "机神 德莱厄斯 云霄",
+      "chromas": false
+    },
+    {
+      "id": "122070",
+      "name": "机神 德莱厄斯 水晶",
+      "chromas": false
+    },
+    {
+      "id": "122071",
+      "name": "机神 德莱厄斯 剧毒",
+      "chromas": false
+    },
+    {
+      "id": "122072",
+      "name": "机神 德莱厄斯 月蚀",
+      "chromas": false
+    },
+    {
+      "id": "122073",
+      "name": "机神 德莱厄斯 钢铁",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "出血",
+    "description": "德莱厄斯的攻击和伤害技能会导致敌人流血，在5秒里持续造成物理伤害，最多叠加5次。在他的目标达到最大层数后，德莱厄斯会进入激怒状态并获得巨额攻击力。",
+    "image": "Darius_Icon_Hemorrhage.png"
+  },
+  "spells": [
+    {
+      "name": "大杀四方",
+      "description": "德莱厄斯蓄力然后将他的斧头挥舞成一个大圈。被斧刃击中的敌人会比被斧柄击中的敌人受到更多伤害。德莱厄斯会基于被斧刃击中的敌方英雄或大型野怪的数量来获得治疗效果。",
+      "tooltip": "德莱厄斯举起他的斧头然后挥舞一圈，斧刃造成{{ bladedamage }}物理伤害并且斧柄造成{{ handledamage }}伤害。被斧柄命中的敌人不会被施加出血。德莱厄斯每用斧刃命中一个敌方英雄或大型野怪就会回复{{ e5 }}%已损失生命值，至多回复{{ e7 }}%。",
+      "cooldown": "9/8/7/6/5",
+      "cost": "25/30/35/40/45",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1",
+      "maxrank": 5,
+      "image": "DariusCleave.png",
+      "key": "Q"
+    },
+    {
+      "name": "致残打击",
+      "description": "德莱厄斯的下一次攻击会打向敌人的大动脉。在目标流血不止的同时，目标的移动速度也会被减缓。",
+      "tooltip": "德莱厄斯的下次攻击造成{{ empoweredattackdamage }}物理伤害和持续{{ e5 }}秒的{{ e2 }}%减速。如果这个技能击杀了目标，那么会返还其法力消耗并缩短其{{ e3 }}%的冷却时间。这个技能会在造成伤害时触发技能特效。",
+      "cooldown": "5",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "300",
+      "maxrank": 5,
+      "image": "DariusNoxianTacticsONH.png",
+      "key": "W"
+    },
+    {
+      "name": "无情铁手",
+      "description": "德莱厄斯磨利他的巨斧，被动地让他的物理伤害无视目标一部分护甲。在主动施放时，德莱厄斯会用斧头上的钩子横扫他的敌人，并将他们拉到德莱厄斯身边。",
+      "tooltip": "被动：德莱厄斯获得{{ e1 }}%护甲穿透。主动：德莱厄斯用他的斧头进行钩拽，造成拖拽、击飞和持续{{ e3 }}秒的{{ e2 }}%减速。",
+      "cooldown": "26/23.5/21/18.5/16",
+      "cost": "70/60/50/40/30",
+      "costType": " {{ abilityresourcename }}",
+      "range": "535",
+      "maxrank": 5,
+      "image": "DariusAxeGrabCone.png",
+      "key": "E"
+    },
+    {
+      "name": "诺克萨斯断头台",
+      "description": "德莱厄斯跃向目标英雄并进行致命打击，造成真实伤害。目标身上的每层出血效果都会提升这个技能的伤害。如果诺克萨斯断头台完成了一次击杀，那么它的冷却时间会暂时被重置。",
+      "tooltip": "德莱厄斯跳向一名敌人并进行一次致命猛击，造成{{ damage }}真实伤害。目标身上每有一层出血，这个技能就会造成额外的{{ rdamagepercentperhemostack*100 }}%伤害，至多达到{{ maximumdamage }}伤害。如果这个技能击杀了目标，那么德莱厄斯就可以在{{ rrecastduration }}秒内再次施放这个技能。这个技能在技能等级达到3时，即可无需消耗法力并在击杀时完全刷新技能的冷却时间。",
+      "cooldown": "120/100/80",
+      "cost": "100/100/0",
+      "costType": " {{ abilityresourcename }}",
+      "range": "460",
+      "maxrank": 3,
+      "image": "DariusExecute.png",
+      "key": "R"
+    }
+  ]
+}

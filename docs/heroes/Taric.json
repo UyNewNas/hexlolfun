@@ -1,0 +1,273 @@
+{
+  "id": "Taric",
+  "championId": "44",
+  "name": "瓦洛兰之盾",
+  "title": "塔里克",
+  "region": "巨神峰",
+  "blurb": "塔里克是保护者星灵，用超乎寻常的力量守护着符文之地的生命、仁爱以及万物之美。塔里克由于渎职而被放逐，离开了祖国德玛西亚，前去攀登巨神峰寻找救赎，但他找到的却是来自星界的更高层的召唤。现在的塔里克与古代巨神族的神力相融合，以瓦洛兰之盾的身份，永不疲倦地警惕着阴险狡诈的虚空腐化之力。",
+  "tags": [
+    "辅助",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 4,
+    "defense": 8,
+    "magic": 5,
+    "difficulty": 3
+  },
+  "stats": {
+    "hp": 645,
+    "hpPerLevel": 99,
+    "mp": 300,
+    "mpPerLevel": 60,
+    "movespeed": 340,
+    "armor": 40,
+    "armorPerLevel": 4.3,
+    "spellblock": 28,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 150,
+    "attackdamage": 55,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 8.5,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "44001",
+      "name": "绿水晶光辉 塔里克",
+      "chromas": false
+    },
+    {
+      "id": "44002",
+      "name": "紫水晶意志 塔里克",
+      "chromas": false
+    },
+    {
+      "id": "44003",
+      "name": "血石诅咒 塔里克",
+      "chromas": false
+    },
+    {
+      "id": "44004",
+      "name": "泳池派对 塔里克",
+      "chromas": true
+    },
+    {
+      "id": "44005",
+      "name": "泳池派对 塔里克 “我正在游过来！”",
+      "chromas": false
+    },
+    {
+      "id": "44006",
+      "name": "泳池派对 塔里克 “接住这个泳圈！”",
+      "chromas": false
+    },
+    {
+      "id": "44007",
+      "name": "泳池派对 塔里克 “拉住我的手！”",
+      "chromas": false
+    },
+    {
+      "id": "44008",
+      "name": "泳池派对 塔里克 “他需要人工呼吸！”",
+      "chromas": false
+    },
+    {
+      "id": "44009",
+      "name": "塔里克 · 辉盾",
+      "chromas": true
+    },
+    {
+      "id": "44010",
+      "name": "塔里克 · 辉盾 白夜勇者",
+      "chromas": false
+    },
+    {
+      "id": "44011",
+      "name": "塔里克 · 辉盾 海洋勇者",
+      "chromas": false
+    },
+    {
+      "id": "44012",
+      "name": "塔里克 · 辉盾 大地勇者",
+      "chromas": false
+    },
+    {
+      "id": "44013",
+      "name": "塔里克 · 辉盾 烈焰勇者",
+      "chromas": false
+    },
+    {
+      "id": "44014",
+      "name": "塔里克 · 辉盾 水晶勇者",
+      "chromas": false
+    },
+    {
+      "id": "44015",
+      "name": "塔里克 · 辉盾 梦境勇者",
+      "chromas": false
+    },
+    {
+      "id": "44016",
+      "name": "塔里克 · 辉盾 彩虹勇者",
+      "chromas": false
+    },
+    {
+      "id": "44017",
+      "name": "塔里克 · 辉盾 森林勇者",
+      "chromas": false
+    },
+    {
+      "id": "44018",
+      "name": "太空律动 “爱乐之子” 塔里克",
+      "chromas": true
+    },
+    {
+      "id": "44019",
+      "name": "“爱乐之子” 塔里克 小蓝的红色舞台",
+      "chromas": false
+    },
+    {
+      "id": "44020",
+      "name": "“爱乐之子” 塔里克 小紫的黄色舞台",
+      "chromas": false
+    },
+    {
+      "id": "44021",
+      "name": "“爱乐之子” 塔里克 小青的粉色舞台",
+      "chromas": false
+    },
+    {
+      "id": "44022",
+      "name": "“爱乐之子” 塔里克 小粉的青色舞台",
+      "chromas": false
+    },
+    {
+      "id": "44023",
+      "name": "“爱乐之子” 塔里克 小黄的蓝色舞台",
+      "chromas": false
+    },
+    {
+      "id": "44024",
+      "name": "“爱乐之子” 塔里克 小橙的绿色舞台",
+      "chromas": false
+    },
+    {
+      "id": "44025",
+      "name": "“爱乐之子” 塔里克 小彤的黑色舞台",
+      "chromas": false
+    },
+    {
+      "id": "44026",
+      "name": "“爱乐之子” 塔里克 小绿的彩虹舞台",
+      "chromas": false
+    },
+    {
+      "id": "44027",
+      "name": "逆命 塔里克",
+      "chromas": true
+    },
+    {
+      "id": "44028",
+      "name": "逆命 塔里克 英勇之命图",
+      "chromas": false
+    },
+    {
+      "id": "44029",
+      "name": "逆命 塔里克 乐观之命图",
+      "chromas": false
+    },
+    {
+      "id": "44030",
+      "name": "逆命 塔里克 智慧之命图",
+      "chromas": false
+    },
+    {
+      "id": "44031",
+      "name": "逆命 塔里克 无私之命图",
+      "chromas": false
+    },
+    {
+      "id": "44032",
+      "name": "逆命 塔里克 纯真之命图",
+      "chromas": false
+    },
+    {
+      "id": "44033",
+      "name": "逆命 塔里克 真诚之命图",
+      "chromas": false
+    },
+    {
+      "id": "44034",
+      "name": "逆命 塔里克 浪漫之命图",
+      "chromas": false
+    },
+    {
+      "id": "44035",
+      "name": "逆命 塔里克 刚毅之命图",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "正气凌人",
+    "description": "每次施放技能会强化塔里克的下2次普攻，以造成额外魔法伤害，使他的基础技能的冷却时间减少，并且可以快速地连续攻击。",
+    "image": "Taric_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "星光之触",
+      "description": "基于已储存的充能来治疗附近的友方英雄。【正气凌人】的强化普攻会为这个技能提供一层充能。",
+      "tooltip": "被动：每{{ stackcooldown }}秒和打出一次正气凌人攻击时获得一层效果(最多{{ e6 }}层)。主动：消耗所有层数来为附近的友方英雄们回复{{ healingperstack }}x层数的生命值(在{{ e6 }}层时回复{{ maxstackhealing }}生命值)。",
+      "cooldown": "3",
+      "cost": "60",
+      "costType": "法力值，所有充能数",
+      "range": "325",
+      "maxrank": 5,
+      "image": "TaricQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "坚毅壁垒",
+      "description": "被动提升塔里克和带有【坚毅壁垒】效果的友方英雄的护甲。主动施放会为一名友方英雄提供护盾和【坚毅壁垒】效果，只要该英雄呆在塔里克身边，【坚毅壁垒】效果会一直持续。塔里克的技能也会从带有【坚毅壁垒】效果的友方英雄身上施放。",
+      "tooltip": "被动：塔里克获得{{ bonusarmor }}护甲并在他和被此技能绑定过的友方英雄之间形成一条灵链。只要他们在彼此附近，该友方英雄就会获得{{ bonusarmor }}护甲并且塔里克的各个技能也会从他自己和该友方英雄处施放。主动：塔里克与一名友方英雄进行绑定，提供持续{{ e3 }}秒的{{ e2 }}%最大生命值的护盾值。",
+      "cooldown": "15",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "TaricW.png",
+      "key": "W"
+    },
+    {
+      "name": "炫光",
+      "description": "塔里克准备施放一束星光，在短暂的延迟后，会对敌人造成魔法伤害和晕眩效果。",
+      "tooltip": "塔里克投射一束星光，在{{ e3 }}秒后爆裂，以造成{{ totaldamage }}魔法伤害并使敌人们晕眩{{ e2 }}秒。",
+      "cooldown": "16/15/14/13/12",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "610",
+      "maxrank": 5,
+      "image": "TaricE.png",
+      "key": "E"
+    },
+    {
+      "name": "宇宙之辉",
+      "description": "在短暂的延迟后，放射一道宇宙能量到附近的友方英雄身上，让他们免疫伤害一段时间。",
+      "tooltip": "塔里克召唤来自天堂的保护。在{{ initialdelay }}秒后，附近的所有友方英雄都会免疫伤害{{ invulnduration }}秒。",
+      "cooldown": "180/150/120",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 3,
+      "image": "TaricR.png",
+      "key": "R"
+    }
+  ]
+}

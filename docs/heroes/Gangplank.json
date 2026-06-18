@@ -1,0 +1,302 @@
+{
+  "id": "Gangplank",
+  "championId": "41",
+  "name": "海洋之灾",
+  "title": "普朗克",
+  "region": "比尔吉沃特",
+  "blurb": "诡计多端、心狠手辣的普朗克是被废黜的强盗之王，他令人恐惧的名号广达远至。他一度是港口城市比尔吉沃特的统治者。虽然现在他的威权已经不再，但人们相信这只会让他变得更加可怖。普朗克若是知道有人要从他手中抢走比尔吉沃特，必然会大肆血洗这座城市。而如今有了火枪、弯刀，还有一桶桶的火药，他决心要夺回自己失去的东西。",
+  "tags": [
+    "战士"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 7,
+    "defense": 6,
+    "magic": 4,
+    "difficulty": 9
+  },
+  "stats": {
+    "hp": 630,
+    "hpPerLevel": 114,
+    "mp": 280,
+    "mpPerLevel": 60,
+    "movespeed": 345,
+    "armor": 31,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 64,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 3.2,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "41001",
+      "name": "幽灵船长 普朗克",
+      "chromas": false
+    },
+    {
+      "id": "41002",
+      "name": "老兵 普朗克",
+      "chromas": false
+    },
+    {
+      "id": "41003",
+      "name": "大力水手 普朗克",
+      "chromas": false
+    },
+    {
+      "id": "41004",
+      "name": "英勇玩具兵 普朗克",
+      "chromas": false
+    },
+    {
+      "id": "41005",
+      "name": "特种部队 普朗克",
+      "chromas": false
+    },
+    {
+      "id": "41006",
+      "name": "奥斯曼大帝 普朗克",
+      "chromas": false
+    },
+    {
+      "id": "41007",
+      "name": "昔日霸主 普朗克",
+      "chromas": false
+    },
+    {
+      "id": "41008",
+      "name": "恐惧新星 普朗克",
+      "chromas": true
+    },
+    {
+      "id": "41009",
+      "name": "恐惧新星 普朗克 “燃烧银河号”船长",
+      "chromas": false
+    },
+    {
+      "id": "41010",
+      "name": "恐惧新星 普朗克 “星河维序号”船长",
+      "chromas": false
+    },
+    {
+      "id": "41011",
+      "name": "恐惧新星 普朗克“贪婪黑洞号”船长",
+      "chromas": false
+    },
+    {
+      "id": "41012",
+      "name": "恐惧新星 普朗克“皇家私掠号”船长",
+      "chromas": false
+    },
+    {
+      "id": "41013",
+      "name": "恐惧新星 普朗克“夺命死星号”船长",
+      "chromas": false
+    },
+    {
+      "id": "41014",
+      "name": "泳池派对 普朗克",
+      "chromas": true
+    },
+    {
+      "id": "41015",
+      "name": "泳池派对 普朗克 黑夜闪耀者",
+      "chromas": false
+    },
+    {
+      "id": "41016",
+      "name": "泳池派对 普朗克 软饮嗜好者",
+      "chromas": false
+    },
+    {
+      "id": "41017",
+      "name": "泳池派对 普朗克 菠萝毁灭者",
+      "chromas": false
+    },
+    {
+      "id": "41018",
+      "name": "泳池派对 普朗克 海滩主宰者",
+      "chromas": false
+    },
+    {
+      "id": "41019",
+      "name": "泳池派对 普朗克 烧烤创造者",
+      "chromas": false
+    },
+    {
+      "id": "41020",
+      "name": "泳池派对 普朗克 彩环卫冕者",
+      "chromas": false
+    },
+    {
+      "id": "41021",
+      "name": "FPX 普朗克",
+      "chromas": true
+    },
+    {
+      "id": "41022",
+      "name": "FPX 普朗克 涅槃",
+      "chromas": false
+    },
+    {
+      "id": "41023",
+      "name": "背叛之刃 普朗克",
+      "chromas": true
+    },
+    {
+      "id": "41024",
+      "name": "背叛之刃 普朗克 勇敢",
+      "chromas": false
+    },
+    {
+      "id": "41025",
+      "name": "背叛之刃 普朗克 豪迈",
+      "chromas": false
+    },
+    {
+      "id": "41026",
+      "name": "背叛之刃 普朗克 顽强",
+      "chromas": false
+    },
+    {
+      "id": "41027",
+      "name": "背叛之刃 普朗克 霸气",
+      "chromas": false
+    },
+    {
+      "id": "41028",
+      "name": "背叛之刃 普朗克 冷静",
+      "chromas": false
+    },
+    {
+      "id": "41029",
+      "name": "背叛之刃 普朗克 不羁",
+      "chromas": false
+    },
+    {
+      "id": "41030",
+      "name": "背叛之刃 普朗克 无拘",
+      "chromas": false
+    },
+    {
+      "id": "41031",
+      "name": "背叛之刃 普朗克 果决",
+      "chromas": false
+    },
+    {
+      "id": "41032",
+      "name": "恐惧新星 普朗克 星间霸主",
+      "chromas": false
+    },
+    {
+      "id": "41033",
+      "name": "源计划：铁腕 普朗克",
+      "chromas": true
+    },
+    {
+      "id": "41034",
+      "name": "源计划：铁腕 普朗克 裂变",
+      "chromas": false
+    },
+    {
+      "id": "41035",
+      "name": "源计划：铁腕 普朗克 潜袭",
+      "chromas": false
+    },
+    {
+      "id": "41036",
+      "name": "源计划：铁腕 普朗克 破障",
+      "chromas": false
+    },
+    {
+      "id": "41037",
+      "name": "源计划：铁腕 普朗克 地覆",
+      "chromas": false
+    },
+    {
+      "id": "41038",
+      "name": "源计划：铁腕 普朗克 幻灭",
+      "chromas": false
+    },
+    {
+      "id": "41039",
+      "name": "源计划：铁腕 普朗克 冥火",
+      "chromas": false
+    },
+    {
+      "id": "41040",
+      "name": "源计划：铁腕 普朗克 暴走",
+      "chromas": false
+    },
+    {
+      "id": "41041",
+      "name": "源计划：铁腕 普朗克 雪崩",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "烈火审讯",
+    "description": "每过几秒，普朗克的近战攻击就会让他的对手着火。",
+    "image": "Gangplank_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "枪火谈判",
+      "description": "攻击目标，每击杀一个敌方单位时都会掠夺金币。",
+      "tooltip": "{{Spell_GangplankQWrapper_Tooltip_{{ gamemodeinteger }}}}",
+      "cooldown": "4.5",
+      "cost": "50/45/40/35/30",
+      "costType": " {{ abilityresourcename }}",
+      "range": "625",
+      "maxrank": 5,
+      "image": "GangplankQWrapper.png",
+      "key": "Q"
+    },
+    {
+      "name": "坏血病疗法",
+      "description": "吃掉柑橘类水果，来移除控制效果并回复生命值。",
+      "tooltip": "普朗克吃掉大量柑橘类水果，来移除所有限制效果并回复{{ basehealth }}外加{{ percentheal }}%已损失生命值。",
+      "cooldown": "22/20/18/16/14",
+      "cost": "60/70/80/90/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "GangplankW.png",
+      "key": "W"
+    },
+    {
+      "name": "火药桶",
+      "description": "普朗克在目标区域为一个火药桶开盖。如果他攻击火药桶，那么火药桶会爆炸，将这次攻击的伤害传播到范围内的敌人身上，并将他们减速。",
+      "tooltip": "普朗克放置一个可被普朗克和敌方英雄攻击的火药桶，该火药桶持续{{ barrelduration }}秒。当一名敌人将火药桶摧毁时，该火药桶会哑火。当普朗克将火药桶摧毁时，该火药桶会爆炸，造成持续{{ debuffduration }}秒的{{ finalslowamount }}%减速和相当于攻击力的伤害，并无视{{ barrelarmorpenetration }}%护甲。英雄会受到额外的{{ bonusdamagetochampions }}物理伤害。火药桶的生命值会每{{ barreldecaytime }}秒衰减一次。火药桶会引爆其它爆炸区域与它有重叠的火药桶，但不会重复对相同目标造成伤害。火药桶的爆炸可通过枪火谈判来触发并在击杀目标们时提供额外金币。",
+      "cooldown": "0",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "GangplankE.png",
+      "key": "E"
+    },
+    {
+      "name": "加农炮幕",
+      "description": "普朗克给他的船发信号，来轰炸一个区域，伤害并减速敌人。",
+      "tooltip": "普朗克给他的舰船发射信号弹，让它在{{ zoneduration }}秒里朝着目标区域持续发射共{{ totalwavestooltip }}波加农炮弹。每波炮弹造成持续{{ slowduration }}秒的{{ slowpercent }}%减速，并造成{{ onewavedamage }}魔法伤害。最大伤害：{{ totaldamagetooltip }}这个技能可在商店中用枪火谈判来升级。随意开火：发射6波额外的加农炮弹。死亡之女：发射一颗巨型加农炮弹，造成{{ deathsdaughterdamage }}真实伤害和持续{{ deathsdaughterslowduration }}秒的{{ deathsdaughterslow }}%减速。鼓舞士气：【加农炮幕】内的友军会获得持续{{ raisemoralehasteduration }}秒的{{ raisemoralehaste }}%移动速度。",
+      "cooldown": "160/140/120",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "30000",
+      "maxrank": 3,
+      "image": "GangplankR.png",
+      "key": "R"
+    }
+  ]
+}

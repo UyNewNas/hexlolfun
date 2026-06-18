@@ -1,0 +1,468 @@
+{
+  "id": "Ezreal",
+  "championId": "81",
+  "name": "探险家",
+  "title": "伊泽瑞尔",
+  "region": "皮尔特沃夫",
+  "blurb": "永远神采奕奕的冒险家伊泽瑞尔，拥有一种自己也不清楚因何而来的魔法天赋。他搜刮失落已久的古墓，触碰古老的诅咒，还总是举重若轻地挑战常人不可能完成的极限。他的勇气和壮举难以计数，总能随机应对一路上的各种状况——虽然一定程度上是因为他的小聪明，但更主要的是依赖于神秘的恕瑞玛护手——这件装备能在他的操控下射出破坏性的奥术爆弹。有一件事可以肯定——只要伊泽瑞尔出现，那么麻烦一定会接踵而至，虽迟不远，随时随地。",
+  "tags": [
+    "射手",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 7,
+    "defense": 2,
+    "magic": 6,
+    "difficulty": 7
+  },
+  "stats": {
+    "hp": 600,
+    "hpPerLevel": 102,
+    "mp": 375,
+    "mpPerLevel": 70,
+    "movespeed": 325,
+    "armor": 24,
+    "armorPerLevel": 4.2,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 4,
+    "hpregenPerLevel": 0.65,
+    "mpregen": 8.5,
+    "mpregenPerLevel": 1,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "81001",
+      "name": "冒险精神 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81002",
+      "name": "足球先生 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81003",
+      "name": "冰川勇者 伊泽瑞尔",
+      "chromas": true
+    },
+    {
+      "id": "81004",
+      "name": "失落的世界 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81005",
+      "name": "未来战士 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81006",
+      "name": "暗杀星 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81007",
+      "name": "光执事 伊泽瑞尔",
+      "chromas": true
+    },
+    {
+      "id": "81008",
+      "name": "黑桃皇牌 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81009",
+      "name": "电玩勇者 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81010",
+      "name": "名侦探 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81011",
+      "name": "怪盗 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81012",
+      "name": "鬼才漫画家 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81013",
+      "name": "皇家特工 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81014",
+      "name": "学生会长 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81015",
+      "name": "夜王 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81016",
+      "name": "天团 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81017",
+      "name": "搜查一课 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81018",
+      "name": "星之守护者 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81019",
+      "name": "SSG 伊泽瑞尔",
+      "chromas": true
+    },
+    {
+      "id": "81020",
+      "name": "睡衣守护者 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81021",
+      "name": "战斗学院 伊泽瑞尔",
+      "chromas": true
+    },
+    {
+      "id": "81022",
+      "name": "灵能特工 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81023",
+      "name": "至臻 灵能特工 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81025",
+      "name": "青花瓷 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81026",
+      "name": "青花瓷 伊泽瑞尔 牡丹",
+      "chromas": true
+    },
+    {
+      "id": "81027",
+      "name": "青花瓷 伊泽瑞尔 含苞",
+      "chromas": false
+    },
+    {
+      "id": "81028",
+      "name": "青花瓷 伊泽瑞尔 天青",
+      "chromas": false
+    },
+    {
+      "id": "81029",
+      "name": "青花瓷 伊泽瑞尔 芭蕉",
+      "chromas": false
+    },
+    {
+      "id": "81030",
+      "name": "青花瓷 伊泽瑞尔 月色",
+      "chromas": false
+    },
+    {
+      "id": "81031",
+      "name": "青花瓷 伊泽瑞尔 檀香",
+      "chromas": false
+    },
+    {
+      "id": "81032",
+      "name": "战斗学院 伊泽瑞尔 白金学长",
+      "chromas": false
+    },
+    {
+      "id": "81033",
+      "name": "花仙贵族 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81034",
+      "name": "花仙贵族 伊泽瑞尔 红漪",
+      "chromas": true
+    },
+    {
+      "id": "81035",
+      "name": "花仙贵族 伊泽瑞尔 荧光裳",
+      "chromas": false
+    },
+    {
+      "id": "81036",
+      "name": "花仙贵族 伊泽瑞尔 曙凤",
+      "chromas": false
+    },
+    {
+      "id": "81037",
+      "name": "花仙贵族 伊泽瑞尔 琉璃翠",
+      "chromas": false
+    },
+    {
+      "id": "81038",
+      "name": "花仙贵族 伊泽瑞尔 玫瑰水晶眼",
+      "chromas": false
+    },
+    {
+      "id": "81039",
+      "name": "花仙贵族 伊泽瑞尔 蓝闪",
+      "chromas": false
+    },
+    {
+      "id": "81040",
+      "name": "花仙贵族 伊泽瑞尔 翠蓝",
+      "chromas": false
+    },
+    {
+      "id": "81041",
+      "name": "花仙贵族 伊泽瑞尔 樟青",
+      "chromas": false
+    },
+    {
+      "id": "81042",
+      "name": "花仙贵族 伊泽瑞尔 迷人幻翼",
+      "chromas": false
+    },
+    {
+      "id": "81043",
+      "name": "心之钢 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81044",
+      "name": "天龙之子 伊泽瑞尔",
+      "chromas": true
+    },
+    {
+      "id": "81045",
+      "name": "心之钢 伊泽瑞尔 锐意曲风",
+      "chromas": true
+    },
+    {
+      "id": "81046",
+      "name": "心之钢 伊泽瑞尔 天纵才华",
+      "chromas": false
+    },
+    {
+      "id": "81047",
+      "name": "心之钢 伊泽瑞尔 超凡信心",
+      "chromas": false
+    },
+    {
+      "id": "81048",
+      "name": "心之钢 伊泽瑞尔 坚守决意",
+      "chromas": false
+    },
+    {
+      "id": "81049",
+      "name": "心之钢 伊泽瑞尔 华丽韵律",
+      "chromas": false
+    },
+    {
+      "id": "81050",
+      "name": "心之钢 伊泽瑞尔 本真风范",
+      "chromas": false
+    },
+    {
+      "id": "81051",
+      "name": "心之钢 伊泽瑞尔 典雅品味",
+      "chromas": false
+    },
+    {
+      "id": "81052",
+      "name": "心之钢 伊泽瑞尔 金声玉振",
+      "chromas": false
+    },
+    {
+      "id": "81053",
+      "name": "心之钢 伊泽瑞尔 摇滚明星",
+      "chromas": false
+    },
+    {
+      "id": "81054",
+      "name": "至臻 天龙之子 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81055",
+      "name": "天龙之子 伊泽瑞尔 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "81056",
+      "name": "天龙之子 伊泽瑞尔 祥龙献瑞",
+      "chromas": false
+    },
+    {
+      "id": "81057",
+      "name": "天龙之子 伊泽瑞尔 龙飞凤翔",
+      "chromas": false
+    },
+    {
+      "id": "81058",
+      "name": "天龙之子 伊泽瑞尔 蛟龙得水",
+      "chromas": false
+    },
+    {
+      "id": "81059",
+      "name": "天龙之子 伊泽瑞尔 矫若惊龙",
+      "chromas": false
+    },
+    {
+      "id": "81060",
+      "name": "天龙之子 伊泽瑞尔 龙行虎步",
+      "chromas": false
+    },
+    {
+      "id": "81061",
+      "name": "天龙之子 伊泽瑞尔 龙行天下",
+      "chromas": false
+    },
+    {
+      "id": "81062",
+      "name": "天龙之子 伊泽瑞尔 龙凤呈祥",
+      "chromas": false
+    },
+    {
+      "id": "81063",
+      "name": "天龙之子 伊泽瑞尔 赫赫龙威",
+      "chromas": false
+    },
+    {
+      "id": "81064",
+      "name": "天龙之子 伊泽瑞尔 云起龙骧",
+      "chromas": false
+    },
+    {
+      "id": "81065",
+      "name": "黑色玫瑰假面舞会 伊泽瑞尔",
+      "chromas": false
+    },
+    {
+      "id": "81066",
+      "name": "黑色玫瑰假面舞会 伊泽瑞尔 帝国假面",
+      "chromas": true
+    },
+    {
+      "id": "81067",
+      "name": "黑色玫瑰假面舞会 伊泽瑞尔 森林假面",
+      "chromas": false
+    },
+    {
+      "id": "81068",
+      "name": "黑色玫瑰假面舞会 伊泽瑞尔 虚无假面",
+      "chromas": false
+    },
+    {
+      "id": "81069",
+      "name": "黑色玫瑰假面舞会 伊泽瑞尔 海港假面",
+      "chromas": false
+    },
+    {
+      "id": "81070",
+      "name": "黑色玫瑰假面舞会 伊泽瑞尔 灵岛假面",
+      "chromas": false
+    },
+    {
+      "id": "81071",
+      "name": "黑色玫瑰假面舞会 伊泽瑞尔 山峰假面",
+      "chromas": false
+    },
+    {
+      "id": "81072",
+      "name": "黑色玫瑰假面舞会 伊泽瑞尔 丛林假面",
+      "chromas": false
+    },
+    {
+      "id": "81073",
+      "name": "黑色玫瑰假面舞会 伊泽瑞尔 极地假面",
+      "chromas": false
+    },
+    {
+      "id": "81074",
+      "name": "冰川勇者 伊泽瑞尔 至强",
+      "chromas": false
+    },
+    {
+      "id": "81075",
+      "name": "SSG 伊泽瑞尔 精锐",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "咒能高涨",
+    "description": "伊泽瑞尔的任何技能在击中目标后，都会提升他的攻击速度（最多可叠加5次）。",
+    "image": "Ezreal_RisingSpellForce.png"
+  },
+  "spells": [
+    {
+      "name": "秘术射击",
+      "description": "伊泽瑞尔发射一枚能量弹，如果它击中一个敌方单位，那么它将略微减少伊泽瑞尔所有技能的冷却时间。",
+      "tooltip": "伊泽瑞尔发射一支能量箭，对命中的第一个敌人造成{{ damage }}物理伤害并使他各个技能的冷却时间缩短{{ cdrefund }}秒。",
+      "cooldown": "5.5/5.25/5/4.75/4.5",
+      "cost": "28/31/34/37/40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1150",
+      "maxrank": 5,
+      "image": "EzrealQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "精华跃动",
+      "description": "伊泽瑞尔发射一个法球，法球会附着在命中的第一个敌方英雄或战略点上。如果伊泽瑞尔用技能或攻击命中一个法球时，会将它引爆来造成伤害。",
+      "tooltip": "伊泽瑞尔发射一团魔法球体，魔法球体会附着在命中的第一个敌方英雄、建筑物或史诗级野怪上，持续{{ detonationtimeout }}秒。如果伊泽瑞尔用技能或攻击命中该目标，就会将球体引爆，造成{{ damage }}魔法伤害。用技能引爆时会返还该技能的法力消耗外加{{ manareturn }}法力。",
+      "cooldown": "8",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1150",
+      "maxrank": 5,
+      "image": "EzrealW.png",
+      "key": "W"
+    },
+    {
+      "name": "奥术跃迁",
+      "description": "伊泽瑞尔传送到附近的目标区域，并向最近的敌人发射一束自动寻敌的魔法箭。优先选择被【精华跃动】击中的敌人。",
+      "tooltip": "伊泽瑞尔传送然后向最近的敌人发射一支魔法箭，造成{{ damage }}魔法伤害。魔法箭会优先选择受精华跃动影响的目标。",
+      "cooldown": "26/23/20/17/14",
+      "cost": "70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "475",
+      "maxrank": 5,
+      "image": "EzrealE.png",
+      "key": "E"
+    },
+    {
+      "name": "精准弹幕",
+      "description": "伊泽瑞尔蓄力然后向目标区域释放长程能量波，对穿过的敌人造成高额伤害（对小兵和非史诗级野怪的伤害会减少）。",
+      "tooltip": "伊泽瑞尔发射一道大型能量圆弧，造成{{ damage }}魔法伤害。对小兵和非史诗级野怪降低至{{ damageminionmonster }}魔法伤害。",
+      "cooldown": "120/105/90",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "25000",
+      "maxrank": 3,
+      "image": "EzrealR.png",
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "Kassadin",
+  "championId": "38",
+  "name": "虚空行者",
+  "title": "卡萨丁",
+  "region": "虚空之地",
+  "blurb": "在世界上最黑暗的地方，卡萨丁切出了一道燃烧的裂口，他知道自己已经时日无多。他曾是恕瑞玛地区的向导和冒险家，后来选择在恕瑞玛南方平静的部落中安家落户——直到那一天，他的村庄被虚空吞噬。卡萨丁发誓要报仇雪恨，于是整合了许多秘法器物和禁忌之术，以便应对前方的险阻。最后，卡萨丁动身前往艾卡西亚的废土，准备面对任何虚空的造物，寻找那位自封的先知，玛尔扎哈。",
+  "tags": [
+    "刺客",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 3,
+    "defense": 5,
+    "magic": 8,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 646,
+    "hpPerLevel": 113,
+    "mp": 400,
+    "mpPerLevel": 87,
+    "movespeed": 335,
+    "armor": 21,
+    "armorPerLevel": 4,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 150,
+    "attackdamage": 59,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.64,
+    "attackspeedPerLevel": 3.7,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 6,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "38001",
+      "name": "寒冰王座 卡萨丁",
+      "chromas": false
+    },
+    {
+      "id": "38002",
+      "name": "深海一号 卡萨丁",
+      "chromas": false
+    },
+    {
+      "id": "38003",
+      "name": "虚空前世 卡萨丁",
+      "chromas": false
+    },
+    {
+      "id": "38004",
+      "name": "先驱行者 卡萨丁",
+      "chromas": false
+    },
+    {
+      "id": "38005",
+      "name": "掠星魔刃 卡萨丁",
+      "chromas": false
+    },
+    {
+      "id": "38006",
+      "name": "伯爵 卡萨丁",
+      "chromas": true
+    },
+    {
+      "id": "38008",
+      "name": "伯爵 卡萨丁 勒森布拉",
+      "chromas": false
+    },
+    {
+      "id": "38009",
+      "name": "伯爵 卡萨丁 乔凡尼",
+      "chromas": false
+    },
+    {
+      "id": "38010",
+      "name": "伯爵 卡萨丁 迈卡维",
+      "chromas": false
+    },
+    {
+      "id": "38011",
+      "name": "伯爵 卡萨丁 冈格罗",
+      "chromas": false
+    },
+    {
+      "id": "38012",
+      "name": "伯爵 卡萨丁 阿萨麦特",
+      "chromas": false
+    },
+    {
+      "id": "38013",
+      "name": "伯爵 卡萨丁 布鲁赫",
+      "chromas": false
+    },
+    {
+      "id": "38014",
+      "name": "海克斯科技 卡萨丁",
+      "chromas": false
+    },
+    {
+      "id": "38015",
+      "name": "冲击之刃 卡萨丁",
+      "chromas": false
+    },
+    {
+      "id": "38016",
+      "name": "冲击之刃 卡萨丁 红猿",
+      "chromas": true
+    },
+    {
+      "id": "38017",
+      "name": "冲击之刃 卡萨丁 黄熊",
+      "chromas": false
+    },
+    {
+      "id": "38018",
+      "name": "冲击之刃 卡萨丁 绿蛇",
+      "chromas": false
+    },
+    {
+      "id": "38019",
+      "name": "冲击之刃 卡萨丁 紫鸦",
+      "chromas": false
+    },
+    {
+      "id": "38020",
+      "name": "冲击之刃 卡萨丁 粉猫",
+      "chromas": false
+    },
+    {
+      "id": "38021",
+      "name": "冲击之刃 卡萨丁 青狐",
+      "chromas": false
+    },
+    {
+      "id": "38022",
+      "name": "冲击之刃 卡萨丁 黑蟾",
+      "chromas": false
+    },
+    {
+      "id": "38023",
+      "name": "冲击之刃 卡萨丁 白鹤",
+      "chromas": false
+    },
+    {
+      "id": "38024",
+      "name": "神龙尊者 星界之龙 卡萨丁",
+      "chromas": false
+    },
+    {
+      "id": "38025",
+      "name": "神龙尊者 星界之龙 卡萨丁 登龙",
+      "chromas": true
+    },
+    {
+      "id": "38026",
+      "name": "神龙尊者 星界之龙 卡萨丁 玄黄",
+      "chromas": false
+    },
+    {
+      "id": "38027",
+      "name": "神龙尊者 星界之龙 卡萨丁 碧漪",
+      "chromas": false
+    },
+    {
+      "id": "38028",
+      "name": "神龙尊者 星界之龙 卡萨丁 望霞",
+      "chromas": false
+    },
+    {
+      "id": "38029",
+      "name": "神龙尊者 星界之龙 卡萨丁 集仙",
+      "chromas": false
+    },
+    {
+      "id": "38030",
+      "name": "神龙尊者 星界之龙 卡萨丁 摘星",
+      "chromas": false
+    },
+    {
+      "id": "38031",
+      "name": "神龙尊者 星界之龙 卡萨丁 朝云",
+      "chromas": false
+    },
+    {
+      "id": "38032",
+      "name": "神龙尊者 星界之龙 卡萨丁 松峦",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "虚空之石",
+    "description": "卡萨丁所受的魔法伤害减少，并无视单位的碰撞体积。",
+    "image": "Kassadin_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "虚无法球",
+      "description": "卡萨丁向目标发射虚空能量法球，造成伤害并打断目标的技能引导。满溢的能量会在他身边环绕，提供一个可吸收魔法伤害的临时护盾。",
+      "tooltip": "卡萨丁发射一颗虚无能量法球，造成{{ totaldamage }}魔法伤害并打断引导技能。卡萨丁还会获得{{ totalshield }}魔法护盾，持续1.5秒。",
+      "cooldown": "10/9.5/9/8.5/8",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "NullLance.png",
+      "key": "Q"
+    },
+    {
+      "name": "虚空之刃",
+      "description": "被动：卡萨丁的普通攻击会造成额外魔法伤害。主动：卡萨丁的下次普通攻击会造成显著的额外魔法伤害并回复法力值。",
+      "tooltip": "被动：卡萨丁的攻击造成额外的{{ onhitdamage }}魔法伤害。主动：卡萨丁给他的剑刃充能，使他的下次攻击造成{{ activedamage }}魔法伤害并回复{{ missingmanaratio }}%已损失法力值，对抗英雄时提升至{{ championmissingmanaratio }}%。",
+      "cooldown": "7",
+      "cost": "1",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1",
+      "maxrank": 5,
+      "image": "NetherBlade.png",
+      "key": "W"
+    },
+    {
+      "name": "能量脉冲",
+      "description": "附近有单位施放法术技能时，卡萨丁将吸收能量，当充能完毕后，吸收的能量可转化为脉冲，对面前锥形区域内敌人造成伤害并减速。",
+      "tooltip": "被动：卡萨丁附近每有任一个技能施放，能量脉冲的冷却时间就会缩短{{ reductionperspellcast }}秒。主动：卡萨丁释放一道虚空脉冲，造成{{ totaldamage }}魔法伤害和持续{{ e3 }}秒的{{ e2 }}%减速。",
+      "cooldown": "21/20/19/18/17",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "ForcePulse.png",
+      "key": "E"
+    },
+    {
+      "name": "虚空行走",
+      "description": "卡萨丁传送到附近区域，对区域内的敌方单位造成伤害。 在一段时间内连续施放虚空行走技能会消耗更多的法力值，但也会造成额外伤害。",
+      "tooltip": "卡萨丁传送到附近的目标区域，着陆时对身边的所有敌方单位造成{{ basedamage }}魔法伤害。每在{{ rstackduration }}秒内连续施放一次虚空行走，法力消耗就会翻倍，并造成额外的{{ bonusdamage }}魔法伤害。消耗和伤害提升最多可叠加{{ maxstacks }}次。",
+      "cooldown": "5/3.5/2",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "500",
+      "maxrank": 3,
+      "image": "RiftWalk.png",
+      "key": "R"
+    }
+  ]
+}

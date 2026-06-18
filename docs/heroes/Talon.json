@@ -1,0 +1,392 @@
+{
+  "id": "Talon",
+  "championId": "91",
+  "name": "刀锋之影",
+  "title": "泰隆",
+  "region": "诺克萨斯",
+  "blurb": "泰隆是黑暗中的匕首，是绝无仁慈的杀手，他出手前不会有任何警告，不会留任何退路，也不会引起任何警觉。泰隆在诺克萨斯的野蛮街巷中深深烙印了自己危险的名号，在这里他被迫为了生存而战斗、杀戮、偷窃。后来恶名昭彰的杜·克卡奥家族收养了他，现在他为帝国的指挥部贡献自己的夺命手段，暗杀敌人的领袖、军官和英雄，当然也包括任何得罪了最高长官们的诺克萨斯蠢货。",
+  "tags": [
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 9,
+    "defense": 3,
+    "magic": 1,
+    "difficulty": 7
+  },
+  "stats": {
+    "hp": 658,
+    "hpPerLevel": 109,
+    "mp": 400,
+    "mpPerLevel": 37,
+    "movespeed": 335,
+    "armor": 30,
+    "armorPerLevel": 4.7,
+    "spellblock": 36,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 68,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2.9,
+    "hpregen": 8.5,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 7.6,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "91001",
+      "name": "刺客信条 泰隆",
+      "chromas": false
+    },
+    {
+      "id": "91002",
+      "name": "血色精锐 泰隆",
+      "chromas": false
+    },
+    {
+      "id": "91003",
+      "name": "银龙裁决 泰隆",
+      "chromas": true
+    },
+    {
+      "id": "91004",
+      "name": "SSW 泰隆",
+      "chromas": false
+    },
+    {
+      "id": "91005",
+      "name": "腥红之月 泰隆",
+      "chromas": false
+    },
+    {
+      "id": "91006",
+      "name": "银龙裁决 泰隆 锦衣卫",
+      "chromas": false
+    },
+    {
+      "id": "91007",
+      "name": "银龙裁决 泰隆 锦衣夜行",
+      "chromas": false
+    },
+    {
+      "id": "91008",
+      "name": "银龙裁决 泰隆 碧玉幻影",
+      "chromas": false
+    },
+    {
+      "id": "91009",
+      "name": "银龙裁决 泰隆 夜中血影",
+      "chromas": false
+    },
+    {
+      "id": "91010",
+      "name": "银龙裁决 泰隆 昼行死神",
+      "chromas": false
+    },
+    {
+      "id": "91011",
+      "name": "银龙裁决 泰隆 冷血寒锋",
+      "chromas": false
+    },
+    {
+      "id": "91012",
+      "name": "玉剑传说 无影",
+      "chromas": true
+    },
+    {
+      "id": "91013",
+      "name": "玉剑传说 无影 舍神",
+      "chromas": false
+    },
+    {
+      "id": "91014",
+      "name": "玉剑传说 无影 竞星",
+      "chromas": false
+    },
+    {
+      "id": "91015",
+      "name": "玉剑传说 无影 日月",
+      "chromas": false
+    },
+    {
+      "id": "91016",
+      "name": "玉剑传说 无影 青干",
+      "chromas": false
+    },
+    {
+      "id": "91017",
+      "name": "玉剑传说 无影 游龙",
+      "chromas": false
+    },
+    {
+      "id": "91018",
+      "name": "玉剑传说 无影 天瀑",
+      "chromas": false
+    },
+    {
+      "id": "91019",
+      "name": "玉剑传说 无影 莫问",
+      "chromas": false
+    },
+    {
+      "id": "91020",
+      "name": "泰隆 · 黑木",
+      "chromas": true
+    },
+    {
+      "id": "91021",
+      "name": "泰隆 · 黑木 白夜勇者",
+      "chromas": false
+    },
+    {
+      "id": "91022",
+      "name": "泰隆 · 黑木 海洋勇者",
+      "chromas": false
+    },
+    {
+      "id": "91023",
+      "name": "泰隆 · 黑木 大地勇者",
+      "chromas": false
+    },
+    {
+      "id": "91024",
+      "name": "泰隆 · 黑木 烈焰勇者",
+      "chromas": false
+    },
+    {
+      "id": "91025",
+      "name": "泰隆 · 黑木 梦境勇者",
+      "chromas": false
+    },
+    {
+      "id": "91026",
+      "name": "泰隆 · 黑木 辉刃勇者",
+      "chromas": false
+    },
+    {
+      "id": "91027",
+      "name": "泰隆 · 黑木 森林勇者",
+      "chromas": false
+    },
+    {
+      "id": "91028",
+      "name": "泰隆 · 黑木 绿萼勇者",
+      "chromas": false
+    },
+    {
+      "id": "91029",
+      "name": "幽梦玫瑰 泰隆",
+      "chromas": true
+    },
+    {
+      "id": "91030",
+      "name": "幽梦玫瑰 泰隆 热烈花蕾",
+      "chromas": false
+    },
+    {
+      "id": "91031",
+      "name": "幽梦玫瑰 泰隆 倾心花蕾",
+      "chromas": false
+    },
+    {
+      "id": "91032",
+      "name": "幽梦玫瑰 泰隆 痴心花蕾",
+      "chromas": false
+    },
+    {
+      "id": "91033",
+      "name": "幽梦玫瑰 泰隆 真挚花蕾",
+      "chromas": false
+    },
+    {
+      "id": "91034",
+      "name": "幽梦玫瑰 泰隆 浪漫花蕾",
+      "chromas": false
+    },
+    {
+      "id": "91035",
+      "name": "幽梦玫瑰 泰隆 憧憬花蕾",
+      "chromas": false
+    },
+    {
+      "id": "91036",
+      "name": "幽梦玫瑰 泰隆 甜蜜花蕾",
+      "chromas": false
+    },
+    {
+      "id": "91037",
+      "name": "幽梦玫瑰 泰隆 纯洁花蕾",
+      "chromas": false
+    },
+    {
+      "id": "91038",
+      "name": "西部魔影 猎天使恶魔 泰隆",
+      "chromas": true
+    },
+    {
+      "id": "91039",
+      "name": "至臻 西部魔影 猎天使恶魔 泰隆",
+      "chromas": false
+    },
+    {
+      "id": "91040",
+      "name": "西部魔影 猎天使恶魔 泰隆 温和",
+      "chromas": false
+    },
+    {
+      "id": "91041",
+      "name": "西部魔影 猎天使恶魔 泰隆 慷慨",
+      "chromas": false
+    },
+    {
+      "id": "91042",
+      "name": "西部魔影 猎天使恶魔 泰隆 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "91043",
+      "name": "西部魔影 猎天使恶魔 泰隆 节制",
+      "chromas": false
+    },
+    {
+      "id": "91044",
+      "name": "西部魔影 猎天使恶魔 泰隆 诚实",
+      "chromas": false
+    },
+    {
+      "id": "91045",
+      "name": "西部魔影 猎天使恶魔 泰隆 善良",
+      "chromas": false
+    },
+    {
+      "id": "91046",
+      "name": "西部魔影 猎天使恶魔 泰隆 谦卑",
+      "chromas": false
+    },
+    {
+      "id": "91047",
+      "name": "西部魔影 猎天使恶魔 泰隆 纯洁",
+      "chromas": false
+    },
+    {
+      "id": "91048",
+      "name": "西部魔影 猎天使恶魔 泰隆 虔信",
+      "chromas": false
+    },
+    {
+      "id": "91049",
+      "name": "伏虎之力 泰隆",
+      "chromas": true
+    },
+    {
+      "id": "91050",
+      "name": "银龙裁决 泰隆 潜龙在渊",
+      "chromas": false
+    },
+    {
+      "id": "91051",
+      "name": "伏虎之力 泰隆 旺盛战意",
+      "chromas": false
+    },
+    {
+      "id": "91052",
+      "name": "伏虎之力 泰隆 兽王威仪",
+      "chromas": false
+    },
+    {
+      "id": "91053",
+      "name": "伏虎之力 泰隆 虎啸风生",
+      "chromas": false
+    },
+    {
+      "id": "91054",
+      "name": "伏虎之力 泰隆 原初直觉",
+      "chromas": false
+    },
+    {
+      "id": "91055",
+      "name": "伏虎之力 泰隆 如虎添翼",
+      "chromas": false
+    },
+    {
+      "id": "91056",
+      "name": "伏虎之力 泰隆 无形震慑",
+      "chromas": false
+    },
+    {
+      "id": "91057",
+      "name": "伏虎之力 泰隆 瑞兽灵光",
+      "chromas": false
+    },
+    {
+      "id": "91058",
+      "name": "伏虎之力 泰隆 灵兽之仁",
+      "chromas": false
+    },
+    {
+      "id": "91059",
+      "name": "最高清算 泰隆",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "刀锋之末",
+    "description": "泰隆的技能会创伤英雄和大型野怪，可叠加3层。当泰隆用普攻攻击一个带有3层创伤效果的目标时，目标会流血，受到重度的持续伤害。",
+    "image": "TalonP.png"
+  },
+  "spells": [
+    {
+      "name": "诺克萨斯式外交",
+      "description": "泰隆戳刺目标单位。如果目标在近战距离之内，那么这次攻击会造成致命伤害。如果目标在近战距离之外，那么泰隆将会跃向他的目标然后戳刺目标。如果这个技能击杀了泰隆的目标，那么就会返还给泰隆一些生命值和冷却时间。",
+      "tooltip": "泰隆跃向一个目标并造成{{ leapdamage }}物理伤害。如果在近战距离内使用，那么这个技能会转而进行暴击，造成{{ criticaldamage }}物理伤害。如果这个技能击杀了目标，那么泰隆会回复{{ totalhealing }}生命值并返还{{ cooldownrefund*100 }}%冷却时间。",
+      "cooldown": "8/7.5/7/6.5/6",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "575",
+      "maxrank": 5,
+      "image": "TalonQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "斩草除根",
+      "description": "泰隆放出一排匕首，随后匕首会返回泰隆处，匕首每次穿过敌人时都会造成物理伤害。返程的匕首会造成额外伤害并使被命中的目标减速。",
+      "tooltip": "泰隆扔出一排刀刃，造成{{ totalinitialdamage }}物理伤害。然后刀刃会折返，造成{{ totalreturndamage }}额外物理伤害和持续{{ slowduration }}秒的{{ movespeedslow*100 }}%减速。",
+      "cooldown": "9/8.5/8/7.5/7",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "TalonW.png",
+      "key": "W"
+    },
+    {
+      "name": "刺客之道",
+      "description": "泰隆翻越任何地形或建筑物，有一个最大距离。这个技能的冷却时间很短，但是需要很长一段时间后才能再次翻越已经翻越过的地形。",
+      "tooltip": "泰隆翻越相距最近的地形或建筑物。泰隆无法在{{ wallcd }}秒里重复翻越相同地区的地形。",
+      "cooldown": "0",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "725",
+      "maxrank": 5,
+      "image": "TalonE.png",
+      "key": "E"
+    },
+    {
+      "name": "暗影突袭",
+      "description": "泰隆散出一圈刀刃并变为隐形状态，同时获得额外移动速度。当泰隆从隐形状态下现身时，刀刃会汇聚向泰隆处。刀刃的每段移动，都会让暗影突袭对被至少一枚刀刃命中的敌人造成物理伤害。",
+      "tooltip": "泰隆散出一圈刀刃，造成{{ damage }}物理伤害，获得{{ movespeed*100 }}%移动速度，并且变为隐形状态，持续{{ duration }}秒。当隐形状态结束时，刀刃会折返至泰隆处，再次造成{{ damage }}物理伤害。如果泰隆用一次攻击或诺克萨斯式外交取消掉隐形状态，那么刀刃会转而折返至目标处。",
+      "cooldown": "100/80/60",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "550",
+      "maxrank": 3,
+      "image": "TalonR.png",
+      "key": "R"
+    }
+  ]
+}

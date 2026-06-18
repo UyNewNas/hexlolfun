@@ -1,0 +1,332 @@
+{
+  "id": "Gwen",
+  "championId": "887",
+  "name": "灵罗娃娃",
+  "title": "格温",
+  "region": "暗影岛",
+  "blurb": "格温是一个被魔法赋予了生命的玩偶，而她所挥使的正是当初创造了她自己的工具。格温无比珍惜这份机缘，踏出的每一步都承载着曾经主人的爱意。格温拥有控制“圣霭”的能力。这是一种来自远古的庇护性法术，她的剪刀、衣针和缝线都因圣霭而得到了庇佑。即便有这么多新奇的事物等待着格温，她既感到兴奋，但又带着强烈的使命感，决心拯救在这个破碎世界里艰难挣扎的人们。",
+  "tags": [
+    "战士"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 7,
+    "defense": 4,
+    "magic": 5,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 620,
+    "hpPerLevel": 115,
+    "mp": 330,
+    "mpPerLevel": 40,
+    "movespeed": 340,
+    "armor": 39,
+    "armorPerLevel": 4.9,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 150,
+    "attackdamage": 63,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.69,
+    "attackspeedPerLevel": 2.25,
+    "hpregen": 9,
+    "hpregenPerLevel": 0.9,
+    "mpregen": 7.5,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "887001",
+      "name": "太空律动 “百万调音” 格温",
+      "chromas": true
+    },
+    {
+      "id": "887002",
+      "name": "“百万调音” 格温 我也来开团",
+      "chromas": false
+    },
+    {
+      "id": "887003",
+      "name": "“百万调音” 格温 我也来探草",
+      "chromas": false
+    },
+    {
+      "id": "887004",
+      "name": "“百万调音” 格温 我也来补车",
+      "chromas": false
+    },
+    {
+      "id": "887005",
+      "name": "“百万调音” 格温 我也来游走",
+      "chromas": false
+    },
+    {
+      "id": "887006",
+      "name": "“百万调音” 格温 我也来推塔",
+      "chromas": false
+    },
+    {
+      "id": "887007",
+      "name": "“百万调音” 格温 我也来空大",
+      "chromas": false
+    },
+    {
+      "id": "887008",
+      "name": "“百万调音” 格温 我也来回城",
+      "chromas": false
+    },
+    {
+      "id": "887009",
+      "name": "“百万调音” 格温 我也来发呆",
+      "chromas": false
+    },
+    {
+      "id": "887010",
+      "name": "“百万调音” 格温 我也来走错",
+      "chromas": false
+    },
+    {
+      "id": "887011",
+      "name": "咖啡甜心 格温",
+      "chromas": true
+    },
+    {
+      "id": "887012",
+      "name": "咖啡甜心 格温 草莓戚风",
+      "chromas": false
+    },
+    {
+      "id": "887013",
+      "name": "咖啡甜心 格温 吉子芝士",
+      "chromas": false
+    },
+    {
+      "id": "887014",
+      "name": "咖啡甜心 格温 抹茶巧克力",
+      "chromas": false
+    },
+    {
+      "id": "887015",
+      "name": "咖啡甜心 格温 香草忌廉",
+      "chromas": false
+    },
+    {
+      "id": "887016",
+      "name": "咖啡甜心 格温 薄荷雪拔",
+      "chromas": false
+    },
+    {
+      "id": "887017",
+      "name": "咖啡甜心 格温 酒醉樱桃",
+      "chromas": false
+    },
+    {
+      "id": "887018",
+      "name": "咖啡甜心 格温 焦糖布丁",
+      "chromas": false
+    },
+    {
+      "id": "887019",
+      "name": "咖啡甜心 格温 核桃巴菲",
+      "chromas": false
+    },
+    {
+      "id": "887020",
+      "name": "斗魂觉醒 格温",
+      "chromas": true
+    },
+    {
+      "id": "887021",
+      "name": "斗魂觉醒 格温 烈之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "887022",
+      "name": "斗魂觉醒 格温 毅之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "887023",
+      "name": "斗魂觉醒 格温 狡之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "887024",
+      "name": "斗魂觉醒 格温 韧之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "887025",
+      "name": "斗魂觉醒 格温 飒之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "887026",
+      "name": "斗魂觉醒 格温 魅之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "887027",
+      "name": "斗魂觉醒 格温 幻之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "887028",
+      "name": "斗魂觉醒 格温 灵之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "887029",
+      "name": "斗魂觉醒 格温 无限斗志",
+      "chromas": false
+    },
+    {
+      "id": "887030",
+      "name": "女帝 格温",
+      "chromas": true
+    },
+    {
+      "id": "887031",
+      "name": "女帝 格温 纹章之刻印·英勇",
+      "chromas": false
+    },
+    {
+      "id": "887032",
+      "name": "女帝 格温 纹章之刻印·坚毅",
+      "chromas": false
+    },
+    {
+      "id": "887033",
+      "name": "女帝 格温 纹章之刻印·果决",
+      "chromas": false
+    },
+    {
+      "id": "887034",
+      "name": "女帝 格温 纹章之刻印·强运",
+      "chromas": false
+    },
+    {
+      "id": "887035",
+      "name": "女帝 格温 纹章之刻印·威风",
+      "chromas": false
+    },
+    {
+      "id": "887036",
+      "name": "女帝 格温 纹章之刻印·飒爽",
+      "chromas": false
+    },
+    {
+      "id": "887037",
+      "name": "女帝 格温 纹章之刻印·深谋",
+      "chromas": false
+    },
+    {
+      "id": "887038",
+      "name": "女帝 格温 纹章之刻印·敏锐",
+      "chromas": false
+    },
+    {
+      "id": "887039",
+      "name": "青蛙雨衣 格温",
+      "chromas": true
+    },
+    {
+      "id": "887040",
+      "name": "青蛙雨衣 格温 红雨",
+      "chromas": false
+    },
+    {
+      "id": "887041",
+      "name": "青蛙雨衣 格温 沁雨",
+      "chromas": false
+    },
+    {
+      "id": "887042",
+      "name": "青蛙雨衣 格温 烟雨",
+      "chromas": false
+    },
+    {
+      "id": "887043",
+      "name": "青蛙雨衣 格温 梦雨",
+      "chromas": false
+    },
+    {
+      "id": "887044",
+      "name": "青蛙雨衣 格温 豪雨",
+      "chromas": false
+    },
+    {
+      "id": "887045",
+      "name": "青蛙雨衣 格温 桃雨",
+      "chromas": false
+    },
+    {
+      "id": "887046",
+      "name": "青蛙雨衣 格温 丝雨",
+      "chromas": false
+    },
+    {
+      "id": "887047",
+      "name": "青蛙雨衣 格温 夜雨",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "千穿百孔",
+    "description": "格温的攻击会造成基于目标生命值的额外魔法伤害。她自身会获得治疗效果，数额相当于这个效果对英雄造成的一部分伤害值。",
+    "image": "Gwen_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "快刀剪乱",
+      "description": "格温在一个锥形区域剪切她的剪刀至多6次，来造成魔法伤害。格温的每次剪切会对中心区域的敌人造成真实伤害并对它们施加她的被动技能。",
+      "tooltip": "被动：格温的每次攻击在命中敌人时会获得1层充能， (最大4层，持续{{ buffduration }}秒)。主动：消耗全部充能。格温进行(1+充能层数)次剪切，每次剪切造成{{ miniswipedamage }}魔法伤害，然后进行最终剪切来造成{{ finalswipedamage }}魔法伤害。对每次剪切的中心区域的敌人们造成的伤害将有{{ truedamageconversion*100 }}%转化为真实伤害，并对其施加千穿百孔。对小兵造成{{ minionmod*100 }}%伤害。低于{{ executethreshold*100 }}%生命值的小兵们会受到{{ executebonus }}%额外伤害而非削减过的伤害。",
+      "cooldown": "6.5/5.75/5/4.25/3.5",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "450",
+      "maxrank": 5,
+      "image": "GwenQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "丝缕缠流",
+      "description": "格温召唤圣霭来保护她免受圣霭外敌人的进攻。她只会被进入圣霭内的敌人们选为目标。",
+      "tooltip": "格温召唤圣霭结界，使她对结界之外的所有敌人(防御塔除外)来说处于无法被选取状态，持续{{ zoneduration }}秒或直到她离开结界为止。在结界中，格温获得{{ totalresists }}护甲和魔法抗性。格温可以再次施放这个技能，来将结界召唤到她所在的位置，但只有1次机会。格温在第一次尝试离开结界时会自动进行再次施放。",
+      "cooldown": "22/21/20/19/18",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "0",
+      "maxrank": 5,
+      "image": "GwenW.png",
+      "key": "W"
+    },
+    {
+      "name": "断续疾走",
+      "description": "格温冲刺一小段距离然后获得攻击速度、攻击距离和魔法伤害攻击特效，持续若干秒。如果她在此期间命中了一个敌人，那么这个技能的冷却时间会获得部分返还。",
+      "tooltip": "格温冲刺并强化她的攻击{{ buffduration }}秒。强化攻击获得{{ bonusattackspeed }}攻击速度，{{ onhitdamage }}附加魔法伤害%i:OnHit% 攻击特效，{{ bonusattackrange }}攻击距离，并且首次攻击在命中一名敌人时会返还此技能{{ cdrefund*100 }}%冷却时间。",
+      "cooldown": "13/12.5/12/11.5/11",
+      "cost": "35",
+      "costType": " {{ abilityresourcename }}",
+      "range": "400",
+      "maxrank": 5,
+      "image": "GwenE.png",
+      "key": "E"
+    },
+    {
+      "name": "引针簇射",
+      "description": "格温掷出一根针来对命中的敌人们造成减速、魔法伤害，并对命中的英雄们施加【千穿百孔】。这个技能至多可进行2段再次施放，每一段再次施放都会投掷更多的针，并造成更多伤害。",
+      "tooltip": "第一段施放：掷出一根针来对命中的所有敌人造成{{ totaldamage }}魔法伤害，以及持续{{ debuffduration }}秒的{{ initialslow*-100 }}%减速，并施加千穿百孔。格温可以在6秒内再次施放这个技能至多2次(每次施放之间的冷却时间为{{ lockouttime }}秒)。第二段施放：发射3根针来造成{{ totaldamage3 }}魔法伤害第三段施放：发射5根针来造成{{ totaldamage5 }}魔法伤害",
+      "cooldown": "120/100/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1200",
+      "maxrank": 3,
+      "image": "GwenR.png",
+      "key": "R"
+    }
+  ]
+}

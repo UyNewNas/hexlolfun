@@ -1,0 +1,313 @@
+{
+  "id": "Gnar",
+  "championId": "150",
+  "name": "迷失之牙",
+  "title": "纳尔",
+  "region": "弗雷尔卓德",
+  "blurb": "纳尔是一个原始约德尔人，讨人喜爱的小个子突然发起脾气来，就会变成一头巨大的野兽，脑海中只剩下破坏的念头。纳尔被臻冰冻结了数千年，如今他重获自由。这个面目全非的世界，在他充满好奇的眼里处处都是新鲜奇妙。因为纳尔在危险中会特别兴奋，所以他会随便抓起任何东西丢向自己的敌人，无论是他的骨齿回力标，还是手边的大房子。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "怒气",
+  "info": {
+    "attack": 6,
+    "defense": 5,
+    "magic": 5,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 540,
+    "hpPerLevel": 79,
+    "mp": 100,
+    "mpPerLevel": 0,
+    "movespeed": 335,
+    "armor": 32,
+    "armorPerLevel": 3.7,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 175,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 6,
+    "hpregen": 4.5,
+    "hpregenPerLevel": 1.25,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "150001",
+      "name": "最后一只恐龙 纳尔",
+      "chromas": true
+    },
+    {
+      "id": "150002",
+      "name": "萌侦探 喵尔摩斯",
+      "chromas": false
+    },
+    {
+      "id": "150003",
+      "name": "冰雪兽 纳尔",
+      "chromas": false
+    },
+    {
+      "id": "150004",
+      "name": "狂狮 纳尔",
+      "chromas": false
+    },
+    {
+      "id": "150005",
+      "name": "最后一只恐龙 纳尔 睿智蓝宝石龙",
+      "chromas": false
+    },
+    {
+      "id": "150006",
+      "name": "最后一只恐龙 纳尔 浪漫粉晶龙",
+      "chromas": false
+    },
+    {
+      "id": "150007",
+      "name": "最后一只恐龙 纳尔 好运猫眼石龙",
+      "chromas": false
+    },
+    {
+      "id": "150008",
+      "name": "最后一只恐龙 纳尔 吉祥珍珠龙",
+      "chromas": false
+    },
+    {
+      "id": "150009",
+      "name": "最后一只恐龙 纳尔 神秘星钻龙",
+      "chromas": false
+    },
+    {
+      "id": "150010",
+      "name": "最后一只恐龙 纳尔 驱邪橄榄石龙",
+      "chromas": false
+    },
+    {
+      "id": "150011",
+      "name": "最后一只恐龙 纳尔 福佑海蓝宝石龙",
+      "chromas": false
+    },
+    {
+      "id": "150012",
+      "name": "最后一只恐龙 纳尔 和谐紫水晶龙",
+      "chromas": false
+    },
+    {
+      "id": "150013",
+      "name": "银河魔装机神 纳尔",
+      "chromas": false
+    },
+    {
+      "id": "150014",
+      "name": "SSG 纳尔",
+      "chromas": true
+    },
+    {
+      "id": "150015",
+      "name": "宇航员 纳尔",
+      "chromas": true
+    },
+    {
+      "id": "150016",
+      "name": "宇航员 纳尔 平坦宇宙",
+      "chromas": false
+    },
+    {
+      "id": "150017",
+      "name": "宇航员 纳尔 重力弹弓",
+      "chromas": false
+    },
+    {
+      "id": "150018",
+      "name": "宇航员 纳尔 万有引力",
+      "chromas": false
+    },
+    {
+      "id": "150019",
+      "name": "宇航员 纳尔 月球漫步",
+      "chromas": false
+    },
+    {
+      "id": "150020",
+      "name": "宇航员 纳尔 原行星盘",
+      "chromas": false
+    },
+    {
+      "id": "150021",
+      "name": "宇航员 纳尔 无尽永前",
+      "chromas": false
+    },
+    {
+      "id": "150022",
+      "name": "永恒之森 纳尔",
+      "chromas": true
+    },
+    {
+      "id": "150023",
+      "name": "永恒之森 纳尔 焰枫",
+      "chromas": false
+    },
+    {
+      "id": "150024",
+      "name": "永恒之森 纳尔 秋临",
+      "chromas": false
+    },
+    {
+      "id": "150025",
+      "name": "永恒之森 纳尔 永茂",
+      "chromas": false
+    },
+    {
+      "id": "150026",
+      "name": "永恒之森 纳尔 昙夜",
+      "chromas": false
+    },
+    {
+      "id": "150027",
+      "name": "永恒之森 纳尔 寒楹",
+      "chromas": false
+    },
+    {
+      "id": "150028",
+      "name": "永恒之森 纳尔 樱落",
+      "chromas": false
+    },
+    {
+      "id": "150029",
+      "name": "永恒之森 纳尔 冰桦",
+      "chromas": false
+    },
+    {
+      "id": "150030",
+      "name": "永恒之森 纳尔 月见",
+      "chromas": false
+    },
+    {
+      "id": "150031",
+      "name": "灵之菊 纳尔",
+      "chromas": true
+    },
+    {
+      "id": "150032",
+      "name": "灵之菊 纳尔 信念之火",
+      "chromas": false
+    },
+    {
+      "id": "150033",
+      "name": "灵之菊 纳尔 告慰之饮",
+      "chromas": false
+    },
+    {
+      "id": "150034",
+      "name": "灵之菊 纳尔 家人之爱",
+      "chromas": false
+    },
+    {
+      "id": "150035",
+      "name": "灵之菊 纳尔 生命之源",
+      "chromas": false
+    },
+    {
+      "id": "150036",
+      "name": "灵之菊 纳尔 引路之花",
+      "chromas": false
+    },
+    {
+      "id": "150037",
+      "name": "灵之菊 纳尔 送别之礼",
+      "chromas": false
+    },
+    {
+      "id": "150038",
+      "name": "灵之菊 纳尔 祈祷之香",
+      "chromas": false
+    },
+    {
+      "id": "150039",
+      "name": "灵之菊 纳尔 智慧之物",
+      "chromas": false
+    },
+    {
+      "id": "150040",
+      "name": "灵之菊 纳尔 生如夏花",
+      "chromas": false
+    },
+    {
+      "id": "150041",
+      "name": "T1 纳尔",
+      "chromas": true
+    },
+    {
+      "id": "150042",
+      "name": "T1 纳尔 精锐",
+      "chromas": false
+    },
+    {
+      "id": "150043",
+      "name": "SSG 纳尔 精锐",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "狂怒基因",
+    "description": "在战斗时，纳尔会产生怒气。在怒气到达最大值时，他的下一个技能将使他变形成巨型纳尔，获得强化的生存能力并能使用新的技能。",
+    "image": "Gnar_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "投掷回力标 / 投掷顽石",
+      "description": "纳尔扔出一个回力标，对敌人造成伤害和减速效果，直到开始折返为止。如果纳尔接住了折返的回力标，那么这个技能的冷却时间就会减少。巨型纳尔扔出一颗石头，石头会在命中第一个敌人后停下，对这个敌人附近的所有敌方单位造成伤害和减速效果。巨型纳尔可以通过拾取这颗石头来减少这个技能的冷却时间。",
+      "tooltip": "小型纳尔：纳尔投掷一个回力标，造成{{ spell.gnarq:minitotaldamage }}物理伤害和持续{{ spell.gnarq:slowduration }}秒的{{ spell.gnarq:slowamount*100 }}%减速。回力标会在命中一名敌人后折返，对后续敌人造成较少伤害。每个敌人只会被命中一次。接住回力标会使这个技能的冷却时间缩短{{ spell.gnarq:minicdrefund*100 }}%。",
+      "cooldown": "16/14.5/13/11.5/10",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "1100",
+      "maxrank": 5,
+      "image": "GnarQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "亢奋 /  痛殴",
+      "description": "纳尔的攻击和施法会让他亢奋起来，造成额外伤害并为他提供移动速度加成。巨型纳尔已经过于暴怒，所以用不着亢奋了，因此他会用后脚暴跳，并猛击他面前的区域，使区域内的所有敌人晕眩。",
+      "tooltip": "小型纳尔被动：对相同敌人的每第三次攻击或技能造成额外的{{ spell.gnarw:minitotaldamage }}外加{{ spell.gnarw:minipercenthpdamage*100 }}%最大生命值的魔法伤害并提供在{{ spell.gnarw:minihasteduration }}秒里持续衰减的{{ spell.gnarr:rhypermovementspeedpercent }}%移动速度。",
+      "cooldown": "7",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "0",
+      "maxrank": 5,
+      "image": "GnarW.png",
+      "key": "W"
+    },
+    {
+      "name": "轻跳 / 猛踏",
+      "description": "纳尔跳到一个区域，并在落到任何单位上后，弹跳到更远的区域。巨型纳尔体积太大，无法弹跳，但落地后会使地面震颤，对区域内的敌人造成伤害。",
+      "tooltip": "小型纳尔：纳尔进行跳跃，获得持续{{ spell.gnare:miniasduration }}秒的{{ spell.gnare:minibas*100 }}%攻击速度。如果纳尔落到一个目标上，那么他会继续向更远处弹跳。弹跳一名敌人时会对其造成{{ spell.gnare:minitotaldamage }}物理伤害并使其暂时减速{{ spell.gnare:movespeedmod*-100 }}%。",
+      "cooldown": "22/19.5/17/14.5/12",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "475",
+      "maxrank": 5,
+      "image": "GnarE.png",
+      "key": "E"
+    },
+    {
+      "name": "呐啊！",
+      "description": "巨型纳尔将身边的所有东西都朝着一个选定的方向投掷，对他们造成伤害和减速效果。被投到墙上的敌人会被晕眩，并承受额外的伤害。",
+      "tooltip": "小型纳尔被动：提升亢奋的移动速度。巨型纳尔：纳尔猛掷附近的敌人们，造成{{ damage }}物理伤害，击退，以及持续{{ rccduration }}秒的{{ rslowpercent }}%减速。与墙体产生碰撞的敌人们会转而受到{{ walldamage }} 物理伤害并被晕眩。",
+      "cooldown": "90/60/30",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "590",
+      "maxrank": 3,
+      "image": "GnarR.png",
+      "key": "R"
+    }
+  ]
+}

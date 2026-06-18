@@ -1,0 +1,193 @@
+{
+  "id": "Smolder",
+  "championId": "901",
+  "name": "炽炎雏龙",
+  "title": "斯莫德",
+  "region": "符文之地",
+  "blurb": "在诺克萨斯边境的嶙峋峭壁间，有一条幼龙正在龙母的密切注视下，学习领悟着作为卡玛维亚帝巨龙血脉继承者的意义。调皮的斯莫德每天都盼着长大，他总是寻找各式各样的借口，磨炼自己日益强大的能力。虽然他还年幼，可别对他的能力嗤之以鼻——只要打个喷嚏，他就能点燃整片森林。",
+  "tags": [
+    "射手",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 2,
+    "magic": 5,
+    "difficulty": 6
+  },
+  "stats": {
+    "hp": 575,
+    "hpPerLevel": 100,
+    "mp": 300,
+    "mpPerLevel": 40,
+    "movespeed": 330,
+    "armor": 24,
+    "armorPerLevel": 4,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.638,
+    "attackspeedPerLevel": 4,
+    "hpregen": 3.75,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 8.5,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "901001",
+      "name": "天龙之子 斯莫德",
+      "chromas": true
+    },
+    {
+      "id": "901002",
+      "name": "天龙之子 斯莫德 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "901003",
+      "name": "天龙之子 斯莫德 龙飞凤翔",
+      "chromas": false
+    },
+    {
+      "id": "901004",
+      "name": "天龙之子 斯莫德 龙驹凤雏",
+      "chromas": false
+    },
+    {
+      "id": "901005",
+      "name": "天龙之子 斯莫德 龙腾四海",
+      "chromas": false
+    },
+    {
+      "id": "901006",
+      "name": "天龙之子 斯莫德 苍龙出海",
+      "chromas": false
+    },
+    {
+      "id": "901007",
+      "name": "天龙之子 斯莫德 玉龙舞夜",
+      "chromas": false
+    },
+    {
+      "id": "901008",
+      "name": "天龙之子 斯莫德 龙行虎步",
+      "chromas": false
+    },
+    {
+      "id": "901009",
+      "name": "天龙之子 斯莫德 云起龙骧",
+      "chromas": false
+    },
+    {
+      "id": "901010",
+      "name": "天龙之子 斯莫德 赫赫龙威",
+      "chromas": false
+    },
+    {
+      "id": "901011",
+      "name": "圣诞驯鹿 斯莫德",
+      "chromas": true
+    },
+    {
+      "id": "901012",
+      "name": "圣诞驯鹿 斯莫德 红鼻",
+      "chromas": false
+    },
+    {
+      "id": "901013",
+      "name": "圣诞驯鹿 斯莫德 闪电",
+      "chromas": false
+    },
+    {
+      "id": "901014",
+      "name": "圣诞驯鹿 斯莫德 彗星",
+      "chromas": false
+    },
+    {
+      "id": "901015",
+      "name": "圣诞驯鹿 斯莫德 爱意",
+      "chromas": false
+    },
+    {
+      "id": "901016",
+      "name": "圣诞驯鹿 斯莫德 飞舞",
+      "chromas": false
+    },
+    {
+      "id": "901017",
+      "name": "圣诞驯鹿 斯莫德 灵狐",
+      "chromas": false
+    },
+    {
+      "id": "901018",
+      "name": "圣诞驯鹿 斯莫德 欢悦",
+      "chromas": false
+    },
+    {
+      "id": "901019",
+      "name": "圣诞驯鹿 斯莫德 雷霆",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "龙之研习",
+    "description": "用技能命中英雄和用超级灼热龙息 击杀敌人时会提供一层龙之研习。层数会提升斯莫德各基础技能的伤害。",
+    "image": "Icons_Smolder_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "超级灼热龙息",
+      "description": "斯莫德在一名敌人身上喷吐烈焰。随着他获得更多层数，这个技能会变得更加强力。",
+      "tooltip": "斯莫德喷出烈焰，造成{{ totaldamage }}物理伤害 + {{ spell.smolderp:passive_qdamageincrease }}魔法伤害。如果目标阵亡，斯莫德会返还{{ manarestore }}法力值，这个效果在每次施放仅触发一次。基于龙之研习的层数，这个技能会不断进化，获得以下效果：{{ stacktier1 }}层：对目标周围的所有敌人造成伤害。{{ stacktier2 }}层：在目标后侧引发{{ tier2_numberofblowback }}次爆炸，造成此技能{{ tier2_blowbackpercentagedamage }}%的伤害。{{ stacktier3 }}层：灼烧目标，{{ tier3_dotlength }}秒内持续造成共{{ tier3_burn }}最大生命值的真实伤害。 敌方英雄如果在灼烧期间总生命值降至{{ tier3_executethreshold }}以下，则会被立刻击杀。",
+      "cooldown": "5.5/5/4.5/4/3.5",
+      "cost": "25",
+      "costType": " {{ abilityresourcename }}",
+      "range": "550",
+      "maxrank": 5,
+      "image": "SmolderQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "阿嚏！",
+      "description": "斯莫德发出一个萌萌的烈焰喷嚏，喷嚏会在命中敌人时爆炸。",
+      "tooltip": "斯莫德发出一个萌萌的烈焰喷嚏，造成{{ initialdamage }}物理伤害和持续{{ slowduration }}秒的{{ slowamount*100 }}%减速。命中英雄时会引发一次爆炸，造成{{ explosiondamage }}物理 + {{ spell.smolderp:passive_wdamageincrease }}魔法伤害。",
+      "cooldown": "14/13/12/11/10",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1500",
+      "maxrank": 5,
+      "image": "SmolderW.png",
+      "key": "W"
+    },
+    {
+      "name": "扑棱，扑棱，扑棱！",
+      "description": "斯莫德展翅高飞，无视地形并轰击生命值最低的敌人。",
+      "tooltip": "斯莫德展翅高飞，获得{{ movespeed*100 }}%移动速度并无视地形，持续{{ duration }}秒。飞行时，斯莫德轰击生命值最低的敌方英雄{{ totalnumberofattacks }}次(向下取整)，每次命中造成{{ damageperhit }}物理伤害 + {{ spell.smolderp:ebonusdamage }}魔法伤害。",
+      "cooldown": "24/22/20/18/16",
+      "cost": "65",
+      "costType": " {{ abilityresourcename }}",
+      "range": "700",
+      "maxrank": 5,
+      "image": "SmolderE.png",
+      "key": "E"
+    },
+    {
+      "name": "妈----！",
+      "description": "斯莫德召唤他的妈妈从天空喷吐烈焰，对她的烈焰中心的敌人们造成额外伤害和减速。",
+      "tooltip": "斯莫德的妈妈从天空喷吐烈焰，造成{{ totaldamage }}物理伤害。中心的敌人们会转而受到{{ tooltiponly_totalsweetspotdamage }}物理伤害和持续{{ slowduration }}秒的{{ slowamount*100 }}%减速。斯莫德的妈妈如果命中了她的儿子，则会为他治疗{{ momhealcalc }}生命值。",
+      "cooldown": "120/110/100",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "4200",
+      "maxrank": 3,
+      "image": "SmolderR.png",
+      "key": "R"
+    }
+  ]
+}

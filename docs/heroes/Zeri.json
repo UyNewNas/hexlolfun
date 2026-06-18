@@ -1,0 +1,327 @@
+{
+  "id": "Zeri",
+  "championId": "221",
+  "name": "祖安花火",
+  "title": "泽丽",
+  "region": "祖安",
+  "blurb": "泽丽是一个顽强固执、意志坚定的女孩。她出身自祖安的工人阶层，可以引导电能魔法来为自身和她特制的枪械充能。动荡难测的能量也是她内心情绪的写照，闪烁的火花反映出她轻快如电的生活态度。泽丽对他人抱有深切的同情，而来自家人和故乡的爱也伴随着她投身于每一场战斗。虽然这种迫切的渴望有时也会给她带来麻烦，但是泽丽毫不怀疑的是，为你的同胞奋起抗争，便一定能够一呼百应。",
+  "tags": [
+    "射手"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 5,
+    "magic": 3,
+    "difficulty": 6
+  },
+  "stats": {
+    "hp": 600,
+    "hpPerLevel": 110,
+    "mp": 250,
+    "mpPerLevel": 45,
+    "movespeed": 330,
+    "armor": 24,
+    "armorPerLevel": 4.2,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 56,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 2,
+    "hpregen": 3.25,
+    "hpregenPerLevel": 0.7,
+    "mpregen": 6,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "221001",
+      "name": "幽梦玫瑰 泽丽",
+      "chromas": true
+    },
+    {
+      "id": "221002",
+      "name": "幽梦玫瑰 泽丽 热烈花蕾",
+      "chromas": false
+    },
+    {
+      "id": "221003",
+      "name": "幽梦玫瑰 泽丽 倾心花蕾",
+      "chromas": false
+    },
+    {
+      "id": "221004",
+      "name": "幽梦玫瑰 泽丽 长情花蕾",
+      "chromas": false
+    },
+    {
+      "id": "221005",
+      "name": "幽梦玫瑰 泽丽 憧憬花蕾",
+      "chromas": false
+    },
+    {
+      "id": "221006",
+      "name": "幽梦玫瑰 泽丽 浪漫花蕾",
+      "chromas": false
+    },
+    {
+      "id": "221007",
+      "name": "幽梦玫瑰 泽丽 甜蜜花蕾",
+      "chromas": false
+    },
+    {
+      "id": "221008",
+      "name": "幽梦玫瑰 泽丽 纯洁花蕾",
+      "chromas": false
+    },
+    {
+      "id": "221009",
+      "name": "幽梦玫瑰 泽丽 真挚花蕾",
+      "chromas": false
+    },
+    {
+      "id": "221010",
+      "name": "海之歌 泽丽",
+      "chromas": true
+    },
+    {
+      "id": "221011",
+      "name": "海之歌 泽丽 迷人晚霞",
+      "chromas": false
+    },
+    {
+      "id": "221012",
+      "name": "海之歌 泽丽 清凉海风",
+      "chromas": false
+    },
+    {
+      "id": "221013",
+      "name": "海之歌 泽丽 葱郁椰林",
+      "chromas": false
+    },
+    {
+      "id": "221014",
+      "name": "海之歌 泽丽 浪漫氛围",
+      "chromas": false
+    },
+    {
+      "id": "221015",
+      "name": "海之歌 泽丽 逐浪流沙",
+      "chromas": false
+    },
+    {
+      "id": "221016",
+      "name": "海之歌 泽丽 幻彩夜空",
+      "chromas": false
+    },
+    {
+      "id": "221017",
+      "name": "海之歌 泽丽 冰爽浪花",
+      "chromas": false
+    },
+    {
+      "id": "221018",
+      "name": "海之歌 泽丽 月夜潮汐",
+      "chromas": false
+    },
+    {
+      "id": "221019",
+      "name": "玉剑传说 神机花火",
+      "chromas": true
+    },
+    {
+      "id": "221020",
+      "name": "玉剑传说 神机花火 胭脂",
+      "chromas": false
+    },
+    {
+      "id": "221021",
+      "name": "玉剑传说 神机花火 黄栌",
+      "chromas": false
+    },
+    {
+      "id": "221022",
+      "name": "玉剑传说 神机花火 翡翠",
+      "chromas": false
+    },
+    {
+      "id": "221023",
+      "name": "玉剑传说 神机花火 珐琅",
+      "chromas": false
+    },
+    {
+      "id": "221024",
+      "name": "玉剑传说 神机花火 青竹",
+      "chromas": false
+    },
+    {
+      "id": "221025",
+      "name": "玉剑传说 神机花火 丁香",
+      "chromas": false
+    },
+    {
+      "id": "221026",
+      "name": "玉剑传说 神机花火 珠光",
+      "chromas": false
+    },
+    {
+      "id": "221027",
+      "name": "玉剑传说 神机花火 墨云",
+      "chromas": false
+    },
+    {
+      "id": "221028",
+      "name": "魔域梦魇 泽丽",
+      "chromas": true
+    },
+    {
+      "id": "221029",
+      "name": "至臻 魔域梦魇 泽丽",
+      "chromas": false
+    },
+    {
+      "id": "221030",
+      "name": "魔域梦魇 泽丽 红夜梦境",
+      "chromas": false
+    },
+    {
+      "id": "221031",
+      "name": "魔域梦魇 泽丽 糖果梦境",
+      "chromas": false
+    },
+    {
+      "id": "221032",
+      "name": "魔域梦魇 泽丽 荆棘梦境",
+      "chromas": false
+    },
+    {
+      "id": "221033",
+      "name": "魔域梦魇 泽丽 魔咒梦境",
+      "chromas": false
+    },
+    {
+      "id": "221034",
+      "name": "魔域梦魇 泽丽 幽潭梦境",
+      "chromas": false
+    },
+    {
+      "id": "221035",
+      "name": "魔域梦魇 泽丽 流星梦境",
+      "chromas": false
+    },
+    {
+      "id": "221036",
+      "name": "魔域梦魇 泽丽 欢笑梦境",
+      "chromas": false
+    },
+    {
+      "id": "221037",
+      "name": "魔域梦魇 泽丽 飞帚梦境",
+      "chromas": false
+    },
+    {
+      "id": "221038",
+      "name": "魔域梦魇 泽丽 龙葵梦境",
+      "chromas": false
+    },
+    {
+      "id": "221039",
+      "name": "魔域梦魇 泽丽 古堡梦境",
+      "chromas": false
+    },
+    {
+      "id": "221040",
+      "name": "冬境仙灵 泽丽",
+      "chromas": true
+    },
+    {
+      "id": "221041",
+      "name": "冬境仙灵 泽丽 焰阳",
+      "chromas": false
+    },
+    {
+      "id": "221042",
+      "name": "冬境仙灵 泽丽 温泉",
+      "chromas": false
+    },
+    {
+      "id": "221043",
+      "name": "冬境仙灵 泽丽 极光",
+      "chromas": false
+    },
+    {
+      "id": "221044",
+      "name": "冬境仙灵 泽丽 蔷薇",
+      "chromas": false
+    },
+    {
+      "id": "221045",
+      "name": "冬境仙灵 泽丽 夜幕",
+      "chromas": false
+    },
+    {
+      "id": "221046",
+      "name": "冬境仙灵 泽丽 白雪",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "内能迁转",
+    "description": "泽丽的攻击造成魔法伤害并被视为技能。移动和施放【电火迸射】会将能量储存至泽丽的【火花背包】。在完全充能后，她的下次攻击将造成额外伤害。",
+    "image": "ZeriP.png"
+  },
+  "spells": [
+    {
+      "name": "电火迸射",
+      "description": "【电火迸射】连续发射7发子弹，对命中的首个敌人造成相当于攻击力的物理伤害。这个技能会被视为一次攻击。",
+      "tooltip": "泽丽发射一连串的{{ numberofmissiles }}颗子弹，来对命中的第一个敌人造成{{ activedamagethatcancrit }}物理伤害。这个技能会被视为一次攻击。",
+      "cooldown": "0",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "700",
+      "maxrank": 5,
+      "image": "ZeriQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "强穿激光",
+      "description": "泽丽发射一道电能脉冲，来对首个命中的敌人造成减速和伤害。如果脉冲命中了一个墙体，那么它会延伸为一道长程激光。",
+      "tooltip": "泽丽发射一道电能脉冲，来对首个命中的敌人造成{{ totaldamage }}物理伤害和持续{{ slowduration }}秒的{{ slowpercent*100 }}%减速。如果脉冲命中了地形，那么它会延伸为一道激光并在一个区域内施加效果并对英雄和野怪产生暴击以造成{{ walldamage }}物理伤害。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "50/60/70/80/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1150",
+      "maxrank": 5,
+      "image": "ZeriW.png",
+      "key": "W"
+    },
+    {
+      "name": "灿丽花火",
+      "description": "泽丽冲刺一小段距离，并激发【电火迸射】，使其获得穿刺敌人的效果。她将在接触任何地形时进行翻越和滑行。",
+      "tooltip": "泽丽冲刺一小段距离，并翻越接触到的任何地形，来极大地延伸冲刺距离。在接下来的{{ buffduration }}秒，她的电火迸射子弹将获得穿刺效果，对首个敌人之后的敌人们造成{{ pendamagepercent*100 }}%伤害并对击中的首个目标附加额外的{{ bonusdamagetotal }}魔法伤害。用一次攻击或技能命中一名英雄时，会使这个技能的冷却时间缩短{{ cdreductionperhit }}秒。暴击会转而使该冷却时间缩短{{ critcdreductionperhit }}秒。",
+      "cooldown": "24/22.5/21/19.5/18",
+      "cost": "90/85/80/75/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "25000",
+      "maxrank": 5,
+      "image": "ZeriE.png",
+      "key": "E"
+    },
+    {
+      "name": "超限爆闪",
+      "description": "泽丽放出一道电能新星，并且自身进入超负荷状态，来获得伤害提升和可叠加的移动速度，并且这个状态可在她每次命中敌方英雄时刷新持续时间并变得更强。在超负荷状态下。【枪火迸射】会变成一个快速的3连发，并在敌人之间引发连锁闪电。",
+      "tooltip": "泽丽放出一道电能新星，对附近的敌人们造成{{ totalactivedamage }}魔法伤害。如果她命中了一名敌方英雄，就会获得持续{{ rduration }}秒的{{ baseaspercent*100 }}%攻击速度和{{ basebonusms*100 }}%移动速度。用一次攻击或技能命中一名敌方英雄时，会使这个技能的持续时间延长并添加一层持续{{ maxhyperchargeduration }}秒的超负荷效果。暴击会添加额外的2层效果。每层效果提供{{ mspercent*100 }}%移动速度。在此期间，电火迸射会变为一个更快速的3连发，可对附近的敌人们连锁造成{{ chainphysicaldamage }}物理伤害。",
+      "cooldown": "80/75/70",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 3,
+      "image": "ZeriR.png",
+      "key": "R"
+    }
+  ]
+}

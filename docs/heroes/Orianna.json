@@ -1,0 +1,293 @@
+{
+  "id": "Orianna",
+  "championId": "61",
+  "name": "发条魔灵",
+  "title": "奥莉安娜",
+  "region": "皮尔特沃夫",
+  "blurb": "对一切充满好奇的奥莉安娜也曾拥有过血肉之躯，现在却成了一具全身上下都由发条和齿轮构成的科技奇观。祖安下层地区的一次事故，间接导致奥莉安娜身染重病。她日渐衰竭的身体必须被一个接着一个地替换为精密的人造器官，直至全身上下再也没有一丝人类肉体的痕迹。她给自己制作了一枚奇妙的铜球，它既是伙伴，也是保镖。值得庆幸的是，这个女孩如今可以自由地探索壮观的皮尔特沃夫，以及更遥远的地方了。",
+  "tags": [
+    "法师",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 4,
+    "defense": 3,
+    "magic": 9,
+    "difficulty": 7
+  },
+  "stats": {
+    "hp": 585,
+    "hpPerLevel": 110,
+    "mp": 418,
+    "mpPerLevel": 25,
+    "movespeed": 325,
+    "armor": 20,
+    "armorPerLevel": 4.2,
+    "spellblock": 26,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 525,
+    "attackdamage": 44,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 3.5,
+    "hpregen": 7,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "61001",
+      "name": "哥特女仆 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61002",
+      "name": "恶灵布偶 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61003",
+      "name": "灵骨工匠 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61004",
+      "name": "暗杀星 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61005",
+      "name": "冬季仙境 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61006",
+      "name": "觅心魔灵 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61007",
+      "name": "暗星 奥莉安娜",
+      "chromas": true
+    },
+    {
+      "id": "61008",
+      "name": "胜利女神 奥莉安娜",
+      "chromas": true
+    },
+    {
+      "id": "61009",
+      "name": "胜利女神 奥莉安娜 炽热斗志",
+      "chromas": false
+    },
+    {
+      "id": "61010",
+      "name": "胜利女神 奥莉安娜 不灭战魂",
+      "chromas": false
+    },
+    {
+      "id": "61011",
+      "name": "泳池派对 奥莉安娜",
+      "chromas": true
+    },
+    {
+      "id": "61012",
+      "name": "暗星 奥莉安娜 万神殿之陷",
+      "chromas": false
+    },
+    {
+      "id": "61013",
+      "name": "泳池派对 奥莉安娜 热辣红星鲸",
+      "chromas": false
+    },
+    {
+      "id": "61014",
+      "name": "泳池派对 奥莉安娜 快乐条纹鲸",
+      "chromas": false
+    },
+    {
+      "id": "61015",
+      "name": "泳池派对 奥莉安娜 优雅珠光鲸",
+      "chromas": false
+    },
+    {
+      "id": "61016",
+      "name": "泳池派对 奥莉安娜 清凉花顶鲸",
+      "chromas": false
+    },
+    {
+      "id": "61017",
+      "name": "泳池派对 奥莉安娜 萌萌少女鲸",
+      "chromas": false
+    },
+    {
+      "id": "61018",
+      "name": "泳池派对 奥莉安娜 冷酷护卫鲸",
+      "chromas": false
+    },
+    {
+      "id": "61019",
+      "name": "泳池派对 奥莉安娜 坏坏潜航鲸",
+      "chromas": false
+    },
+    {
+      "id": "61020",
+      "name": "小蜜蜂 奥莉安娜",
+      "chromas": true
+    },
+    {
+      "id": "61021",
+      "name": "元气满满七星瓢 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61022",
+      "name": "冷若冰霜小深蓝 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61023",
+      "name": "可爱可爱粉红红 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61024",
+      "name": "春意盎然小青青 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61025",
+      "name": "浪漫浪漫小淡紫 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61026",
+      "name": "野心勃勃特工蝇 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61027",
+      "name": "从容自若小绿松 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61028",
+      "name": "白白嫩嫩小迷糊 奥莉安娜",
+      "chromas": false
+    },
+    {
+      "id": "61029",
+      "name": "星之守护者 奥莉安娜",
+      "chromas": true
+    },
+    {
+      "id": "61030",
+      "name": "星之守护者 奥莉安娜 热情之光",
+      "chromas": false
+    },
+    {
+      "id": "61031",
+      "name": "星之守护者 奥莉安娜 勇气之光",
+      "chromas": false
+    },
+    {
+      "id": "61032",
+      "name": "星之守护者 奥莉安娜 爱之光",
+      "chromas": false
+    },
+    {
+      "id": "61033",
+      "name": "星之守护者 奥莉安娜 智慧之光",
+      "chromas": false
+    },
+    {
+      "id": "61034",
+      "name": "星之守护者 奥莉安娜 守护之光",
+      "chromas": false
+    },
+    {
+      "id": "61035",
+      "name": "星之守护者 奥莉安娜 沉默之光",
+      "chromas": false
+    },
+    {
+      "id": "61036",
+      "name": "星之守护者 奥莉安娜 未来之光",
+      "chromas": false
+    },
+    {
+      "id": "61037",
+      "name": "星之守护者 奥莉安娜 月虹之光",
+      "chromas": false
+    },
+    {
+      "id": "61038",
+      "name": "T1 奥莉安娜",
+      "chromas": true
+    },
+    {
+      "id": "61039",
+      "name": "T1 奥莉安娜 精锐",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "发条协奏",
+    "description": "奥莉安娜的攻击会造成额外魔法伤害。这个伤害可在奥莉安娜对相同目标进行更多次攻击后提升。",
+    "image": "OriannaPassive.png"
+  },
+  "spells": [
+    {
+      "name": "指令：攻击",
+      "description": "奥莉安娜指挥她的魔偶，朝目标区域发射，对沿途目标造成魔法伤害（对后续目标伤害递减）。指令结束后魔偶会停在目标区域。",
+      "tooltip": "奥莉安娜指挥她的魔偶移动至一个区域，对附近敌人和它途经的敌人造成{{ totaldamagetooltip }}魔法伤害。对第一个敌人之后的所有敌人造成的伤害就减少{{ reduceddamagepercent }}%。",
+      "cooldown": "7/6/5/4/3",
+      "cost": "35",
+      "costType": " {{ abilityresourcename }}",
+      "range": "815",
+      "maxrank": 5,
+      "image": "OrianaIzunaCommand.png",
+      "key": "Q"
+    },
+    {
+      "name": "指令：杂音",
+      "description": "奥莉安娜指挥她的魔偶，释放能量脉冲，造成魔法伤害，并产生一个加速友军、减速敌军的能量场。",
+      "tooltip": "奥莉安娜指挥她的魔偶释放一股电脉冲，对周围敌军造成{{ totaldamage }}魔法伤害。此电脉冲会留下持续{{ fieldduration }}秒的能量场，使敌人减速{{ slowamount*100 }}%，并为友军提供{{ hasteamount*100 }}%移动速度，在{{ slowandhasteduration }}秒里持续衰减。",
+      "cooldown": "7",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "225",
+      "maxrank": 5,
+      "image": "OrianaDissonanceCommand.png",
+      "key": "W"
+    },
+    {
+      "name": "指令：防卫",
+      "description": "奥莉安娜指挥她的魔偶，依附于友军英雄身上，保护他们并对经过的敌人造成魔法伤害。此外，魔偶还会对依附的友军增加额外护甲和魔法抗性。",
+      "tooltip": "被动：魔偶为附身的友军英雄增加{{ defensebonus }}护甲和{{ defensebonus }}魔法抗性。主动：奥莉安娜指挥她的魔偶附身在一名友方英雄身上，为其提供{{ totalshieldtooltip }}护盾值，持续{{ shieldduration }}秒。魔偶途经的敌方单位都会受到{{ totaldamagetooltip }}魔法伤害。",
+      "cooldown": "9",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1095",
+      "maxrank": 5,
+      "image": "OrianaRedactCommand.png",
+      "key": "E"
+    },
+    {
+      "name": "指令：冲击波",
+      "description": "奥莉安娜指挥她的魔偶，释放一股冲击波，对周围敌军造成魔法伤害并在短暂延迟后将他们拉向魔偶。",
+      "tooltip": "奥莉安娜指挥她的魔偶，在短暂的延迟后释放一股冲击波，对周围敌军造成{{ totaldamage }}魔法伤害并将他们朝魔偶的方向击飞。",
+      "cooldown": "110/95/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "410",
+      "maxrank": 3,
+      "image": "OrianaDetonateCommand.png",
+      "key": "R"
+    }
+  ]
+}

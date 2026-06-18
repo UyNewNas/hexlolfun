@@ -1,0 +1,578 @@
+{
+  "id": "Yasuo",
+  "championId": "157",
+  "name": "疾风剑豪",
+  "title": "亚索",
+  "region": "艾欧尼亚",
+  "blurb": "亚索是一个百折不屈的艾欧尼亚人，也是一名身手敏捷的御风剑客。这位生性自负的年轻人，被误认作杀害长老的凶手——无法自证清白的亚索因此出于自卫而出手杀死了自己的哥哥。之后，虽然长老死亡的真相已然大白，他的哥哥也已离奇重生，但亚索仍然无法原谅自己的所作所为。他将自己放逐于天涯，听任疾风指引着剑刃的方向。",
+  "tags": [
+    "战士",
+    "刺客"
+  ],
+  "partype": "剑意",
+  "info": {
+    "attack": 8,
+    "defense": 4,
+    "magic": 4,
+    "difficulty": 10
+  },
+  "stats": {
+    "hp": 590,
+    "hpPerLevel": 110,
+    "mp": 100,
+    "mpPerLevel": 0,
+    "movespeed": 345,
+    "armor": 32,
+    "armorPerLevel": 4.6,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.697,
+    "attackspeedPerLevel": 3.5,
+    "hpregen": 6.5,
+    "hpregenPerLevel": 0.9,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "157001",
+      "name": "西部牛仔 亚索",
+      "chromas": true
+    },
+    {
+      "id": "157002",
+      "name": "源计划：风 亚索",
+      "chromas": false
+    },
+    {
+      "id": "157003",
+      "name": "腥红之月 亚索",
+      "chromas": false
+    },
+    {
+      "id": "157004",
+      "name": "西部牛仔 亚索 赤胆威龙",
+      "chromas": false
+    },
+    {
+      "id": "157005",
+      "name": "西部牛仔 亚索 日落狂沙",
+      "chromas": false
+    },
+    {
+      "id": "157006",
+      "name": "西部牛仔 亚索 原野奇侠",
+      "chromas": false
+    },
+    {
+      "id": "157007",
+      "name": "西部牛仔 亚索 大地惊雷",
+      "chromas": false
+    },
+    {
+      "id": "157008",
+      "name": "西部牛仔 亚索 浴血金沙",
+      "chromas": false
+    },
+    {
+      "id": "157009",
+      "name": "黑夜使者 亚索",
+      "chromas": true
+    },
+    {
+      "id": "157010",
+      "name": "奥德赛 亚索",
+      "chromas": true
+    },
+    {
+      "id": "157011",
+      "name": "奥德赛 亚索 星河征服者",
+      "chromas": false
+    },
+    {
+      "id": "157012",
+      "name": "奥德赛 亚索 流星群竞速者",
+      "chromas": false
+    },
+    {
+      "id": "157013",
+      "name": "奥德赛 亚索 星云环游者",
+      "chromas": false
+    },
+    {
+      "id": "157014",
+      "name": "奥德赛 亚索 黑洞挑战者",
+      "chromas": false
+    },
+    {
+      "id": "157015",
+      "name": "奥德赛 亚索 小行星带探险者",
+      "chromas": false
+    },
+    {
+      "id": "157016",
+      "name": "奥德赛 亚索 恒星游历者",
+      "chromas": false
+    },
+    {
+      "id": "157017",
+      "name": "战场BOSS 亚索",
+      "chromas": true
+    },
+    {
+      "id": "157018",
+      "name": "真实伤害 亚索",
+      "chromas": true
+    },
+    {
+      "id": "157019",
+      "name": "战场BOSS 亚索 霸者之威",
+      "chromas": false
+    },
+    {
+      "id": "157020",
+      "name": "战场BOSS 亚索 瞬杀之影",
+      "chromas": false
+    },
+    {
+      "id": "157021",
+      "name": "战场BOSS 亚索 吞币之星",
+      "chromas": false
+    },
+    {
+      "id": "157022",
+      "name": "战场BOSS 亚索 叹息之壁",
+      "chromas": false
+    },
+    {
+      "id": "157023",
+      "name": "战场BOSS 亚索 幻灭之刃",
+      "chromas": false
+    },
+    {
+      "id": "157024",
+      "name": "战场BOSS 亚索 绝望之斩",
+      "chromas": false
+    },
+    {
+      "id": "157025",
+      "name": "战场BOSS 亚索 隐藏强者",
+      "chromas": false
+    },
+    {
+      "id": "157026",
+      "name": "战场BOSS 亚索 K.O.",
+      "chromas": false
+    },
+    {
+      "id": "157027",
+      "name": "真实伤害 亚索 锐意之风",
+      "chromas": false
+    },
+    {
+      "id": "157028",
+      "name": "真实伤害 亚索 无畏之志",
+      "chromas": false
+    },
+    {
+      "id": "157029",
+      "name": "真实伤害 亚索 华丽之韵",
+      "chromas": false
+    },
+    {
+      "id": "157030",
+      "name": "真实伤害 亚索 进取之意",
+      "chromas": false
+    },
+    {
+      "id": "157031",
+      "name": "真实伤害 亚索 孤高之傲",
+      "chromas": false
+    },
+    {
+      "id": "157032",
+      "name": "真实伤害 亚索 本真之范",
+      "chromas": false
+    },
+    {
+      "id": "157033",
+      "name": "真实伤害 亚索 即兴说唱",
+      "chromas": false
+    },
+    {
+      "id": "157034",
+      "name": "黑夜使者 亚索 堕夜",
+      "chromas": false
+    },
+    {
+      "id": "157035",
+      "name": "至臻 真实伤害 亚索",
+      "chromas": false
+    },
+    {
+      "id": "157036",
+      "name": "灵魂莲华 亚索",
+      "chromas": true
+    },
+    {
+      "id": "157037",
+      "name": "灵魂莲华 亚索 流火",
+      "chromas": false
+    },
+    {
+      "id": "157038",
+      "name": "灵魂莲华 亚索 月升",
+      "chromas": false
+    },
+    {
+      "id": "157039",
+      "name": "灵魂莲华 亚索 雪落",
+      "chromas": false
+    },
+    {
+      "id": "157040",
+      "name": "灵魂莲华 亚索 朝花",
+      "chromas": false
+    },
+    {
+      "id": "157041",
+      "name": "灵魂莲华 亚索 春晓",
+      "chromas": false
+    },
+    {
+      "id": "157042",
+      "name": "灵魂莲华 亚索 云开",
+      "chromas": false
+    },
+    {
+      "id": "157043",
+      "name": "灵魂莲华 亚索 雁来",
+      "chromas": false
+    },
+    {
+      "id": "157044",
+      "name": "灵魂莲华 亚索 霜见",
+      "chromas": false
+    },
+    {
+      "id": "157045",
+      "name": "断浪之刃 亚索",
+      "chromas": true
+    },
+    {
+      "id": "157046",
+      "name": "断浪之刃 亚索 勇敢",
+      "chromas": false
+    },
+    {
+      "id": "157047",
+      "name": "断浪之刃 亚索 豪迈",
+      "chromas": false
+    },
+    {
+      "id": "157048",
+      "name": "断浪之刃 亚索 冷静",
+      "chromas": false
+    },
+    {
+      "id": "157049",
+      "name": "断浪之刃 亚索 顽强",
+      "chromas": false
+    },
+    {
+      "id": "157050",
+      "name": "断浪之刃 亚索 飘逸",
+      "chromas": false
+    },
+    {
+      "id": "157051",
+      "name": "断浪之刃 亚索 不羁",
+      "chromas": false
+    },
+    {
+      "id": "157052",
+      "name": "断浪之刃 亚索 果决",
+      "chromas": false
+    },
+    {
+      "id": "157053",
+      "name": "断浪之刃 亚索 无拘",
+      "chromas": false
+    },
+    {
+      "id": "157054",
+      "name": "神龙尊者 昼日真龙 亚索",
+      "chromas": false
+    },
+    {
+      "id": "157055",
+      "name": "神龙尊者 夜月幻龙 亚索",
+      "chromas": false
+    },
+    {
+      "id": "157056",
+      "name": "墨之影武者 亚索",
+      "chromas": true
+    },
+    {
+      "id": "157057",
+      "name": "至臻 墨之影武者 亚索",
+      "chromas": false
+    },
+    {
+      "id": "157058",
+      "name": "墨之影武者 亚索 炽墨挥影",
+      "chromas": false
+    },
+    {
+      "id": "157059",
+      "name": "墨之影武者 亚索 金墨耀影",
+      "chromas": false
+    },
+    {
+      "id": "157060",
+      "name": "墨之影武者 亚索 云墨漾影",
+      "chromas": false
+    },
+    {
+      "id": "157061",
+      "name": "墨之影武者 亚索 森墨拂影",
+      "chromas": false
+    },
+    {
+      "id": "157062",
+      "name": "墨之影武者 亚索 晶墨绽影",
+      "chromas": false
+    },
+    {
+      "id": "157063",
+      "name": "墨之影武者 亚索 樱墨映影",
+      "chromas": false
+    },
+    {
+      "id": "157064",
+      "name": "墨之影武者 亚索 松墨彰影",
+      "chromas": false
+    },
+    {
+      "id": "157065",
+      "name": "墨之影武者 亚索 玄墨蕴影",
+      "chromas": false
+    },
+    {
+      "id": "157066",
+      "name": "墨之影武者 亚索 灵墨刻影",
+      "chromas": false
+    },
+    {
+      "id": "157067",
+      "name": "墨之影武者 亚索 破障",
+      "chromas": false
+    },
+    {
+      "id": "157068",
+      "name": "预知之眼 亚索",
+      "chromas": true
+    },
+    {
+      "id": "157069",
+      "name": "预知之眼 亚索 不怒",
+      "chromas": false
+    },
+    {
+      "id": "157070",
+      "name": "预知之眼 亚索 不拘",
+      "chromas": false
+    },
+    {
+      "id": "157071",
+      "name": "预知之眼 亚索 不惑",
+      "chromas": false
+    },
+    {
+      "id": "157072",
+      "name": "预知之眼 亚索 不屈",
+      "chromas": false
+    },
+    {
+      "id": "157073",
+      "name": "预知之眼 亚索 不悔",
+      "chromas": false
+    },
+    {
+      "id": "157074",
+      "name": "预知之眼 亚索 不愧",
+      "chromas": false
+    },
+    {
+      "id": "157075",
+      "name": "预知之眼 亚索 不怠",
+      "chromas": false
+    },
+    {
+      "id": "157076",
+      "name": "预知之眼 亚索 不骄",
+      "chromas": false
+    },
+    {
+      "id": "157077",
+      "name": "幻灵孤狼 亚索",
+      "chromas": true
+    },
+    {
+      "id": "157078",
+      "name": "幻灵孤狼 亚索 勇气赞歌",
+      "chromas": false
+    },
+    {
+      "id": "157079",
+      "name": "幻灵孤狼 亚索 灿烂轰击",
+      "chromas": false
+    },
+    {
+      "id": "157080",
+      "name": "幻灵孤狼 亚索 梦幻强袭",
+      "chromas": false
+    },
+    {
+      "id": "157081",
+      "name": "幻灵孤狼 亚索 活力奔袭",
+      "chromas": false
+    },
+    {
+      "id": "157082",
+      "name": "幻灵孤狼 亚索 连绵奔袭",
+      "chromas": false
+    },
+    {
+      "id": "157083",
+      "name": "幻灵孤狼 亚索 优雅气度",
+      "chromas": false
+    },
+    {
+      "id": "157084",
+      "name": "幻灵孤狼 亚索 魅影闪击",
+      "chromas": false
+    },
+    {
+      "id": "157085",
+      "name": "幻灵孤狼 亚索 钢铁守备",
+      "chromas": false
+    },
+    {
+      "id": "157086",
+      "name": "幻灵孤狼 亚索 隐秘夜影",
+      "chromas": false
+    },
+    {
+      "id": "157087",
+      "name": "创世 黑夜使者 亚索",
+      "chromas": false
+    },
+    {
+      "id": "157088",
+      "name": "踏雪寻梅 亚索",
+      "chromas": true
+    },
+    {
+      "id": "157089",
+      "name": "踏雪寻梅 亚索 岁寒特妍",
+      "chromas": false
+    },
+    {
+      "id": "157090",
+      "name": "踏雪寻梅 亚索 狂飙卷沙",
+      "chromas": false
+    },
+    {
+      "id": "157091",
+      "name": "踏雪寻梅 亚索 玉立冰洁",
+      "chromas": false
+    },
+    {
+      "id": "157092",
+      "name": "踏雪寻梅 亚索 绛萼著霜",
+      "chromas": false
+    },
+    {
+      "id": "157093",
+      "name": "踏雪寻梅 亚索 明蟾照夜",
+      "chromas": false
+    },
+    {
+      "id": "157094",
+      "name": "踏雪寻梅 亚索 琼英缀雪",
+      "chromas": false
+    },
+    {
+      "id": "157095",
+      "name": "踏雪寻梅 亚索 竹映梅香",
+      "chromas": false
+    },
+    {
+      "id": "157096",
+      "name": "踏雪寻梅 亚索 独步早春",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "浪客之道",
+    "description": "亚索的暴击几率提升。此外，亚索在移动时会为一层护盾攒能。护盾会在他受到来自英雄或野怪的伤害时触发。",
+    "image": "Yasuo_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "斩钢闪",
+      "description": "向前出剑，呈直线造成伤害。在命中时，斩钢闪会获得一层旋风烈斩效果，持续数秒。在积攒2层旋风烈斩效果后，斩钢闪会形成一阵能够击飞敌人的旋风。斩钢闪被视为普通攻击，并且可以从所有作用于普攻的东西上获得收益。",
+      "tooltip": "亚索进行戳刺，造成{{ totaldamage }}物理伤害。如果他命中了，那么他会获得一层持续{{ gatheringstormduration }}秒的层数。当他拥有2层时，这个技能的下次施放将会发射出一道远程龙卷风，造成等值伤害和{{ knockupdurationtooltiponly }}秒击飞。如果在冲刺期间施放，那么这个技能会呈环状进行打击而非直接戳刺。",
+      "cooldown": "4",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "475",
+      "maxrank": 5,
+      "image": "YasuoQ1Wrapper.png",
+      "key": "Q"
+    },
+    {
+      "name": "风之障壁",
+      "description": "形成一个持续4秒的气流之墙，来阻挡敌方的飞行道具。",
+      "tooltip": "亚索形成一个持续4秒的气流浮墙，来阻挡敌方的飞行道具。",
+      "cooldown": "25/23/21/19/17",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "400",
+      "maxrank": 5,
+      "image": "YasuoW.png",
+      "key": "W"
+    },
+    {
+      "name": "踏前斩",
+      "description": "向目标敌人突进，造成魔法伤害。每次施法都会提升你的后续突进的伤害，直到抵达上限。在若干秒内无法对相同敌人重复施放。如果在突进的过程中施放斩钢闪，那么斩钢闪就会呈环状出剑。",
+      "tooltip": "亚索冲刺并穿过一个目标，造成{{ totaldamage }}魔法伤害。这个技能每次施放后都会为{{ stackduration }}秒内的后续施放提供{{ bonusdamageperstack }}额外伤害，至多可叠加{{ maxstacks }}次。这个技能对每个目标有{{ e2 }}秒冷却时间。",
+      "cooldown": "0.5/0.4/0.3/0.2/0.1",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "475",
+      "maxrank": 5,
+      "image": "YasuoE.png",
+      "key": "E"
+    },
+    {
+      "name": "狂风绝息斩",
+      "description": "闪烁到一个浮空的敌方英雄身边，造成物理伤害，并使范围内的所有浮空的敌人滞留在空中。获得满额的剑意值，但会重置旋风烈斩的层数。在接下来的若干秒里，亚索的暴击会获得显著的额外护甲穿透加成值。",
+      "tooltip": "亚索传送到一名浮空的敌方英雄身边，造成{{ damage }}物理伤害并使所有附近浮空的敌人们维持此状态至多{{ rknockupduration }}秒。亚索还会获得满额剑意，但会失去所有所有斩钢闪层数。之后，亚索的暴击会无视{{ rpercentarmorpen }}%额外护甲，持续{{ rbuffduration }}秒。",
+      "cooldown": "70/50/30",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "1400",
+      "maxrank": 3,
+      "image": "YasuoR.png",
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "id": "Qiyana",
+  "championId": "246",
+  "name": "元素女皇",
+  "title": "奇亚娜",
+  "region": "以绪塔尔",
+  "blurb": "在丛林都市以绪奥肯中，奇亚娜谋划着自己荣登育恩塔尔塔座的无情之路。作为父母的末位继承人，她以前无古人的元素魔法技艺，傲视所有挡在面前的人。这片大地服从着奇亚娜的每一道指令，她认为自己是以绪奥肯历史上最伟大的元素使——就凭这点，她理应执掌的不仅是一座城邦，而是一个帝国。",
+  "tags": [
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 0,
+    "defense": 2,
+    "magic": 4,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 590,
+    "hpPerLevel": 115,
+    "mp": 375,
+    "mpPerLevel": 60,
+    "movespeed": 335,
+    "armor": 31,
+    "armorPerLevel": 4.5,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 150,
+    "attackdamage": 64,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.688,
+    "attackspeedPerLevel": 2.1,
+    "hpregen": 8,
+    "hpregenPerLevel": 0.9,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "246001",
+      "name": "战场BOSS 奇亚娜",
+      "chromas": true
+    },
+    {
+      "id": "246002",
+      "name": "真实伤害 奇亚娜",
+      "chromas": false
+    },
+    {
+      "id": "246003",
+      "name": "战场BOSS 奇亚娜 杀意女王",
+      "chromas": false
+    },
+    {
+      "id": "246004",
+      "name": "战场BOSS 奇亚娜 毒桃公主",
+      "chromas": false
+    },
+    {
+      "id": "246005",
+      "name": "战场BOSS 奇亚娜 时之魔女",
+      "chromas": false
+    },
+    {
+      "id": "246006",
+      "name": "战场BOSS 奇亚娜 叹息之轮",
+      "chromas": false
+    },
+    {
+      "id": "246007",
+      "name": "战场BOSS 奇亚娜 绝杀王女",
+      "chromas": false
+    },
+    {
+      "id": "246008",
+      "name": "战场BOSS 奇亚娜 K.O.",
+      "chromas": false
+    },
+    {
+      "id": "246009",
+      "name": "战场BOSS 奇亚娜 隐藏强者",
+      "chromas": false
+    },
+    {
+      "id": "246010",
+      "name": "至臻 真实伤害 奇亚娜",
+      "chromas": false
+    },
+    {
+      "id": "246011",
+      "name": "女帝 奇亚娜",
+      "chromas": true
+    },
+    {
+      "id": "246012",
+      "name": "女帝 奇亚娜 纹章之刻印·英勇",
+      "chromas": false
+    },
+    {
+      "id": "246013",
+      "name": "女帝 奇亚娜 纹章之刻印·坚毅",
+      "chromas": false
+    },
+    {
+      "id": "246014",
+      "name": "女帝 奇亚娜 纹章·神圣加冕礼",
+      "chromas": false
+    },
+    {
+      "id": "246015",
+      "name": "女帝 奇亚娜 纹章之刻印·果决",
+      "chromas": false
+    },
+    {
+      "id": "246016",
+      "name": "女帝 奇亚娜 纹章之刻印·威风",
+      "chromas": false
+    },
+    {
+      "id": "246017",
+      "name": "女帝 奇亚娜 纹章之刻印·无我",
+      "chromas": false
+    },
+    {
+      "id": "246018",
+      "name": "女帝 奇亚娜 纹章之刻印·敏锐",
+      "chromas": false
+    },
+    {
+      "id": "246019",
+      "name": "女帝 奇亚娜 纹章之刻印·深谋",
+      "chromas": false
+    },
+    {
+      "id": "246020",
+      "name": "冲击之刃 奇亚娜",
+      "chromas": true
+    },
+    {
+      "id": "246021",
+      "name": "至臻 真实伤害 奇亚娜 (2022)",
+      "chromas": false
+    },
+    {
+      "id": "246022",
+      "name": "冲击之刃 奇亚娜 红猿",
+      "chromas": false
+    },
+    {
+      "id": "246023",
+      "name": "冲击之刃 奇亚娜 蓝狼",
+      "chromas": false
+    },
+    {
+      "id": "246024",
+      "name": "冲击之刃 奇亚娜 黄熊",
+      "chromas": false
+    },
+    {
+      "id": "246025",
+      "name": "冲击之刃 奇亚娜 绿蛇",
+      "chromas": false
+    },
+    {
+      "id": "246026",
+      "name": "冲击之刃 奇亚娜 粉猫",
+      "chromas": false
+    },
+    {
+      "id": "246027",
+      "name": "冲击之刃 奇亚娜 紫鸦",
+      "chromas": false
+    },
+    {
+      "id": "246028",
+      "name": "冲击之刃 奇亚娜 白鹤",
+      "chromas": false
+    },
+    {
+      "id": "246029",
+      "name": "冲击之刃 奇亚娜 黑蟾",
+      "chromas": false
+    },
+    {
+      "id": "246030",
+      "name": "春晖神女 奇亚娜",
+      "chromas": true
+    },
+    {
+      "id": "246031",
+      "name": "春晖神女 奇亚娜 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "246032",
+      "name": "春晖神女 奇亚娜 日进斗金",
+      "chromas": false
+    },
+    {
+      "id": "246033",
+      "name": "春晖神女 奇亚娜 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "246034",
+      "name": "春晖神女 奇亚娜 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "246035",
+      "name": "春晖神女 奇亚娜 年年有余",
+      "chromas": false
+    },
+    {
+      "id": "246036",
+      "name": "春晖神女 奇亚娜 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "246037",
+      "name": "春晖神女 奇亚娜 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "246038",
+      "name": "春晖神女 奇亚娜 吉祥如意",
+      "chromas": false
+    },
+    {
+      "id": "246039",
+      "name": "春晖神女 奇亚娜 灿烂辉煌",
+      "chromas": false
+    },
+    {
+      "id": "246040",
+      "name": "灵之菊 奇亚娜",
+      "chromas": true
+    },
+    {
+      "id": "246041",
+      "name": "灵之菊 奇亚娜 信念之火",
+      "chromas": false
+    },
+    {
+      "id": "246042",
+      "name": "灵之菊 奇亚娜 引路之花",
+      "chromas": false
+    },
+    {
+      "id": "246043",
+      "name": "灵之菊 奇亚娜 告慰之饮",
+      "chromas": false
+    },
+    {
+      "id": "246044",
+      "name": "灵之菊 奇亚娜 庆典之饰",
+      "chromas": false
+    },
+    {
+      "id": "246045",
+      "name": "灵之菊 奇亚娜 生命之源",
+      "chromas": false
+    },
+    {
+      "id": "246046",
+      "name": "灵之菊 奇亚娜 家人之爱",
+      "chromas": false
+    },
+    {
+      "id": "246047",
+      "name": "灵之菊 奇亚娜 送别之礼",
+      "chromas": false
+    },
+    {
+      "id": "246048",
+      "name": "灵之菊 奇亚娜 智慧之物",
+      "chromas": false
+    },
+    {
+      "id": "246049",
+      "name": "灵之菊 奇亚娜 生如夏花",
+      "chromas": false
+    },
+    {
+      "id": "246050",
+      "name": "至臻 战斗学院 奇亚娜",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "凌人贵气",
+    "description": "奇亚娜对每名敌人发起的第一次普攻或技能会造成额外伤害。",
+    "image": "Qiyana_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "元素之怒 / 以绪塔尔之锋",
+      "description": "奇亚娜挥舞她的武器，造成伤害和基于她元素的额外效果。",
+      "tooltip": "如果奇亚娜并未拥有一个附魔，那么她会进行斩击，对小范围内的敌人们造成{{ vanilladamage }}物理伤害。如果她已有一个附魔，那么这个技能会获得额外距离并基于附魔类型获得一个额外效果：寒冰附魔：暂时禁锢，然后是持续{{ slowduration }}秒的{{ slowpotency*-100 }}%减速。岩石附魔：对低于{{ critthreshold*100 }}%生命值的敌人们造成额外的{{ tremordamage }}物理伤害。荒野附魔：留下一条小径，来使奇亚娜隐形并提供{{ haste*100 }}%移动速度。",
+      "cooldown": "7",
+      "cost": "35",
+      "costType": " {{ abilityresourcename }}",
+      "range": "525",
+      "maxrank": 5,
+      "image": "QiyanaQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "方圆塑令",
+      "description": "奇亚娜突进到一个位置并用一种元素为她的武器附魔。当武器有附魔时，她的攻击和技能会造成额外伤害。",
+      "tooltip": "被动：当奇亚娜的武器已被附魔时，她会获得{{ attackspeed*100 }}%攻击速度并且她的攻击造成额外的{{ onhitdamage }}魔法伤害。她还会在相应地形类型附近获得非战斗状态下的{{ passivems*100 }}%移动速度。主动：奇亚娜突进向一个附近的草丛、地形或河流，然后用该地形类型来附魔她的武器。这会刷新元素之怒 / 以绪塔尔之锋的冷却时间。",
+      "cooldown": "7",
+      "cost": "25/30/35/40/45",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1100",
+      "maxrank": 5,
+      "image": "QiyanaW.png",
+      "key": "W"
+    },
+    {
+      "name": "天纵之勇",
+      "description": "奇亚娜突进至一名敌人处，并对其造成伤害。",
+      "tooltip": "奇亚娜冲刺并经过一名敌人，并对其造成{{ damage }}物理伤害。",
+      "cooldown": "11/10/9/8/7",
+      "cost": "40/45/50/55/60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "QiyanaE.png",
+      "key": "E"
+    },
+    {
+      "name": "惊才绝景",
+      "description": "奇亚娜发出一道冲击波来引爆沿途命中的任何元素，对元素附近的敌人造成伤害和晕眩效果。",
+      "tooltip": "奇亚娜放出一道冲击波来击退敌人们并在它命中墙体时爆炸。爆炸会沿着地形的完整边缘行进，晕眩0.5到{{ stunduration }}秒并造成{{ damage }}外加{{ missinghealthdamagerock }}最大生命值的物理伤害。 晕眩时长会随着爆炸的移动距离而缩短。冲击波途经的任何河流与草丛也会在短暂延迟后爆炸，造成等值的伤害和晕眩。",
+      "cooldown": "120",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "950",
+      "maxrank": 3,
+      "image": "QiyanaR.png",
+      "key": "R"
+    }
+  ]
+}

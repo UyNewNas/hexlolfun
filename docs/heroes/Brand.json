@@ -1,0 +1,358 @@
+{
+  "id": "Brand",
+  "championId": "63",
+  "name": "复仇焰魂",
+  "title": "布兰德",
+  "region": "符文之地",
+  "blurb": "基根·诺和曾经是一名普通弗雷尔卓德部族居民，现在则变成了另一种生物，布兰德。他的身世警醒着后人，被更强大的力量所诱惑会带来什么后果。基根为了追寻传说中的世界符文，背叛了自己的同伴并将符文据为己有，就在那一瞬间，这个人彻底消失了。他的灵魂被彻底燃尽，他的身躯成为了活体烈焰的容器，如今，布兰德游荡在瓦洛兰，寻觅着其他的符文。他曾遭受的苦难，凡人活上十几辈子也未必能够经历，而他发誓此仇必报。",
+  "tags": [
+    "法师",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 2,
+    "magic": 9,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 570,
+    "hpPerLevel": 105,
+    "mp": 469,
+    "mpPerLevel": 21,
+    "movespeed": 340,
+    "armor": 27,
+    "armorPerLevel": 4.2,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 57,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.681,
+    "attackspeedPerLevel": 2,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 9,
+    "mpregenPerLevel": 0.6,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "63001",
+      "name": "末日余生 布兰德",
+      "chromas": false
+    },
+    {
+      "id": "63002",
+      "name": "V字仇杀者 布兰德",
+      "chromas": false
+    },
+    {
+      "id": "63003",
+      "name": "冰晶之核 布兰德",
+      "chromas": false
+    },
+    {
+      "id": "63004",
+      "name": "丧尸 布兰德",
+      "chromas": true
+    },
+    {
+      "id": "63005",
+      "name": "灵魂烈焰 布兰德",
+      "chromas": false
+    },
+    {
+      "id": "63006",
+      "name": "战场BOSS 布兰德",
+      "chromas": false
+    },
+    {
+      "id": "63007",
+      "name": "苍穹之光 布兰德",
+      "chromas": true
+    },
+    {
+      "id": "63008",
+      "name": "神龙尊者 魔龙布兰德",
+      "chromas": true
+    },
+    {
+      "id": "63009",
+      "name": "苍穹之光 布兰德 主神星之威",
+      "chromas": false
+    },
+    {
+      "id": "63010",
+      "name": "苍穹之光 布兰德 战神星之怒",
+      "chromas": false
+    },
+    {
+      "id": "63011",
+      "name": "苍穹之光 布兰德 冥神星之怨",
+      "chromas": false
+    },
+    {
+      "id": "63012",
+      "name": "苍穹之光 布兰德 天神星之烈",
+      "chromas": false
+    },
+    {
+      "id": "63013",
+      "name": "神龙尊者 魔龙布兰德 登龙",
+      "chromas": false
+    },
+    {
+      "id": "63014",
+      "name": "神龙尊者 魔龙布兰德 聚鹤",
+      "chromas": false
+    },
+    {
+      "id": "63015",
+      "name": "神龙尊者 魔龙布兰德 集仙",
+      "chromas": false
+    },
+    {
+      "id": "63016",
+      "name": "神龙尊者 魔龙布兰德 望霞",
+      "chromas": false
+    },
+    {
+      "id": "63017",
+      "name": "神龙尊者 魔龙布兰德 翠屏",
+      "chromas": false
+    },
+    {
+      "id": "63018",
+      "name": "神龙尊者 魔龙布兰德 摘星",
+      "chromas": false
+    },
+    {
+      "id": "63019",
+      "name": "神龙尊者 魔龙布兰德 松峦",
+      "chromas": false
+    },
+    {
+      "id": "63020",
+      "name": "神龙尊者 魔龙布兰德 朝云",
+      "chromas": false
+    },
+    {
+      "id": "63021",
+      "name": "焰执事 布兰德",
+      "chromas": true
+    },
+    {
+      "id": "63022",
+      "name": "至臻 焰执事 布兰德",
+      "chromas": false
+    },
+    {
+      "id": "63023",
+      "name": "神龙尊者 魔龙布兰德 烬爪",
+      "chromas": false
+    },
+    {
+      "id": "63024",
+      "name": "焰执事 布兰德 红莲",
+      "chromas": false
+    },
+    {
+      "id": "63025",
+      "name": "焰执事 布兰德 琥珀",
+      "chromas": false
+    },
+    {
+      "id": "63026",
+      "name": "焰执事 布兰德 幻魅",
+      "chromas": false
+    },
+    {
+      "id": "63027",
+      "name": "焰执事 布兰德 青木",
+      "chromas": false
+    },
+    {
+      "id": "63028",
+      "name": "焰执事 布兰德 黛夜",
+      "chromas": false
+    },
+    {
+      "id": "63029",
+      "name": "焰执事 布兰德 蓝霜",
+      "chromas": false
+    },
+    {
+      "id": "63030",
+      "name": "焰执事 布兰德 黑曜",
+      "chromas": false
+    },
+    {
+      "id": "63031",
+      "name": "焰执事 布兰德 墨玉",
+      "chromas": false
+    },
+    {
+      "id": "63032",
+      "name": "焰执事 布兰德 碧空",
+      "chromas": false
+    },
+    {
+      "id": "63033",
+      "name": "妖怪艺术家 布兰德",
+      "chromas": true
+    },
+    {
+      "id": "63034",
+      "name": "妖怪艺术家 布兰德 朱槿",
+      "chromas": false
+    },
+    {
+      "id": "63035",
+      "name": "妖怪艺术家 布兰德 青黛",
+      "chromas": false
+    },
+    {
+      "id": "63036",
+      "name": "妖怪艺术家 布兰德 月白",
+      "chromas": false
+    },
+    {
+      "id": "63037",
+      "name": "妖怪艺术家 布兰德 硫华",
+      "chromas": false
+    },
+    {
+      "id": "63038",
+      "name": "妖怪艺术家 布兰德 碧荷",
+      "chromas": false
+    },
+    {
+      "id": "63039",
+      "name": "妖怪艺术家 布兰德 群青",
+      "chromas": false
+    },
+    {
+      "id": "63040",
+      "name": "妖怪艺术家 布兰德 丁香",
+      "chromas": false
+    },
+    {
+      "id": "63041",
+      "name": "妖怪艺术家 布兰德 霞光",
+      "chromas": false
+    },
+    {
+      "id": "63042",
+      "name": "至高天 布兰德",
+      "chromas": true
+    },
+    {
+      "id": "63043",
+      "name": "至高天 布兰德 狂焰",
+      "chromas": false
+    },
+    {
+      "id": "63044",
+      "name": "至高天 布兰德 华耀",
+      "chromas": false
+    },
+    {
+      "id": "63045",
+      "name": "至高天 布兰德 寒芒",
+      "chromas": false
+    },
+    {
+      "id": "63046",
+      "name": "至高天 布兰德 青炬",
+      "chromas": false
+    },
+    {
+      "id": "63047",
+      "name": "至高天 布兰德 灵辉",
+      "chromas": false
+    },
+    {
+      "id": "63048",
+      "name": "至高天 布兰德 幻耀",
+      "chromas": false
+    },
+    {
+      "id": "63049",
+      "name": "至高天 布兰德 荧煌",
+      "chromas": false
+    },
+    {
+      "id": "63050",
+      "name": "至高天 布兰德 胧光",
+      "chromas": false
+    },
+    {
+      "id": "63051",
+      "name": "至高天 布兰德 霓虹表象",
+      "chromas": false
+    },
+    {
+      "id": "63052",
+      "name": "丧尸 布兰德 末日",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "炽热之焰",
+    "description": "布兰德的技能会对他的目标施加【烈焰焚身】效果，在4秒里持续造成伤害，最多可叠加3次。如果布兰德击杀了身上带有【烈焰焚身】的敌人，那么他会回复法力值。当【炽热之焰】在一名英雄或大型野怪身上叠至满层时，它会变得不稳定。它会在2秒内爆炸，在目标附近的区域施加法术特效并造成大量伤害。",
+    "image": "BrandP.png"
+  },
+  "spells": [
+    {
+      "name": "火焰烙印",
+      "description": "布兰德向前方放出一团可造成魔法伤害的火球。如果目标带有【烈焰焚身】效果，那么【Q火焰烙印】将使目标晕眩。",
+      "tooltip": "布兰德放出一团火球，对命中的第一个敌人造成{{ totaldamage }}魔法伤害。如果目标被烈焰焚身，那么还会被晕眩{{ stunduration }}秒。",
+      "cooldown": "8/7.5/7/6.5/6",
+      "cost": "70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1050",
+      "maxrank": 5,
+      "image": "BrandQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "烈焰之柱",
+      "description": "在短暂的延迟后，布兰德会在目标区域创造一根烈焰之柱，来对范围内的敌方单位造成魔法伤害。带有【烈焰焚身】效果的单位会额外受到25%伤害。",
+      "tooltip": "布兰德生成一团纯火之柱，造成{{ totaldamage }}魔法伤害。被烈焰焚身的单位们会转而受到{{ empowereddamage }}伤害。",
+      "cooldown": "10/9.5/9/8.5/8",
+      "cost": "60/70/80/90/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "900",
+      "maxrank": 5,
+      "image": "BrandW.png",
+      "key": "W"
+    },
+    {
+      "name": "烈火燃烧",
+      "description": "布兰德在目标身上引发一阵强力的爆裂至附近的敌人处，造成魔法伤害。如果目标带有【烈焰焚身】效果，那么【E烈火燃烧】的扩散距离翻倍。",
+      "tooltip": "布兰德在目标身上引发一阵强力的爆裂，对附近的单位们造成{{ edamagecalc }}魔法伤害。如果目标带有烈焰焚身，那么扩散距离翻倍。",
+      "cooldown": "13/12/11/10/9",
+      "cost": "70/75/80/85/90",
+      "costType": " {{ abilityresourcename }}",
+      "range": "625",
+      "maxrank": 5,
+      "image": "BrandE.png",
+      "key": "E"
+    },
+    {
+      "name": "烈焰风暴",
+      "description": "布兰德释放一颗破坏力极强的火焰之种，火焰之种会在布兰德和附近敌人之间弹跳至多5次，每次弹跳时对敌人造成魔法伤害。弹跳会优先以带有即将满层的【炽热之焰】效果的英雄为目标。如果目标带有【烈焰焚身】效果，那么【R烈焰风暴】将使目标短暂减速。",
+      "tooltip": "布兰德释放一颗破坏力极强的火焰之种，火焰之种会在布兰德或另一名敌人之间弹跳至多5次，每次弹跳时对敌人造成{{ totaldamage }}魔法伤害。弹跳会优先以带有即将满层的炽热之焰效果的英雄为目标。如果目标带有烈焰焚身，则会被暂时减速{{ slowamount }}%。",
+      "cooldown": "100/90/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "750",
+      "maxrank": 3,
+      "image": "BrandR.png",
+      "key": "R"
+    }
+  ]
+}

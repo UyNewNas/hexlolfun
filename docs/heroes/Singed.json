@@ -1,0 +1,238 @@
+{
+  "id": "Singed",
+  "championId": "27",
+  "name": "炼金术士",
+  "title": "辛吉德",
+  "region": "祖安",
+  "blurb": "辛吉德是一位天资卓越但品行不端的炼金术士，他的实验甚至能让最穷凶极恶的罪犯都感到反胃。他把自己的技术卖给出价最高的卖家，至于这些剧毒药剂会被用在哪里，他毫不在乎，甚至还将它们招致的混乱视作实验的一部分。他最臭名昭著的发明当属“微光”。借助微光的力量，炼金男爵把祖安变成了自己的私人游乐场。在疯狂的驱使下，辛吉德一直不断在尝试新的发明，一次比一次堕落……",
+  "tags": [
+    "坦克",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 4,
+    "defense": 8,
+    "magic": 7,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 650,
+    "hpPerLevel": 96,
+    "mp": 330,
+    "mpPerLevel": 45,
+    "movespeed": 345,
+    "armor": 34,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 63,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.7,
+    "attackspeedPerLevel": 1.9,
+    "hpregen": 9.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 7.5,
+    "mpregenPerLevel": 0.55,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "27001",
+      "name": "防暴士兵 辛吉德",
+      "chromas": false
+    },
+    {
+      "id": "27002",
+      "name": "机械污染 辛吉德",
+      "chromas": false
+    },
+    {
+      "id": "27003",
+      "name": "冲浪高手 辛吉德",
+      "chromas": false
+    },
+    {
+      "id": "27004",
+      "name": "科学狂人 辛吉德",
+      "chromas": false
+    },
+    {
+      "id": "27005",
+      "name": "炼金狂士 辛吉德",
+      "chromas": false
+    },
+    {
+      "id": "27006",
+      "name": "冰雪节 辛吉德",
+      "chromas": false
+    },
+    {
+      "id": "27007",
+      "name": "SSW 辛吉德",
+      "chromas": false
+    },
+    {
+      "id": "27008",
+      "name": "黑色天灾 辛吉德",
+      "chromas": false
+    },
+    {
+      "id": "27009",
+      "name": "养蜂人 辛吉德",
+      "chromas": false
+    },
+    {
+      "id": "27010",
+      "name": "抵抗军绿魔 辛吉德",
+      "chromas": true
+    },
+    {
+      "id": "27011",
+      "name": "抵抗军绿魔 辛吉德 炼狱勇士",
+      "chromas": false
+    },
+    {
+      "id": "27012",
+      "name": "抵抗军绿魔 辛吉德 合金怒火",
+      "chromas": false
+    },
+    {
+      "id": "27013",
+      "name": "抵抗军绿魔 辛吉德 丛林之王",
+      "chromas": false
+    },
+    {
+      "id": "27014",
+      "name": "抵抗军绿魔 辛吉德 机兽之灾",
+      "chromas": false
+    },
+    {
+      "id": "27015",
+      "name": "抵抗军绿魔 辛吉德 毁灭律动",
+      "chromas": false
+    },
+    {
+      "id": "27016",
+      "name": "抵抗军绿魔 辛吉德 粉红魅焰",
+      "chromas": false
+    },
+    {
+      "id": "27017",
+      "name": "抵抗军绿魔 辛吉德 炙热裁决",
+      "chromas": false
+    },
+    {
+      "id": "27018",
+      "name": "抵抗军绿魔 辛吉德 铁血先锋",
+      "chromas": false
+    },
+    {
+      "id": "27019",
+      "name": "宇航员 辛吉德",
+      "chromas": true
+    },
+    {
+      "id": "27020",
+      "name": "宇航员 辛吉德 平坦宇宙",
+      "chromas": false
+    },
+    {
+      "id": "27021",
+      "name": "宇航员 辛吉德 重力弹弓",
+      "chromas": false
+    },
+    {
+      "id": "27022",
+      "name": "宇航员 辛吉德 盖亚意识",
+      "chromas": false
+    },
+    {
+      "id": "27023",
+      "name": "宇航员 辛吉德 自由落体",
+      "chromas": false
+    },
+    {
+      "id": "27024",
+      "name": "宇航员 辛吉德 事件视界",
+      "chromas": false
+    },
+    {
+      "id": "27025",
+      "name": "宇航员 辛吉德 伽马射线",
+      "chromas": false
+    },
+    {
+      "id": "27026",
+      "name": "宇航员 辛吉德 万有引力",
+      "chromas": false
+    },
+    {
+      "id": "27027",
+      "name": "宇航员 辛吉德 亚空间",
+      "chromas": false
+    },
+    {
+      "id": "27028",
+      "name": "双城之战2 微光实验室 辛吉德",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "剧毒冲流",
+    "description": "辛吉德借助附近英雄进行漂移，在经过他们时获得爆发性的移动速度加成。",
+    "image": "Singed_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "剧毒踪迹",
+      "description": "辛吉德在身后留下剧毒踪迹，对经过上面的敌人造成持续伤害。",
+      "tooltip": "激活：辛吉德在身后留下一条剧毒踪迹，对经过它的敌人造成每秒{{ damagepersecond }}魔法伤害。",
+      "cooldown": "0",
+      "cost": "13",
+      "costType": "法力",
+      "range": "20",
+      "maxrank": 5,
+      "image": "PoisonTrail.png",
+      "key": "Q"
+    },
+    {
+      "name": "强力粘胶",
+      "description": "扔出一瓶强力粘合剂在地上，其中的敌人会被减速和缚地。",
+      "tooltip": "辛吉德猛掷出一个装满粘性液体的桶，对区域内的敌人造成缚地和{{ slowpercent }}%减速，持续{{ wduration }}秒。",
+      "cooldown": "17/16/15/14/13",
+      "cost": "60/70/80/90/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "MegaAdhesive.png",
+      "key": "W"
+    },
+    {
+      "name": "过肩摔",
+      "description": "伤害目标敌方单位，并将他们投掷到辛吉德身后。如果辛吉德将目标扔到强力粘胶上，目标还会被禁锢。",
+      "tooltip": "辛吉德对一名敌人进行过肩摔，造成{{ basedamage }}外加{{ maxhpdamage }}%最大生命值的魔法伤害。如果辛吉德将一名目标摔到他的强力粘胶上，那么该目标还会被禁锢{{ rootduration }}秒。",
+      "cooldown": "10/9.5/9/8.5/8",
+      "cost": "60/70/80/90/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "125",
+      "maxrank": 5,
+      "image": "Fling.png",
+      "key": "E"
+    },
+    {
+      "name": "疯狂药剂",
+      "description": "辛吉德喝下精心炮制的化学药剂，大幅提高战斗属性，并使他的【剧毒踪迹】可以施加重伤效果。",
+      "tooltip": "辛吉德喝下化学药剂，自身获得{{ statamount }}法术强度、护甲、魔法抗性、移动速度、生命回复和法力回复，持续{{ duration }}秒。在这个效果期间，辛吉德的剧毒踪迹还会施加持续{{ grievousduration }}秒的{{ grievousamount*100 }}%重伤。",
+      "cooldown": "100",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "20",
+      "maxrank": 3,
+      "image": "InsanityPotion.png",
+      "key": "R"
+    }
+  ]
+}

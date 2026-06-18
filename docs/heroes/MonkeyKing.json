@@ -1,0 +1,273 @@
+{
+  "id": "MonkeyKing",
+  "championId": "62",
+  "name": "齐天大圣",
+  "title": "孙悟空",
+  "region": "艾欧尼亚",
+  "blurb": "悟空是一个瓦斯塔亚族的机灵鬼，用自己的力量、灵敏和机智迷惑对手并抢得先机。机缘巧合让他结识了一位剑客并与之成为一生的挚友，这位剑客被人称作易大师。后来，悟空就成为了古老武术门派“无极”的最后一位弟子。如今，附魔长棍傍身的悟空，目标是让艾欧尼亚免遭崩溃的命运。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 5,
+    "magic": 2,
+    "difficulty": 3
+  },
+  "stats": {
+    "hp": 610,
+    "hpPerLevel": 99,
+    "mp": 330,
+    "mpPerLevel": 65,
+    "movespeed": 340,
+    "armor": 31,
+    "armorPerLevel": 4.7,
+    "spellblock": 28,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 66,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.69,
+    "attackspeedPerLevel": 3,
+    "hpregen": 3.5,
+    "hpregenPerLevel": 0.65,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "62001",
+      "name": "三昧真火 孙悟空",
+      "chromas": false
+    },
+    {
+      "id": "62002",
+      "name": "斗战胜佛 孙悟空",
+      "chromas": false
+    },
+    {
+      "id": "62003",
+      "name": "定海神珍 孙悟空",
+      "chromas": true
+    },
+    {
+      "id": "62004",
+      "name": "地狱行者 孙悟空",
+      "chromas": true
+    },
+    {
+      "id": "62005",
+      "name": "美猴王 孙悟空",
+      "chromas": false
+    },
+    {
+      "id": "62006",
+      "name": "破空枪骑 孙悟空",
+      "chromas": false
+    },
+    {
+      "id": "62007",
+      "name": "战斗学院 孙悟空",
+      "chromas": true
+    },
+    {
+      "id": "62008",
+      "name": "战斗学院 孙悟空 不死鸟",
+      "chromas": false
+    },
+    {
+      "id": "62009",
+      "name": "战斗学院 孙悟空 独角兽",
+      "chromas": false
+    },
+    {
+      "id": "62010",
+      "name": "战斗学院 孙悟空 雄狮",
+      "chromas": false
+    },
+    {
+      "id": "62011",
+      "name": "战斗学院 孙悟空 天马",
+      "chromas": false
+    },
+    {
+      "id": "62012",
+      "name": "战斗学院 孙悟空 森林龙",
+      "chromas": false
+    },
+    {
+      "id": "62013",
+      "name": "战斗学院 孙悟空 狮鹫",
+      "chromas": false
+    },
+    {
+      "id": "62014",
+      "name": "战斗学院 孙悟空 剑齿虎",
+      "chromas": false
+    },
+    {
+      "id": "62015",
+      "name": "战斗学院 孙悟空 黑龙",
+      "chromas": false
+    },
+    {
+      "id": "62016",
+      "name": "永恒之森 孙悟空",
+      "chromas": true
+    },
+    {
+      "id": "62017",
+      "name": "永恒之森 孙悟空 焰枫",
+      "chromas": false
+    },
+    {
+      "id": "62018",
+      "name": "永恒之森 孙悟空 秋临",
+      "chromas": false
+    },
+    {
+      "id": "62019",
+      "name": "永恒之森 孙悟空 永茂",
+      "chromas": false
+    },
+    {
+      "id": "62020",
+      "name": "永恒之森 孙悟空 灵橡",
+      "chromas": false
+    },
+    {
+      "id": "62021",
+      "name": "永恒之森 孙悟空 琥珀",
+      "chromas": false
+    },
+    {
+      "id": "62022",
+      "name": "永恒之森 孙悟空 樱落",
+      "chromas": false
+    },
+    {
+      "id": "62023",
+      "name": "永恒之森 孙悟空 桔梗",
+      "chromas": false
+    },
+    {
+      "id": "62024",
+      "name": "永恒之森 孙悟空 冰桦",
+      "chromas": false
+    },
+    {
+      "id": "62025",
+      "name": "定海神珍 孙悟空 四海扬威",
+      "chromas": false
+    },
+    {
+      "id": "62026",
+      "name": "机神 孙悟空",
+      "chromas": true
+    },
+    {
+      "id": "62027",
+      "name": "地狱行者 孙悟空 末日",
+      "chromas": false
+    },
+    {
+      "id": "62029",
+      "name": "机神 孙悟空 炼狱",
+      "chromas": false
+    },
+    {
+      "id": "62030",
+      "name": "机神 孙悟空 剧毒",
+      "chromas": false
+    },
+    {
+      "id": "62031",
+      "name": "机神 孙悟空 水晶",
+      "chromas": false
+    },
+    {
+      "id": "62032",
+      "name": "机神 孙悟空 海洋",
+      "chromas": false
+    },
+    {
+      "id": "62033",
+      "name": "机神 孙悟空 月蚀",
+      "chromas": false
+    },
+    {
+      "id": "62034",
+      "name": "机神 孙悟空 云霄",
+      "chromas": false
+    },
+    {
+      "id": "62035",
+      "name": "机神 孙悟空 钢铁",
+      "chromas": false
+    },
+    {
+      "id": "62036",
+      "name": "机神 孙悟空 沙漠",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "金刚不坏",
+    "description": "孙悟空在与英雄或野怪战斗时，会获得可叠加的护甲和最大生命值回复。",
+    "image": "MonkeyKingStoneSkin.png"
+  },
+  "spells": [
+    {
+      "name": "粉碎打击",
+      "description": "孙悟空的下次攻击获得额外距离，造成额外伤害，并暂时减少敌人的护甲。",
+      "tooltip": "孙悟空和他的分身的下次攻击提升{{ attackrangebonus }}距离，造成{{ bonusdamagett }}额外物理伤害，并移除目标{{ armorshredpercent*100 }}%护甲，持续{{ shredduration }}秒。每当孙悟空或他的分身用一次攻击或技能命中一名敌人时，这个技能的冷却时间就会缩短{{ cooldowndecrease }}秒。这个技能会在造成伤害时触发技能特效。",
+      "cooldown": "8/7.5/7/6.5/6",
+      "cost": "20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "250/275/300/325/350",
+      "maxrank": 5,
+      "image": "MonkeyKingDoubleAttack.png",
+      "key": "Q"
+    },
+    {
+      "name": "真假猴王",
+      "description": "孙悟空变为隐形状态并朝着一个方向突进，同时留下一个会攻击附近敌人的分身。",
+      "tooltip": "孙悟空突进并变为隐形状态，持续{{ stealthduration }}秒，同时留下一个持续{{ cloneduration }}秒的不能移动的分身。分身会攻击附近的近期被孙悟空造成过伤害的敌人并会模拟他的终极技能，造成{{ clonedamagemod*100 }}%的常规伤害。",
+      "cooldown": "22/21/20/19/18",
+      "cost": "60/55/50/45/40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "275",
+      "maxrank": 5,
+      "image": "MonkeyKingDecoy.png",
+      "key": "W"
+    },
+    {
+      "name": "腾云突击",
+      "description": "孙悟空突进至一名目标敌人处，并放出幻象来攻击他目标附近的敌人，同时对每个被击中的敌人造成伤害。",
+      "tooltip": "孙悟空突进至目标敌人处，并放出多个分身来对附近的至多{{ extratargets }}个额外敌人进行模拟突进。每个被击中的敌人会受到{{ totaldamage }}魔法伤害。他和他的分身获得持续{{ attackspeedduration }}秒的{{ attackspeed*100 }}%攻击速度。",
+      "cooldown": "10/9.25/8.5/7.75/7",
+      "cost": "30/35/40/45/50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "MonkeyKingNimbus.png",
+      "key": "E"
+    },
+    {
+      "name": "大闹天宫",
+      "description": "孙悟空伸展金箍棒不断旋转，并获得移动速度。击中敌人时会造成伤害和击飞效果。",
+      "tooltip": "孙悟空获得{{ movespeed*100 }}%移动速度并旋转他的金箍棒，击飞 附近的敌人{{ knockupduration }}秒并在{{ spinduration }}秒里持续造成共{{ totaldamagett }}加上 {{ percenthpdamagett }}最大生命值的物理伤害。这个技能可以在{{ recastwindow }}秒里再施放一次，随后会进入冷却阶段。",
+      "cooldown": "130/110/90",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "315",
+      "maxrank": 3,
+      "image": "MonkeyKingSpinToWin.png",
+      "key": "R"
+    }
+  ]
+}

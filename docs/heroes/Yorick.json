@@ -1,0 +1,388 @@
+{
+  "id": "Yorick",
+  "championId": "83",
+  "name": "牧魂人",
+  "title": "约里克",
+  "region": "暗影岛",
+  "blurb": "约里克所在的教团早已被世人忘却，而他是最后的幸存者，获得了操控死者的能力，这既是祝福也是诅咒。与他一同被困在暗影岛上的，只有逐渐腐败的尸体，还有他引到自己身边终日尖啸的怨灵。但在约里克怪异的举止下，却掩藏着一个崇高的目标：将他的家园从破败之咒中解救出来。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 6,
+    "defense": 6,
+    "magic": 4,
+    "difficulty": 6
+  },
+  "stats": {
+    "hp": 650,
+    "hpPerLevel": 114,
+    "mp": 300,
+    "mpPerLevel": 60,
+    "movespeed": 340,
+    "armor": 36,
+    "armorPerLevel": 4.5,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 62,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 2,
+    "hpregen": 8,
+    "hpregenPerLevel": 0.8,
+    "mpregen": 7.5,
+    "mpregenPerLevel": 0.75,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "83001",
+      "name": "地狱送葬 约里克",
+      "chromas": false
+    },
+    {
+      "id": "83002",
+      "name": "五杀摇滚贝斯手 约里克",
+      "chromas": false
+    },
+    {
+      "id": "83003",
+      "name": "苍穹之光 约里克",
+      "chromas": false
+    },
+    {
+      "id": "83004",
+      "name": "喵里克",
+      "chromas": true
+    },
+    {
+      "id": "83005",
+      "name": "胜利铲屎官 喵里克",
+      "chromas": false
+    },
+    {
+      "id": "83006",
+      "name": "皇家铲屎官 喵里克",
+      "chromas": false
+    },
+    {
+      "id": "83007",
+      "name": "幸运铲屎官 喵里克",
+      "chromas": false
+    },
+    {
+      "id": "83008",
+      "name": "喵爪铲屎官 喵里克",
+      "chromas": false
+    },
+    {
+      "id": "83009",
+      "name": "钻石铲屎官 喵里克",
+      "chromas": false
+    },
+    {
+      "id": "83010",
+      "name": "爆筋铲屎官 喵里克",
+      "chromas": false
+    },
+    {
+      "id": "83011",
+      "name": "笋干铲屎官 喵里克",
+      "chromas": false
+    },
+    {
+      "id": "83012",
+      "name": "抵抗军灵魔 约里克",
+      "chromas": true
+    },
+    {
+      "id": "83013",
+      "name": "抵抗军灵魔 约里克 炼狱勇士",
+      "chromas": false
+    },
+    {
+      "id": "83014",
+      "name": "抵抗军灵魔 约里克 合金怒火",
+      "chromas": false
+    },
+    {
+      "id": "83015",
+      "name": "抵抗军灵魔 约里克 深海战栗",
+      "chromas": false
+    },
+    {
+      "id": "83016",
+      "name": "抵抗军灵魔 约里克 机兽之灾",
+      "chromas": false
+    },
+    {
+      "id": "83017",
+      "name": "抵抗军灵魔 约里克 毁灭律动",
+      "chromas": false
+    },
+    {
+      "id": "83018",
+      "name": "抵抗军灵魔 约里克 丛林之王",
+      "chromas": false
+    },
+    {
+      "id": "83019",
+      "name": "抵抗军灵魔 约里克 炙热裁决",
+      "chromas": false
+    },
+    {
+      "id": "83020",
+      "name": "抵抗军灵魔 约里克 粉红魅焰",
+      "chromas": false
+    },
+    {
+      "id": "83021",
+      "name": "五杀摇滚 III：遗失的章节 约里克",
+      "chromas": true
+    },
+    {
+      "id": "83022",
+      "name": "五杀摇滚 III：遗失的章节 约里克 热血",
+      "chromas": false
+    },
+    {
+      "id": "83023",
+      "name": "五杀摇滚 III：遗失的章节 约里克 叛逆",
+      "chromas": false
+    },
+    {
+      "id": "83024",
+      "name": "五杀摇滚 III：遗失的章节 约里克 自在",
+      "chromas": false
+    },
+    {
+      "id": "83025",
+      "name": "五杀摇滚 III：遗失的章节 约里克 迷幻",
+      "chromas": false
+    },
+    {
+      "id": "83026",
+      "name": "五杀摇滚 III：遗失的章节 约里克 硬核",
+      "chromas": false
+    },
+    {
+      "id": "83027",
+      "name": "五杀摇滚 III：遗失的章节 约里克 澎湃",
+      "chromas": false
+    },
+    {
+      "id": "83028",
+      "name": "五杀摇滚 III：遗失的章节 约里克 纯粹",
+      "chromas": false
+    },
+    {
+      "id": "83029",
+      "name": "五杀摇滚 III：遗失的章节 约里克 黑暗",
+      "chromas": false
+    },
+    {
+      "id": "83030",
+      "name": "灵魂莲华 约里克",
+      "chromas": true
+    },
+    {
+      "id": "83031",
+      "name": "灵魂莲华 约里克 流火",
+      "chromas": false
+    },
+    {
+      "id": "83032",
+      "name": "灵魂莲华 约里克 鸣蜩",
+      "chromas": false
+    },
+    {
+      "id": "83033",
+      "name": "灵魂莲华 约里克 雪落",
+      "chromas": false
+    },
+    {
+      "id": "83034",
+      "name": "灵魂莲华 约里克 朝花",
+      "chromas": false
+    },
+    {
+      "id": "83035",
+      "name": "灵魂莲华 约里克 云开",
+      "chromas": false
+    },
+    {
+      "id": "83036",
+      "name": "灵魂莲华 约里克 春晓",
+      "chromas": false
+    },
+    {
+      "id": "83037",
+      "name": "灵魂莲华 约里克 风起",
+      "chromas": false
+    },
+    {
+      "id": "83038",
+      "name": "灵魂莲华 约里克 月升",
+      "chromas": false
+    },
+    {
+      "id": "83039",
+      "name": "灵魂莲华 约里克 绽夜",
+      "chromas": false
+    },
+    {
+      "id": "83040",
+      "name": "暗星 约里克",
+      "chromas": true
+    },
+    {
+      "id": "83041",
+      "name": "暗星 约里克 战神星之爆",
+      "chromas": false
+    },
+    {
+      "id": "83042",
+      "name": "暗星 约里克 猎神星之败",
+      "chromas": false
+    },
+    {
+      "id": "83043",
+      "name": "暗星 约里克 主神星之黯",
+      "chromas": false
+    },
+    {
+      "id": "83044",
+      "name": "暗星 约里克 智神星之嫉",
+      "chromas": false
+    },
+    {
+      "id": "83045",
+      "name": "暗星 约里克 美神星之灭",
+      "chromas": false
+    },
+    {
+      "id": "83046",
+      "name": "暗星 约里克 天神星之陨",
+      "chromas": false
+    },
+    {
+      "id": "83047",
+      "name": "暗星 约里克 光神星之熄",
+      "chromas": false
+    },
+    {
+      "id": "83048",
+      "name": "暗星 约里克 冥神星之击",
+      "chromas": false
+    },
+    {
+      "id": "83049",
+      "name": "暗星 约里克 类星体",
+      "chromas": false
+    },
+    {
+      "id": "83050",
+      "name": "西部魔影 约里克",
+      "chromas": true
+    },
+    {
+      "id": "83051",
+      "name": "西部魔影 约里克 温和",
+      "chromas": false
+    },
+    {
+      "id": "83052",
+      "name": "西部魔影 约里克 善良",
+      "chromas": false
+    },
+    {
+      "id": "83053",
+      "name": "西部魔影 约里克 节制",
+      "chromas": false
+    },
+    {
+      "id": "83054",
+      "name": "西部魔影 约里克 慷慨",
+      "chromas": false
+    },
+    {
+      "id": "83055",
+      "name": "西部魔影 约里克 诚实",
+      "chromas": false
+    },
+    {
+      "id": "83056",
+      "name": "西部魔影 约里克 恭敬",
+      "chromas": false
+    },
+    {
+      "id": "83057",
+      "name": "西部魔影 约里克 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "83058",
+      "name": "西部魔影 约里克 纯洁",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "牧魂人",
+    "description": "受诅咒的部落：约里克可以召唤雾行者来蜂拥并攻击附近的敌人。",
+    "image": "Yorick_P.png"
+  },
+  "spells": [
+    {
+      "name": "临终仪式",
+      "description": "约里克的下次攻击造成额外伤害并治疗自身。如果目标是一个英雄或大型野怪或如果目标死亡，则会留下一个坟墓。",
+      "tooltip": "你的下一次普通攻击造成额外的{{ bonusdamage }}物理伤害并回复{{ qheal }}外加他的{{ missinghealthratio }}%已损失生命值，对抗非英雄单位时会削减{{ healreduction }}%。如果这个攻击命中了一个英雄或大型野怪或击杀了目标，就会留下一座坟墓。当附近有3个或以上的坟墓时，如果这个技能已被使用，那么约里克就能再次施放来从附近的所有坟墓中唤起雾行者。",
+      "cooldown": "6/5.5/5/4.5/4",
+      "cost": "20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "0",
+      "maxrank": 5,
+      "image": "YorickQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "暗灵缠身",
+      "description": "约里克在目标区域召唤一圈可破坏的暗灵之墙来阻挡敌方移动。",
+      "tooltip": "约里克召唤一道灵墙来阻挡敌人的道路，但不影响友军。灵墙拥有{{ wallhealthtooltip }}生命值，并且会在{{ circleduration }}秒后消失。",
+      "cooldown": "20/18/16/14/12",
+      "cost": "70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 5,
+      "image": "YorickW.png",
+      "key": "W"
+    },
+    {
+      "name": "哀伤之雾",
+      "description": "约里克扔出一小团黑雾，对敌人造成护甲削减、伤害、减速效果并标记敌人。召唤物在朝着被标记的目标移动时会获得移动速度。",
+      "tooltip": "约里克扔出一小团黑雾，来造成{{ calc_healthdamage }}最大生命值的魔法伤害，以及持续{{ slowduration }}秒的{{ calc_slow }}减速，并标记英雄和野怪{{ markduration }}秒。被标记的敌人们会不断唤醒附近的坟墓(但数量上限不会超过{{ spell.yorickpassive:yorickpassiveghoulmax }})，并受到{{ armorshred*100 }}%护甲削减。约里克和他的召唤单位们在朝着标记移动时会获得{{ hasteamount*100 }}%移动速度。雾行者将在被标记的敌人远离它们时跳跃一次。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "700",
+      "maxrank": 5,
+      "image": "YorickE.png",
+      "key": "E"
+    },
+    {
+      "name": "海屿悼词",
+      "description": "约里克召唤迷雾室女，来让约里克的攻击对室女锁定的目标造成额外伤害。室女也会自动从死亡的敌人身上唤起雾行者。",
+      "tooltip": "约里克召唤拥有{{ yorickbigghoulhealth }}生命值和{{ yorickbigghouldamage }}魔法攻击伤害的迷雾室女外加{{ rghoulnumbers }}个雾行者。室女会自动从附近阵亡的敌人身上唤起雾行者并且通过她的攻击标记敌方英雄。当约里克对室女的目标造成伤害时，他将造成{{ rmarkdamagepercent }}%最大生命值的魔法伤害。10秒后，约里克可以再次施放这个技能来放走室女，派她去相距最近的一条战线。",
+      "cooldown": "160/130/100",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 3,
+      "image": "YorickR.png",
+      "key": "R"
+    }
+  ]
+}

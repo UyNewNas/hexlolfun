@@ -1,0 +1,483 @@
+{
+  "id": "Kaisa",
+  "championId": "145",
+  "name": "虚空之女",
+  "title": "卡莎",
+  "region": "虚空之地",
+  "blurb": "在孩童时期就被虚空掠夺走的卡莎，凭着顽强的意志力活了下来。那些经历，让她成为了一位夺命猎手——或许有人会称她为“黑暗未来的使者”。如今，卡莎与一副活着的虚空生物甲壳形成了一种微妙的共生状态，但很快她就将面临一个重大的抉择：究竟是原谅那些称她为怪物的凡人，与之共同抵御虚空压境的黑暗……还是干脆忘记，放任虚空吞噬这个已将她抛弃的世界。",
+  "tags": [
+    "射手",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 5,
+    "magic": 3,
+    "difficulty": 6
+  },
+  "stats": {
+    "hp": 640,
+    "hpPerLevel": 102,
+    "mp": 345,
+    "mpPerLevel": 40,
+    "movespeed": 335,
+    "armor": 25,
+    "armorPerLevel": 4.2,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 525,
+    "attackdamage": 59,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.644,
+    "attackspeedPerLevel": 1.8,
+    "hpregen": 4,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 8.2,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "145001",
+      "name": "弹幕天使 卡莎",
+      "chromas": true
+    },
+    {
+      "id": "145002",
+      "name": "弹幕天使 卡莎 炽天使·圣洁",
+      "chromas": false
+    },
+    {
+      "id": "145003",
+      "name": "弹幕天使 卡莎 炽天使·热忱",
+      "chromas": false
+    },
+    {
+      "id": "145004",
+      "name": "弹幕天使 卡莎 炽天使·勇敢",
+      "chromas": false
+    },
+    {
+      "id": "145005",
+      "name": "弹幕天使 卡莎 炽天使·敏锐",
+      "chromas": false
+    },
+    {
+      "id": "145006",
+      "name": "弹幕天使 卡莎 炽天使·坚忍",
+      "chromas": false
+    },
+    {
+      "id": "145007",
+      "name": "弹幕天使 卡莎 炽天使·威严",
+      "chromas": false
+    },
+    {
+      "id": "145008",
+      "name": "弹幕天使 卡莎 炽天使·忠诚",
+      "chromas": false
+    },
+    {
+      "id": "145009",
+      "name": "弹幕天使 卡莎 炽天使·公正",
+      "chromas": false
+    },
+    {
+      "id": "145014",
+      "name": "K/DA 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145015",
+      "name": "至臻 K/DA 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145016",
+      "name": "iG 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145017",
+      "name": "电玩女神 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145018",
+      "name": "电玩女神 卡莎 K.O.",
+      "chromas": false
+    },
+    {
+      "id": "145019",
+      "name": "电玩女神 卡莎 强袭丽影",
+      "chromas": false
+    },
+    {
+      "id": "145020",
+      "name": "电玩女神 卡莎 华丽舞步",
+      "chromas": true
+    },
+    {
+      "id": "145021",
+      "name": "电玩女神 卡莎 绚烂弹幕",
+      "chromas": true
+    },
+    {
+      "id": "145022",
+      "name": "电玩女神 卡莎 钢铁天使",
+      "chromas": false
+    },
+    {
+      "id": "145023",
+      "name": "电玩女神 卡莎 致命狙杀",
+      "chromas": false
+    },
+    {
+      "id": "145024",
+      "name": "电玩女神 卡莎 极速融解",
+      "chromas": false
+    },
+    {
+      "id": "145025",
+      "name": "电玩女神 卡莎 时光勇者",
+      "chromas": false
+    },
+    {
+      "id": "145026",
+      "name": "K/DA ALL OUT 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145027",
+      "name": "至臻 K/DA ALL OUT 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145028",
+      "name": "K/DA ALL OUT 卡莎 (BADDEST)",
+      "chromas": false
+    },
+    {
+      "id": "145029",
+      "name": "神龙尊者 玉境灵龙 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145030",
+      "name": "神龙尊者 玉境灵龙 卡莎 登龙",
+      "chromas": true
+    },
+    {
+      "id": "145031",
+      "name": "神龙尊者 玉境灵龙 卡莎 集仙",
+      "chromas": false
+    },
+    {
+      "id": "145032",
+      "name": "神龙尊者 玉境灵龙 卡莎 望霞",
+      "chromas": false
+    },
+    {
+      "id": "145033",
+      "name": "神龙尊者 玉境灵龙 卡莎 玄黄",
+      "chromas": true
+    },
+    {
+      "id": "145034",
+      "name": "神龙尊者 玉境灵龙 卡莎 揽月",
+      "chromas": false
+    },
+    {
+      "id": "145035",
+      "name": "神龙尊者 玉境灵龙 卡莎 朝云",
+      "chromas": false
+    },
+    {
+      "id": "145036",
+      "name": "神龙尊者 玉境灵龙 卡莎 松峦",
+      "chromas": false
+    },
+    {
+      "id": "145037",
+      "name": "神龙尊者 玉境灵龙 卡莎 碧漪",
+      "chromas": false
+    },
+    {
+      "id": "145038",
+      "name": "神龙尊者 玉境灵龙 卡莎 烬爪",
+      "chromas": false
+    },
+    {
+      "id": "145039",
+      "name": "至臻 K/DA 卡莎 (2022)",
+      "chromas": false
+    },
+    {
+      "id": "145040",
+      "name": "星之守护者 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145041",
+      "name": "星之守护者 卡莎 热情之光",
+      "chromas": false
+    },
+    {
+      "id": "145042",
+      "name": "星之守护者 卡莎 爱之光",
+      "chromas": false
+    },
+    {
+      "id": "145043",
+      "name": "星之守护者 卡莎 飞翔之光",
+      "chromas": false
+    },
+    {
+      "id": "145044",
+      "name": "星之守护者 卡莎 勇气之光",
+      "chromas": true
+    },
+    {
+      "id": "145045",
+      "name": "星之守护者 卡莎 重生之光",
+      "chromas": false
+    },
+    {
+      "id": "145046",
+      "name": "星之守护者 卡莎 希望之光",
+      "chromas": false
+    },
+    {
+      "id": "145047",
+      "name": "弹幕天使 卡莎 独行之翼",
+      "chromas": false
+    },
+    {
+      "id": "145048",
+      "name": "墨之影武者 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145049",
+      "name": "墨之影武者 卡莎 炽墨挥影",
+      "chromas": false
+    },
+    {
+      "id": "145050",
+      "name": "墨之影武者 卡莎 金墨耀影",
+      "chromas": false
+    },
+    {
+      "id": "145051",
+      "name": "墨之影武者 卡莎 岩墨裂影",
+      "chromas": false
+    },
+    {
+      "id": "145052",
+      "name": "墨之影武者 卡莎 森墨拂影",
+      "chromas": true
+    },
+    {
+      "id": "145053",
+      "name": "墨之影武者 卡莎 云墨漾影",
+      "chromas": false
+    },
+    {
+      "id": "145054",
+      "name": "墨之影武者 卡莎 玄墨蕴影",
+      "chromas": false
+    },
+    {
+      "id": "145055",
+      "name": "墨之影武者 卡莎 紫墨掠影",
+      "chromas": false
+    },
+    {
+      "id": "145056",
+      "name": "墨之影武者 卡莎 樱墨映影",
+      "chromas": false
+    },
+    {
+      "id": "145057",
+      "name": "墨之影武者 卡莎 灵墨刻影",
+      "chromas": false
+    },
+    {
+      "id": "145058",
+      "name": "无畏猎手 卡莎 极境飞跃",
+      "chromas": false
+    },
+    {
+      "id": "145059",
+      "name": "天龙之子 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145060",
+      "name": "天龙之子 卡莎 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "145061",
+      "name": "天龙之子 卡莎 龙飞凤翔",
+      "chromas": false
+    },
+    {
+      "id": "145062",
+      "name": "天龙之子 卡莎 矫若惊龙",
+      "chromas": false
+    },
+    {
+      "id": "145063",
+      "name": "天龙之子 卡莎 龙行虎步",
+      "chromas": true
+    },
+    {
+      "id": "145064",
+      "name": "天龙之子 卡莎 飞龙乘云",
+      "chromas": false
+    },
+    {
+      "id": "145065",
+      "name": "天龙之子 卡莎 祥龙献瑞",
+      "chromas": false
+    },
+    {
+      "id": "145066",
+      "name": "天龙之子 卡莎 蛟龙得水",
+      "chromas": false
+    },
+    {
+      "id": "145067",
+      "name": "天龙之子 卡莎 赫赫龙威",
+      "chromas": false
+    },
+    {
+      "id": "145068",
+      "name": "天龙之子 卡莎 云起龙骧",
+      "chromas": false
+    },
+    {
+      "id": "145069",
+      "name": "暗星 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145070",
+      "name": "殿堂传奇 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145071",
+      "name": "联盟不朽 卡莎",
+      "chromas": false
+    },
+    {
+      "id": "145072",
+      "name": "暗星 卡莎 战神星之爆",
+      "chromas": false
+    },
+    {
+      "id": "145073",
+      "name": "暗星 卡莎 智神星之嫉",
+      "chromas": true
+    },
+    {
+      "id": "145074",
+      "name": "暗星 卡莎 爱神星之怨",
+      "chromas": false
+    },
+    {
+      "id": "145075",
+      "name": "暗星 卡莎 主神星之黯",
+      "chromas": false
+    },
+    {
+      "id": "145076",
+      "name": "暗星 卡莎 美神星之灭",
+      "chromas": false
+    },
+    {
+      "id": "145077",
+      "name": "暗星 卡莎 猎神星之败",
+      "chromas": false
+    },
+    {
+      "id": "145078",
+      "name": "暗星 卡莎 梦神星之魇",
+      "chromas": false
+    },
+    {
+      "id": "145079",
+      "name": "暗星 卡莎 天神星之陨",
+      "chromas": false
+    },
+    {
+      "id": "145080",
+      "name": "暗星 卡莎 类星体",
+      "chromas": false
+    },
+    {
+      "id": "145081",
+      "name": "iG 卡莎 极境",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "体表活肤",
+    "description": "卡莎的普通攻击会叠加电浆，造成不断提升的额外魔法伤害。友军的定身效果也可以帮忙叠加电浆。此外，卡莎可通过购买装备来升级她的基础技能，让它们拥有更多强大的属性。",
+    "image": "Kaisa_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "艾卡西亚暴雨",
+      "description": "卡莎发射一大堆弹体来搜寻附近的目标。活体武器：这个技能得到升级，可发射更多弹体。",
+      "tooltip": "卡莎发射{{ e2 }}发弹体并在附近的敌人中间四散，每一发造成{{ totalindividualmissiledamage }}物理伤害，至多至最大值{{ maxdamagedisplay }}伤害。对英雄或野怪的每发额外弹体造成{{ extrahitreduction*100 }}%伤害。进化版：卡莎转而发射{{ e7 }}发弹体。当前：{{ f11.1 }}/{{ e6 }}额外攻击力",
+      "cooldown": "10/9/8/7/6",
+      "cost": "55",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 5,
+      "image": "KaisaQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "虚空索敌",
+      "description": "卡莎发射一束长程弹体，并用她的被动来标记敌人。活体武器：这个技能得到升级，可施加更多被动标记并在命中英雄时减少冷却时间。",
+      "tooltip": "卡莎发射一道虚空震波来对命中的第一个敌人造成{{ totaldamage }}魔法伤害、施加{{ e4 }}层电浆效果并提供其真实视野，持续{{ spell.kaisapassive:pduration }}秒。进化版：卡莎转而施加{{ e5 }}层电浆效果并在命中一名英雄时使冷却时间缩短{{ e3 }}%。当前：{{ f2.1 }}/{{ e2 }}法术强度",
+      "cooldown": "22/20/18/16/14",
+      "cost": "55/60/65/70/75",
+      "costType": " {{ abilityresourcename }}",
+      "range": "3000",
+      "maxrank": 5,
+      "image": "KaisaW.png",
+      "key": "W"
+    },
+    {
+      "name": "极限超载",
+      "description": "卡莎暂时提升移动速度，随后提升攻击速度。活体武器：这个技能得到升级，可短暂提供隐形效果。",
+      "tooltip": "卡莎极限超载她的虚空能量，获得{{ totalmovespeed }}移动速度并且在超载时变为幽灵状态，随后获得持续{{ e2 }}秒的{{ e5 }}%攻击速度。每次攻击还会使此技能的冷却时间缩短{{ e4 }}秒。进化版：卡莎还会隐形{{ e7 }}秒。当前：{{ f10.1 }}%/{{ e6 }}%额外攻击速度",
+      "cooldown": "16/14.5/13/11.5/10",
+      "cost": "30",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1",
+      "maxrank": 5,
+      "image": "KaisaE.png",
+      "key": "E"
+    },
+    {
+      "name": "猎手本能",
+      "description": "卡莎突进到一个敌方英雄身边。",
+      "tooltip": "卡莎跃迁到一个位置上，该位置处于一名身上带有电浆效果的敌方英雄的附近，并获得持续{{ rshieldduration }}秒的{{ rcalculatedshieldvalue }}护盾值。",
+      "cooldown": "130/100/70",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "2000/2500/3000",
+      "maxrank": 3,
+      "image": "KaisaR.png",
+      "key": "R"
+    }
+  ]
+}

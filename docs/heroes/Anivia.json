@@ -1,0 +1,367 @@
+{
+  "id": "Anivia",
+  "championId": "34",
+  "name": "冰晶凤凰",
+  "title": "艾尼维亚",
+  "region": "弗雷尔卓德",
+  "blurb": "艾尼维亚是一个充满仁慈的飞禽形态灵体，曾经历过无数次诞生、死亡与重生的轮回，始终眷顾着弗雷尔卓德。她是生于凛冽冰风中的半神，可以操控冰雪的元素之力，阻挡那些胆敢侵犯她家园的人。艾尼维亚指引并保护着北方贫瘠土地上的人类部落，而这些人类也将她奉为希望的象征和重大变革的预兆。她的每一次奋战都不遗余力，因为她知道，自己的记忆将会超越牺牲，长久地留存，而她也将在崭新的明天中重生。",
+  "tags": [
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 1,
+    "defense": 4,
+    "magic": 10,
+    "difficulty": 10
+  },
+  "stats": {
+    "hp": 550,
+    "hpPerLevel": 92,
+    "mp": 495,
+    "mpPerLevel": 45,
+    "movespeed": 325,
+    "armor": 19,
+    "armorPerLevel": 4.1,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 600,
+    "attackdamage": 51,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 1.68,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 8,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "34001",
+      "name": "双重冰晶 艾尼维亚",
+      "chromas": false
+    },
+    {
+      "id": "34002",
+      "name": "联盟之喙 艾尼维亚",
+      "chromas": false
+    },
+    {
+      "id": "34003",
+      "name": "重甲猎鹰 艾尼维亚",
+      "chromas": false
+    },
+    {
+      "id": "34004",
+      "name": "钢铁之翼 艾尼维亚",
+      "chromas": false
+    },
+    {
+      "id": "34005",
+      "name": "黯晶凤凰 艾尼维亚",
+      "chromas": false
+    },
+    {
+      "id": "34006",
+      "name": "翼龙 艾尼维亚",
+      "chromas": false
+    },
+    {
+      "id": "34007",
+      "name": "庆典女皇 艾尼维亚",
+      "chromas": false
+    },
+    {
+      "id": "34008",
+      "name": "千纸凤凰 艾尼维亚",
+      "chromas": true
+    },
+    {
+      "id": "34009",
+      "name": "千纸凤凰 艾尼维亚 朱槿",
+      "chromas": false
+    },
+    {
+      "id": "34010",
+      "name": "千纸凤凰 艾尼维亚 映日",
+      "chromas": false
+    },
+    {
+      "id": "34011",
+      "name": "千纸凤凰 艾尼维亚 月白",
+      "chromas": false
+    },
+    {
+      "id": "34012",
+      "name": "千纸凤凰 艾尼维亚 碧荷",
+      "chromas": false
+    },
+    {
+      "id": "34013",
+      "name": "千纸凤凰 艾尼维亚 青黛",
+      "chromas": false
+    },
+    {
+      "id": "34014",
+      "name": "千纸凤凰 艾尼维亚 紫萱",
+      "chromas": false
+    },
+    {
+      "id": "34015",
+      "name": "千纸凤凰 艾尼维亚 珊瑚",
+      "chromas": false
+    },
+    {
+      "id": "34016",
+      "name": "千纸凤凰 艾尼维亚 极光",
+      "chromas": false
+    },
+    {
+      "id": "34017",
+      "name": "凤凰星神 艾尼维亚",
+      "chromas": true
+    },
+    {
+      "id": "34018",
+      "name": "凤凰星神 艾尼维亚 战神星魂",
+      "chromas": false
+    },
+    {
+      "id": "34019",
+      "name": "凤凰星神 艾尼维亚 光神星魂",
+      "chromas": false
+    },
+    {
+      "id": "34020",
+      "name": "凤凰星神 艾尼维亚 主神星魂",
+      "chromas": false
+    },
+    {
+      "id": "34021",
+      "name": "凤凰星神 艾尼维亚 猎神星魂",
+      "chromas": false
+    },
+    {
+      "id": "34022",
+      "name": "凤凰星神 艾尼维亚 海神星魂",
+      "chromas": false
+    },
+    {
+      "id": "34023",
+      "name": "凤凰星神 艾尼维亚 夜神星魂",
+      "chromas": false
+    },
+    {
+      "id": "34024",
+      "name": "凤凰星神 艾尼维亚 美神星魂",
+      "chromas": false
+    },
+    {
+      "id": "34025",
+      "name": "凤凰星神 艾尼维亚 冥神星魂",
+      "chromas": false
+    },
+    {
+      "id": "34026",
+      "name": "凤凰星神 艾尼维亚 乐神星魂",
+      "chromas": false
+    },
+    {
+      "id": "34027",
+      "name": "神凰行者 瑞羽圣凰 艾尼维亚",
+      "chromas": true
+    },
+    {
+      "id": "34028",
+      "name": "神凰行者 瑞羽圣凰 艾尼维亚 凌云",
+      "chromas": false
+    },
+    {
+      "id": "34029",
+      "name": "神凰行者 瑞羽圣凰 艾尼维亚 灵音",
+      "chromas": false
+    },
+    {
+      "id": "34030",
+      "name": "神凰行者 瑞羽圣凰 艾尼维亚 仙翰",
+      "chromas": false
+    },
+    {
+      "id": "34031",
+      "name": "神凰行者 瑞羽圣凰 艾尼维亚 清仪",
+      "chromas": false
+    },
+    {
+      "id": "34032",
+      "name": "神凰行者 瑞羽圣凰 艾尼维亚 腾光",
+      "chromas": false
+    },
+    {
+      "id": "34033",
+      "name": "神凰行者 瑞羽圣凰 艾尼维亚 紫雾",
+      "chromas": false
+    },
+    {
+      "id": "34034",
+      "name": "神凰行者 瑞羽圣凰 艾尼维亚 玄霜",
+      "chromas": false
+    },
+    {
+      "id": "34035",
+      "name": "神凰行者 瑞羽圣凰 艾尼维亚 逸羽",
+      "chromas": false
+    },
+    {
+      "id": "34036",
+      "name": "神凰行者 瑞羽圣凰 艾尼维亚 玉虎呈祥",
+      "chromas": false
+    },
+    {
+      "id": "34037",
+      "name": "魅惑女巫 艾尼维亚",
+      "chromas": true
+    },
+    {
+      "id": "34038",
+      "name": "魅惑女巫 艾尼维亚 热情化身",
+      "chromas": false
+    },
+    {
+      "id": "34039",
+      "name": "魅惑女巫 艾尼维亚 明艳化身",
+      "chromas": false
+    },
+    {
+      "id": "34040",
+      "name": "魅惑女巫 艾尼维亚 知性化身",
+      "chromas": false
+    },
+    {
+      "id": "34041",
+      "name": "魅惑女巫 艾尼维亚 浪漫化身",
+      "chromas": false
+    },
+    {
+      "id": "34042",
+      "name": "魅惑女巫 艾尼维亚 青春化身",
+      "chromas": false
+    },
+    {
+      "id": "34043",
+      "name": "魅惑女巫 艾尼维亚 高雅化身",
+      "chromas": false
+    },
+    {
+      "id": "34044",
+      "name": "魅惑女巫 艾尼维亚 典雅化身",
+      "chromas": false
+    },
+    {
+      "id": "34045",
+      "name": "魅惑女巫 艾尼维亚 纯真化身",
+      "chromas": false
+    },
+    {
+      "id": "34046",
+      "name": "胜利凤凰 艾尼维亚",
+      "chromas": true
+    },
+    {
+      "id": "34047",
+      "name": "胜利凤凰 艾尼维亚 英勇黄铜",
+      "chromas": false
+    },
+    {
+      "id": "34048",
+      "name": "胜利凤凰 艾尼维亚 不屈白银",
+      "chromas": false
+    },
+    {
+      "id": "34049",
+      "name": "胜利凤凰 艾尼维亚 荣耀黄金",
+      "chromas": false
+    },
+    {
+      "id": "34050",
+      "name": "胜利凤凰 艾尼维亚 华贵铂金",
+      "chromas": false
+    },
+    {
+      "id": "34051",
+      "name": "胜利凤凰 艾尼维亚 璀璨钻石",
+      "chromas": false
+    },
+    {
+      "id": "34052",
+      "name": "胜利凤凰 艾尼维亚 超凡大师",
+      "chromas": false
+    },
+    {
+      "id": "34053",
+      "name": "胜利凤凰 艾尼维亚 傲世宗师",
+      "chromas": false
+    },
+    {
+      "id": "34054",
+      "name": "胜利凤凰 艾尼维亚 最强王者",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "寒霜涅槃",
+    "description": "在受到致命伤害后，艾尼维亚将化身为凤凰蛋，然后满血复活。",
+    "image": "Anivia_P.png"
+  },
+  "spells": [
+    {
+      "name": "寒冰闪耀",
+      "description": "艾尼维亚挥动翅膀聚集空气，制造一枚冰晶向目标区域施放，冰冻并伤害路径上的所有敌人。当冰晶爆裂时，它会晕眩并伤害一定范围内的所有敌人。",
+      "tooltip": "艾尼维亚发射出一个巨型冰块，造成{{ totalpassthroughdamage }}魔法伤害并冰冻敌人{{ slowduration }}秒，使其减速{{ spell.glacialstorm:slowamount }}%。在到达距离终点时，冰块会爆炸，晕眩敌人{{ stunduration }}秒并造成{{ totalexplosiondamage }}魔法伤害。艾尼维亚可以在冰块飞行途中再次施放这个技能来将其提前引爆。",
+      "cooldown": "11/10/9/8/7",
+      "cost": "80/85/90/95/100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1075",
+      "maxrank": 5,
+      "image": "FlashFrost.png",
+      "key": "Q"
+    },
+    {
+      "name": "寒冰屏障",
+      "description": "艾尼维亚利用空气中的湿气，召唤出一道不可穿越的冰之墙来阻挡所有移动。该墙持续很短一段时间后就会融化。",
+      "tooltip": "艾尼维亚召唤出一道宽{{ e2 }}码的无法通过的冰墙。冰墙会在融化前持续{{ e1 }}秒。",
+      "cooldown": "17",
+      "cost": "70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1000",
+      "maxrank": 5,
+      "image": "Crystallize.png",
+      "key": "W"
+    },
+    {
+      "name": "霜寒刺骨",
+      "description": "艾尼维亚扇动双翅，朝她的目标喷射出一股刺骨的强风，造成伤害。如果目标近期已被【Q寒冰闪耀】所命中或被一个完全形成的【R冰川风暴】所伤害，那么将会受到该技能双倍的伤害。",
+      "tooltip": "艾尼维亚用一阵刺骨的寒风冲击一名敌人，造成{{ totaldamage }}魔法伤害。如果目标身上带有冰冻效果，则艾尼维亚会转而造成{{ empowereddamage }}魔法伤害。",
+      "cooldown": "4",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "Frostbite.png",
+      "key": "E"
+    },
+    {
+      "name": "冰川风暴",
+      "description": "艾尼维亚召唤出一朵夹杂着冰块和冰雹的雨云，对敌人造成伤害，并使其减速。",
+      "tooltip": "激活：艾尼维亚在目标区域召唤出一阵夹杂着冰与雹的强雨，来使敌人减速{{ slowamount }}%并每秒造成{{ totaldamagepersecond }}魔法伤害。风暴会在{{ growthtime }}秒里持续提升规模。当风暴完全形成后，它会施加冰冻效果，使敌人减速{{ slowpercentempoweredtt }}%，并且每秒造成{{ empowereddamagepersecondtooltiponly }}魔法伤害。",
+      "cooldown": "4/3/2",
+      "cost": "60",
+      "costType": "+{{ manacostpersecond }}法力/秒",
+      "range": "750",
+      "maxrank": 3,
+      "image": "GlacialStorm.png",
+      "key": "R"
+    }
+  ]
+}

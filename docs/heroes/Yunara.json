@@ -1,0 +1,142 @@
+{
+  "id": "Yunara",
+  "championId": "804",
+  "name": "不破之誓",
+  "title": "芸阿娜",
+  "region": "艾欧尼亚",
+  "blurb": "怀揣对艾欧尼亚的不渝之心，芸阿娜进入精神领域，度过了千百年与世隔绝的时光，执均衡教派的传说圣器“艾恩伊纳”，潜心修炼战法与武艺。芸阿娜曾立誓修除初生之土的一切失谐与纷争，纵有再多牺牲，这誓言与信念也未曾有一丝动摇。只是，如今的世界于她已是沧海桑田，旧日的暗影亦翻腾诡谲——芸阿娜的决心将面临前所未有的考验。",
+  "tags": [
+    "射手"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 9,
+    "defense": 2,
+    "magic": 0,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 590,
+    "hpPerLevel": 110,
+    "mp": 275,
+    "mpPerLevel": 45,
+    "movespeed": 325,
+    "armor": 25,
+    "armorPerLevel": 4.4,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 575,
+    "attackdamage": 55,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.65,
+    "attackspeedPerLevel": 2,
+    "hpregen": 4,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 7.5,
+    "mpregenPerLevel": 0.75,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "804001",
+      "name": "莲华温泉 芸阿娜",
+      "chromas": true
+    },
+    {
+      "id": "804002",
+      "name": "莲华温泉 芸阿娜 流火",
+      "chromas": false
+    },
+    {
+      "id": "804003",
+      "name": "莲华温泉 芸阿娜 云开",
+      "chromas": false
+    },
+    {
+      "id": "804004",
+      "name": "莲华温泉 芸阿娜 星回",
+      "chromas": false
+    },
+    {
+      "id": "804005",
+      "name": "莲华温泉 芸阿娜 雁来",
+      "chromas": false
+    },
+    {
+      "id": "804006",
+      "name": "莲华温泉 芸阿娜 春晓",
+      "chromas": false
+    },
+    {
+      "id": "804007",
+      "name": "莲华温泉 芸阿娜 雪落",
+      "chromas": false
+    },
+    {
+      "id": "804008",
+      "name": "莲华温泉 芸阿娜 月升",
+      "chromas": false
+    },
+    {
+      "id": "804009",
+      "name": "莲华温泉 芸阿娜 朝花",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "初生之誓",
+    "description": "芸阿娜的暴击造成额外魔法伤害。",
+    "image": "Yunara_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "灵蕴拳",
+      "description": "芸阿娜获得攻击速度、额外附带伤害并且她的攻击会散播至附近的敌人。",
+      "tooltip": "被动：芸阿娜造成{{ calc_passive_damage }}魔法伤害%i:OnHit%攻击特效并且攻击提供{{ resource_nonchampion }}灵蕴 (对抗英雄时为{{ resource_champion }}灵蕴)。主动：芸阿娜消耗{{ resource_max }}灵蕴，在{{ buff_duration }}秒期间里获得{{ calc_attack_speed }}攻击速度并且造成额外{{ calc_damage }}魔法伤害%i:OnHit%进攻特效。在此期间，她的攻击会散播至附近的敌人，对其造成{{ calc_damage_spread }}物理伤害。超凡形态：这个技能会即刻激活并持续{{ spell.yunarar:buff_duration }}秒。",
+      "cooldown": "0",
+      "cost": "30",
+      "costType": "法力",
+      "range": "0",
+      "maxrank": 5,
+      "image": "YunaraQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "善恶轮 | 寂灭掌",
+      "description": "芸阿娜发射一颗不停旋转的念珠，对敌人们造成伤害和减速。在她处于超凡形态期间，她转而发射一记射线，对敌人们造成伤害和减速。",
+      "tooltip": "芸阿娜弹出一颗念珠，造成{{ calc_damage_initial }}魔法伤害和在{{ slow_duration }}秒里持续衰减的{{ calc_slow }}减速。它每秒额外造成{{ calc_damage_per_second }}魔法伤害。超凡形态 - 寂灭掌:芸阿娜发射一道射线，造成{{ spell.yunarar:calc_rw_damage }}魔法伤害和在{{ spell.yunarar:rw_slow_duration }}秒里持续衰减的{{ spell.yunarar:calc_rw_slow_amount }}减速。",
+      "cooldown": "10",
+      "cost": "60",
+      "costType": "法力",
+      "range": "1150",
+      "maxrank": 5,
+      "image": "YunaraW.png",
+      "key": "W"
+    },
+    {
+      "name": "明踪步 | 夜影翻",
+      "description": "芸阿娜获得移动速度并进入幽灵状态。在她处于超凡形态期间，她转而朝着一个方向冲刺。",
+      "tooltip": "芸阿娜获得{{ calc_move_speed }}移动速度，并且在朝着一个敌方英雄移动时提升至{{ calc_move_speed_enhanced }}移动速度，持续{{ buff_duration }}秒。超凡形态 - 夜影翻：芸阿娜朝一个方向进行冲刺。",
+      "cooldown": "9",
+      "cost": "40",
+      "costType": "法力",
+      "range": "0",
+      "maxrank": 5,
+      "image": "YunaraE.png",
+      "key": "E"
+    },
+    {
+      "name": "定圣诀",
+      "description": "芸阿娜进入超凡形态，在此形态下，她的基础技能获得升级。",
+      "tooltip": "芸阿娜进入持续{{ buff_duration }}秒的超凡形态，在此形态下，她的基础技能获得升级。",
+      "cooldown": "100/90/80",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "0",
+      "maxrank": 3,
+      "image": "YunaraR.png",
+      "key": "R"
+    }
+  ]
+}

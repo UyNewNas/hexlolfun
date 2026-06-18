@@ -1,0 +1,428 @@
+{
+  "id": "Nidalee",
+  "championId": "76",
+  "name": "狂野女猎手",
+  "title": "奈德丽",
+  "region": "以绪塔尔",
+  "blurb": "在密林深处长大的奈德丽是一位追猎大师，她可以变换形态，成为一只凶猛的美洲狮。她既不是真正的人类，也不是真正的野兽，但她会用精心布置的陷阱和灵活自如的标枪，凶狠地捍卫自己的领地不被任何人侵犯。她会先打击猎物的行动能力，然后再以大猫的形态上前扑杀。只有很少数人曾侥幸逃脱并活下来讲述一个狂野女猎手的故事，讲述她锐利的猎手本能，以及更加锐利的爪子。",
+  "tags": [
+    "刺客",
+    "法师"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 5,
+    "defense": 4,
+    "magic": 7,
+    "difficulty": 8
+  },
+  "stats": {
+    "hp": 610,
+    "hpPerLevel": 109,
+    "mp": 295,
+    "mpPerLevel": 45,
+    "movespeed": 335,
+    "armor": 32,
+    "armorPerLevel": 5,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.45,
+    "attackrange": 525,
+    "attackdamage": 58,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.638,
+    "attackspeedPerLevel": 3.22,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.6,
+    "mpregen": 6,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "76001",
+      "name": "雪装 奈德丽",
+      "chromas": false
+    },
+    {
+      "id": "76002",
+      "name": "丛林猎豹 奈德丽",
+      "chromas": false
+    },
+    {
+      "id": "76003",
+      "name": "法国女仆 奈德丽",
+      "chromas": false
+    },
+    {
+      "id": "76004",
+      "name": "艳后 奈德丽",
+      "chromas": false
+    },
+    {
+      "id": "76005",
+      "name": "魅惑女巫 奈德丽",
+      "chromas": false
+    },
+    {
+      "id": "76006",
+      "name": "铁血猎手 奈德丽",
+      "chromas": false
+    },
+    {
+      "id": "76007",
+      "name": "枭姬 孙尚香",
+      "chromas": false
+    },
+    {
+      "id": "76008",
+      "name": "勇者 奈德丽",
+      "chromas": true
+    },
+    {
+      "id": "76009",
+      "name": "银河魔装机神 奈德丽",
+      "chromas": false
+    },
+    {
+      "id": "76010",
+      "name": "勇者 奈德丽 炫金",
+      "chromas": false
+    },
+    {
+      "id": "76011",
+      "name": "黎明使者 奈德丽",
+      "chromas": true
+    },
+    {
+      "id": "76012",
+      "name": "黎明使者 奈德丽 阳辉",
+      "chromas": false
+    },
+    {
+      "id": "76013",
+      "name": "黎明使者 奈德丽 祥辉",
+      "chromas": false
+    },
+    {
+      "id": "76014",
+      "name": "黎明使者 奈德丽 灵辉",
+      "chromas": false
+    },
+    {
+      "id": "76015",
+      "name": "黎明使者 奈德丽 圣辉",
+      "chromas": false
+    },
+    {
+      "id": "76016",
+      "name": "黎明使者 奈德丽 霞辉",
+      "chromas": false
+    },
+    {
+      "id": "76017",
+      "name": "黎明使者 奈德丽 雪辉",
+      "chromas": false
+    },
+    {
+      "id": "76018",
+      "name": "狮子星神 奈德丽",
+      "chromas": true
+    },
+    {
+      "id": "76019",
+      "name": "狮子星神 奈德丽 战神星魂",
+      "chromas": false
+    },
+    {
+      "id": "76020",
+      "name": "狮子星神 奈德丽 光神星魂",
+      "chromas": false
+    },
+    {
+      "id": "76021",
+      "name": "狮子星神 奈德丽 主神星魂",
+      "chromas": false
+    },
+    {
+      "id": "76022",
+      "name": "狮子星神 奈德丽 猎神星魂",
+      "chromas": false
+    },
+    {
+      "id": "76023",
+      "name": "狮子星神 奈德丽 夜神星魂",
+      "chromas": false
+    },
+    {
+      "id": "76024",
+      "name": "狮子星神 奈德丽 美神星魂",
+      "chromas": false
+    },
+    {
+      "id": "76025",
+      "name": "狮子星神 奈德丽 冥神星魂",
+      "chromas": false
+    },
+    {
+      "id": "76026",
+      "name": "狮子星神 奈德丽 天神星魂",
+      "chromas": false
+    },
+    {
+      "id": "76027",
+      "name": "DWG 奈德丽",
+      "chromas": true
+    },
+    {
+      "id": "76028",
+      "name": "DWG 奈德丽 精锐",
+      "chromas": false
+    },
+    {
+      "id": "76029",
+      "name": "海之歌 奈德丽",
+      "chromas": true
+    },
+    {
+      "id": "76030",
+      "name": "海之歌 奈德丽 迷人晚霞",
+      "chromas": false
+    },
+    {
+      "id": "76031",
+      "name": "海之歌 奈德丽 逐浪流沙",
+      "chromas": false
+    },
+    {
+      "id": "76032",
+      "name": "海之歌 奈德丽 浪漫氛围",
+      "chromas": false
+    },
+    {
+      "id": "76033",
+      "name": "海之歌 奈德丽 清凉海风",
+      "chromas": false
+    },
+    {
+      "id": "76034",
+      "name": "海之歌 奈德丽 葱郁椰林",
+      "chromas": false
+    },
+    {
+      "id": "76035",
+      "name": "海之歌 奈德丽 幻彩夜空",
+      "chromas": false
+    },
+    {
+      "id": "76036",
+      "name": "海之歌 奈德丽 冰爽浪花",
+      "chromas": false
+    },
+    {
+      "id": "76037",
+      "name": "海之歌 奈德丽 月夜潮汐",
+      "chromas": false
+    },
+    {
+      "id": "76039",
+      "name": "喵大力",
+      "chromas": false
+    },
+    {
+      "id": "76040",
+      "name": "喵大力 萌爪红",
+      "chromas": true
+    },
+    {
+      "id": "76041",
+      "name": "喵大力 虎斑黄",
+      "chromas": false
+    },
+    {
+      "id": "76042",
+      "name": "喵大力 三加灰",
+      "chromas": false
+    },
+    {
+      "id": "76043",
+      "name": "喵大力 对勾绿",
+      "chromas": false
+    },
+    {
+      "id": "76044",
+      "name": "喵大力 方块黑",
+      "chromas": false
+    },
+    {
+      "id": "76045",
+      "name": "喵大力 条纹紫",
+      "chromas": false
+    },
+    {
+      "id": "76046",
+      "name": "喵大力 爱心粉",
+      "chromas": false
+    },
+    {
+      "id": "76047",
+      "name": "喵大力 三色白",
+      "chromas": false
+    },
+    {
+      "id": "76048",
+      "name": "灵之菊 奈德丽",
+      "chromas": false
+    },
+    {
+      "id": "76049",
+      "name": "灵之菊 奈德丽 信念之火",
+      "chromas": true
+    },
+    {
+      "id": "76050",
+      "name": "灵之菊 奈德丽 迎接之烛",
+      "chromas": false
+    },
+    {
+      "id": "76051",
+      "name": "灵之菊 奈德丽 告慰之饮",
+      "chromas": false
+    },
+    {
+      "id": "76052",
+      "name": "灵之菊 奈德丽 祈祷之香",
+      "chromas": false
+    },
+    {
+      "id": "76053",
+      "name": "灵之菊 奈德丽 送别之礼",
+      "chromas": false
+    },
+    {
+      "id": "76054",
+      "name": "灵之菊 奈德丽 家人之爱",
+      "chromas": false
+    },
+    {
+      "id": "76055",
+      "name": "灵之菊 奈德丽 生命之源",
+      "chromas": false
+    },
+    {
+      "id": "76056",
+      "name": "灵之菊 奈德丽 智慧之物",
+      "chromas": false
+    },
+    {
+      "id": "76057",
+      "name": "灵之菊 奈德丽 生如夏花",
+      "chromas": false
+    },
+    {
+      "id": "76058",
+      "name": "灵魂莲华 奈德丽",
+      "chromas": false
+    },
+    {
+      "id": "76059",
+      "name": "灵魂莲华 奈德丽 流火",
+      "chromas": true
+    },
+    {
+      "id": "76060",
+      "name": "灵魂莲华 奈德丽 风起",
+      "chromas": false
+    },
+    {
+      "id": "76061",
+      "name": "灵魂莲华 奈德丽 雁来",
+      "chromas": false
+    },
+    {
+      "id": "76062",
+      "name": "灵魂莲华 奈德丽 兰秋",
+      "chromas": false
+    },
+    {
+      "id": "76063",
+      "name": "灵魂莲华 奈德丽 云开",
+      "chromas": false
+    },
+    {
+      "id": "76064",
+      "name": "灵魂莲华 奈德丽 星回",
+      "chromas": false
+    },
+    {
+      "id": "76065",
+      "name": "灵魂莲华 奈德丽 月升",
+      "chromas": false
+    },
+    {
+      "id": "76066",
+      "name": "灵魂莲华 奈德丽 朝花",
+      "chromas": false
+    },
+    {
+      "id": "76067",
+      "name": "灵魂莲华 奈德丽 至强",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "寻觅",
+    "description": "在穿越草丛进行移动时，奈德丽的移动速度会提升10%，持续2秒，并在朝着1400码内的出现在己方视野内的敌方英雄进行移动时，移动速度加成会提升至30%。在【Q标枪投掷】或【W丛林伏击】对敌方英雄或野怪造成伤害后，奈德丽会开始捕猎目标英雄，提供其真实视野，持续4秒。在此期间，奈德丽获得10%移动速度加成（在她朝着被捕猎的目标移动时，这个加成会提升至30%）并且她的【Q推倒】和【W猛扑】会对这些目标造成强化伤害。",
+    "image": "Nidalee_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "标枪投掷 / 推倒",
+      "description": "人类形态下，奈德丽向她的目标投掷标枪，飞行中击中目标造成伤害。美洲狮形态下，她的下一次攻击会试图对目标造成致命伤害，目标的生命值越低，造成的伤害越大。",
+      "tooltip": "人类形态：奈德丽投掷她的标枪，造成{{ humanminimumdamage }}魔法伤害，基于标枪飞行距离至多提升至{{ humanmaximumdamage }}魔法伤害。",
+      "cooldown": "6",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1500",
+      "maxrank": 5,
+      "image": "JavelinToss.png",
+      "key": "Q"
+    },
+    {
+      "name": "丛林伏击 / 猛扑",
+      "description": "人类形态下， 奈德丽会对指定位置放置一个陷阱，踩中陷阱的单位的视野将会被暴露给奈德丽，并持续受到伤害。美洲狮形态下，她会猛扑向目标，落地时造成伤害。",
+      "tooltip": "人类形态：奈德丽放置一个持续2分钟的隐形陷阱。当有一个敌人走到它上面时，该敌人会每秒受到{{ damagepersecond }}魔法伤害，持续{{ e3 }}秒。最多可以有{{ maxtraps }}个陷阱同时存在。",
+      "cooldown": "13/12/11/10/9",
+      "cost": "30/35/40/45/50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "900",
+      "maxrank": 5,
+      "image": "Bushwhack.png",
+      "key": "W"
+    },
+    {
+      "name": "野性奔腾 / 挥击",
+      "description": "人类形态下，奈德丽引导美洲狮的灵魂以治疗友方单位，并且短暂提升他们的攻击速度。美洲狮形态下，她迅速的挥爪攻击她面前的敌人。",
+      "tooltip": "人类形态：奈德丽为目标回复{{ totalhealing }}生命值，这个数额基于已损失生命值至多提升至{{ maxhealing }}，并为目标提供持续{{ asduration }}秒的{{ bonusas*100 }}%攻击速度。",
+      "cooldown": "12",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "900",
+      "maxrank": 5,
+      "image": "PrimalSurge.png",
+      "key": "E"
+    },
+    {
+      "name": "美洲狮形态",
+      "description": "奈德丽转变成美洲狮形态，获得全新技能。",
+      "tooltip": "被动：在人类形态下，施加捕猎效果会刷新这个技能的冷却时间。人类形态：奈德丽变形为美洲狮形态，获得近战攻击并替换她的主动技能。美洲狮形态：奈德丽变形为人类形态，获得远程攻击并替换她的主动技能。",
+      "cooldown": "3",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "20",
+      "maxrank": 4,
+      "image": "AspectOfTheCougar.png",
+      "key": "R"
+    }
+  ]
+}

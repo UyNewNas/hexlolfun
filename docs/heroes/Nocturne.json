@@ -1,0 +1,273 @@
+{
+  "id": "Nocturne",
+  "championId": "56",
+  "name": "永恒梦魇",
+  "title": "魔腾",
+  "region": "符文之地",
+  "blurb": "将一切有知觉的脑海中萦绕的噩梦提取出来，进而融合成一个恶魔般的实体，这就是被人称为魔腾的存在，它已成为一种纯粹邪恶的原始力量。它的外形捉摸不定，一团无面的黑影中睁着一双冰冷的眼睛，身体两侧是一对形状恐怖的刀刃。魔腾摆脱了精神领域的束缚，进入了梦醒后的凡尘世界，寻觅那些在真正的黑暗中疯长的恐惧，作为自己的食粮。",
+  "tags": [
+    "战士",
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 9,
+    "defense": 5,
+    "magic": 2,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 655,
+    "hpPerLevel": 109,
+    "mp": 275,
+    "mpPerLevel": 35,
+    "movespeed": 345,
+    "armor": 38,
+    "armorPerLevel": 4.2,
+    "spellblock": 32,
+    "spellblockPerLevel": 1.55,
+    "attackrange": 125,
+    "attackdamage": 62,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.721,
+    "attackspeedPerLevel": 2.7,
+    "hpregen": 7,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 7,
+    "mpregenPerLevel": 0.45,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "56001",
+      "name": "蓝焰梦魔 魔腾",
+      "chromas": false
+    },
+    {
+      "id": "56002",
+      "name": "幻影梦魔 魔腾",
+      "chromas": false
+    },
+    {
+      "id": "56003",
+      "name": "劫掠梦魇 魔腾",
+      "chromas": false
+    },
+    {
+      "id": "56004",
+      "name": "鬼影重重 魔腾",
+      "chromas": false
+    },
+    {
+      "id": "56005",
+      "name": "上古战魂 魔腾",
+      "chromas": false
+    },
+    {
+      "id": "56006",
+      "name": "恶咒亡魂 魔腾",
+      "chromas": false
+    },
+    {
+      "id": "56007",
+      "name": "古神 魔腾",
+      "chromas": true
+    },
+    {
+      "id": "56008",
+      "name": "古神 魔腾 嗜血之刃",
+      "chromas": false
+    },
+    {
+      "id": "56009",
+      "name": "古神 魔腾 斩灵之刃",
+      "chromas": false
+    },
+    {
+      "id": "56010",
+      "name": "古神 魔腾 诡诈之刃",
+      "chromas": false
+    },
+    {
+      "id": "56011",
+      "name": "古神 魔腾 腐化之刃",
+      "chromas": false
+    },
+    {
+      "id": "56012",
+      "name": "古神 魔腾 恸哭之刃",
+      "chromas": false
+    },
+    {
+      "id": "56013",
+      "name": "古神 魔腾 夺魂之刃",
+      "chromas": false
+    },
+    {
+      "id": "56014",
+      "name": "古神 魔腾 死亡之刃",
+      "chromas": false
+    },
+    {
+      "id": "56015",
+      "name": "古神 魔腾 剧毒之刃",
+      "chromas": false
+    },
+    {
+      "id": "56016",
+      "name": "海克斯科技 魔腾",
+      "chromas": false
+    },
+    {
+      "id": "56017",
+      "name": "绝息圣堂 魔腾",
+      "chromas": true
+    },
+    {
+      "id": "56018",
+      "name": "绝息圣堂 魔腾 残阳圆舞曲",
+      "chromas": false
+    },
+    {
+      "id": "56019",
+      "name": "绝息圣堂 魔腾 黑昼交响曲",
+      "chromas": false
+    },
+    {
+      "id": "56020",
+      "name": "绝息圣堂 魔腾 日冕摇篮曲",
+      "chromas": false
+    },
+    {
+      "id": "56021",
+      "name": "绝息圣堂 魔腾 朝霞幻想曲",
+      "chromas": false
+    },
+    {
+      "id": "56022",
+      "name": "绝息圣堂 魔腾 苏生回旋曲",
+      "chromas": false
+    },
+    {
+      "id": "56023",
+      "name": "绝息圣堂 魔腾 灵息变奏曲",
+      "chromas": false
+    },
+    {
+      "id": "56024",
+      "name": "绝息圣堂 魔腾 白夜奏鸣曲",
+      "chromas": false
+    },
+    {
+      "id": "56025",
+      "name": "绝息圣堂 魔腾 蛰伏进行曲",
+      "chromas": false
+    },
+    {
+      "id": "56026",
+      "name": "至高天 魔腾",
+      "chromas": true
+    },
+    {
+      "id": "56027",
+      "name": "至高天 魔腾 狂焰",
+      "chromas": false
+    },
+    {
+      "id": "56028",
+      "name": "至高天 魔腾 华耀",
+      "chromas": false
+    },
+    {
+      "id": "56029",
+      "name": "至高天 魔腾 青炬",
+      "chromas": false
+    },
+    {
+      "id": "56030",
+      "name": "至高天 魔腾 灵辉",
+      "chromas": false
+    },
+    {
+      "id": "56031",
+      "name": "至高天 魔腾 寒芒",
+      "chromas": false
+    },
+    {
+      "id": "56032",
+      "name": "至高天 魔腾 荧煌",
+      "chromas": false
+    },
+    {
+      "id": "56033",
+      "name": "至高天 魔腾 幻耀",
+      "chromas": false
+    },
+    {
+      "id": "56034",
+      "name": "至高天 魔腾 胧光",
+      "chromas": false
+    },
+    {
+      "id": "56035",
+      "name": "至高天 魔腾 霓虹表象",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "暗影之刃",
+    "description": "每过数秒，魔腾的下次攻击就会对附近敌人造成额外物理伤害，并治疗自己。魔腾的普通攻击会减少该技能的冷却时间。",
+    "image": "Nocturne_UmbraBlades.png"
+  },
+  "spells": [
+    {
+      "name": "梦魇之径",
+      "description": "魔腾扔出一把暗影之刃，对敌人造成伤害并留下幽灵影径，并使受到伤害的敌方英雄也留下幽灵影径。在影径上时，魔腾无视任何碰撞体积，并且他的移动速度和攻击力也会得到提高。",
+      "tooltip": "魔腾扔出一把暗影之刃，造成{{ totaldamage }}物理伤害并留下一条持续{{ trailduration }}秒的影径。被击中的敌方英雄们也会留下一条影径。在影径上移动时，魔腾处于幽灵状态并获得{{ movespeed }}%移动速度和{{ bonustrailad }}攻击力。",
+      "cooldown": "8",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1125",
+      "maxrank": 5,
+      "image": "NocturneDuskbringer.png",
+      "key": "Q"
+    },
+    {
+      "name": "黑暗庇护",
+      "description": "魔腾强化他的刀刃，被动地提升他的攻击速度。主动激活此技能，将使魔腾融入黑影中，同时产生一个能够抵挡掉敌方单个技能的魔法护盾。若抵挡成功，则被动的攻速加成效果将提升至两倍。",
+      "tooltip": "被动：魔腾获得{{ activeas }}%攻击速度。主动：魔腾生成一个持续1.5秒的暗影屏障，来格挡下一个敌方技能。如果格挡掉一个技能，那么这个技能的被动效果提升至{{ activeas*2 }}%攻击速度，持续{{ doubleasduration }}秒。",
+      "cooldown": "20/18/16/14/12",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "20",
+      "maxrank": 5,
+      "image": "NocturneShroudofDarkness.png",
+      "key": "W"
+    },
+    {
+      "name": "无言恐惧",
+      "description": "魔腾将梦魇植入目标的大脑之中，持续对目标造成伤害。并且如果在该技能持续时间结束后，目标仍未脱离该技能的范围，那么目标会被恐惧。",
+      "tooltip": "被动：魔腾朝着被恐惧的敌人时会获得{{ tooltipfearms*100 }}%移动速度。主动：魔腾将一根梦魇灵链植入他的目标，在{{ leashduration }}秒里持续造成共{{ totaldamage }}魔法伤害。如果灵链一直未断裂，目标就会被恐惧{{ ccduration }}秒。",
+      "cooldown": "15/14/13/12/11",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "425",
+      "maxrank": 5,
+      "image": "NocturneUnspeakableHorror.png",
+      "key": "E"
+    },
+    {
+      "name": "鬼影重重",
+      "description": "魔腾减少所有敌方英雄的视野范围，并在此过程中移除敌方英雄的友军的视野。魔腾能够借机突进到附近的敌方英雄身边。",
+      "tooltip": "魔腾使地图变暗，降低所有敌方英雄的视野半径并移除其友方视野，持续{{ paranoiaduration }}秒。魔腾能够在持续期间再次施放这个技能，来突进到一名敌方英雄的身边并造成{{ damage }}物理伤害。",
+      "cooldown": "140/115/90",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "2500/3250/4000",
+      "maxrank": 3,
+      "image": "NocturneParanoia.png",
+      "key": "R"
+    }
+  ]
+}

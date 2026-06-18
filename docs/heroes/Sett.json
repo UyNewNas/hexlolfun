@@ -1,0 +1,473 @@
+{
+  "id": "Sett",
+  "championId": "875",
+  "name": "腕豪",
+  "title": "瑟提",
+  "region": "艾欧尼亚",
+  "blurb": "在与诺克萨斯的战争结束之后，艾欧尼亚的地下王国日渐兴起，瑟提在其中脱颖而出，成为了一方霸主。虽然他一开始只是纳沃利的搏击场里的无名小卒，但他有着一身蛮力，而且极其耐打，很快就名声鹊起。等到当地的搏击手尽数被他击败之后，瑟提靠着一腔勇武，掌控了自己曾经浴血奋战的搏击场。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "豪意",
+  "info": {
+    "attack": 8,
+    "defense": 5,
+    "magic": 1,
+    "difficulty": 2
+  },
+  "stats": {
+    "hp": 670,
+    "hpPerLevel": 114,
+    "mp": 0,
+    "mpPerLevel": 0,
+    "movespeed": 340,
+    "armor": 33,
+    "armorPerLevel": 4.7,
+    "spellblock": 28,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 60,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.625,
+    "attackspeedPerLevel": 1.75,
+    "hpregen": 7,
+    "hpregenPerLevel": 0.5,
+    "mpregen": 0,
+    "mpregenPerLevel": 0,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "875001",
+      "name": "机神苍狼 瑟提",
+      "chromas": true
+    },
+    {
+      "id": "875002",
+      "name": "机神苍狼 瑟提 月蚀",
+      "chromas": false
+    },
+    {
+      "id": "875003",
+      "name": "机神苍狼 瑟提 影",
+      "chromas": false
+    },
+    {
+      "id": "875004",
+      "name": "机神苍狼 瑟提 炼狱",
+      "chromas": false
+    },
+    {
+      "id": "875005",
+      "name": "机神苍狼 瑟提 雷霆",
+      "chromas": false
+    },
+    {
+      "id": "875006",
+      "name": "机神苍狼 瑟提 云霄",
+      "chromas": false
+    },
+    {
+      "id": "875007",
+      "name": "机神苍狼 瑟提 光",
+      "chromas": false
+    },
+    {
+      "id": "875008",
+      "name": "神龙尊者 炎龙瑟提",
+      "chromas": true
+    },
+    {
+      "id": "875009",
+      "name": "至臻 神龙尊者 炎龙瑟提",
+      "chromas": false
+    },
+    {
+      "id": "875010",
+      "name": "泳池派对 瑟提",
+      "chromas": true
+    },
+    {
+      "id": "875011",
+      "name": "泳池派对 瑟提 菠萝暴击",
+      "chromas": false
+    },
+    {
+      "id": "875012",
+      "name": "泳池派对 瑟提 海星反击",
+      "chromas": false
+    },
+    {
+      "id": "875013",
+      "name": "泳池派对 瑟提 椰树抱摔",
+      "chromas": false
+    },
+    {
+      "id": "875014",
+      "name": "泳池派对 瑟提 贝壳抵御",
+      "chromas": false
+    },
+    {
+      "id": "875015",
+      "name": "泳池派对 瑟提 樱花重袭",
+      "chromas": false
+    },
+    {
+      "id": "875016",
+      "name": "泳池派对 瑟提 炙热蓄力",
+      "chromas": false
+    },
+    {
+      "id": "875017",
+      "name": "泳池派对 瑟提 夜影突进",
+      "chromas": false
+    },
+    {
+      "id": "875018",
+      "name": "泳池派对 瑟提 西瓜冲击",
+      "chromas": false
+    },
+    {
+      "id": "875019",
+      "name": "龙腾虎跃 瑟提",
+      "chromas": true
+    },
+    {
+      "id": "875020",
+      "name": "神龙尊者 炎龙瑟提 烬爪",
+      "chromas": false
+    },
+    {
+      "id": "875021",
+      "name": "神龙尊者 炎龙瑟提 傲雪",
+      "chromas": false
+    },
+    {
+      "id": "875022",
+      "name": "神龙尊者 炎龙瑟提 碧漪",
+      "chromas": false
+    },
+    {
+      "id": "875023",
+      "name": "神龙尊者 炎龙瑟提 望霞",
+      "chromas": false
+    },
+    {
+      "id": "875024",
+      "name": "神龙尊者 炎龙瑟提 摘星",
+      "chromas": false
+    },
+    {
+      "id": "875025",
+      "name": "神龙尊者 炎龙瑟提 玄黄",
+      "chromas": false
+    },
+    {
+      "id": "875026",
+      "name": "神龙尊者 炎龙瑟提 登龙",
+      "chromas": false
+    },
+    {
+      "id": "875027",
+      "name": "神龙尊者 炎龙瑟提 朝云",
+      "chromas": false
+    },
+    {
+      "id": "875028",
+      "name": "神龙尊者 炎龙瑟提 聚鹤",
+      "chromas": false
+    },
+    {
+      "id": "875029",
+      "name": "龙腾虎跃 瑟提 恭喜发财",
+      "chromas": false
+    },
+    {
+      "id": "875030",
+      "name": "龙腾虎跃 瑟提 日进斗金",
+      "chromas": false
+    },
+    {
+      "id": "875031",
+      "name": "龙腾虎跃 瑟提 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "875032",
+      "name": "龙腾虎跃 瑟提 紫气东来",
+      "chromas": false
+    },
+    {
+      "id": "875033",
+      "name": "龙腾虎跃 瑟提 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "875034",
+      "name": "龙腾虎跃 瑟提 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "875035",
+      "name": "龙腾虎跃 瑟提 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "875036",
+      "name": "龙腾虎跃 瑟提 吉祥如意",
+      "chromas": false
+    },
+    {
+      "id": "875037",
+      "name": "龙腾虎跃 瑟提 玉虎呈祥",
+      "chromas": false
+    },
+    {
+      "id": "875038",
+      "name": "灵魂莲华 瑟提",
+      "chromas": true
+    },
+    {
+      "id": "875039",
+      "name": "灵魂莲华 瑟提 流火",
+      "chromas": false
+    },
+    {
+      "id": "875040",
+      "name": "灵魂莲华 瑟提 雪落",
+      "chromas": false
+    },
+    {
+      "id": "875041",
+      "name": "灵魂莲华 瑟提 云开",
+      "chromas": false
+    },
+    {
+      "id": "875042",
+      "name": "灵魂莲华 瑟提 春晓",
+      "chromas": false
+    },
+    {
+      "id": "875043",
+      "name": "灵魂莲华 瑟提 雁来",
+      "chromas": false
+    },
+    {
+      "id": "875044",
+      "name": "灵魂莲华 瑟提 绽夜",
+      "chromas": false
+    },
+    {
+      "id": "875045",
+      "name": "斗魂觉醒 瑟提",
+      "chromas": true
+    },
+    {
+      "id": "875046",
+      "name": "斗魂觉醒 瑟提 烈之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "875047",
+      "name": "斗魂觉醒 瑟提 毅之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "875048",
+      "name": "斗魂觉醒 瑟提 幽之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "875049",
+      "name": "斗魂觉醒 瑟提 幻之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "875050",
+      "name": "斗魂觉醒 瑟提 韧之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "875051",
+      "name": "斗魂觉醒 瑟提 飒之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "875052",
+      "name": "斗魂觉醒 瑟提 魅之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "875053",
+      "name": "斗魂觉醒 瑟提 燃之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "875054",
+      "name": "斗魂觉醒 瑟提 无限斗志",
+      "chromas": false
+    },
+    {
+      "id": "875055",
+      "name": "巅峰之拳 瑟提 明镜止水",
+      "chromas": false
+    },
+    {
+      "id": "875056",
+      "name": "心之钢 瑟提",
+      "chromas": true
+    },
+    {
+      "id": "875057",
+      "name": "心之钢 瑟提 锐意曲风",
+      "chromas": false
+    },
+    {
+      "id": "875058",
+      "name": "心之钢 瑟提 华丽韵律",
+      "chromas": false
+    },
+    {
+      "id": "875059",
+      "name": "心之钢 瑟提 坚守决意",
+      "chromas": false
+    },
+    {
+      "id": "875060",
+      "name": "心之钢 瑟提 超凡信心",
+      "chromas": false
+    },
+    {
+      "id": "875061",
+      "name": "心之钢 瑟提 天纵才华",
+      "chromas": false
+    },
+    {
+      "id": "875062",
+      "name": "心之钢 瑟提 本真风范",
+      "chromas": false
+    },
+    {
+      "id": "875063",
+      "name": "心之钢 瑟提 孤高傲气",
+      "chromas": false
+    },
+    {
+      "id": "875064",
+      "name": "心之钢 瑟提 金声玉振",
+      "chromas": false
+    },
+    {
+      "id": "875065",
+      "name": "心之钢 瑟提 摇滚明星",
+      "chromas": false
+    },
+    {
+      "id": "875066",
+      "name": "金蛇巨星 瑟提",
+      "chromas": false
+    },
+    {
+      "id": "875067",
+      "name": "莲华温泉 瑟提",
+      "chromas": true
+    },
+    {
+      "id": "875068",
+      "name": "莲华温泉 瑟提 流火",
+      "chromas": false
+    },
+    {
+      "id": "875069",
+      "name": "莲华温泉 瑟提 雪落",
+      "chromas": false
+    },
+    {
+      "id": "875070",
+      "name": "莲华温泉 瑟提 云开",
+      "chromas": false
+    },
+    {
+      "id": "875071",
+      "name": "莲华温泉 瑟提 风起",
+      "chromas": false
+    },
+    {
+      "id": "875072",
+      "name": "莲华温泉 瑟提 鸣蜩",
+      "chromas": false
+    },
+    {
+      "id": "875073",
+      "name": "莲华温泉 瑟提 月升",
+      "chromas": false
+    },
+    {
+      "id": "875074",
+      "name": "莲华温泉 瑟提 朝花",
+      "chromas": false
+    },
+    {
+      "id": "875075",
+      "name": "莲华温泉 瑟提 春晓",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "沙场豪情",
+    "description": "瑟提的普通攻击会交替使用左重拳和右重拳。右重拳稍微强一些和快一些。瑟提还很讨厌失败，因此会基于他的已损失生命值而获得额外的生命回复。",
+    "image": "Sett_P.png"
+  },
+  "spells": [
+    {
+      "name": "屈人之威",
+      "description": "瑟提的下两次攻击将基于目标的最大生命值来造成额外伤害。瑟提也会在朝着敌方英雄移动时获得移动速度加成。",
+      "tooltip": "瑟提手痒难耐，渴望打架，在朝着敌方英雄移动时获得{{ msamount*100 }}%移动速度，持续{{ msduration }}秒。此外，瑟提的下两次攻击造成额外的{{ basedamage }}外加{{ maxhealthdamagecalc }}最大生命值的物理伤害。",
+      "cooldown": "9/8/7/6/5",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "0",
+      "maxrank": 5,
+      "image": "SettQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "蓄意轰拳",
+      "description": "瑟提会被动地将他受到的伤害储存为豪意。在施放时，瑟提会释放所有已储存的豪意来提供一层护盾并且重击一个区域，在区域中心造成真实伤害并在区域边缘造成物理伤害。",
+      "tooltip": "被动：瑟提将受到的{{ damagestored*100 }}%伤害储存为豪意，储量上限为{{ maxgrit }}。豪意在停止受到伤害的{{ adrenalinestoragewindow }}秒后会快速衰减。主动：瑟提将所有豪意迸发出来，获得{{ shieldconversion*100 }}%迸发豪意值的护盾值，护盾值会在{{ shieldmaxduration }}秒里持续衰减。瑟提随后会轰出一记重拳，对中央的所有敌人造成{{ damagecalc }}外加{{ damageconversion }}迸发豪意值的真实伤害(最大伤害为{{ f1 }})。不在中央的敌人会受到物理伤害作为替代。",
+      "cooldown": "18/16.5/15/13.5/12",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "25000",
+      "maxrank": 5,
+      "image": "SettW.png",
+      "key": "W"
+    },
+    {
+      "name": "强手裂颅",
+      "description": "瑟提将他两侧的所有敌人猛撞到一起，对他们造成伤害和晕眩效果。如果敌人仅位于他的一侧，那么他们只会被减速而不会被晕眩。",
+      "tooltip": "瑟提将他两侧的敌人猛撞到一起，造成{{ damagecalc }}物理伤害并使他们减速{{ slowamount*100 }}%，持续{{ slowduration }}秒。如果瑟提在每侧都至少擒住了一名敌人，那么所有敌人还会被晕眩{{ stunduration }}秒。",
+      "cooldown": "16/14.5/13/11.5/10",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "490",
+      "maxrank": 5,
+      "image": "SettE.png",
+      "key": "E"
+    },
+    {
+      "name": "叹为观止",
+      "description": "瑟提将一名敌方英雄带到空中，然后将其猛砸到地上，在该英雄着陆后对其附近的所有敌人造成伤害和减速效果。",
+      "tooltip": "瑟提擒住一名敌方英雄，并在扛着该英雄前行时将其压制，然后将该英雄猛摔到地上，对着陆点附近的所有敌人造成{{ damagecalc }}外加{{ maxhealthdamage*100 }}%被擒英雄的额外生命值的物理伤害和持续{{ slowduration }}秒的{{ slowamount*100 }}%减速。敌人离瑟提着陆的位置越远，受到的伤害越低。",
+      "cooldown": "120/100/80",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "400",
+      "maxrank": 3,
+      "image": "SettR.png",
+      "key": "R"
+    }
+  ]
+}

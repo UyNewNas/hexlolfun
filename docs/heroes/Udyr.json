@@ -1,0 +1,153 @@
+{
+  "id": "Udyr",
+  "championId": "77",
+  "name": "兽灵行者",
+  "title": "乌迪尔",
+  "region": "弗雷尔卓德",
+  "blurb": "身为最强大的兽灵行者，乌迪尔能够与弗雷尔卓德的一切灵体交流。他能感知它们的欲求，也能引导它们的超然力量，融入自己野性十足的战斗。乌迪尔追求的是内心的平衡，这样他的意志才不会在众灵的喧嚣中迷失，但他同时也在追求外在的平衡，因为弗雷尔卓德的神秘大地必须依靠争斗与冲突来获得滋养。乌迪尔十分明白，为了防止弗雷尔卓德陷入看似和平实则僵滞，牺牲在所难免。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 7,
+    "magic": 4,
+    "difficulty": 7
+  },
+  "stats": {
+    "hp": 664,
+    "hpPerLevel": 92,
+    "mp": 271,
+    "mpPerLevel": 50,
+    "movespeed": 350,
+    "armor": 31,
+    "armorPerLevel": 4.7,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 62,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.65,
+    "attackspeedPerLevel": 3,
+    "hpregen": 6,
+    "hpregenPerLevel": 0.75,
+    "mpregen": 7.5,
+    "mpregenPerLevel": 0.45,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "77001",
+      "name": "武力全开 乌迪尔",
+      "chromas": false
+    },
+    {
+      "id": "77002",
+      "name": "四神之力 乌迪尔",
+      "chromas": false
+    },
+    {
+      "id": "77003",
+      "name": "灵魂守卫 乌迪尔",
+      "chromas": false
+    },
+    {
+      "id": "77004",
+      "name": "这货不是乌迪尔",
+      "chromas": false
+    },
+    {
+      "id": "77005",
+      "name": "龙神之力 乌迪尔",
+      "chromas": false
+    },
+    {
+      "id": "77006",
+      "name": "墨影行者 乌迪尔",
+      "chromas": true
+    },
+    {
+      "id": "77007",
+      "name": "墨影行者 乌迪尔 炽墨挥影",
+      "chromas": false
+    },
+    {
+      "id": "77008",
+      "name": "墨影行者 乌迪尔 云墨漾影",
+      "chromas": false
+    },
+    {
+      "id": "77009",
+      "name": "墨影行者 乌迪尔 樱墨映影",
+      "chromas": false
+    },
+    {
+      "id": "77010",
+      "name": "墨影行者 乌迪尔 玄墨蕴影",
+      "chromas": false
+    },
+    {
+      "id": "77011",
+      "name": "墨影行者 乌迪尔 灵墨刻影",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "众灵纽带",
+    "description": "乌迪尔的四个基础技能会让他在四种姿态之间来回转换，并且再次施放同一技能会带来终极技能助益。此外，在使用一个技能后，乌迪尔的下两次攻击获得攻击速度。",
+    "image": "Udyr_P.png"
+  },
+  "spells": [
+    {
+      "name": "狂暴爪击",
+      "description": "乌迪尔获得攻击速度加成并且他的下两次攻击造成额外的物理伤害。再次施放：获得更多攻击速度加成，并且下两次攻击会召唤闪电打击目标。",
+      "tooltip": "爪击姿态：乌迪尔获得{{ attackspeedbase*100 }}%攻击速度并且他攻击造成{{ onhitdamage }}物理伤害 %i:OnHit%攻击特效，持续{{ attackspeeddurationbase }}秒。此外，乌迪尔在这个姿态中的下两次攻击造成额外的{{ maxhponhit1 }}最大生命值的物理伤害并获得{{ attackrange }}距离。觉醒：将额外攻击速度提升至{{ empoweredtotalas }}并且将百分比生命值伤害提升至{{ q2totalonhithpdamage }}。此外，乌迪尔的下两次攻击会召唤闪电进行6次打击，对落单的目标造成共计{{ empoweredlightningbonusmax }}最大生命值的魔法伤害(如果可能的话，闪电打击会弹射至附近的其它目标)。",
+      "cooldown": "6",
+      "cost": "20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 6,
+      "image": "UdyrQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "坚铁甲胄",
+      "description": "乌迪尔获得护盾，并且下两次攻击会回复生命值。再次施放：获得更厚的护盾并且在接下来的若干秒内持续获得基于最大生命值的治疗效果。",
+      "tooltip": "甲胄姿态：乌迪尔获得持续{{ shieldduration }}秒的{{ totalshield }}护盾值。此外，乌迪尔的下两次攻击具有{{ lifesteal*100 }}%生命偷取并回复{{ lifeonhit }}生命值。觉醒：获得{{ recastshield }}护盾值，在{{ shieldduration }}秒里持续回复{{ recastheal }}生命值，并且乌迪尔的下两次攻击转而具有{{ lifesteal*200 }}%生命偷取并回复{{ lifeonhitawakened }}生命值。",
+      "cooldown": "6",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "0",
+      "maxrank": 6,
+      "image": "UdyrW.png",
+      "key": "W"
+    },
+    {
+      "name": "踏火蛮冲",
+      "description": "乌迪尔获得移动速度并且他对每个目标打出的第一次攻击将造成晕眩。再次施放：获得更多移动速度并在若干秒里免疫定身效果。",
+      "tooltip": "蛮冲姿态：乌迪尔获得在{{ movespeedduration }}秒里持续衰减的{{ movespeed }}移动速度。此外，乌迪尔的攻击会使他冲刺到目标处并造成{{ stunduration }}秒晕眩。(对每个目标各有{{ icd }}秒冷却时间)。觉醒：免疫定身和限制效果，并额外提供持续{{ unstoppableduration }}秒的{{ movespeedbonus }}移动速度。",
+      "cooldown": "6",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 6,
+      "image": "UdyrE.png",
+      "key": "E"
+    },
+    {
+      "name": "极凌飓风",
+      "description": "乌迪尔召唤冰川风暴环绕自身，对附近的敌人造成伤害和减速。再次施放：强化并释放风暴，让风暴追踪敌人并造成额外伤害。",
+      "tooltip": "飓风姿态：乌迪尔召唤冰川风暴环绕自身{{ buffduration }}秒，每秒对附近的敌人造成{{ stormdamage }}魔法伤害，并对这些敌人造成{{ slowpotency*100 }}%减速。此外，乌迪尔在这个姿态中的下两次攻击对风暴中的敌人造成{{ pulsedamage }}魔法伤害。觉醒：释放风暴，使它跟随乌迪尔最后攻击的那名敌人，在持续期间造成额外的{{ percenthpblast }}最大生命值的魔法伤害，和额外的{{ empoweredslow }}减速。",
+      "cooldown": "6",
+      "cost": "40",
+      "costType": " {{ abilityresourcename }}",
+      "range": "370",
+      "maxrank": 6,
+      "image": "UdyrR.png",
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "id": "JarvanIV",
+  "championId": "59",
+  "name": "德玛西亚皇子",
+  "title": "嘉文四世",
+  "region": "德玛西亚",
+  "blurb": "皇子嘉文四世身负王家血脉，极有可能便是德玛西亚的下一任国王。他自小被寄予厚望，有朝一日能够成为德玛西亚的楷模，可如此沉重的负担却令他的心中充满了挣扎。在战场上，他英勇无畏的气势和一往无前的决心鼓舞着全军上下，显现出身为人主的真实才干。",
+  "tags": [
+    "战士",
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 6,
+    "defense": 8,
+    "magic": 3,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 640,
+    "hpPerLevel": 104,
+    "mp": 300,
+    "mpPerLevel": 55,
+    "movespeed": 340,
+    "armor": 36,
+    "armorPerLevel": 4.6,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 175,
+    "attackdamage": 64,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.658,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 8,
+    "hpregenPerLevel": 0.7,
+    "mpregen": 6.5,
+    "mpregenPerLevel": 0.45,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "59001",
+      "name": "孤胆英豪 嘉文四世",
+      "chromas": false
+    },
+    {
+      "id": "59002",
+      "name": "屠龙勇士 嘉文四世",
+      "chromas": false
+    },
+    {
+      "id": "59003",
+      "name": "龙骑统帅 嘉文四世",
+      "chromas": false
+    },
+    {
+      "id": "59004",
+      "name": "凯旋英雄 嘉文四世",
+      "chromas": false
+    },
+    {
+      "id": "59005",
+      "name": "吕布 奉先",
+      "chromas": true
+    },
+    {
+      "id": "59006",
+      "name": "Fnatic 嘉文四世",
+      "chromas": false
+    },
+    {
+      "id": "59007",
+      "name": "暗星 嘉文四世",
+      "chromas": true
+    },
+    {
+      "id": "59008",
+      "name": "SSG 嘉文四世",
+      "chromas": true
+    },
+    {
+      "id": "59009",
+      "name": "海克斯科技 嘉文四世",
+      "chromas": false
+    },
+    {
+      "id": "59010",
+      "name": "吕布 奉先 炫金战神",
+      "chromas": false
+    },
+    {
+      "id": "59011",
+      "name": "泳池派对 嘉文四世",
+      "chromas": true
+    },
+    {
+      "id": "59012",
+      "name": "暗星 嘉文四世 万神殿之陷",
+      "chromas": false
+    },
+    {
+      "id": "59013",
+      "name": "泳池派对 嘉文四世“樱桃甜酒”专供",
+      "chromas": false
+    },
+    {
+      "id": "59014",
+      "name": "泳池派对 嘉文四世“贝利尼”专供",
+      "chromas": false
+    },
+    {
+      "id": "59015",
+      "name": "泳池派对 嘉文四世“蓝色夏威夷”专供",
+      "chromas": false
+    },
+    {
+      "id": "59016",
+      "name": "泳池派对 嘉文四世“紫色恋人”专供",
+      "chromas": false
+    },
+    {
+      "id": "59017",
+      "name": "泳池派对 嘉文四世“草莓圣代”专供",
+      "chromas": false
+    },
+    {
+      "id": "59018",
+      "name": "泳池派对 嘉文四世“椰林飘香”专供",
+      "chromas": false
+    },
+    {
+      "id": "59019",
+      "name": "泳池派对 嘉文四世“黑色天鹅绒”专供",
+      "chromas": false
+    },
+    {
+      "id": "59020",
+      "name": "泳池派对 嘉文四世“西瓜玛格丽特”专供",
+      "chromas": false
+    },
+    {
+      "id": "59021",
+      "name": "福牛守护者 嘉文四世",
+      "chromas": true
+    },
+    {
+      "id": "59022",
+      "name": "福牛守护者 嘉文四世 贺岁",
+      "chromas": false
+    },
+    {
+      "id": "59023",
+      "name": "福牛守护者 嘉文四世 招财",
+      "chromas": false
+    },
+    {
+      "id": "59024",
+      "name": "福牛守护者 嘉文四世 团圆",
+      "chromas": false
+    },
+    {
+      "id": "59025",
+      "name": "福牛守护者 嘉文四世 纳福",
+      "chromas": false
+    },
+    {
+      "id": "59026",
+      "name": "福牛守护者 嘉文四世 如意",
+      "chromas": false
+    },
+    {
+      "id": "59027",
+      "name": "福牛守护者 嘉文四世 吉祥",
+      "chromas": false
+    },
+    {
+      "id": "59028",
+      "name": "福牛守护者 嘉文四世 进宝",
+      "chromas": false
+    },
+    {
+      "id": "59030",
+      "name": "2021 全球总决赛 嘉文四世",
+      "chromas": false
+    },
+    {
+      "id": "59031",
+      "name": "2021 全球总决赛 嘉文四世 不破不立",
+      "chromas": true
+    },
+    {
+      "id": "59032",
+      "name": "2021 全球总决赛 嘉文四世 所向披靡",
+      "chromas": false
+    },
+    {
+      "id": "59033",
+      "name": "2021 全球总决赛 嘉文四世 一鸣惊人",
+      "chromas": false
+    },
+    {
+      "id": "59034",
+      "name": "2021 全球总决赛 嘉文四世 锐不可当",
+      "chromas": false
+    },
+    {
+      "id": "59035",
+      "name": "黑夜使者 嘉文四世",
+      "chromas": false
+    },
+    {
+      "id": "59036",
+      "name": "黑夜使者 嘉文四世 血夜",
+      "chromas": true
+    },
+    {
+      "id": "59037",
+      "name": "黑夜使者 嘉文四世 森夜",
+      "chromas": false
+    },
+    {
+      "id": "59038",
+      "name": "黑夜使者 嘉文四世 梦夜",
+      "chromas": false
+    },
+    {
+      "id": "59039",
+      "name": "黑夜使者 嘉文四世 寒夜",
+      "chromas": false
+    },
+    {
+      "id": "59040",
+      "name": "黑夜使者 嘉文四世 夕夜",
+      "chromas": false
+    },
+    {
+      "id": "59041",
+      "name": "黑夜使者 嘉文四世 宁夜",
+      "chromas": false
+    },
+    {
+      "id": "59042",
+      "name": "黑夜使者 嘉文四世 寂夜",
+      "chromas": false
+    },
+    {
+      "id": "59043",
+      "name": "黑夜使者 嘉文四世 白夜",
+      "chromas": false
+    },
+    {
+      "id": "59044",
+      "name": "剪纸仙灵 嘉文四世",
+      "chromas": false
+    },
+    {
+      "id": "59045",
+      "name": "剪纸仙灵 嘉文四世 恭喜发财",
+      "chromas": true
+    },
+    {
+      "id": "59046",
+      "name": "剪纸仙灵 嘉文四世 龙马精神",
+      "chromas": false
+    },
+    {
+      "id": "59047",
+      "name": "剪纸仙灵 嘉文四世 前程似锦",
+      "chromas": false
+    },
+    {
+      "id": "59048",
+      "name": "剪纸仙灵 嘉文四世 喜气洋洋",
+      "chromas": false
+    },
+    {
+      "id": "59049",
+      "name": "剪纸仙灵 嘉文四世 日进斗金",
+      "chromas": false
+    },
+    {
+      "id": "59050",
+      "name": "剪纸仙灵 嘉文四世 年年有余",
+      "chromas": false
+    },
+    {
+      "id": "59051",
+      "name": "剪纸仙灵 嘉文四世 阖家安康",
+      "chromas": false
+    },
+    {
+      "id": "59052",
+      "name": "剪纸仙灵 嘉文四世 团团圆圆",
+      "chromas": false
+    },
+    {
+      "id": "59054",
+      "name": "至臻 暗裔英雄 嘉文四世",
+      "chromas": false
+    },
+    {
+      "id": "59055",
+      "name": "至臻 暗裔英雄 嘉文四世 全开",
+      "chromas": false
+    },
+    {
+      "id": "59056",
+      "name": "SSG 嘉文四世 精锐",
+      "chromas": true
+    }
+  ],
+  "passive": {
+    "name": "战争律动",
+    "description": "嘉文四世对一名敌人发起的第一次普攻会造成基于目标当前生命值的额外物理伤害。这个效果在数秒内无法重复作用于同一目标。",
+    "image": "JarvanIVP.png"
+  },
+  "spells": [
+    {
+      "name": "巨龙撞击",
+      "description": "嘉文四世的长矛穿透敌人，对沿途的敌人造成物理伤害和护甲击碎效果。如果嘉文四世该技能指向德邦军旗，那么他将会被导向军旗，并击飞沿途所有敌人。",
+      "tooltip": "嘉文延伸他的长枪，造成{{ totaldamage }}物理伤害并移除{{ basearshred*100 }}%护甲，持续{{ e3 }}秒。如果长枪与德邦军旗连接，那么嘉文会将自己拉向它，将沿途的敌人击飞0.75秒。",
+      "cooldown": "10/9/8/7/6",
+      "cost": "45/50/55/60/65",
+      "costType": " {{ abilityresourcename }}",
+      "range": "770",
+      "maxrank": 5,
+      "image": "JarvanIVDragonStrike.png",
+      "key": "Q"
+    },
+    {
+      "name": "黄金圣盾",
+      "description": "嘉文四世召唤古德玛西亚国王保护自己，护盾吸收伤害并减速附近敌人。",
+      "tooltip": "嘉文召唤一个圣盾，对附近的敌人造成持续{{ e5 }}秒的{{ baseslowamount*100 }}%减速并为他提供{{ totalshield }}护盾值，每命中一个敌方英雄会提升{{ bonusshield }}护盾值。",
+      "cooldown": "9",
+      "cost": "30",
+      "costType": " {{ abilityresourcename }}",
+      "range": "625",
+      "maxrank": 5,
+      "image": "JarvanIVGoldenAegis.png",
+      "key": "W"
+    },
+    {
+      "name": "德邦军旗",
+      "description": "嘉文四世携带着德玛西亚的骄傲，能被动地给予他额外的攻击速度。激活德邦军旗会使嘉文四世放置一面德玛西亚军旗，在军旗的着陆点造成魔法伤害，并强化军旗附近的队友们的攻击速度。",
+      "tooltip": "被动：嘉文获得{{ permanentattackspeed*100 }}%攻击速度。主动：嘉文将一面军旗投掷到地上，造成{{ totaldamage }}魔法伤害并为附近的友军们提供持续{{ e4 }}秒的{{ baseauraas*100 }}%攻击速度。",
+      "cooldown": "12/11.5/11/10.5/10",
+      "cost": "55",
+      "costType": " {{ abilityresourcename }}",
+      "range": "860",
+      "maxrank": 5,
+      "image": "JarvanIVDemacianStandard.png",
+      "key": "E"
+    },
+    {
+      "name": "天崩地裂",
+      "description": "嘉文四世勇猛地跃向目标敌方英雄，对其造成物理伤害，并在敌人周围形成环形障碍，持续数秒。在嘉文四世着陆时，目标附近的敌人也会受到伤害。",
+      "tooltip": "嘉文勇猛地跃向一名敌方英雄，对目标及周围的敌人造成{{ damagecalc }}物理伤害，并在目标周围生成一个由不可通过地形构成的竞技场，持续{{ wallduration }}秒。嘉文可以再次施放来使该地形倒塌。",
+      "cooldown": "120/105/90",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 3,
+      "image": "JarvanIVCataclysm.png",
+      "key": "R"
+    }
+  ]
+}

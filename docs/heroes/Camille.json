@@ -1,0 +1,358 @@
+{
+  "id": "Camille",
+  "championId": "164",
+  "name": "青钢影",
+  "title": "卡蜜尔",
+  "region": "皮尔特沃夫",
+  "blurb": "卡蜜尔是菲罗斯家族的首席密探，游走于法律失效的边缘地带，小心地维护着皮尔特沃夫与其治下的祖安，确保一切都能顺畅运转。在灵活而精准的卡密尔看来，任何浮皮潦草的技术都是必须被禁绝的丑陋行径。她的心智也如其身下的刀刃一般锐利，为了追求极致，她对自己进行了大幅度的海克斯人体增强手术。这也让很多人不禁怀疑，她根本就是一台纯粹的机器，而不是一个女人。",
+  "tags": [
+    "战士",
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 8,
+    "defense": 6,
+    "magic": 3,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 650,
+    "hpPerLevel": 99,
+    "mp": 339,
+    "mpPerLevel": 52,
+    "movespeed": 340,
+    "armor": 35,
+    "armorPerLevel": 4.5,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 125,
+    "attackdamage": 68,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.644,
+    "attackspeedPerLevel": 2.5,
+    "hpregen": 8.5,
+    "hpregenPerLevel": 0.8,
+    "mpregen": 8.15,
+    "mpregenPerLevel": 0.75,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "164001",
+      "name": "源代码 卡蜜尔",
+      "chromas": false
+    },
+    {
+      "id": "164002",
+      "name": "魔女 卡蜜尔",
+      "chromas": true
+    },
+    {
+      "id": "164003",
+      "name": "魔女 卡蜜尔 欲望",
+      "chromas": false
+    },
+    {
+      "id": "164004",
+      "name": "魔女 卡蜜尔 傲慢",
+      "chromas": false
+    },
+    {
+      "id": "164005",
+      "name": "魔女 卡蜜尔 倦怠",
+      "chromas": false
+    },
+    {
+      "id": "164006",
+      "name": "魔女 卡蜜尔 贪婪",
+      "chromas": false
+    },
+    {
+      "id": "164007",
+      "name": "魔女 卡蜜尔 愤怒",
+      "chromas": false
+    },
+    {
+      "id": "164008",
+      "name": "魔女 卡蜜尔 饕餮",
+      "chromas": false
+    },
+    {
+      "id": "164009",
+      "name": "魔女 卡蜜尔 嫉妒",
+      "chromas": false
+    },
+    {
+      "id": "164010",
+      "name": "iG 卡蜜尔",
+      "chromas": true
+    },
+    {
+      "id": "164011",
+      "name": "莫测之影 卡蜜尔",
+      "chromas": true
+    },
+    {
+      "id": "164012",
+      "name": "莫测之影 卡蜜尔 斗志",
+      "chromas": false
+    },
+    {
+      "id": "164013",
+      "name": "莫测之影 卡蜜尔 优雅",
+      "chromas": false
+    },
+    {
+      "id": "164014",
+      "name": "莫测之影 卡蜜尔 权威",
+      "chromas": false
+    },
+    {
+      "id": "164015",
+      "name": "莫测之影 卡蜜尔 学识",
+      "chromas": false
+    },
+    {
+      "id": "164016",
+      "name": "莫测之影 卡蜜尔 丰足",
+      "chromas": false
+    },
+    {
+      "id": "164017",
+      "name": "莫测之影 卡蜜尔 忠诚",
+      "chromas": false
+    },
+    {
+      "id": "164018",
+      "name": "莫测之影 卡蜜尔 均衡",
+      "chromas": false
+    },
+    {
+      "id": "164019",
+      "name": "莫测之影 卡蜜尔 哀伤",
+      "chromas": false
+    },
+    {
+      "id": "164020",
+      "name": "魔女 卡蜜尔 狂信",
+      "chromas": false
+    },
+    {
+      "id": "164021",
+      "name": "海珀利安小队 Y03-权天使 卡蜜尔",
+      "chromas": true
+    },
+    {
+      "id": "164022",
+      "name": "海珀利安小队 Y03-权天使 卡蜜尔 赤红突袭",
+      "chromas": false
+    },
+    {
+      "id": "164023",
+      "name": "海珀利安小队 Y03-权天使 卡蜜尔 琥珀陌客",
+      "chromas": false
+    },
+    {
+      "id": "164024",
+      "name": "海珀利安小队 Y03-权天使 卡蜜尔 神圣玫瑰",
+      "chromas": false
+    },
+    {
+      "id": "164025",
+      "name": "海珀利安小队 Y03-权天使 卡蜜尔 冰封预言",
+      "chromas": false
+    },
+    {
+      "id": "164026",
+      "name": "海珀利安小队 Y03-权天使 卡蜜尔 紫色长剑",
+      "chromas": false
+    },
+    {
+      "id": "164027",
+      "name": "海珀利安小队 Y03-权天使 卡蜜尔 不朽巨蛇",
+      "chromas": false
+    },
+    {
+      "id": "164028",
+      "name": "海珀利安小队 Y03-权天使 卡蜜尔 黑暗闪击",
+      "chromas": false
+    },
+    {
+      "id": "164029",
+      "name": "海珀利安小队 Y03-权天使 卡蜜尔 圣洁赞歌",
+      "chromas": false
+    },
+    {
+      "id": "164030",
+      "name": "海珀利安小队 Y03-权天使 卡蜜尔 暗夜王牌",
+      "chromas": false
+    },
+    {
+      "id": "164031",
+      "name": "北极星钢影 卡蜜尔",
+      "chromas": true
+    },
+    {
+      "id": "164032",
+      "name": "至臻 北极星钢影 卡蜜尔",
+      "chromas": false
+    },
+    {
+      "id": "164033",
+      "name": "北极星钢影 卡蜜尔 激昂脉冲",
+      "chromas": false
+    },
+    {
+      "id": "164034",
+      "name": "北极星钢影 卡蜜尔 辉煌光焰",
+      "chromas": false
+    },
+    {
+      "id": "164035",
+      "name": "北极星钢影 卡蜜尔 智慧纽带",
+      "chromas": false
+    },
+    {
+      "id": "164036",
+      "name": "北极星钢影 卡蜜尔 祥和面纱",
+      "chromas": false
+    },
+    {
+      "id": "164037",
+      "name": "北极星钢影 卡蜜尔 庄严光冕",
+      "chromas": false
+    },
+    {
+      "id": "164038",
+      "name": "北极星钢影 卡蜜尔 圣洁光带",
+      "chromas": false
+    },
+    {
+      "id": "164039",
+      "name": "北极星钢影 卡蜜尔 希望辉光",
+      "chromas": false
+    },
+    {
+      "id": "164040",
+      "name": "北极星钢影 卡蜜尔 浪漫帘幕",
+      "chromas": false
+    },
+    {
+      "id": "164041",
+      "name": "北极星钢影 卡蜜尔 花冠极光",
+      "chromas": false
+    },
+    {
+      "id": "164042",
+      "name": "北极星钢影 卡蜜尔 天工夜霞",
+      "chromas": false
+    },
+    {
+      "id": "164043",
+      "name": "iG 卡蜜尔 极境",
+      "chromas": false
+    },
+    {
+      "id": "164044",
+      "name": "踏雪寻梅 卡蜜尔",
+      "chromas": true
+    },
+    {
+      "id": "164045",
+      "name": "踏雪寻梅 卡蜜尔 岁寒特妍",
+      "chromas": false
+    },
+    {
+      "id": "164046",
+      "name": "踏雪寻梅 卡蜜尔 竹映梅香",
+      "chromas": false
+    },
+    {
+      "id": "164047",
+      "name": "踏雪寻梅 卡蜜尔 阴霾昼闭",
+      "chromas": false
+    },
+    {
+      "id": "164048",
+      "name": "踏雪寻梅 卡蜜尔 狂飙卷沙",
+      "chromas": false
+    },
+    {
+      "id": "164049",
+      "name": "踏雪寻梅 卡蜜尔 绛萼著霜",
+      "chromas": false
+    },
+    {
+      "id": "164050",
+      "name": "踏雪寻梅 卡蜜尔 玉立冰洁",
+      "chromas": false
+    },
+    {
+      "id": "164051",
+      "name": "踏雪寻梅 卡蜜尔 烟晦晨昏",
+      "chromas": false
+    },
+    {
+      "id": "164052",
+      "name": "踏雪寻梅 卡蜜尔 琼英缀雪",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "适应性防御",
+    "description": "对敌方英雄发起的普攻会基于该英雄的伤害类型（物理或魔法）提供一层专门吸收该类型伤害的护盾，护盾的生命值相当于卡蜜尔的一部分最大生命值，持续一小段时间。",
+    "image": "Camille_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "精准礼仪",
+      "description": "卡蜜尔的下一次普通攻击会斩击敌人，造成额外物理伤害，并为自身提供短暂的爆发性移动速度加成。这个技能可以在释放后的短时间内再次施放，并且如果两次释放之间存在一定的间隔，那么第二段攻击会造成显著的额外伤害。",
+      "tooltip": "卡蜜尔的下次攻击造成额外的{{ bonusdamage }}物理伤害并为她提供{{ msbonus*100 }}%移动速度，持续{{ msduration }}秒。这个技能可以在接下来的{{ qtotalrecasttime }}秒里无消耗地再次施放。如果再次施放的攻击与第一段攻击相距至少{{ qrampuptime }}秒，那么额外伤害会提升至{{ empoweredbonusdamage }}，并且该次攻击的{{ damageconversionpercentage }}伤害转化为真实伤害。这个技能会在造成伤害时触发技能特效。",
+      "cooldown": "9/8/7/6/5",
+      "cost": "25",
+      "costType": " {{ abilityresourcename }}",
+      "range": "325",
+      "maxrank": 5,
+      "image": "CamilleQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "战术横扫",
+      "description": "卡蜜尔在短暂延迟后引爆一个锥形范围，并造成伤害。外沿的敌人会被减速并且受到额外伤害，同时还会治疗卡蜜尔。",
+      "tooltip": "卡蜜尔蓄力然后切割，造成{{ basedamagetotal }}物理伤害。被外沿命中的敌人会被减速{{ slowpercentage }}%，减速效果会在{{ slowduration }}秒里持续衰减，并会受到额外的{{ outeredgetooltip }}最大生命值的物理伤害。卡蜜尔会回复对敌方英雄们的{{ outerconehealingratio }}%实际额外伤害值的生命值。",
+      "cooldown": "15/14/13/12/11",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "610",
+      "maxrank": 5,
+      "image": "CamilleW.png",
+      "key": "W"
+    },
+    {
+      "name": "钩索",
+      "description": "卡蜜尔将她自己拉向一个墙体，然后跳下并在落地时击飞敌方英雄。",
+      "tooltip": "卡蜜尔发射一个可附着在地形上的钩索，并将卡蜜尔拉到钩索处，并使此技能可以在1秒内再次施放。再次施放：卡蜜尔从墙体上进行冲刺，与命中的第一个敌方英雄进行碰撞。在着陆时，她获得持续 {{ asduration }}秒的{{ asbuff*100 }}%攻击速度，对附近的敌人们造成{{ totaldamage }}物理伤害，并对附近的敌方英雄们造成{{ knockupduration }}秒晕眩。朝着敌方英雄冲刺时，冲刺距离翻倍。",
+      "cooldown": "16/15/14/13/12",
+      "cost": "70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "800",
+      "maxrank": 5,
+      "image": "CamilleE.png",
+      "key": "E"
+    },
+    {
+      "name": "海克斯最后通牒",
+      "description": "卡蜜尔冲向目标英雄，并将该英雄锚定在区域中。她对目标英雄发起的普攻还会造成额外的魔法伤害。",
+      "tooltip": "卡蜜尔暂时变得无法被选取，并且跳向一个敌方英雄，打断引导状态并将该英雄锁定在一个区域内，并且该英雄怎样都无法逃出这个区域，持续{{ rduration }}秒。其它敌人会被震开。她的攻击会对目标敌人造成额外的{{ rpercentcurrenthpdamage }}%当前生命值的魔法伤害。",
+      "cooldown": "140/115/90",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "475",
+      "maxrank": 3,
+      "image": "CamilleR.png",
+      "key": "R"
+    }
+  ]
+}

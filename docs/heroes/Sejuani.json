@@ -1,0 +1,377 @@
+{
+  "id": "Sejuani",
+  "championId": "113",
+  "name": "北地之怒",
+  "title": "瑟庄妮",
+  "region": "弗雷尔卓德",
+  "blurb": "瑟庄妮是凛冬之爪部族的战母。继承了寒冰血脉的她残忍无情，带领的部族也是弗雷尔卓德土地上最令人闻风丧胆的。她的部族的生存，是一场旷日持久的、毫无希望的对抗元素之力的战斗，迫使他们劫掠诺克萨斯人、德玛西亚人，还有阿瓦罗萨部族等等，以便渡过残酷的凛冬。瑟庄妮在最危险的战斗中身先士卒，骑着居瓦斯克野猪“钢鬃”冲在最前方，用她臻冰打造的链枷让敌人粉身碎骨。",
+  "tags": [
+    "坦克"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 5,
+    "defense": 7,
+    "magic": 6,
+    "difficulty": 4
+  },
+  "stats": {
+    "hp": 630,
+    "hpPerLevel": 114,
+    "mp": 400,
+    "mpPerLevel": 40,
+    "movespeed": 340,
+    "armor": 34,
+    "armorPerLevel": 5.45,
+    "spellblock": 32,
+    "spellblockPerLevel": 2.05,
+    "attackrange": 150,
+    "attackdamage": 66,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.688,
+    "attackspeedPerLevel": 3.5,
+    "hpregen": 8.5,
+    "hpregenPerLevel": 1,
+    "mpregen": 7,
+    "mpregenPerLevel": 0.7,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "113001",
+      "name": "野兽女王 瑟庄妮",
+      "chromas": false
+    },
+    {
+      "id": "113002",
+      "name": "死亡骑士 瑟庄妮",
+      "chromas": false
+    },
+    {
+      "id": "113003",
+      "name": "传统造型 瑟庄妮",
+      "chromas": false
+    },
+    {
+      "id": "113004",
+      "name": "战熊骑士 瑟庄妮",
+      "chromas": false
+    },
+    {
+      "id": "113005",
+      "name": "魄罗骑士 瑟庄妮",
+      "chromas": true
+    },
+    {
+      "id": "113006",
+      "name": "野兽猎人 瑟庄妮",
+      "chromas": false
+    },
+    {
+      "id": "113007",
+      "name": "瑟庄妮·逐晓者",
+      "chromas": false
+    },
+    {
+      "id": "113008",
+      "name": "金猪烈焰 瑟庄妮",
+      "chromas": true
+    },
+    {
+      "id": "113009",
+      "name": "金猪烈焰 瑟庄妮 贺喜",
+      "chromas": false
+    },
+    {
+      "id": "113010",
+      "name": "金猪烈焰 瑟庄妮 鸣竹",
+      "chromas": false
+    },
+    {
+      "id": "113011",
+      "name": "金猪烈焰 瑟庄妮 春河",
+      "chromas": false
+    },
+    {
+      "id": "113012",
+      "name": "金猪烈焰 瑟庄妮 桃灯",
+      "chromas": false
+    },
+    {
+      "id": "113013",
+      "name": "金猪烈焰 瑟庄妮 除岁",
+      "chromas": false
+    },
+    {
+      "id": "113014",
+      "name": "金猪烈焰 瑟庄妮 元灯",
+      "chromas": false
+    },
+    {
+      "id": "113015",
+      "name": "海克斯科技 瑟庄妮",
+      "chromas": false
+    },
+    {
+      "id": "113016",
+      "name": "源计划：统帅 瑟庄妮",
+      "chromas": true
+    },
+    {
+      "id": "113017",
+      "name": "源计划：统帅 瑟庄妮 裂变",
+      "chromas": false
+    },
+    {
+      "id": "113018",
+      "name": "源计划：统帅 瑟庄妮 震击",
+      "chromas": false
+    },
+    {
+      "id": "113019",
+      "name": "源计划：统帅 瑟庄妮 默化",
+      "chromas": false
+    },
+    {
+      "id": "113020",
+      "name": "源计划：统帅 瑟庄妮 地覆",
+      "chromas": false
+    },
+    {
+      "id": "113021",
+      "name": "源计划：统帅 瑟庄妮 暴走",
+      "chromas": false
+    },
+    {
+      "id": "113022",
+      "name": "源计划：统帅 瑟庄妮 幻灭",
+      "chromas": false
+    },
+    {
+      "id": "113023",
+      "name": "源计划：统帅 瑟庄妮 雪崩",
+      "chromas": false
+    },
+    {
+      "id": "113024",
+      "name": "源计划：统帅 瑟庄妮 燎原",
+      "chromas": false
+    },
+    {
+      "id": "113025",
+      "name": "源计划：统帅 瑟庄妮 惩戒",
+      "chromas": false
+    },
+    {
+      "id": "113026",
+      "name": "日蚀骑士 瑟庄妮",
+      "chromas": true
+    },
+    {
+      "id": "113027",
+      "name": "金猪烈焰 瑟庄妮 玉虎呈祥",
+      "chromas": false
+    },
+    {
+      "id": "113028",
+      "name": "日蚀骑士 瑟庄妮 英勇",
+      "chromas": false
+    },
+    {
+      "id": "113029",
+      "name": "日蚀骑士 瑟庄妮 公正",
+      "chromas": false
+    },
+    {
+      "id": "113030",
+      "name": "日蚀骑士 瑟庄妮 灵性",
+      "chromas": false
+    },
+    {
+      "id": "113031",
+      "name": "日蚀骑士 瑟庄妮 谦卑",
+      "chromas": false
+    },
+    {
+      "id": "113032",
+      "name": "日蚀骑士 瑟庄妮 牺牲",
+      "chromas": false
+    },
+    {
+      "id": "113033",
+      "name": "日蚀骑士 瑟庄妮 浪漫",
+      "chromas": false
+    },
+    {
+      "id": "113034",
+      "name": "日蚀骑士 瑟庄妮 无私",
+      "chromas": false
+    },
+    {
+      "id": "113035",
+      "name": "日蚀骑士 瑟庄妮 无畏",
+      "chromas": false
+    },
+    {
+      "id": "113036",
+      "name": "胜利女神 瑟庄妮",
+      "chromas": true
+    },
+    {
+      "id": "113037",
+      "name": "胜利女神 瑟庄妮 单排/双排 华贵铂金",
+      "chromas": false
+    },
+    {
+      "id": "113038",
+      "name": "胜利女神 瑟庄妮 单排/双排 璀璨钻石",
+      "chromas": false
+    },
+    {
+      "id": "113039",
+      "name": "胜利女神 瑟庄妮 单排/双排 超凡大师",
+      "chromas": false
+    },
+    {
+      "id": "113040",
+      "name": "胜利女神 瑟庄妮 单排/双排 傲世宗师",
+      "chromas": false
+    },
+    {
+      "id": "113041",
+      "name": "胜利女神 瑟庄妮 单排/双排 最强王者",
+      "chromas": false
+    },
+    {
+      "id": "113042",
+      "name": "胜利女神 瑟庄妮 灵活排位 华贵铂金",
+      "chromas": false
+    },
+    {
+      "id": "113043",
+      "name": "胜利女神 瑟庄妮 灵活排位 璀璨钻石",
+      "chromas": false
+    },
+    {
+      "id": "113044",
+      "name": "胜利女神 瑟庄妮 灵活排位 超凡大师",
+      "chromas": false
+    },
+    {
+      "id": "113045",
+      "name": "胜利女神 瑟庄妮 灵活排位 傲世宗师",
+      "chromas": false
+    },
+    {
+      "id": "113046",
+      "name": "胜利女神 瑟庄妮 灵活排位 最强王者",
+      "chromas": false
+    },
+    {
+      "id": "113047",
+      "name": "无畏骑士 瑟庄妮 赤子初心",
+      "chromas": false
+    },
+    {
+      "id": "113048",
+      "name": "哈巴狗训练师 瑟庄妮",
+      "chromas": true
+    },
+    {
+      "id": "113049",
+      "name": "哈巴狗训练师 瑟庄妮 曾经叠钢现在训狗",
+      "chromas": false
+    },
+    {
+      "id": "113050",
+      "name": "哈巴狗训练师 瑟庄妮 曾经空大现在训狗",
+      "chromas": false
+    },
+    {
+      "id": "113051",
+      "name": "哈巴狗训练师 瑟庄妮 曾经抓边现在训狗",
+      "chromas": false
+    },
+    {
+      "id": "113052",
+      "name": "哈巴狗训练师 瑟庄妮 曾经骑箭现在训狗",
+      "chromas": false
+    },
+    {
+      "id": "113053",
+      "name": "哈巴狗训练师 瑟庄妮 曾经骑猪现在训狗",
+      "chromas": false
+    },
+    {
+      "id": "113054",
+      "name": "哈巴狗训练师 瑟庄妮 曾经反野现在训狗",
+      "chromas": false
+    },
+    {
+      "id": "113055",
+      "name": "哈巴狗训练师 瑟庄妮 曾经抢龙现在训狗",
+      "chromas": false
+    },
+    {
+      "id": "113056",
+      "name": "哈巴狗训练师 瑟庄妮 曾经打野现在训狗",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "北地之怒",
+    "description": "在脱离战斗后，瑟庄妮会获得冰霜护甲，冰川护甲可提供护甲、魔法抗性和免疫减速。当瑟庄妮受到伤害后，冰霜护甲会存留一小段时间。瑟庄妮可以伤害一名被晕眩的敌人来击碎它，从而造成巨量魔法伤害。",
+    "image": "Sejuani_passive.png"
+  },
+  "spells": [
+    {
+      "name": "极寒突袭",
+      "description": "瑟庄妮向前冲锋，将敌人击飞至空中。冲锋会在命中一名敌方英雄后停止。",
+      "tooltip": "瑟庄妮冲锋，对敌人造成{{ totaldamagetooltip }}魔法伤害并击飞敌人{{ e4 }}秒。冲锋会在命中一名敌方英雄后停止。",
+      "cooldown": "18/16.5/15/13.5/12",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "650",
+      "maxrank": 5,
+      "image": "SejuaniQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "凛冬之怒",
+      "description": "瑟庄妮两次挥舞她的链枷，造成伤害、减速敌人并施加霜冻层数。",
+      "tooltip": "瑟庄妮挥击她的链枷，造成{{ firsthitdamagetooltip }}物理伤害并击退小兵和野怪。然后她会再次挥击，造成{{ secondhitdamagetooltip }}物理伤害并暂时减速目标。两段挥击都会施加永冻效果。",
+      "cooldown": "9/8/7/6/5",
+      "cost": "60",
+      "costType": " {{ abilityresourcename }}",
+      "range": "600",
+      "maxrank": 5,
+      "image": "SejuaniW.png",
+      "key": "W"
+    },
+    {
+      "name": "永冻领域",
+      "description": "瑟庄妮冻结并晕眩一名叠满了霜冻层数的敌方英雄。",
+      "tooltip": "被动：附近近战友方英雄的攻击会对英雄和野怪施加一层效果。主动：瑟庄妮对带有4层此效果的目标敌人造成{{ totaldamage }}魔法伤害并使其晕眩{{ e1 }}秒。",
+      "cooldown": "1.5",
+      "cost": "20",
+      "costType": " {{ abilityresourcename }}",
+      "range": "560",
+      "maxrank": 5,
+      "image": "SejuaniE.png",
+      "key": "E"
+    },
+    {
+      "name": "极冰寒狱",
+      "description": "瑟庄妮投出她的套索来冻结并击晕命中的第一名敌方英雄，并创造一次冰风暴来减速其它敌人。",
+      "tooltip": "瑟庄妮扔出她的极冰套索，晕眩并显形命中的第一个敌方英雄{{ e2 }}秒并造成{{ minordamagetooltip }}魔法伤害。如果套索飞行了至少25%的最大距离，那么它会晕眩并显形{{ e6 }}秒。它还会生成一团冰风暴来使目标附近的敌人减速{{ e4 }}%，持续{{ e3 }}秒。所有受影响的敌人都会受到{{ totaldamagetooltip }}魔法伤害。",
+      "cooldown": "120/105/90",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1300",
+      "maxrank": 3,
+      "image": "SejuaniR.png",
+      "key": "R"
+    }
+  ]
+}

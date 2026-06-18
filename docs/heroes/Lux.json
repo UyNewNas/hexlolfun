@@ -1,0 +1,498 @@
+{
+  "id": "Lux",
+  "championId": "99",
+  "name": "光辉女郎",
+  "title": "拉克丝",
+  "region": "德玛西亚",
+  "blurb": "拉克丝全名拉克珊娜·冕卫，出身自德玛西亚颇有声望的冕卫家族。德玛西亚是一个将魔法视为禁忌的封闭国度，只要提及魔法，人们总是带着恐惧和怀疑。因此，拥有折光之力的拉克丝，在整个童年的成长过程中都担心被人发现而遭放逐，她一直强迫自己隐瞒力量，以保住家族的贵族地位。即便如此，拉克丝的乐观和顽强还是让她学会了拥抱自己独特的天赋。现在，她在暗地中使用这份能力为王国效力。",
+  "tags": [
+    "法师",
+    "辅助"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 2,
+    "defense": 4,
+    "magic": 9,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 580,
+    "hpPerLevel": 99,
+    "mp": 440,
+    "mpPerLevel": 23.5,
+    "movespeed": 330,
+    "armor": 21,
+    "armorPerLevel": 5.2,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 550,
+    "attackdamage": 54,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.669,
+    "attackspeedPerLevel": 3,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 9,
+    "mpregenPerLevel": 0.8,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "99001",
+      "name": "奥术光辉 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99002",
+      "name": "游侠法师 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99003",
+      "name": "ODST地狱伞兵 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99004",
+      "name": "星际迷航 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99005",
+      "name": "钢铁军团 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99006",
+      "name": "星之守护者 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99007",
+      "name": "大元素使 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99008",
+      "name": "春晖神女 拉克丝",
+      "chromas": true
+    },
+    {
+      "id": "99009",
+      "name": "春晖神女 拉克丝 玉露金风",
+      "chromas": false
+    },
+    {
+      "id": "99010",
+      "name": "春晖神女 拉克丝 倾城碧色",
+      "chromas": false
+    },
+    {
+      "id": "99011",
+      "name": "春晖神女 拉克丝 轻云蔽月",
+      "chromas": false
+    },
+    {
+      "id": "99012",
+      "name": "春晖神女 拉克丝 流风回雪",
+      "chromas": false
+    },
+    {
+      "id": "99013",
+      "name": "春晖神女 拉克丝 空谷幽兰",
+      "chromas": false
+    },
+    {
+      "id": "99014",
+      "name": "睡衣守护者 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99015",
+      "name": "战斗学院 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99016",
+      "name": "至臻 战斗学院 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99017",
+      "name": "暗星女王 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99018",
+      "name": "耀星女神 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99019",
+      "name": "太空律动 “闪耀灯球” 拉克丝",
+      "chromas": true
+    },
+    {
+      "id": "99020",
+      "name": "“闪耀灯球” 拉克丝 我又开团了",
+      "chromas": false
+    },
+    {
+      "id": "99021",
+      "name": "“闪耀灯球” 拉克丝 我又游走了",
+      "chromas": false
+    },
+    {
+      "id": "99022",
+      "name": "“闪耀灯球” 拉克丝 我又补车了",
+      "chromas": false
+    },
+    {
+      "id": "99023",
+      "name": "“闪耀灯球” 拉克丝 我又回城了",
+      "chromas": false
+    },
+    {
+      "id": "99024",
+      "name": "“闪耀灯球” 拉克丝 我又探草了",
+      "chromas": false
+    },
+    {
+      "id": "99025",
+      "name": "“闪耀灯球” 拉克丝 我又越塔了",
+      "chromas": false
+    },
+    {
+      "id": "99026",
+      "name": "“闪耀灯球” 拉克丝 我又走错了",
+      "chromas": false
+    },
+    {
+      "id": "99027",
+      "name": "“闪耀灯球” 拉克丝 我又大意了",
+      "chromas": false
+    },
+    {
+      "id": "99028",
+      "name": "“闪耀灯球” 拉克丝 我又发呆了",
+      "chromas": false
+    },
+    {
+      "id": "99029",
+      "name": "青花瓷 拉克丝",
+      "chromas": true
+    },
+    {
+      "id": "99030",
+      "name": "青花瓷 拉克丝 牡丹",
+      "chromas": false
+    },
+    {
+      "id": "99031",
+      "name": "青花瓷 拉克丝 烟雨",
+      "chromas": false
+    },
+    {
+      "id": "99032",
+      "name": "青花瓷 拉克丝 含苞",
+      "chromas": false
+    },
+    {
+      "id": "99033",
+      "name": "青花瓷 拉克丝 檀香",
+      "chromas": false
+    },
+    {
+      "id": "99034",
+      "name": "青花瓷 拉克丝 釉色",
+      "chromas": false
+    },
+    {
+      "id": "99035",
+      "name": "青花瓷 拉克丝 墨色",
+      "chromas": false
+    },
+    {
+      "id": "99036",
+      "name": "青花瓷 拉克丝 芭蕉",
+      "chromas": false
+    },
+    {
+      "id": "99037",
+      "name": "青花瓷 拉克丝 月色",
+      "chromas": false
+    },
+    {
+      "id": "99038",
+      "name": "斗魂觉醒 拉克丝",
+      "chromas": true
+    },
+    {
+      "id": "99039",
+      "name": "至臻 战斗学院 拉克丝 (2022)",
+      "chromas": false
+    },
+    {
+      "id": "99040",
+      "name": "至臻 青花瓷 拉克丝",
+      "chromas": false
+    },
+    {
+      "id": "99041",
+      "name": "青花瓷 拉克丝 天青",
+      "chromas": false
+    },
+    {
+      "id": "99042",
+      "name": "至高天 拉克丝",
+      "chromas": true
+    },
+    {
+      "id": "99043",
+      "name": "至高天 拉克丝 狂焰",
+      "chromas": false
+    },
+    {
+      "id": "99044",
+      "name": "至高天 拉克丝 幻耀",
+      "chromas": false
+    },
+    {
+      "id": "99045",
+      "name": "至高天 拉克丝 华耀",
+      "chromas": false
+    },
+    {
+      "id": "99046",
+      "name": "至高天 拉克丝 青炬",
+      "chromas": false
+    },
+    {
+      "id": "99047",
+      "name": "至高天 拉克丝 寒芒",
+      "chromas": false
+    },
+    {
+      "id": "99048",
+      "name": "至高天 拉克丝 荧煌",
+      "chromas": false
+    },
+    {
+      "id": "99049",
+      "name": "至高天 拉克丝 胧光",
+      "chromas": false
+    },
+    {
+      "id": "99050",
+      "name": "至高天 拉克丝 苍黯",
+      "chromas": false
+    },
+    {
+      "id": "99051",
+      "name": "至高天 拉克丝 霓虹耀斑",
+      "chromas": false
+    },
+    {
+      "id": "99052",
+      "name": "斗魂觉醒 拉克丝 烈之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "99053",
+      "name": "斗魂觉醒 拉克丝 澄之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "99054",
+      "name": "斗魂觉醒 拉克丝 飒之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "99055",
+      "name": "斗魂觉醒 拉克丝 韧之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "99056",
+      "name": "斗魂觉醒 拉克丝 幻之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "99057",
+      "name": "斗魂觉醒 拉克丝 魅之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "99058",
+      "name": "斗魂觉醒 拉克丝 幽之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "99059",
+      "name": "斗魂觉醒 拉克丝 毅之魂焰",
+      "chromas": false
+    },
+    {
+      "id": "99060",
+      "name": "斗魂觉醒 拉克丝 无限斗志",
+      "chromas": false
+    },
+    {
+      "id": "99061",
+      "name": "花仙子 拉克丝",
+      "chromas": true
+    },
+    {
+      "id": "99062",
+      "name": "花仙子 拉克丝 红漪",
+      "chromas": false
+    },
+    {
+      "id": "99063",
+      "name": "花仙子 拉克丝 玫瑰水晶眼",
+      "chromas": false
+    },
+    {
+      "id": "99064",
+      "name": "花仙子 拉克丝 翠蓝",
+      "chromas": false
+    },
+    {
+      "id": "99065",
+      "name": "花仙子 拉克丝 荧光裳",
+      "chromas": false
+    },
+    {
+      "id": "99066",
+      "name": "花仙子 拉克丝 琉璃翠",
+      "chromas": false
+    },
+    {
+      "id": "99067",
+      "name": "花仙子 拉克丝 蓝闪",
+      "chromas": false
+    },
+    {
+      "id": "99068",
+      "name": "花仙子 拉克丝 纹白",
+      "chromas": false
+    },
+    {
+      "id": "99069",
+      "name": "花仙子 拉克丝 樟青",
+      "chromas": false
+    },
+    {
+      "id": "99070",
+      "name": "至臻 灵魂莲华 拉克丝",
+      "chromas": true
+    },
+    {
+      "id": "99071",
+      "name": "至臻 灵魂莲华 拉克丝 绽灵",
+      "chromas": false
+    },
+    {
+      "id": "99072",
+      "name": "熊猫娃娃 拉克丝",
+      "chromas": true
+    },
+    {
+      "id": "99073",
+      "name": "熊猫娃娃 拉克丝 火锅姑娘",
+      "chromas": false
+    },
+    {
+      "id": "99074",
+      "name": "熊猫娃娃 拉克丝 青城山仙子",
+      "chromas": false
+    },
+    {
+      "id": "99075",
+      "name": "熊猫娃娃 拉克丝 蜀绣佳人",
+      "chromas": false
+    },
+    {
+      "id": "99076",
+      "name": "熊猫娃娃 拉克丝 瑶池金辉",
+      "chromas": false
+    },
+    {
+      "id": "99077",
+      "name": "熊猫娃娃 拉克丝 银花丝匠",
+      "chromas": false
+    },
+    {
+      "id": "99078",
+      "name": "熊猫娃娃 拉克丝 水袖凝云",
+      "chromas": false
+    },
+    {
+      "id": "99079",
+      "name": "熊猫娃娃 拉克丝 麻将才女",
+      "chromas": false
+    },
+    {
+      "id": "99080",
+      "name": "熊猫娃娃 拉克丝 墨韵流光",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "光芒四射",
+    "description": "拉克丝的伤害类技能会对敌人施加【启明】效果，持续若干秒。拉克丝的下一次攻击将会消耗【启明】效果，来对目标造成额外魔法伤害（基于拉克丝等级）。",
+    "image": "LuxIlluminatingFraulein.png"
+  },
+  "spells": [
+    {
+      "name": "光之束缚",
+      "description": "拉克丝释放一个光球，束缚并伤害最多两个敌方单位。",
+      "tooltip": "拉克丝朝目标地点发射一团光球，束缚前2名敌人{{ rootduration }}秒并对每个敌人造{{ totaldamagett }}魔法伤害。",
+      "cooldown": "10",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1175",
+      "maxrank": 5,
+      "image": "LuxLightBinding.png",
+      "key": "Q"
+    },
+    {
+      "name": "曲光屏障",
+      "description": "拉克丝掷出她的魔杖，魔杖所触及的友方单位会有光环环绕，保护他们免受敌方伤害。",
+      "tooltip": "拉克丝扔出她的魔杖，为它途经的友军提供持续{{ shieldduration }}秒的{{ totalshieldtt }}护盾。随后它会折返，为它途经的友军提供等额的护盾。",
+      "cooldown": "12/11.5/11/10.5/10",
+      "cost": "60/65/70/75/80",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1150",
+      "maxrank": 5,
+      "image": "LuxPrismaticWave.png",
+      "key": "W"
+    },
+    {
+      "name": "透光奇点",
+      "description": "朝一个区域发射一个不规则的扭曲之光，减速附近敌人。拉克丝可以引爆它，对敌人造成区域性伤害。",
+      "tooltip": "拉克丝创造一个光明地带，显形该区域并使区域中的敌人减速{{ slowpercent }}%。在{{ slowzoneduration }}秒后或再次施放这个技能后，它会爆炸，造成{{ totaldamagett }}魔法伤害并减速额外的{{ slowlingerduration }}秒。",
+      "cooldown": "10/9.5/9/8.5/8",
+      "cost": "70/80/90/100/110",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1100",
+      "maxrank": 5,
+      "image": "LuxLightStrikeKugel.png",
+      "key": "E"
+    },
+    {
+      "name": "终极闪光",
+      "description": "在积蓄能量之后，拉克丝发射一束光波，对该区域所有目标造成伤害。此外，该技能触发拉克丝的被动技能并刷新光芒四射减益的持续时间。",
+      "tooltip": "拉克丝发射一束耀目的光能射线，对一条直线上的所有敌人造成{{ totaldamage }}魔法伤害。",
+      "cooldown": "60/50/40",
+      "cost": "100",
+      "costType": " {{ abilityresourcename }}",
+      "range": "3340",
+      "maxrank": 3,
+      "image": "LuxR.png",
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "id": "Quinn",
+  "championId": "133",
+  "name": "德玛西亚之翼",
+  "title": "奎因",
+  "region": "德玛西亚",
+  "blurb": "奎因是德玛西亚的游骑兵精锐，经常深入敌国腹地执行危险的任务，她和她的传奇巨鹰华洛之间存在着一种牢不可破的纽带。很多时候，他们的对手死到临头也没意识到，自己面对着的这位德玛西亚英雄，并不是在孤军奋战。战斗中的奎因灵巧敏捷，十字弓例无虚发，而华洛则会从空中标记隐蔽的敌人。两者之间默契的配合造就了战场上一对致命凶狠的搭档。",
+  "tags": [
+    "射手",
+    "刺客"
+  ],
+  "partype": "法力",
+  "info": {
+    "attack": 9,
+    "defense": 4,
+    "magic": 2,
+    "difficulty": 5
+  },
+  "stats": {
+    "hp": 565,
+    "hpPerLevel": 107,
+    "mp": 269,
+    "mpPerLevel": 35,
+    "movespeed": 330,
+    "armor": 28,
+    "armorPerLevel": 4.7,
+    "spellblock": 30,
+    "spellblockPerLevel": 1.3,
+    "attackrange": 525,
+    "attackdamage": 59,
+    "attackdamagePerLevel": 0,
+    "attackspeed": 0.668,
+    "attackspeedPerLevel": 3.1,
+    "hpregen": 5.5,
+    "hpregenPerLevel": 0.55,
+    "mpregen": 7,
+    "mpregenPerLevel": 0.4,
+    "crit": 0,
+    "critPerLevel": 0
+  },
+  "skins": [
+    {
+      "id": "133001",
+      "name": "血羽凤凰 奎因",
+      "chromas": false
+    },
+    {
+      "id": "133002",
+      "name": "勇敢的心 奎因",
+      "chromas": false
+    },
+    {
+      "id": "133003",
+      "name": "死亡之鹰 奎因",
+      "chromas": false
+    },
+    {
+      "id": "133004",
+      "name": "觅心之翼 奎因",
+      "chromas": false
+    },
+    {
+      "id": "133005",
+      "name": "光明骑士 奎因",
+      "chromas": true
+    },
+    {
+      "id": "133006",
+      "name": "光明骑士 奎因 自信守望者",
+      "chromas": false
+    },
+    {
+      "id": "133007",
+      "name": "光明骑士 奎因 理智守望者",
+      "chromas": false
+    },
+    {
+      "id": "133008",
+      "name": "光明骑士 奎因 浪漫守望者",
+      "chromas": false
+    },
+    {
+      "id": "133009",
+      "name": "光明骑士 奎因 热血守望者",
+      "chromas": false
+    },
+    {
+      "id": "133010",
+      "name": "光明骑士 奎因 理想守望者",
+      "chromas": false
+    },
+    {
+      "id": "133011",
+      "name": "光明骑士 奎因 诡秘守望者",
+      "chromas": false
+    },
+    {
+      "id": "133012",
+      "name": "光明骑士 奎因 光明守望者",
+      "chromas": false
+    },
+    {
+      "id": "133013",
+      "name": "光明骑士 奎因 生命守望者",
+      "chromas": false
+    },
+    {
+      "id": "133014",
+      "name": "星之守护者 奎因",
+      "chromas": true
+    },
+    {
+      "id": "133015",
+      "name": "星之守护者 奎因 热情之光",
+      "chromas": false
+    },
+    {
+      "id": "133016",
+      "name": "星之守护者 奎因 爱之光",
+      "chromas": false
+    },
+    {
+      "id": "133017",
+      "name": "星之守护者 奎因 勇气之光",
+      "chromas": false
+    },
+    {
+      "id": "133018",
+      "name": "星之守护者 奎因 拥抱之光",
+      "chromas": false
+    },
+    {
+      "id": "133019",
+      "name": "星之守护者 奎因 智慧之光",
+      "chromas": false
+    },
+    {
+      "id": "133020",
+      "name": "星之守护者 奎因 未来之光",
+      "chromas": false
+    },
+    {
+      "id": "133021",
+      "name": "星之守护者 奎因 正义之光",
+      "chromas": false
+    },
+    {
+      "id": "133022",
+      "name": "星之守护者 奎因 守护之光",
+      "chromas": false
+    },
+    {
+      "id": "133023",
+      "name": "星之守护者 奎因 希望之光",
+      "chromas": false
+    },
+    {
+      "id": "133024",
+      "name": "源计划：鹰眼 奎因",
+      "chromas": true
+    },
+    {
+      "id": "133025",
+      "name": "源计划：鹰眼 奎因 裂变",
+      "chromas": false
+    },
+    {
+      "id": "133026",
+      "name": "源计划：鹰眼 奎因 震击",
+      "chromas": false
+    },
+    {
+      "id": "133027",
+      "name": "源计划：鹰眼 奎因 失控",
+      "chromas": false
+    },
+    {
+      "id": "133028",
+      "name": "源计划：鹰眼 奎因 冥火",
+      "chromas": false
+    },
+    {
+      "id": "133029",
+      "name": "源计划：鹰眼 奎因 地覆",
+      "chromas": false
+    },
+    {
+      "id": "133030",
+      "name": "源计划：鹰眼 奎因 幻灭",
+      "chromas": false
+    },
+    {
+      "id": "133031",
+      "name": "源计划：鹰眼 奎因 燎原",
+      "chromas": false
+    },
+    {
+      "id": "133032",
+      "name": "源计划：鹰眼 奎因 雪崩",
+      "chromas": false
+    }
+  ],
+  "passive": {
+    "name": "侵扰",
+    "description": "华洛，奎因的德玛西亚鹰，会周期性地将敌人标记为易损状态。奎因对易损目标的第一次普通攻击将造成额外物理伤害。",
+    "image": "Quinn_Passive.png"
+  },
+  "spells": [
+    {
+      "name": "炫目攻势",
+      "description": "奎因唤出华洛，来标记一名敌人并遮蔽其视野，然后对目标附近区域内的所有敌人造成伤害。",
+      "tooltip": "奎因命令华洛进行俯冲，将命中的第一个敌人标记为易损、降低其视野半径{{ visionreductionduration }}秒并对所有周围的敌人们造成{{ totaldamage }}物理伤害。如果命中的第一个敌人不是英雄，那么该敌人会还会被缴械{{ visionreductionduration }}秒。",
+      "cooldown": "11/10.5/10/9.5/9",
+      "cost": "50/55/60/65/70",
+      "costType": " {{ abilityresourcename }}",
+      "range": "1025",
+      "maxrank": 5,
+      "image": "QuinnQ.png",
+      "key": "Q"
+    },
+    {
+      "name": "敏锐感知",
+      "description": "在奎因攻击了一名易损目标后，被动地为奎因提供攻击速度和移动速度加成。主动激活可以让华洛驱散周围一大片区域的战争迷雾。",
+      "tooltip": "被动：攻击一名易损目标会为奎因提供{{ attackspeedbonus*100 }}%攻击速度和{{ movespeedamount*100 }}%移动速度，持续{{ buffduration }}秒。主动：华洛显形附近的一大片区域，持续{{ visionduration }}秒。",
+      "cooldown": "50/45/40/35/30",
+      "cost": "0",
+      "costType": "无消耗",
+      "range": "2100",
+      "maxrank": 5,
+      "image": "QuinnW.png",
+      "key": "W"
+    },
+    {
+      "name": "旋翔掠杀",
+      "description": "奎因冲向一名敌人，造成物理伤害，并减少目标的移动速度。在接触到目标的同时，她会向后空翻，暂时打断目标的行动，并在接近她最大攻击距离的地方着陆。",
+      "tooltip": "奎因冲刺向一名敌人，造成{{ totaldamage }}物理伤害并将其标记为易损状态。奎因随后会从目标处向后跳开，将其击退并对其造成在{{ slowdecaytime }}秒里持续衰减的{{ slowamount*100 }}%减速。",
+      "cooldown": "12/11/10/9/8",
+      "cost": "50",
+      "costType": " {{ abilityresourcename }}",
+      "range": "675",
+      "maxrank": 5,
+      "image": "QuinnE.png",
+      "key": "E"
+    },
+    {
+      "name": "深入敌后",
+      "description": "奎因和华洛联成一体并以极高的速度进行移动。在结束此技能时会施放【鹰翼天翔】，对附近的敌人造成伤害并对英雄施加易损效果。",
+      "tooltip": "奎因召唤华洛，在引导2秒后进行合体，获得{{ movementspeedmod*100 }}%移动速度并允许她再次施放这个技能。攻击或使用炫目攻势或旋翔掠杀都会自动地再次施放这个技能。再次施放：奎因和华洛表演一次空中特技，造成{{ damage }}物理伤害、将英雄们标记为易损并结束这个技能。",
+      "cooldown": "3",
+      "cost": "50/25/0",
+      "costType": " {{ abilityresourcename }}",
+      "range": "700",
+      "maxrank": 3,
+      "image": "QuinnR.png",
+      "key": "R"
+    }
+  ]
+}
