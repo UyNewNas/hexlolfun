@@ -89,6 +89,7 @@ class Champion {
 
     this.team = team;
     this.ai_difficulty = aiDifficulty;
+    // 玩家和友方AI从外塔出发；敌方AI从外塔出发（开局对峙不贴脸）
     this.position = team === 'blue' ? BL_OUTER_T : RD_OUTER_T;
 
     this.level = 1;
@@ -270,12 +271,22 @@ class Game {
 
     // 玩家
     this.player = new Champion(playerId, 'blue', '');
-    // 友方AI
+    // 友方AI - 分散在外塔和内塔之间（模仿真实对线站位）
     const allyIds = ['Garen', 'Lux', 'MasterYi', 'Annie'];
-    this.ally_ai = allyIds.map(id => new Champion(id, 'blue', allyDiff));
-    // 敌方AI
+    const allyStartPos = [BL_OUTER_T, BL_INHIB, BL_OUTER_T, BL_INNER_T];
+    this.ally_ai = allyIds.map((id, i) => {
+      const c = new Champion(id, 'blue', allyDiff);
+      c.position = allyStartPos[i];
+      return c;
+    });
+    // 敌方AI - 分散在红方外塔和内塔
     const enemyIds = ['Darius', 'Ahri', 'Zed', 'Jinx', 'Leona'];
-    this.enemy_ai = enemyIds.map(id => new Champion(id, 'red', enemyDiff));
+    const enemyStartPos = [RD_OUTER_T, RD_OUTER_T, RD_INNER_T, RD_INHIB, RD_OUTER_T];
+    this.enemy_ai = enemyIds.map((id, i) => {
+      const c = new Champion(id, 'red', enemyDiff);
+      c.position = enemyStartPos[i];
+      return c;
+    });
 
     this.blue_team = new Team('blue', [this.player, ...this.ally_ai]);
     this.red_team = new Team('red', this.enemy_ai);

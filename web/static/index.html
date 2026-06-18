@@ -3,17 +3,224 @@
 <head>
 <meta charset="UTF-8">
 <title>海克斯大乱斗 5v5 文字版</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=3">
 </head>
 <body class="bg-launch">
 <div class="launch-screen">
   <h1 class="title-glow">海克斯大乱斗</h1>
   <h2 class="subtitle">ARAM · MAYHEM · 文字版</h2>
   <p class="version">v1.0 · 26.12</p>
-  <div class="launch-buttons">
-    <a class="btn-primary" href="champselect.html">开始游戏</a>
-  </div>
+
+  <nav class="main-menu">
+    <button class="menu-btn" onclick="goStart()">▶ 开始游戏</button>
+    <button class="menu-btn" onclick="openSettings()">⚙ 设置</button>
+    <button class="menu-btn" onclick="openProfile()">📂 查看档案</button>
+    <button class="menu-btn" onclick="exitGame()">⏏ 退出游戏</button>
+  </nav>
+
   <p class="footer-tip">选择英雄 · 推掉外塔 · 选择海克斯 · 摧毁基地</p>
 </div>
+
+<!-- 设置面板 -->
+<div id="settings-modal" class="modal hidden">
+  <div class="modal-content settings-content">
+    <h2>⚙ 设置</h2>
+
+    <div class="settings-section">
+      <label class="settings-label">海克斯版本</label>
+      <div class="version-tabs">
+        <button class="version-tab" data-version="1.0" onclick="setHexVersion('1.0', this)">1.0 经典</button>
+        <button class="version-tab" data-version="2.0" onclick="setHexVersion('2.0', this)">2.0 强化</button>
+        <button class="version-tab" data-version="3.0" onclick="setHexVersion('3.0', this)">3.0 终极</button>
+      </div>
+      <p class="settings-hint" id="version-hint">选择 1.0 经典版海克斯池</p>
+    </div>
+
+    <div class="settings-section">
+      <label class="settings-label">游戏速度</label>
+      <div class="difficulty-tabs">
+        <button class="diff-tab" data-speed="slow" onclick="setSpeed('slow', this)">慢速</button>
+        <button class="diff-tab active" data-speed="normal" onclick="setSpeed('normal', this)">普通</button>
+        <button class="diff-tab" data-speed="fast" onclick="setSpeed('fast', this)">快速</button>
+      </div>
+    </div>
+
+    <div class="settings-section">
+      <label class="settings-label">默认难度</label>
+      <div class="difficulty-tabs">
+        <button class="diff-tab" data-diff="easy" onclick="setDefaultDiff('easy', this)">简单</button>
+        <button class="diff-tab active" data-diff="medium" onclick="setDefaultDiff('medium', this)">中等</button>
+        <button class="diff-tab" data-diff="hard" onclick="setDefaultDiff('hard', this)">困难</button>
+        <button class="diff-tab" data-diff="expert" onclick="setDefaultDiff('expert', this)">专家</button>
+      </div>
+    </div>
+
+    <div class="settings-section">
+      <label class="settings-label">
+        <input type="checkbox" id="setting-sound" checked> 启用音效
+      </label>
+      <label class="settings-label">
+        <input type="checkbox" id="setting-bush" checked> 显示草丛提示
+      </label>
+    </div>
+
+    <div class="settings-footer">
+      <button class="btn-primary" onclick="saveSettings()">保存</button>
+      <button class="btn-secondary" onclick="closeSettings()">取消</button>
+    </div>
+  </div>
+</div>
+
+<!-- 档案面板 -->
+<div id="profile-modal" class="modal hidden">
+  <div class="modal-content profile-content">
+    <h2>📂 玩家档案</h2>
+    <div id="profile-data" class="profile-data">
+      <p style="text-align:center;color:#888">暂无游戏记录</p>
+    </div>
+    <div class="settings-footer">
+      <button class="btn-secondary" onclick="closeProfile()">关闭</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const SETTINGS_KEY = 'hexlolfun_settings';
+const STATS_KEY = 'hexlolfun_stats';
+
+const DEFAULT_SETTINGS = {
+  hexVersion: '1.0',
+  gameSpeed: 'normal',
+  defaultDiff: 'medium',
+  sound: true,
+  showBush: true,
+};
+
+function loadSettings() {
+  try {
+    return Object.assign({}, DEFAULT_SETTINGS, JSON.parse(localStorage.getItem(SETTINGS_KEY) || '{}'));
+  } catch (e) {
+    return { ...DEFAULT_SETTINGS };
+  }
+}
+
+function saveSettingsToStorage(s) {
+  localStorage.setItem(SETTINGS_KEY, JSON.stringify(s));
+}
+
+let settings = loadSettings();
+
+function applySettingsToUI() {
+  document.querySelectorAll('.version-tab').forEach(b => {
+    b.classList.toggle('active', b.dataset.version === settings.hexVersion);
+  });
+  document.querySelectorAll('.diff-tab[data-speed]').forEach(b => {
+    b.classList.toggle('active', b.dataset.speed === settings.gameSpeed);
+  });
+  document.querySelectorAll('.diff-tab[data-diff]').forEach(b => {
+    b.classList.toggle('active', b.dataset.diff === settings.defaultDiff);
+  });
+  document.getElementById('setting-sound').checked = settings.sound;
+  document.getElementById('setting-bush').checked = settings.showBush;
+  updateVersionHint();
+}
+
+function updateVersionHint() {
+  const hints = {
+    '1.0': '1.0 经典版：原始海克斯池',
+    '2.0': '2.0 强化版：更多棱彩级海克斯',
+    '3.0': '3.0 终极版：满级海克斯获得双倍效果',
+  };
+  document.getElementById('version-hint').textContent = hints[settings.hexVersion] || '';
+}
+
+function setHexVersion(v, btn) {
+  settings.hexVersion = v;
+  document.querySelectorAll('.version-tab').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  updateVersionHint();
+}
+
+function setSpeed(s, btn) {
+  settings.gameSpeed = s;
+  document.querySelectorAll('.diff-tab[data-speed]').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+}
+
+function setDefaultDiff(d, btn) {
+  settings.defaultDiff = d;
+  document.querySelectorAll('.diff-tab[data-diff]').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+}
+
+function openSettings() {
+  applySettingsToUI();
+  document.getElementById('settings-modal').classList.remove('hidden');
+}
+
+function closeSettings() {
+  document.getElementById('settings-modal').classList.add('hidden');
+}
+
+function saveSettings() {
+  settings.sound = document.getElementById('setting-sound').checked;
+  settings.showBush = document.getElementById('setting-bush').checked;
+  saveSettingsToStorage(settings);
+  closeSettings();
+  alert('设置已保存！');
+}
+
+function openProfile() {
+  const stats = loadStats();
+  const data = document.getElementById('profile-data');
+  if (stats.games === 0) {
+    data.innerHTML = '<p style="text-align:center;color:#888">暂无游戏记录</p>';
+  } else {
+    data.innerHTML = `
+      <div class="profile-row"><span>总场次</span><b>${stats.games}</b></div>
+      <div class="profile-row"><span>胜场</span><b>${stats.wins}</b></div>
+      <div class="profile-row"><span>负场</span><b>${stats.losses}</b></div>
+      <div class="profile-row"><span>胜率</span><b>${(stats.wins / stats.games * 100).toFixed(1)}%</b></div>
+      <div class="profile-row"><span>总击杀</span><b>${stats.kills}</b></div>
+      <div class="profile-row"><span>总死亡</span><b>${stats.deaths}</b></div>
+      <div class="profile-row"><span>最爱英雄</span><b>${stats.favChamp || '—'}</b></div>
+    `;
+  }
+  document.getElementById('profile-modal').classList.remove('hidden');
+}
+
+function closeProfile() {
+  document.getElementById('profile-modal').classList.add('hidden');
+}
+
+function loadStats() {
+  try {
+    return JSON.parse(localStorage.getItem(STATS_KEY) || '{}');
+  } catch (e) {
+    return { games: 0, wins: 0, losses: 0, kills: 0, deaths: 0, favChamp: '' };
+  }
+}
+
+function goStart() {
+  // 把设置参数写入 sessionStorage 供后续页面读取
+  sessionStorage.setItem('hexlolfun_settings', JSON.stringify(settings));
+  location.href = 'champselect.html';
+}
+
+function exitGame() {
+  if (confirm('确定要退出游戏吗？')) {
+    window.close();
+    // 浏览器可能不允许 close，再给出提示
+    setTimeout(() => {
+      if (!document.webkitHidden) {
+        document.body.innerHTML = '<div style="color:#fff;text-align:center;padding-top:30vh;font-family:sans-serif"><h1>已退出</h1><p>感谢游玩《海克斯大乱斗》！</p></div>';
+      }
+    }, 200);
+  }
+}
+
+// 默认显示
+applySettingsToUI();
+</script>
 </body>
 </html>

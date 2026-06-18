@@ -37,12 +37,12 @@ function startLoading() {
   tip.textContent = TIPS[0];
 
   const interval = setInterval(() => {
-    progress += Math.random() * 5 + 2;
+    progress += Math.random() * 3 + 1.5;
     if (progress > 100) progress = 100;
     bar.style.width = progress + '%';
     pct.textContent = Math.floor(progress) + '%';
 
-    if (Math.random() < 0.25) {
+    if (Math.random() < 0.2) {
       tipIdx = (tipIdx + 1) % TIPS.length;
       tip.textContent = TIPS[tipIdx];
     }
@@ -51,12 +51,11 @@ function startLoading() {
       clearInterval(interval);
       setTimeout(() => {
         // 把游戏状态保存到 sessionStorage
-        const params = new URLSearchParams(location.search);
         sessionStorage.setItem('hexlolfun_params', location.search);
         window.location.href = 'game.html?' + location.search.substring(1);
-      }, 400);
+      }, 600);
     }
-  }, 150);
+  }, 200);
 }
 
 init();

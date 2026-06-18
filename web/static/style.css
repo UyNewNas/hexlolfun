@@ -36,7 +36,118 @@ html, body { height: 100%; font-family: "Microsoft YaHei", "Segoe UI", sans-seri
 .subtitle { color: #a09b8c; font-size: 1.5rem; margin-top: 1rem; letter-spacing: 0.3em; }
 .version { color: #5a5468; font-size: 0.9rem; margin-top: 2rem; }
 .launch-buttons { margin-top: 4rem; }
-.footer-tip { color: #5a5468; margin-top: 4rem; font-size: 0.85rem; }
+
+/* ============= 主菜单 ============= */
+.main-menu {
+  margin: 3rem auto 0;
+  display: flex; flex-direction: column; gap: 0.8rem;
+  width: 320px;
+}
+.menu-btn {
+  display: block; width: 100%;
+  padding: 1rem 1.5rem;
+  background: linear-gradient(135deg, rgba(200, 162, 90, 0.12), rgba(255, 70, 85, 0.08));
+  border: 1.5px solid var(--gold);
+  color: var(--text-primary);
+  font-size: 1.1rem; font-weight: 600;
+  letter-spacing: 0.1em;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: inherit;
+}
+.menu-btn:hover {
+  background: linear-gradient(135deg, rgba(200, 162, 90, 0.3), rgba(255, 70, 85, 0.2));
+  border-color: var(--gold-tier);
+  transform: translateX(6px);
+  box-shadow: 0 0 20px rgba(200, 162, 90, 0.3);
+}
+
+/* ============= 设置模态框 ============= */
+.settings-content {
+  width: min(560px, 92vw);
+  text-align: left;
+  border: 2px solid var(--border);
+}
+.settings-content h2 {
+  color: var(--gold-tier);
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+}
+.settings-section { margin-bottom: 1.5rem; }
+.settings-label {
+  display: block; color: var(--text-primary);
+  font-size: 0.95rem; margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+.settings-hint {
+  color: var(--text-secondary);
+  font-size: 0.8rem; margin-top: 0.4rem;
+}
+.version-tabs, .difficulty-tabs {
+  display: flex; gap: 0.5rem; flex-wrap: wrap;
+}
+.version-tab, .diff-tab {
+  flex: 1; min-width: 80px;
+  padding: 0.6rem 1rem;
+  background: var(--bg-darker);
+  border: 1.5px solid var(--border);
+  color: var(--text-secondary);
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: inherit;
+  font-size: 0.9rem;
+}
+.version-tab.active, .diff-tab.active {
+  background: linear-gradient(135deg, var(--gold), #f0d080);
+  color: var(--bg-dark);
+  border-color: var(--gold-tier);
+  font-weight: 700;
+}
+.version-tab:hover, .diff-tab:hover {
+  border-color: var(--gold);
+  color: var(--text-primary);
+}
+.settings-footer {
+  display: flex; gap: 0.8rem; justify-content: flex-end;
+  margin-top: 2rem; padding-top: 1.2rem;
+  border-top: 1px solid var(--border);
+}
+.btn-secondary {
+  padding: 0.6rem 1.4rem;
+  background: transparent;
+  color: var(--text-secondary);
+  border: 1.5px solid var(--border);
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: inherit;
+}
+.btn-secondary:hover { color: var(--text-primary); border-color: var(--text-secondary); }
+
+/* ============= 档案模态框 ============= */
+.profile-content {
+  width: min(420px, 92vw);
+  border: 2px solid var(--border);
+}
+.profile-content h2 {
+  color: var(--gold-tier);
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+}
+.profile-data { display: flex; flex-direction: column; gap: 0.6rem; }
+.profile-row {
+  display: flex; justify-content: space-between;
+  padding: 0.5rem 0.8rem;
+  background: var(--bg-darker);
+  border-radius: 4px;
+  color: var(--text-primary);
+}
+.profile-row b { color: var(--gold-tier); }
+
+.footer-tip { color: #5a5468; margin-top: 3rem; font-size: 0.85rem; letter-spacing: 0.1em; }
 
 /* ============= 选人页 ============= */
 .bg-champselect {
