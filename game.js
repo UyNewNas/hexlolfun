@@ -22,8 +22,14 @@ async function init() {
     const ally = params.get('ally') || 'medium';
     const enemy = params.get('enemy') || 'medium';
     await loadGameData();
+    // 读取设置中的 hex 版本
+    const settings = (() => { try { return JSON.parse(sessionStorage.getItem('hexlolfun_settings') || '{}'); } catch(e){ return {}; } })();
     game = new Game(playerId, ally, enemy);
-    game.processRound('');
+    game.hex_version = settings.hexVersion || '1.0';
+    // 开局先派出一波小兵，让玩家看到兵线
+    game.minion_wave_counter = 3;  // 强制下次 _spawnMinions 立即触发
+    game._spawnMinions();
+    game._processMinionMovement();
     persist();
   }
   state = game.serialize();
