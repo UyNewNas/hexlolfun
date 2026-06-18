@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>选择英雄 — 海克斯大乱斗</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-champselect">
+<div class="champselect">
+  <header class="cs-header">
+    <h1>选择英雄</h1>
+    <div class="cs-search">
+      <input id="search" type="text" placeholder="搜索英雄..." />
+      <div id="filter-tags"></div>
+    </div>
+  </header>
+
+  <main class="cs-main">
+    <div class="cs-grid" id="champ-grid"></div>
+  </main>
+
+  <footer class="cs-footer">
+    <div class="cs-selected">
+      <div class="cs-selected-label">已选英雄：</div>
+      <div id="selected-info" class="cs-selected-info">
+        <span class="cs-empty">请从上方网格选择一名英雄</span>
+      </div>
+    </div>
+    <div class="cs-difficulty">
+      <label>友方AI：</label>
+      <select id="ally-diff">
+        <option value="easy">简单</option>
+        <option value="medium" selected>中等</option>
+        <option value="hard">困难</option>
+        <option value="expert">专家</option>
+      </select>
+      <label>敌方AI：</label>
+      <select id="enemy-diff">
+        <option value="easy">简单</option>
+        <option value="medium" selected>中等</option>
+        <option value="hard">困难</option>
+        <option value="expert">专家</option>
+      </select>
+    </div>
+    <button id="start-btn" class="btn-primary" disabled>开始游戏</button>
+  </footer>
+</div>
+
+<script src="game-core.js?v=2"></script>
+<script src="champselect.js?v=2"></script>
+</body>
+</html>
