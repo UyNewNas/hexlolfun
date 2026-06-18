@@ -14,7 +14,7 @@
   <nav class="main-menu">
     <button class="menu-btn" onclick="goStart()">▶ 开始游戏</button>
     <button class="menu-btn" onclick="openSettings()">⚙ 设置</button>
-    <button class="menu-btn" onclick="openProfile()">📂 查看档案</button>
+    <button class="menu-btn" onclick="openDatabase()">📚 游戏数据库</button>
     <button class="menu-btn" onclick="exitGame()">⏏ 退出游戏</button>
   </nav>
 
@@ -36,34 +36,6 @@
       <p class="settings-hint" id="version-hint">选择 1.0 经典版海克斯池</p>
     </div>
 
-    <div class="settings-section">
-      <label class="settings-label">游戏速度</label>
-      <div class="difficulty-tabs">
-        <button class="diff-tab" data-speed="slow" onclick="setSpeed('slow', this)">慢速</button>
-        <button class="diff-tab active" data-speed="normal" onclick="setSpeed('normal', this)">普通</button>
-        <button class="diff-tab" data-speed="fast" onclick="setSpeed('fast', this)">快速</button>
-      </div>
-    </div>
-
-    <div class="settings-section">
-      <label class="settings-label">默认难度</label>
-      <div class="difficulty-tabs">
-        <button class="diff-tab" data-diff="easy" onclick="setDefaultDiff('easy', this)">简单</button>
-        <button class="diff-tab active" data-diff="medium" onclick="setDefaultDiff('medium', this)">中等</button>
-        <button class="diff-tab" data-diff="hard" onclick="setDefaultDiff('hard', this)">困难</button>
-        <button class="diff-tab" data-diff="expert" onclick="setDefaultDiff('expert', this)">专家</button>
-      </div>
-    </div>
-
-    <div class="settings-section">
-      <label class="settings-label">
-        <input type="checkbox" id="setting-sound" checked> 启用音效
-      </label>
-      <label class="settings-label">
-        <input type="checkbox" id="setting-bush" checked> 显示草丛提示
-      </label>
-    </div>
-
     <div class="settings-footer">
       <button class="btn-primary" onclick="saveSettings()">保存</button>
       <button class="btn-secondary" onclick="closeSettings()">取消</button>
@@ -71,30 +43,41 @@
   </div>
 </div>
 
-<!-- 档案面板 -->
-<div id="profile-modal" class="modal hidden">
-  <div class="modal-content profile-content">
-    <h2>📂 玩家档案</h2>
-    <div id="profile-data" class="profile-data">
-      <p style="text-align:center;color:#888">暂无游戏记录</p>
+<!-- 游戏数据库面板 -->
+<div id="db-modal" class="modal hidden">
+  <div class="modal-content db-content">
+    <h2>📚 游戏数据库</h2>
+
+    <div class="db-tabs">
+      <button class="db-tab active" data-tab="champions" onclick="switchDbTab('champions', this)">英雄</button>
+      <button class="db-tab" data-tab="items" onclick="switchDbTab('items', this)">装备</button>
+      <button class="db-tab" data-tab="hexes" onclick="switchDbTab('hexes', this)">海克斯</button>
     </div>
+
+    <div class="db-search">
+      <input type="text" id="db-search" placeholder="搜索..." oninput="filterDb()">
+    </div>
+
+    <div class="db-content-area" id="db-content-area">
+      <p style="text-align:center;color:#888;padding:2rem">加载中...</p>
+    </div>
+
     <div class="settings-footer">
-      <button class="btn-secondary" onclick="closeProfile()">关闭</button>
+      <button class="btn-secondary" onclick="closeDatabase()">关闭</button>
     </div>
   </div>
 </div>
 
 <script>
 const SETTINGS_KEY = 'hexlolfun_settings';
-const STATS_KEY = 'hexlolfun_stats';
 
 const DEFAULT_SETTINGS = {
   hexVersion: '1.0',
-  gameSpeed: 'normal',
-  defaultDiff: 'medium',
-  sound: true,
-  showBush: true,
 };
+
+let settings = loadSettings();
+let dbData = { champions: null, items: null, hexes: null };
+let currentDbTab = 'champions';
 
 function loadSettings() {
   try {
@@ -108,20 +91,10 @@ function saveSettingsToStorage(s) {
   localStorage.setItem(SETTINGS_KEY, JSON.stringify(s));
 }
 
-let settings = loadSettings();
-
 function applySettingsToUI() {
   document.querySelectorAll('.version-tab').forEach(b => {
     b.classList.toggle('active', b.dataset.version === settings.hexVersion);
   });
-  document.querySelectorAll('.diff-tab[data-speed]').forEach(b => {
-    b.classList.toggle('active', b.dataset.speed === settings.gameSpeed);
-  });
-  document.querySelectorAll('.diff-tab[data-diff]').forEach(b => {
-    b.classList.toggle('active', b.dataset.diff === settings.defaultDiff);
-  });
-  document.getElementById('setting-sound').checked = settings.sound;
-  document.getElementById('setting-bush').checked = settings.showBush;
   updateVersionHint();
 }
 
@@ -141,18 +114,6 @@ function setHexVersion(v, btn) {
   updateVersionHint();
 }
 
-function setSpeed(s, btn) {
-  settings.gameSpeed = s;
-  document.querySelectorAll('.diff-tab[data-speed]').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-}
-
-function setDefaultDiff(d, btn) {
-  settings.defaultDiff = d;
-  document.querySelectorAll('.diff-tab[data-diff]').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-}
-
 function openSettings() {
   applySettingsToUI();
   document.getElementById('settings-modal').classList.remove('hidden');
@@ -163,54 +124,103 @@ function closeSettings() {
 }
 
 function saveSettings() {
-  settings.sound = document.getElementById('setting-sound').checked;
-  settings.showBush = document.getElementById('setting-bush').checked;
   saveSettingsToStorage(settings);
   closeSettings();
-  alert('设置已保存！');
 }
 
-function openProfile() {
-  const stats = loadStats();
-  const data = document.getElementById('profile-data');
-  if (stats.games === 0) {
-    data.innerHTML = '<p style="text-align:center;color:#888">暂无游戏记录</p>';
-  } else {
-    data.innerHTML = `
-      <div class="profile-row"><span>总场次</span><b>${stats.games}</b></div>
-      <div class="profile-row"><span>胜场</span><b>${stats.wins}</b></div>
-      <div class="profile-row"><span>负场</span><b>${stats.losses}</b></div>
-      <div class="profile-row"><span>胜率</span><b>${(stats.wins / stats.games * 100).toFixed(1)}%</b></div>
-      <div class="profile-row"><span>总击杀</span><b>${stats.kills}</b></div>
-      <div class="profile-row"><span>总死亡</span><b>${stats.deaths}</b></div>
-      <div class="profile-row"><span>最爱英雄</span><b>${stats.favChamp || '—'}</b></div>
-    `;
+async function openDatabase() {
+  document.getElementById('db-modal').classList.remove('hidden');
+  await loadDbIfNeeded();
+  renderDb();
+}
+
+function closeDatabase() {
+  document.getElementById('db-modal').classList.add('hidden');
+}
+
+async function switchDbTab(tab, btn) {
+  currentDbTab = tab;
+  document.querySelectorAll('.db-tab').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById('db-search').value = '';
+  await loadDbIfNeeded();
+  renderDb();
+}
+
+async function loadDbIfNeeded() {
+  if (currentDbTab === 'champions' && !dbData.champions) {
+    const r = await fetch('data/champions.json');
+    dbData.champions = await r.json();
+  } else if (currentDbTab === 'items' && !dbData.items) {
+    const r = await fetch('data/equipments.json');
+    dbData.items = await r.json();
+  } else if (currentDbTab === 'hexes' && !dbData.hexes) {
+    const r = await fetch('data/hex.json');
+    dbData.hexes = await r.json();
   }
-  document.getElementById('profile-modal').classList.remove('hidden');
 }
 
-function closeProfile() {
-  document.getElementById('profile-modal').classList.add('hidden');
-}
+function filterDb() { renderDb(); }
 
-function loadStats() {
-  try {
-    return JSON.parse(localStorage.getItem(STATS_KEY) || '{}');
-  } catch (e) {
-    return { games: 0, wins: 0, losses: 0, kills: 0, deaths: 0, favChamp: '' };
+function renderDb() {
+  const area = document.getElementById('db-content-area');
+  const q = (document.getElementById('db-search').value || '').toLowerCase();
+  if (currentDbTab === 'champions') {
+    const list = (dbData.champions || []).filter(c => !q || c.name.toLowerCase().includes(q) || c.id.toLowerCase().includes(q));
+    area.innerHTML = `<div class="db-grid">${list.slice(0, 200).map(c => `
+      <div class="db-card">
+        <img class="db-icon" src="${c.square_url}" onerror="this.style.display='none'">
+        <div class="db-name">${c.name}</div>
+        <div class="db-meta">${c.title}</div>
+        <div class="db-stats">
+          <span>❤️ ${c.base_hp}</span>
+          <span>🗡 ${c.base_ad}</span>
+          <span>🛡 ${c.base_armor}</span>
+        </div>
+        <div class="db-tags">${(c.tags || []).map(t => `<span class="db-tag">${t}</span>`).join('')}</div>
+      </div>`).join('')}</div>`;
+  } else if (currentDbTab === 'items') {
+    const raw = dbData.items || {};
+    const list = (raw.all || []).filter(it => !q || it[0].toLowerCase().includes(q));
+    area.innerHTML = `<div class="db-list">${list.map(it => {
+      const [name, price, category, stats] = it;
+      return `<div class="db-list-item">
+        <div class="db-list-head">
+          <span class="db-name">${name}</span>
+          <span class="db-price">${price}G</span>
+        </div>
+        <div class="db-meta">${category}</div>
+        <div class="db-stats-text">${formatStats(stats || {})}</div>
+      </div>`;
+    }).join('')}</div>`;
+  } else if (currentDbTab === 'hexes') {
+    const hex = dbData.hexes || {};
+    let html = '';
+    for (const tier of ['棱彩', '黄金', '白银']) {
+      const list = (hex[tier] || []).filter(h => !q || h.toLowerCase().includes(q));
+      if (list.length) {
+        html += `<div class="db-hex-section"><h3 style="color:${tier === '棱彩' ? '#d946ef' : tier === '黄金' ? '#f0b232' : '#c0c0c0'}">${tier}海克斯 (${list.length})</h3><div class="db-hex-list">${list.map(h => `<div class="db-hex">${h}</div>`).join('')}</div></div>`;
+      }
+    }
+    area.innerHTML = html || '<p style="text-align:center;color:#888">未找到</p>';
   }
 }
 
-function goStart() {
-  // 把设置参数写入 sessionStorage 供后续页面读取
+function formatStats(s) {
+  const labels = { ad: '🗡AD', ap: '✨AP', hp: '❤️HP', armor: '🛡护甲', mr: '🔮魔抗', attack_speed: '⚡攻速', crit: '💥暴击', ms: '👟移速' };
+  return Object.entries(s).map(([k, v]) => `${labels[k] || k}: +${v}`).join(' · ');
+}
+
+function goStart(mode) {
+  // 模式: 'player' = 玩家参与，'spectate' = 模拟对战
   sessionStorage.setItem('hexlolfun_settings', JSON.stringify(settings));
-  location.href = 'champselect.html';
+  sessionStorage.setItem('hexlolfun_mode', mode);
+  location.href = 'champselect.html?mode=' + mode;
 }
 
 function exitGame() {
   if (confirm('确定要退出游戏吗？')) {
     window.close();
-    // 浏览器可能不允许 close，再给出提示
     setTimeout(() => {
       if (!document.webkitHidden) {
         document.body.innerHTML = '<div style="color:#fff;text-align:center;padding-top:30vh;font-family:sans-serif"><h1>已退出</h1><p>感谢游玩《海克斯大乱斗》！</p></div>';
@@ -219,7 +229,6 @@ function exitGame() {
   }
 }
 
-// 默认显示
 applySettingsToUI();
 </script>
 </body>
