@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>海克斯大乱斗 - 战斗中</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=4">
 </head>
 <body class="bg-arena">
 <div id="app">
@@ -31,8 +31,12 @@
     <!-- 中央：地图+日志 -->
     <main class="center-panel">
       <div class="map-container">
-        <div class="lane-strip" id="lane-strip"></div>
-        <div class="map" id="map"></div>
+        <div class="map-grid" id="map-grid">
+          <div class="map-row map-row-blue" id="map-row-blue"></div>
+          <div class="map-row map-row-mid"  id="map-row-mid"></div>
+          <div class="map-row map-row-red"  id="map-row-red"></div>
+        </div>
+        <div class="map-icons" id="map"></div>
       </div>
       <div class="log-container">
         <h3>📋 战报</h3>

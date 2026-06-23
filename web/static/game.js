@@ -168,7 +168,8 @@ function renderMap() {
 
   const playerPos = state.champions.find(c => c.id === state.player_id).position;
 
-  const html = positions.map((p, i) => {
+  const renderIconsRow = (row) => row.map(i => {
+    const p = positions[i];
     const isPlayer = i === playerPos;
     let icons = '';
     for (const c of p.heroes) {
@@ -201,24 +202,40 @@ function renderMap() {
     }
     if (p.minions_blue > 4) icons += `<span style="color:var(--blue-team);font-size:0.7rem">+${p.minions_blue - 4}</span>`;
     if (p.minions_red > 4) icons += `<span style="color:var(--red-team);font-size:0.7rem">+${p.minions_red - 4}</span>`;
-
     return `<div class="lane-pos ${isPlayer ? 'player' : ''}">${icons || '<span style="color:#333;font-size:0.7rem">空</span>'}</div>`;
   }).join('');
 
+  const html =
+    `<div class="map-row map-row-blue">${renderIconsRow(MAP_ROW_BLUE)}</div>` +
+    `<div class="map-row map-row-mid">${renderIconsRow(MAP_ROW_MID)}</div>` +
+    `<div class="map-row map-row-red">${renderIconsRow(MAP_ROW_RED)}</div>`;
   document.getElementById('map').innerHTML = html;
 }
 
+// 地图分 3 行：
+//   蓝方半场：0-5 (6 格：基地→外草丛)
+//   河道：6-9 (4 格：外塔/草丛①/草丛②/外塔)
+//   红方半场：10-15 (6 格：外草丛→基地)
+const MAP_ROW_BLUE = [0, 1, 2, 3, 4, 5];
+const MAP_ROW_MID  = [6, 7, 8, 9];
+const MAP_ROW_RED  = [10, 11, 12, 13, 14, 15];
+
 function renderLaneStrip() {
   const playerPos = state.champions.find(c => c.id === state.player_id).position;
-  const html = LANE_NAMES.map((name, i) => {
+  const renderRow = (row) => row.map(i => {
     let cls = 'lane-cell';
     if (BUSH_POS.includes(i)) cls += ' bush';
     if (BLUE_TOWER_POS.includes(i)) cls += ' tower-blue';
     if (RED_TOWER_POS.includes(i)) cls += ' tower-red';
+    if (MAP_ROW_BLUE.includes(i)) cls += ' side-blue';
+    if (MAP_ROW_RED.includes(i)) cls += ' side-red';
+    if (MAP_ROW_MID.includes(i)) cls += ' side-mid';
     if (i === playerPos) cls += ' player-here';
-    return `<div class="${cls}">${i}. ${name}</div>`;
+    return `<div class="${cls}">${i}. ${LANE_NAMES[i]}</div>`;
   }).join('');
-  document.getElementById('lane-strip').innerHTML = html;
+  document.getElementById('map-row-blue').innerHTML = renderRow(MAP_ROW_BLUE);
+  document.getElementById('map-row-mid').innerHTML = renderRow(MAP_ROW_MID);
+  document.getElementById('map-row-red').innerHTML = renderRow(MAP_ROW_RED);
 }
 
 function renderLog() {
